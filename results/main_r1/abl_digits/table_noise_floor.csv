@@ -1,0 +1,9 @@
+﻿model,setup,pairs,paraphrase_disagreement
+llama3.1-8b,FC,0,nan
+llama3.1-8b,RM-S1,0,nan
+llama3.1-8b,RM-S2,0,nan
+llama3.1-8b,RM-S3,0,nan
+qwen3-8b,FC,0,nan
+qwen3-8b,RM-S1,0,nan
+qwen3-8b,RM-S2,0,nan
+qwen3-8b,RM-S3,0,nan

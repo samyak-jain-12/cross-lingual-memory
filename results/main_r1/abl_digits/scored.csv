@@ -1,0 +1,1201 @@
+﻿model,item_id,memory_type,answerable,store,query,qv,setup,judge,correct,slot_match,distractor_capture,near_miss_capture,abstained,resp_lang,gold_rank,response
+llama3.1-8b,E001,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१५ मार्च को
+llama3.1-8b,E001,event,True,hi,hi,q1,FC,INCORRECT,0,0,0,0,0,hi,,आपकी बहन की आयु ३५ वर्ष है और आपकी आयु ३२ वर्ष है।
+llama3.1-8b,E001,event,True,hi,hg,q1,FC,INCORRECT,0,0,0,0,0,hi,,मैं आपके पिछले संवाद को याद नहीं कर सकता।
+llama3.1-8b,E002,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने २० फ़रवरी को मॉल के इलेक्ट्रॉनिक्स स्टोर से नया Samsung Galaxy S22 लिया।
+llama3.1-8b,E002,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने 20 फरवरी को नया Samsung Galaxy S22 लिया था।
+llama3.1-8b,E002,event,True,hi,hg,q1,FC,INCORRECT,0,0,0,0,0,hi,,मैंने आपके पिछले संवाद को याद नहीं कर सकता।
+llama3.1-8b,E003,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१० जनवरी
+llama3.1-8b,E003,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर एक वर्कशॉप में हिस्सा लिया था।
+llama3.1-8b,E003,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,"आपके द्वारा बताए गए पिछले संवाद के अनुसार, आप १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर एक वर्कशॉप में हिस्सा लिए थे।"
+llama3.1-8b,E004,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,आप २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गए थे।
+llama3.1-8b,E004,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गए थे।
+llama3.1-8b,E004,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गया था।
+llama3.1-8b,E005,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१५ अक्टूबर
+llama3.1-8b,E005,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,१५ अक्टूबर को
+llama3.1-8b,E005,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में ५ किलोमीटर दौड़ लगाई और ब्रेस्ट कैंसर रिसर्च के लिए पैसे जुटाए।
+llama3.1-8b,E006,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,२२ अप्रैल
+llama3.1-8b,E006,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,२२ अप्रैल
+llama3.1-8b,E006,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,२२ अप्रैल
+llama3.1-8b,E007,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,20 अप्रैल
+llama3.1-8b,E007,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,"आपकी साइकिल के गियर अटक रहे थे, इसलिए मैं २० अप्रैल को उसे ट्यून-अप के लिए ले गई थी।"
+llama3.1-8b,E007,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं 20 अप्रैल को अपनी साइकिल के लिए ट्यून-अप के लिए गई थी।
+llama3.1-8b,E008,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,२४ फ़रवरी
+llama3.1-8b,E008,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,२४ फ़रवरी
+llama3.1-8b,E008,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं २४ फ़रवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर गया था।
+llama3.1-8b,E009,event,True,hi,en,q1,FC,INCORRECT,0,0,0,0,0,hi,,आपकी उम्र 32 साल हो गई है।
+llama3.1-8b,E009,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप 12 फरवरी को 32 साल की हो गई।
+llama3.1-8b,E009,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपकी उम्र 12 फरवरी को 32 साल हो गई है।
+llama3.1-8b,E010,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१० अप्रैल को
+llama3.1-8b,E010,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपकी पहली फ़ुल मैराथन १० अप्रैल को पूरी हुई थी।
+llama3.1-8b,E010,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपकी पहली फुल मैराथन १० अप्रैल को पूरी हुई थी।
+llama3.1-8b,E011,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,२७ फ़रवरी
+llama3.1-8b,E011,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं आपको बता सकता हूँ कि आपने अपनी Corolla को २७ फ़रवरी को धोया था।
+llama3.1-8b,E011,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं आपको बता सकता हूँ कि आपने अपनी Toyota Corolla को २७ फ़रवरी को धोया था।
+llama3.1-8b,E012,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,२८ जनवरी
+llama3.1-8b,E012,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने अपना Dell XPS 13 28 जनवरी को प्री-ऑर्डर किया था।
+llama3.1-8b,E012,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके द्वारा 28 जनवरी को Dell XPS 13 का प्री-ऑर्डर करने का उल्लेख किया गया है।
+llama3.1-8b,E013,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके द्वारा बोए गए गेंदे के बीज ३ मार्च को आए थे।
+llama3.1-8b,E013,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके गेंदे के बीज ३ मार्च को आए थे।
+llama3.1-8b,E013,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके द्वारा बोए गए गेंदे के बीज ३ मार्च को आए थे।
+llama3.1-8b,E014,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,20 फ़रवरी से
+llama3.1-8b,E014,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,20 फ़रवरी से।
+llama3.1-8b,E014,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके द्वारा मेरे साथ किए गए 20वें सेशन में आप ने बताया था कि आप 20 फ़रवरी से अपने बेसमेंट में ग्रो लाइट के नीचे घर के अंदर बीज उगा रहे हैं।
+llama3.1-8b,E015,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१४ जून
+llama3.1-8b,E015,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके द्वारा १४ जून को लोकल ट्रैक पर Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।
+llama3.1-8b,E015,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hg,,आपको 14 जून को लोकल ट्रैक पर Turbocharged Tuesdays racing event mein hissa liya tha.
+llama3.1-8b,E016,event,True,hi,en,q1,FC,NO_ANSWER,0,0,0,0,1,hi,,आपके पिछले संवाद में यह उल्लेख नहीं है कि आपने Rack Fest car show में किस तारीख को जाना था।
+llama3.1-8b,E016,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके पिछले संवाद में यह उल्लेख किया गया था कि आप १८ जून को Rack Fest कार शो में गए थे।
+llama3.1-8b,E016,event,True,hi,hg,q1,FC,NO_ANSWER,0,0,0,0,1,hi,,आपके पिछले संवाद में यह नहीं बताया गया था कि आप Rack Fest car show में कब गए थे।
+llama3.1-8b,E017,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,७ मार्च को
+llama3.1-8b,E017,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।
+llama3.1-8b,E017,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,७ मार्च को
+llama3.1-8b,E018,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१७ जुलाई
+llama3.1-8b,E018,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप १७ जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गये थे।
+llama3.1-8b,E018,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके द्वारा मुझे बताया गया है कि आपने १७ जुलाई को एक चैरिटी गोल्फ टूर्नामेंट में गया था।
+llama3.1-8b,E019,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,२५ सितंबर
+llama3.1-8b,E019,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,२५ सितंबर को
+llama3.1-8b,E019,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,२५ सितंबर को
+llama3.1-8b,E020,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,३ जून
+llama3.1-8b,E020,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,३ जून को
+llama3.1-8b,E020,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने आपके साथ ३ जून को एक साथी के घर के आँगन में हुई BBQ पार्टी में गया था।
+llama3.1-8b,E021,event,True,hi,en,q1,FC,INCORRECT,0,0,0,0,0,hi,,१ जनवरी को
+llama3.1-8b,E021,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १० जनवरी को Adidas के नए रनिंग शूज़ लिए।
+llama3.1-8b,E021,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने पहले ही आपको बताया था कि आप अपने Adidas running shoes को 10 जनवरी को खरीदे हैं।
+llama3.1-8b,E022,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१ फ़रवरी
+llama3.1-8b,E022,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १ फ़रवरी को बास्केटबॉल खेलते समय अपने सफ़ेद स्नीकर्स पहने थे।
+llama3.1-8b,E022,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके द्वारा १ फ़रवरी को बास्केटबॉल खेलते समय सफ़ेद स्नीकर्स पहने जाने का उल्लेख किया गया है।
+llama3.1-8b,E023,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके पिछले संवाद में यह बताया गया था कि आपने १५ जनवरी को नया राउटर लिया था।
+llama3.1-8b,E023,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके पिछले संवाद में यह उल्लेख किया गया है कि आप १५ जनवरी को नया राउटर ले आए थे।
+llama3.1-8b,E023,event,True,hi,hg,q1,FC,INCORRECT,0,0,0,0,0,hi,,मैंने पहले ही आपके साथ एक सेशन में बात की थी जिसमें आप ने अपने नए राउटर के बारे में बताया था।
+llama3.1-8b,E024,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १५ अप्रैल को एक पर्सनलाइज़्ड फ़ोटो एल्बम पर बढ़िया डील मिली और उसे ऑर्डर किया था।
+llama3.1-8b,E024,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १५ अप्रैल को फ़ोटो एल्बम ऑर्डर किया था।
+llama3.1-8b,E024,event,True,hi,hg,q1,FC,INCORRECT,0,1,0,0,0,hi,,आपने 15 अप्रैल को एक पर्सनलाइज़्ड फ़ोटो एल्बम पर बढ़िया डील मिली थी और आप उसे अपने सबसे अच्छे दोस्त के जन्मदिन के लिए ऑर्डर किया था।
+llama3.1-8b,E025,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके पिछले संवाद में यह उल्लेख किया गया था कि आपने एक्सचेंज प्रोग्राम के लिए १० फरवरी को आवेदन भेजा था।
+llama3.1-8b,E025,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने एक्सचेंज प्रोग्राम के लिए १० फ़रवरी को आवेदन भेजा था।
+llama3.1-8b,E025,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने आपको 10 फरवरी को एक्सचेंज प्रोग्राम के लिए आवेदन भेजा था।
+llama3.1-8b,E026,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१५ मई को
+llama3.1-8b,E026,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,१५ मई को
+llama3.1-8b,E026,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,रेचल की सगाई १५ मई को हुई।
+llama3.1-8b,E027,event,True,hi,en,q1,FC,NO_ANSWER,0,0,0,0,0,hi,,आपके पिछले संवाद में यह नहीं कहा गया है कि आपने कब प्राइड पेरेड में भाग लिया।
+llama3.1-8b,E027,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप १ मई को अपने शहर की प्राइड परेड में गई थीं।
+llama3.1-8b,E027,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं आपकी मदद करने के लिए खुश होऊंगा! मैंने आपके पिछले संवाद में पढ़ा कि आपने १ मई को अपने शहर की प्राइड परेड में गई थीं।
+llama3.1-8b,E028,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके मेंटर रेचल से १० अप्रैल को मिलने का उल्लेख है।
+llama3.1-8b,E028,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके पिछले संवाद में यह उल्लेख किया गया था कि आप १० अप्रैल को अपनी मेंटर रेचल से मिले थे।
+llama3.1-8b,E028,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके साथ १० अप्रैल को मिले थे।
+llama3.1-8b,E029,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१५ मार्च को
+llama3.1-8b,E029,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १५ मार्च को अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार ख़रीदा था।
+llama3.1-8b,E029,event,True,hi,hg,q1,FC,NO_ANSWER,0,0,0,0,0,hi,,मैं आपके पिछले संवाद को याद नहीं कर सकता।
+llama3.1-8b,E030,event,True,hi,en,q1,FC,INCORRECT,0,0,0,0,0,hi,,१ फरवरी
+llama3.1-8b,E030,event,True,hi,hi,q1,FC,INCORRECT,0,0,0,0,0,hi,,आपने १ मई को एक १-बेडरूम कॉन्डो देखा था।
+llama3.1-8b,E030,event,True,hi,hg,q1,FC,NO_ANSWER,0,0,0,0,0,hi,,मैं आपको बता नहीं सकता क्योंकि यह जानकारी पिछले संवाद में नहीं थी।
+llama3.1-8b,E031,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,२२ जनवरी
+llama3.1-8b,E031,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,"आपके द्वारा देखे गए घर का पता ओकवुड इलाक़े में एक ख़ूबसूरत ३-बेडरूम बंगला था, जिसे आपने २२ जनवरी को देखा था।"
+llama3.1-8b,E031,event,True,hi,hg,q1,FC,INCORRECT,0,0,0,0,0,hi,,मैं आपके पिछले संवाद को याद नहीं कर सकता।
+llama3.1-8b,E032,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,२५ फ़रवरी
+llama3.1-8b,E032,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने २५ फ़रवरी को ब्रुकसाइड इलाक़े में एक ३-बेडरूम टाउनहाउस पर ऑफ़र दिया था।
+llama3.1-8b,E032,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने आपके पिछले संवाद में पढ़ा कि आपने २५ फ़रवरी को ब्रुकसाइड इलाक़े में एक ३-बेडरूम टाउनहाउस पर ऑफ़र दिया था।
+llama3.1-8b,E033,event,True,hi,en,q1,FC,NO_ANSWER,0,0,0,0,0,hi,,आपके पिछले संवाद में यह विवरण नहीं था।
+llama3.1-8b,E033,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने 15 फरवरी को सोसाइटी पूल वाला 2-बेडरूम कॉन्डो देखा था।
+llama3.1-8b,E033,event,True,hi,hg,q1,FC,NO_ANSWER,0,0,0,0,0,hi,,मैं आपकी पिछली बातचीत को याद नहीं कर सकता।
+llama3.1-8b,E034,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१ फ़रवरी
+llama3.1-8b,E034,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १ फ़रवरी को सीडर क्रीक वाली प्रॉपर्टी देखी थी।
+llama3.1-8b,E034,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके द्वारा १ फ़रवरी को सीडर क्रीक वाला घर देखा था।
+llama3.1-8b,E035,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,३ मार्च को
+llama3.1-8b,E035,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप ३ मार्च को आर्ट गैलरी में 'The Evolution of Street Art' नाम के एक लेक्चर में गई थीं।
+llama3.1-8b,E035,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आप ३ मार्च को आर्ट गैलरी में 'The Evolution of Street Art' नाम के एक लेक्चर में गई थीं।
+llama3.1-8b,E036,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१० फ़रवरी
+llama3.1-8b,E036,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप १० फ़रवरी को 'Women in Art' प्रदर्शनी में गए थे।
+llama3.1-8b,E036,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आप १० फरवरी को 'Women in Art' प्रदर्शनी में गए थे।
+llama3.1-8b,E037,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१७ फ़रवरी
+llama3.1-8b,E037,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,१७ फ़रवरी
+llama3.1-8b,E037,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,१७ फ़रवरी
+llama3.1-8b,E038,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,आपका रिमोट शटर रिलीज़ १० फ़रवरी को आया था।
+llama3.1-8b,E038,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,१० फ़रवरी
+llama3.1-8b,E038,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपका रिमोट शटर रिलीज़ १० फ़रवरी को आया था।
+llama3.1-8b,E039,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,२ मार्च को
+llama3.1-8b,E039,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,२ मार्च को
+llama3.1-8b,E039,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपकी रोड बाइक की चेन को २ मार्च को चेन साफ़ करके तेल लगाने के बाद से बहुत अच्छी चल रही है।
+llama3.1-8b,E040,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१० मार्च को
+llama3.1-8b,E040,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,१० मार्च को
+llama3.1-8b,E040,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने आपके पिछले संवाद में पढ़ा कि आपने १० मार्च को Pedal Power में अपनी रोड बाइक की सर्विस करवाई थी।
+llama3.1-8b,E041,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,२० जनवरी को
+llama3.1-8b,E041,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,"आपने २० जनवरी को एक स्थानीय पशु आश्रय के लिए $२,००० जुटाने में मदद की।"
+llama3.1-8b,E041,event,True,hi,hg,q1,FC,INCORRECT,0,0,0,0,0,hi,,"मैंने आपके साथ 20 से अधिक सत्रों में बात की है, लेकिन मैं आपके प्रश्न का उत्तर नहीं दे सकता क्योंकि यह पिछले सत्रों में चर्चा किए गए विषय से संबंधित नहीं है।"
+llama3.1-8b,E042,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,२४ सितंबर
+llama3.1-8b,E042,event,True,hi,hi,q1,FC,INCORRECT,0,1,0,0,0,hi,,आपने २४ सितंबर को डिज़्नीलैंड में Mickey's Halloween Party के दौरान Space Mountain: Ghost Galaxy की तीन बार सवारी की।
+llama3.1-8b,E042,event,True,hi,hg,q1,FC,INCORRECT,0,0,0,0,0,hi,,मैं आपके पिछले संवाद को याद नहीं कर सकता।
+llama3.1-8b,E043,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,८ अक्टूबर को
+llama3.1-8b,E043,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने ८ अक्टूबर को Knott's Berry Farm में Xcelerator रोलरकोस्टर की सवारी की थी।
+llama3.1-8b,E043,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,8 अक्टूबर
+llama3.1-8b,E044,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१५ अक्टूबर
+llama3.1-8b,E044,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १५ अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy रोलरकोस्टर की सवारी की।
+llama3.1-8b,E044,event,True,hi,hg,q1,FC,INCORRECT,0,0,0,0,0,hi,,"मुझे खेद है, लेकिन मैं आपके पिछले संवाद को याद नहीं कर सकता।"
+llama3.1-8b,E045,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,२२ फ़रवरी
+llama3.1-8b,E045,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप २२ फ़रवरी को एक स्थानीय स्टूडियो में एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थीं।
+llama3.1-8b,E045,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने २२ फ़रवरी को एक स्थानीय स्टूडियो में एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।
+llama3.1-8b,E046,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,१२ दिसंबर को
+llama3.1-8b,E046,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप १२ दिसंबर को अपने घर के पास एक स्टूडियो में आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गये थे।
+llama3.1-8b,E046,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आप १२ दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गये थे।
+llama3.1-8b,E047,event,True,hi,en,q1,FC,NO_ANSWER,0,0,0,0,0,hi,,आपके पिछले संवाद में यह विवरण नहीं है।
+llama3.1-8b,E047,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप १० अप्रैल को सार्वजनिक पुस्तकालय में सतत विकास पर एक लेक्चर में गई थीं।
+llama3.1-8b,E047,event,True,hi,hg,q1,FC,INCORRECT,0,0,1,0,0,hi,,आपके दोस्त २४ अप्रैल को जलवायु पर एक बातचीत में गई थीं।
+llama3.1-8b,E048,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके पिछले संवाद में यह उल्लेख किया गया था कि आपने 15 मई को किसान बाजार में अपने घर के बगीचे की ताज़ी ऑर्गेनिक जड़ी-बूटियों के १२ गुच्छे बेचे।
+llama3.1-8b,E048,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके घर के बग़ीचे की ताज़ी ऑर्गेनिक जड़ी-बूटियों के १२ गुच्छे १५ मई को किसान बाज़ार में बेचे गए।
+llama3.1-8b,E048,event,True,hi,hg,q1,FC,INCORRECT,0,0,0,0,0,hi,,मुझे लगता है कि आपका प्रश्न पिछले संवाद से संबंधित नहीं है।
+llama3.1-8b,E049,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You met your old colleague Rachel at the TechConnect conference on 10 February.
+llama3.1-8b,E049,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके साथ १० फ़रवरी को मिली थी।
+llama3.1-8b,E049,event,True,hi,hg,q1,FC,INCORRECT,0,0,0,0,0,hg,,आपके साथ 10वें सत्र में TechConnect conference mein apni purani colleague Rachel se milne ka vishay aaya tha.
+llama3.1-8b,E050,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,hi,,आपकी कार की सर्विस १० फरवरी को करवाई गई थी।
+llama3.1-8b,E050,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपकी पिछली बातचीत में यह उल्लेख किया गया था कि आपने १० फरवरी को अपनी कार की सर्विस करवाई थी।
+llama3.1-8b,E050,event,True,hi,hg,q1,FC,INCORRECT,0,0,1,0,0,hi,,आपके पापा ने २८ फ़रवरी को अपनी कार की सर्विस करवाई थी।
+llama3.1-8b,E001,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपकी कार की सर्विस के लिए पहली बार १५ मार्च को गया था।
+llama3.1-8b,E001,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You had your car serviced for the first time on March 15th.
+llama3.1-8b,E001,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपकी कार की सर्विस के लिए पहली बार १५ मार्च को गया था।
+llama3.1-8b,E001,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १५ मार्च को पहली बार अपनी कार की सर्विस करवाई थी।
+llama3.1-8b,E001,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपकी पहली कार सर्विस 15 मार्च को हुई थी।
+llama3.1-8b,E001,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १५ मार्च को अपनी कार की सर्विस करवाई थी।
+llama3.1-8b,E001,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १५ मार्च को पहली बार अपनी कार की सर्विस करवाई थी।
+llama3.1-8b,E001,event,True,hi,hg,q1,RM-S2,NO_ANSWER,0,0,0,0,0,hg,1,Maine apne previous conversations se yeh nahin jaanta ki aapne apni car ki service kab karwayi thi.
+llama3.1-8b,E001,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १५ मार्च को अपनी कार की सर्विस करवाई थी।
+llama3.1-8b,E002,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपको २० फ़रवरी को नया Samsung Galaxy S२२ मिला था।
+llama3.1-8b,E002,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You bought a new Samsung Galaxy S22 from the electronics store at the mall on February 20.
+llama3.1-8b,E002,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने २० फ़रवरी को नया Samsung Galaxy S२२ लिया था।
+llama3.1-8b,E002,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपको २० फ़रवरी को नया Samsung Galaxy S२२ लिया था।
+llama3.1-8b,E002,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने अपना Samsung Galaxy S22 20 फरवरी को खरीदा था।
+llama3.1-8b,E002,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने अपना Samsung Galaxy S22 २० फ़रवरी को लिया था।
+llama3.1-8b,E002,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने आपके साथ एक बातचीत की थी जिसमें आप 20 फरवरी को नया Samsung Galaxy S22 लेने की बात कही थी।
+llama3.1-8b,E002,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne apna Samsung Galaxy S22 20 February ko liya tha.
+llama3.1-8b,E002,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने २० फ़रवरी को नया Samsung Galaxy S22 लिया था।
+llama3.1-8b,E003,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर एक वर्कशॉप में हिस्सा लिया था।
+llama3.1-8b,E003,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the workshop on 'Effective Communication at the Workplace' on January 10.
+llama3.1-8b,E003,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर एक वर्कशॉप में हिस्सा लिया था।
+llama3.1-8b,E003,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर एक वर्कशॉप में हिस्सा लिया।
+llama3.1-8b,E003,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 10 जनवरी को 'कार्यस्थल पर प्रभावी संवाद' वाली वर्कशॉप में गई थीं।
+llama3.1-8b,E003,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर एक वर्कशॉप में हिस्सा लिया।
+llama3.1-8b,E003,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर एक वर्कशॉप में हिस्सा लिया था।
+llama3.1-8b,E003,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aap 10 January ko 'Effective Communication at the Workplace' wali workshop mein gaye the.
+llama3.1-8b,E003,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' वाले वर्कशॉप में गई थीं।
+llama3.1-8b,E004,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गये थे।
+llama3.1-8b,E004,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the Holi celebration at your local temple on 26 February.
+llama3.1-8b,E004,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गया था।
+llama3.1-8b,E004,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गये थे।
+llama3.1-8b,E004,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 26 फरवरी को अपने यहाँ के मंदिर में होली के उत्सव में गये थे।
+llama3.1-8b,E004,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गए थे।
+llama3.1-8b,E004,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गया था।
+llama3.1-8b,E004,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aap 26 February ko apne local temple mein Holi festival ke liye gaye the.
+llama3.1-8b,E004,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गये थे।
+llama3.1-8b,E005,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में ५ किलोमीटर दौड़ लगाई।
+llama3.1-8b,E005,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You ran in the 'Run for the Cure' event on October 15th.
+llama3.1-8b,E005,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में ५ किलोमीटर दौड़ लगाई।
+llama3.1-8b,E005,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में ५ किलोमीटर दौड़ लगाई थी।
+llama3.1-8b,E005,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपकी 5 किलोमीटर की दौड़ 15 अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में हुई थी।
+llama3.1-8b,E005,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में दौड़ लगाई थी।
+llama3.1-8b,E005,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में ५ किलोमीटर दौड़ लगाई थी।
+llama3.1-8b,E005,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine October 15th ko 5 kilometer ki run ki thi.
+llama3.1-8b,E005,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में ५ किलोमीटर दौड़ लगाई थी।
+llama3.1-8b,E006,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,२२ अप्रैल को आपकी सबसे अच्छी दोस्त का ३०वाँ जन्मदिन मनाया गया था।
+llama3.1-8b,E006,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,Your best friend's 30th birthday party was on April 22nd.
+llama3.1-8b,E006,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,२२ अप्रैल को मेरी सबसे अच्छी दोस्त का ३०वाँ जन्मदिन मनाया गया था।
+llama3.1-8b,E006,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,२२ अप्रैल को।
+llama3.1-8b,E006,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपकी सबसे अच्छी दोस्त की 30वें जन्मदिन की पार्टी 22 अप्रैल को थी।
+llama3.1-8b,E006,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,२२ अप्रैल को थी।
+llama3.1-8b,E006,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,२२ अप्रैल को मेरी सबसे अच्छी दोस्त का ३०वाँ जन्मदिन मनाया गया था।
+llama3.1-8b,E006,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Meri best friend ki 30th birthday party 22 April ko thi.
+llama3.1-8b,E006,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,उसकी 30वीं जन्मदिन पार्टी 22 अप्रैल को थी।
+llama3.1-8b,E007,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २० अप्रैल को अपनी साइकिल को ट्यून-अप के लिए ले गई थीं।
+llama3.1-8b,E007,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You took your bicycle in for a tune-up on April 20.
+llama3.1-8b,E007,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप ने अपनी साइकिल को २० अप्रैल को ट्यून-अप के लिए ले गई थी।
+llama3.1-8b,E007,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २० अप्रैल को अपनी साइकिल ट्यून-अप के लिए गई थीं।
+llama3.1-8b,E007,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप अपनी साइकिल ट्यून-अप 20 अप्रैल को ले गई थीं।
+llama3.1-8b,E007,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २० अप्रैल को अपनी साइकिल ट्यून-अप के लिए ले गई थीं।
+llama3.1-8b,E007,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं 20 अप्रैल को अपनी साइकिल के लिए ट्यून-अप करवाई थी।
+llama3.1-8b,E007,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne apni cycle tune-up ke liye 20 April ko le gayi thi.
+llama3.1-8b,E007,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २० अप्रैल को अपनी साइकिल के लिए ट्यून-अप करवाई थीं।
+llama3.1-8b,E008,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं २४ फ़रवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर गया था।
+llama3.1-8b,E008,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You went on a guided tour at the History Museum on February 24.
+llama3.1-8b,E008,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं २४ फ़रवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर गया था।
+llama3.1-8b,E008,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं २४ फ़रवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर गया था।
+llama3.1-8b,E008,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 24 फरवरी को हिस्ट्री म्यूज़ियम में गाइडेड टूर पर गए थे।
+llama3.1-8b,E008,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २४ फ़रवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर गए थे।
+llama3.1-8b,E008,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं २४ फ़रवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर गया था।
+llama3.1-8b,E008,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,February 24 ko History Museum mein guided tour pe gaya tha.
+llama3.1-8b,E008,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं २४ फ़रवरी को History Museum में एक गाइडेड टूर पर गया था।
+llama3.1-8b,E009,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १२ फ़रवरी को ३२ साल की हो गई।
+llama3.1-8b,E009,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You turned 32 on February 12th.
+llama3.1-8b,E009,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १२ फ़रवरी को ३२ साल की हो गई।
+llama3.1-8b,E009,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १२ फ़रवरी को ३२ साल की हुई।
+llama3.1-8b,E009,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,3,आप 12 फरवरी को 32 साल की हुई थीं।
+llama3.1-8b,E009,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १२ फ़रवरी को ३२ साल की हुई।
+llama3.1-8b,E009,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १२ फ़रवरी को ३२ साल की हुईं।
+llama3.1-8b,E009,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,3,Aap 12 February ko 32 saal ki hui theen.
+llama3.1-8b,E009,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपकी उम्र 12 फरवरी को 32 साल हुई।
+llama3.1-8b,E010,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपकी पहली फ़ुल मैराथन १० अप्रैल को पूरी हुई थी।
+llama3.1-8b,E010,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You completed your first full marathon on April 10th.
+llama3.1-8b,E010,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपकी पहली फ़ुल मैराथन १० अप्रैल को पूरी हुई थी।
+llama3.1-8b,E010,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपकी पहली फ़ुल मैराथन १० अप्रैल को पूरी हुई थी।
+llama3.1-8b,E010,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपकी पहली फ़ुल मैराथन 10 अप्रैल को पूरी की थी।
+llama3.1-8b,E010,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपकी पहली फ़ुल मैराथन १० अप्रैल को पूरी हुई थी।
+llama3.1-8b,E010,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने अपनी पहली फ़ुल मैराथन १० अप्रैल को पूरी की थी।
+llama3.1-8b,E010,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne apni pehli full marathon 10 April ko complete ki thi.
+llama3.1-8b,E010,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपकी पहली फुल मैराथन १० अप्रैल को पूरी हुई थी।
+llama3.1-8b,E011,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप अपनी Toyota Corolla को २७ फ़रवरी को धोया था।
+llama3.1-8b,E011,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You last washed your Corolla on February 27.
+llama3.1-8b,E011,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने अपनी Toyota Corolla को २७ फ़रवरी को धोया था।
+llama3.1-8b,E011,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने २७ फ़रवरी को अपनी Toyota Corolla को धोया था।
+llama3.1-8b,E011,event,True,hi,hi,q1,RM-S2,CORRECT,1,0,0,0,0,hi,1,आपने अपनी Corolla को फरवरी 27 को धोया था।
+llama3.1-8b,E011,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने अपनी Toyota Corolla को २७ फ़रवरी को धोया था।
+llama3.1-8b,E011,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने आपको बताया था कि आपने अपनी Toyota Corolla को २७ फ़रवरी को धोया था।
+llama3.1-8b,E011,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine February 27 ko aapki Corolla ko dhoya tha.
+llama3.1-8b,E011,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने अपनी मौजूदा Corolla को २७ फ़रवरी को धोया था।
+llama3.1-8b,E012,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने अपने नए Dell XPS १३ के लिए २८ जनवरी को प्री-ऑर्डर किया था।
+llama3.1-8b,E012,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You pre-ordered your Dell XPS 13 on January 28th.
+llama3.1-8b,E012,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने अपने डेल एक्सपीएस १३ को २८ जनवरी को प्री-ऑर्डर किया था।
+llama3.1-8b,E012,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने अपना Dell XPS 13 २८ जनवरी को प्री-ऑर्डर किया था।
+llama3.1-8b,E012,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने अपना Dell XPS 13 28 जनवरी को प्री-ऑर्डर किया था।
+llama3.1-8b,E012,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने अपना Dell XPS 13 २८ जनवरी को प्री-ऑर्डर किया था।
+llama3.1-8b,E012,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने अपना Dell XPS 13 २८ जनवरी को प्री-ऑर्डर किया था।
+llama3.1-8b,E012,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne apne Dell XPS 13 ko 28 January ko pre-order kiya tha.
+llama3.1-8b,E012,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने अपना Dell XPS 13 २८ जनवरी को प्री-ऑर्डर किया था।
+llama3.1-8b,E013,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपके गेंदे के बीज ३ मार्च को आए थे।
+llama3.1-8b,E013,event,True,hi,en,q1,RM-S2,INCORRECT,0,0,0,0,1,en,1,I don't know.
+llama3.1-8b,E013,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपके गेंदे के बीज ३ मार्च को आए थे।
+llama3.1-8b,E013,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपके गेंदे के बीज ३ मार्च को आए थे।
+llama3.1-8b,E013,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपके गेंदे के बीज 3 मार्च को आए थे।
+llama3.1-8b,E013,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपके गेंदे के बीज ३ मार्च को आए थे।
+llama3.1-8b,E013,event,True,hi,hg,q1,RM-S1,NO_ANSWER,0,0,0,0,1,hi,2,"मैंने पहले से कोई जानकारी नहीं है कि आपके पास मेरीगोल्ड के बीज कब आए थे, इसलिए मैं नहीं जानता।"
+llama3.1-8b,E013,event,True,hi,hg,q1,RM-S2,INCORRECT,0,1,0,0,1,hg,1,"Maine aapki pehli baat mein suna hai ki aapne 3rd March ko bean seeds lagaye the, lekin mere paas marigold ke seeds ke baare mein koi jaankari nahin hai."
+llama3.1-8b,E013,event,True,hi,hg,q1,RM-S3,NO_ANSWER,0,0,0,0,1,hi,2,मैं आपके पिछले संवाद में ऐसी जानकारी नहीं मिली है कि आपके पास मेरीगोल्ड के बीज थे।
+llama3.1-8b,E014,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २० फ़रवरी से अपने बेसमेंट में ग्रो लाइट के नीचे घर के अंदर बीज उगा रहे हैं।
+llama3.1-8b,E014,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You started growing seeds indoors under grow lights on February 20.
+llama3.1-8b,E014,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २० फ़रवरी से अपने बेसमेंट में ग्रो लाइट के नीचे घर के अंदर बीज उगा रहे हैं।
+llama3.1-8b,E014,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २० फ़रवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।
+llama3.1-8b,E014,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,2,आप 20 फरवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।
+llama3.1-8b,E014,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २० फ़रवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।
+llama3.1-8b,E014,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप 20 फ़रवरी से अपने बेसमेंट में ग्रो लाइट के नीचे घर के अंदर बीज उगा रहे हैं।
+llama3.1-8b,E014,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aap February 20 se ghar ke andar grow lights ke neeche seeds uga rahe hain.
+llama3.1-8b,E014,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,2,आप २० फ़रवरी से अपने बेसमेंट में ग्रो लाइट के नीचे घर के अंदर बीज उगा रहे हैं।
+llama3.1-8b,E015,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १४ जून को लोकल ट्रैक पर Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया।
+llama3.1-8b,E015,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You participated in the Turbocharged Tuesdays racing event on June 14.
+llama3.1-8b,E015,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १४ जून को लोकल ट्रैक पर Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया।
+llama3.1-8b,E015,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १४ जून को लोकल ट्रैक पर Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।
+llama3.1-8b,E015,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने टर्बोचार्ज्ड ट्यूएसडेज़ रेसिंग इवेंट में 14 जून को हिस्सा लिया था।
+llama3.1-8b,E015,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १४ जून को Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।
+llama3.1-8b,E015,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १४ जून को लोकल ट्रैक पर Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।
+llama3.1-8b,E015,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine June 14 ko Maine Turbocharged Tuesdays racing event mein hissa liya tha.
+llama3.1-8b,E015,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १४ जून को लोकल ट्रैक पर Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।
+llama3.1-8b,E016,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १८ जून को Rack Fest कार शो में गए थे।
+llama3.1-8b,E016,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You went to the Rack Fest car show on June 18th.
+llama3.1-8b,E016,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १८ जून को Rack Fest कार शो में गए थे।
+llama3.1-8b,E016,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १८ जून को Rack Fest कार शो में गये थे।
+llama3.1-8b,E016,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 18 जून को Rack Fest कार शो में गए थे।
+llama3.1-8b,E016,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १८ जून को Rack Fest कार शो में गये थे।
+llama3.1-8b,E016,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने पहले ही बताया है कि मैं १८ जून को Rack Fest कार शो में गया था।
+llama3.1-8b,E016,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine June 18th ko usmein gaya tha.
+llama3.1-8b,E016,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने पहले ही बताया है कि मैं १८ जून को Rack Fest कार शो में गया था।
+llama3.1-8b,E017,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर हुए थे।
+llama3.1-8b,E017,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You volunteered at the Coastal Cleanup event on March 7th.
+llama3.1-8b,E017,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।
+llama3.1-8b,E017,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किए थे।
+llama3.1-8b,E017,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप ने 7 मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।
+llama3.1-8b,E017,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।
+llama3.1-8b,E017,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने आपको याद दिलाया है कि हाल ही में आपने ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।
+llama3.1-8b,E017,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine Coastal Cleanup event mein aap 7 March ko volunteer kiya tha.
+llama3.1-8b,E017,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने आपको याद दिलाया है कि हाल ही में आपने ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।
+llama3.1-8b,E018,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं १७ जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गया था।
+llama3.1-8b,E018,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the charity golf tournament on July 17th.
+llama3.1-8b,E018,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं १७ जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गया था।
+llama3.1-8b,E018,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १७ जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गये थे।
+llama3.1-8b,E018,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 17 जुलाई को चैरिटी गोल्फ़ टूर्नामेंट में गए थे।
+llama3.1-8b,E018,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १७ जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गये थे।
+llama3.1-8b,E018,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं १७ जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गया था।
+llama3.1-8b,E018,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapko July 17th ko main charity golf tournament mein gaye the.
+llama3.1-8b,E018,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं १७ जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गया था।
+llama3.1-8b,E019,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।
+llama3.1-8b,E019,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You volunteered at the Food for Thought Charity Gala on September 25.
+llama3.1-8b,E019,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।
+llama3.1-8b,E019,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।
+llama3.1-8b,E019,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपके द्वारा Food for Thought चैरिटी गाला में 25 सितंबर को वॉलंटियर किया गया था।
+llama3.1-8b,E019,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।
+llama3.1-8b,E019,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।
+llama3.1-8b,E019,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,September 25 ko Maine Food for Thought charity gala mein volunteer kiya tha.
+llama3.1-8b,E019,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।
+llama3.1-8b,E020,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,2,आप ३ जून को अपने एक साथी के घर के आँगन में हुई BBQ पार्टी में गये थे।
+llama3.1-8b,E020,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You went to a BBQ party at your colleague's home on June 3rd.
+llama3.1-8b,E020,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,2,मैं ३ जून को अपने एक साथी के घर के आँगन में हुई BBQ पार्टी में गया था।
+llama3.1-8b,E020,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप ३ जून को अपने साथी के घर के आँगन में हुई BBQ पार्टी में गये थे।
+llama3.1-8b,E020,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपके साथी के घर के आँगन वाली BBQ पार्टी में आप 3 जून को गए थे।
+llama3.1-8b,E020,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप ३ जून को अपने साथी के घर के आँगन में हुई BBQ पार्टी में गये थे।
+llama3.1-8b,E020,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं ३ जून को अपने एक साथी के घर के आँगन में हुई BBQ पार्टी में गया था।
+llama3.1-8b,E020,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne 3rd June ko apne colleague ke ghar ke backyard wali BBQ party mein gaye the.
+llama3.1-8b,E020,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप ३ जून को अपने साथी के घर के आँगन में हुई BBQ पार्टी में गये थे।
+llama3.1-8b,E021,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने हाल ही में १० जनवरी को Adidas के नए रनिंग शूज़ लिए थे।
+llama3.1-8b,E021,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You bought your new Adidas running shoes on 10 January.
+llama3.1-8b,E021,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने हाल ही में १० जनवरी को Adidas के नए रनिंग शूज़ लिए थे।
+llama3.1-8b,E021,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने अपने नए Adidas रनिंग शूज़ १० जनवरी को लिए।
+llama3.1-8b,E021,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 10 जनवरी को अपने नए Adidas रनिंग शूज़ लिए थे।
+llama3.1-8b,E021,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने अपने नए Adidas रनिंग शूज़ १० जनवरी को लिए।
+llama3.1-8b,E021,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने आपको याद किया कि आपने हाल ही में १० जनवरी को Adidas के नए रनिंग शूज़ लिए थे।
+llama3.1-8b,E021,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,1,hg,1,"Maine pata nahi, aapne 10 January ko unhe liye the."
+llama3.1-8b,E021,event,True,hi,hg,q1,RM-S3,NO_ANSWER,0,0,0,0,1,hi,2,मैंने आपके पिछले संवाद में यह जानकारी नहीं पाई कि आप किस तिथि को Adidas के नए रनिंग शूज़ लिए।
+llama3.1-8b,E022,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १ फ़रवरी को बास्केटबॉल खेलते समय सफ़ेद स्नीकर्स पहने थे।
+llama3.1-8b,E022,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You wore your white sneakers to play basketball on 1 February.
+llama3.1-8b,E022,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १ फ़रवरी को बास्केटबॉल खेलते समय अपने सफ़ेद स्नीकर्स पहने थे।
+llama3.1-8b,E022,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १ फ़रवरी को बास्केटबॉल खेलते समय अपने सफ़ेद स्नीकर्स पहने थे।
+llama3.1-8b,E022,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 1 फरवरी को बास्केटबॉल खेले थे।
+llama3.1-8b,E022,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १ फ़रवरी को बास्केटबॉल खेलते समय अपने सफ़ेद स्नीकर्स पहने थे।
+llama3.1-8b,E022,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने आपको पहले बताया था कि आपने १ फ़रवरी को बास्केटबॉल खेलते समय सफ़ेद स्नीकर्स पहने थे।
+llama3.1-8b,E022,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne 1 February ko basketball khela tha.
+llama3.1-8b,E022,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने आपके साथ एक बार बात की थी जब आपने १ फ़रवरी को बास्केटबॉल खेलते समय सफ़ेद स्नीकर्स पहने थे।
+llama3.1-8b,E023,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपको १५ जनवरी को नया राउटर मिला था।
+llama3.1-8b,E023,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You bought a new router on January 15.
+llama3.1-8b,E023,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपको १५ जनवरी को नया राउटर मिला था।
+llama3.1-8b,E023,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपके द्वारा नया राउटर १५ जनवरी को लिया गया था।
+llama3.1-8b,E023,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपका नया राउटर 15 जनवरी को लिया गया था।
+llama3.1-8b,E023,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपके द्वारा नया राउटर १५ जनवरी को लिया गया था।
+llama3.1-8b,E023,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने आपको याद है कि आपने १५ जनवरी को नया राउटर लिया था।
+llama3.1-8b,E023,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine aapko yaad dilaya hai ki aapne naya router 15 January ko liya tha.
+llama3.1-8b,E023,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १५ जनवरी को नया राउटर लिया है।
+llama3.1-8b,E024,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १५ अप्रैल को शटरफ्लाई से एक पर्सनलाइज़्ड फ़ोटो एल्बम का ऑर्डर किया था।
+llama3.1-8b,E024,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You ordered the photo album from Shutterfly on April 15th.
+llama3.1-8b,E024,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १५ अप्रैल को शटरफ्लाई से एक पर्सनलाइज़्ड फ़ोटो एल्बम ऑर्डर किया था।
+llama3.1-8b,E024,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १५ अप्रैल को अपने सबसे अच्छे दोस्त के जन्मदिन के लिए Shutterfly से फ़ोटो एल्बम ऑर्डर किया था।
+llama3.1-8b,E024,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 15 अप्रैल को शटरफ्लाई से फ़ोटो एल्बम ऑर्डर किया था।
+llama3.1-8b,E024,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १५ अप्रैल को Shutterfly से फ़ोटो एल्बम ऑर्डर किया था।
+llama3.1-8b,E024,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने आपको याद दिलाया था कि आपने 15 अप्रैल को एक पर्सनलाइज़्ड फ़ोटो एल्बम ऑर्डर किया था।
+llama3.1-8b,E024,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne Shutterfly se photo album 15 April ko order kiya tha.
+llama3.1-8b,E024,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने आपको बताया था कि आपने १५ अप्रैल को Shutterfly से एक पर्सनलाइज़्ड फ़ोटो एल्बम ऑर्डर किया था।
+llama3.1-8b,E025,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप ने एक्सचेंज प्रोग्राम के लिए १० फ़रवरी को आवेदन भेजा था।
+llama3.1-8b,E025,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You submitted your application to the exchange program on February 10th.
+llama3.1-8b,E025,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप ने एक्सचेंज प्रोग्राम के लिए १० फ़रवरी को आवेदन भेजा था।
+llama3.1-8b,E025,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप ने एक्सचेंज प्रोग्राम के लिए १० फ़रवरी को आवेदन भेजा था।
+llama3.1-8b,E025,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने एक्सचेंज प्रोग्राम के लिए आवेदन 10 फरवरी को भेजा था।
+llama3.1-8b,E025,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप ने एक्सचेंज प्रोग्राम के लिए १० फ़रवरी को आवेदन भेजा था।
+llama3.1-8b,E025,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने एक्सचेंज प्रोग्राम के लिए १० फ़रवरी को आवेदन भेजा था।
+llama3.1-8b,E025,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne Maine exchange program ke liye 10 February ko application bheji thi.
+llama3.1-8b,E025,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने एक्सचेंज प्रोग्राम के लिए १० फ़रवरी को आवेदन भेजा था।
+llama3.1-8b,E026,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,रेचल की सगाई १५ मई को हुई थी।
+llama3.1-8b,E026,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,Your friend Rachel got engaged on May 15th.
+llama3.1-8b,E026,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,रेचल की सगाई १५ मई को हुई थी।
+llama3.1-8b,E026,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,रेचल की सगाई १५ मई को हुई।
+llama3.1-8b,E026,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,रेचल की सगाई 15 मई को हुई थी।
+llama3.1-8b,E026,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,रेचल की सगाई १५ मई को हुई।
+llama3.1-8b,E026,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,रेचल की सगाई १५ मई को हुई थी।
+llama3.1-8b,E026,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Rachel ki engagement 15 May ko hui.
+llama3.1-8b,E026,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,रेचल की सगाई १५ मई को हुई।
+llama3.1-8b,E027,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १ मई को अपने शहर की प्राइड परेड में गई थीं।
+llama3.1-8b,E027,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the Pride Parade on May 1st.
+llama3.1-8b,E027,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १ मई को अपने शहर की प्राइड परेड में गई थीं।
+llama3.1-8b,E027,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १ मई को अपने शहर की प्राइड परेड में गई थीं।
+llama3.1-8b,E027,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 1 मई को प्राइड परेड में गई थीं।
+llama3.1-8b,E027,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १ मई को अपने शहर की प्राइड परेड में गई थीं।
+llama3.1-8b,E027,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं १ मई को अपने शहर की प्राइड परेड में गई थी।
+llama3.1-8b,E027,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main Pride Parade 1 May ko gayi thi.
+llama3.1-8b,E027,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं १ मई को अपने शहर की प्राइड परेड में गई थी।
+llama3.1-8b,E028,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपकी मेंटर रेचल से १० अप्रैल को मिलने की बात हुई थी।
+llama3.1-8b,E028,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You met your mentor Rachel on April 10th.
+llama3.1-8b,E028,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपकी मेंटर रेचल से १० अप्रैल को मिलने की बात आपने पहले ही बताई थी।
+llama3.1-8b,E028,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपकी मेंटर रेचल से १० अप्रैल को मिलना था।
+llama3.1-8b,E028,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपकी मेंटर रेचल से 10 अप्रैल को मिलने की बात आपने पहले बताई थी।
+llama3.1-8b,E028,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपकी मेंटर रेचल से आप १० अप्रैल को मिले थे।
+llama3.1-8b,E028,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० अप्रैल को अपनी मेंटर रेचल से मिले थे।
+llama3.1-8b,E028,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne apni mentor Rachel ko 10 April ko mila tha.
+llama3.1-8b,E028,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० अप्रैल को अपनी मेंटर रेचल से मिले थे।
+llama3.1-8b,E029,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १५ मार्च को अपनी सबसे अच्छी दोस्त के ३०वें जन्मदिन के लिए चाँदी का हार ख़रीदा था।
+llama3.1-8b,E029,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You bought the silver necklace for your best friend's 30th birthday on March 15.
+llama3.1-8b,E029,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १५ मार्च को अपनी सबसे अच्छी दोस्त के ३०वें जन्मदिन के लिए चाँदी का हार ख़रीदा था।
+llama3.1-8b,E029,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार १५ मार्च को ख़रीदा था।
+llama3.1-8b,E029,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार 15 मार्च को खरीदा था।
+llama3.1-8b,E029,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार १५ मार्च को ख़रीदा था।
+llama3.1-8b,E029,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने आपको बताया था कि आपने अपनी सबसे अच्छी दोस्त के ३०वें जन्मदिन के लिए १५ मार्च को चाँदी का हार ख़रीदा था।
+llama3.1-8b,E029,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne apni best friend ke liye silver necklace 15 March ko khareeda.
+llama3.1-8b,E029,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने अपनी सबसे अच्छी दोस्त के ३०वें जन्मदिन के लिए १५ मार्च को सिल्वर नेकलेस ख़रीदा था।
+llama3.1-8b,E030,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० फ़रवरी को एक १-बेडरूम कॉन्डो देखा था।
+llama3.1-8b,E030,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You viewed the 1-bedroom condo near the highway on February 10th.
+llama3.1-8b,E030,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० फ़रवरी को एक १-बेडरूम कॉन्डो देखा था।
+llama3.1-8b,E030,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपको १० फ़रवरी को हाईवे के पास वाला १-बेडरूम कॉन्डो दिखाया गया था।
+llama3.1-8b,E030,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 10 फरवरी को हाईवे के पास वाला 1-बेडरूम कॉन्डो देखा था।
+llama3.1-8b,E030,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १० फ़रवरी को हाईवे के पास वाला १-बेडरूम कॉन्डो देखा था।
+llama3.1-8b,E030,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १० फ़रवरी को एक १-बेडरूम कॉन्डो देखा था।
+llama3.1-8b,E030,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine February 10th ko aapko ek 1-bedroom condo dekha tha.
+llama3.1-8b,E030,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने आपको बताया था कि आपने १० फ़रवरी को एक १-बेडरूम कॉन्डो देखा था।
+llama3.1-8b,E031,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २२ जनवरी को ओकवुड इलाक़े में एक ख़ूबसूरत ३-बेडरूम बंगला देखे थे।
+llama3.1-8b,E031,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You saw the 3-bedroom bungalow in Oakwood on 22 January.
+llama3.1-8b,E031,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने २२ जनवरी को ओकवुड इलाक़े में एक ख़ूबसूरत ३-बेडरूम बंगला देखा था।
+llama3.1-8b,E031,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने ओकवुड में २२ जनवरी को ३-बेडरूम बंगला देखा था।
+llama3.1-8b,E031,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप ने ओकवुड में 22 जनवरी को 3-बेडरूम बंगला देखा था।
+llama3.1-8b,E031,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने ओकवुड में २२ जनवरी को ३-बेडरूम बंगला देखा था।
+llama3.1-8b,E031,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने आपको बताया था कि आपने २२ जनवरी को ओकवुड इलाक़े में एक ख़ूबसूरत ३-बेडरूम बंगला देखा था।
+llama3.1-8b,E031,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine Oakwood area mein 22 January ko 3-bedroom bungalow dekha tha.
+llama3.1-8b,E031,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने २२ जनवरी को ओकवुड इलाक़े में एक ख़ूबसूरत ३-बेडरूम बंगला देखा था।
+llama3.1-8b,E032,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप ने २५ फ़रवरी को ब्रुकसाइड इलाक़े में एक ३-बेडरूम टाउनहाउस पर ऑफ़र दिया था।
+llama3.1-8b,E032,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You put in an offer on the 3-bedroom townhouse in the Brookside area on 25 February.
+llama3.1-8b,E032,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप ने २५ फ़रवरी को ब्रुकसाइड इलाक़े में एक ३-बेडरूम टाउनहाउस पर ऑफ़र दिया था।
+llama3.1-8b,E032,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने २५ फ़रवरी को ब्रुकसाइड इलाक़े में एक ३-बेडरूम टाउनहाउस पर ऑफ़र दिया था।
+llama3.1-8b,E032,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप ने 25 फरवरी को ब्रूकसाइड वाले टाउनहाउस पर ऑफ़र दिया था।
+llama3.1-8b,E032,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप ने २५ फ़रवरी को ब्रुकसाइड इलाक़े में एक ३-बेडरूम टाउनहाउस पर ऑफ़र दिया था।
+llama3.1-8b,E032,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने २५ फ़रवरी को ब्रुकसाइड इलाक़े में एक ३-बेडरूम टाउनहाउस पर ऑफ़र दिया था।
+llama3.1-8b,E032,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne Maine Brookside wale townhouse pe offer 25 February ko diya tha.
+llama3.1-8b,E032,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने आपको बताया था कि आपने २५ फ़रवरी को ब्रुकसाइड इलाक़े में एक ३-बेडरूम टाउनहाउस पर ऑफ़र दिया था।
+llama3.1-8b,E033,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,१५ फ़रवरी को आपको एक २-बेडरूम कॉन्डो दिखाई गई थी।
+llama3.1-8b,E033,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You fell in love with the 2-bedroom condo on February 15.
+llama3.1-8b,E033,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,१५ फ़रवरी को।
+llama3.1-8b,E033,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १५ फ़रवरी को सोसाइटी पूल वाला २-बेडरूम कॉन्डो देखा था।
+llama3.1-8b,E033,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपको सोसाइटी पूल वाला 2-बेडरूम कॉन्डो 15 फरवरी को दिखाई दिया था।
+llama3.1-8b,E033,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १५ फ़रवरी को सोसाइटी पूल वाला २-बेडरूम कॉन्डो देखा था।
+llama3.1-8b,E033,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,"मैंने आपको १५ फ़रवरी को एक २-बेडरूम कॉन्डो दिखाया था, जिसमें सोसाइटी का पूल था।"
+llama3.1-8b,E033,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine February 15 ko Maine community pool wala 2-bedroom condo dekha tha.
+llama3.1-8b,E033,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १५ फ़रवरी को एक २-बेडरूम कॉन्डो देखा था।
+llama3.1-8b,E034,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप ने १ फ़रवरी को सीडर क्रीक वाला घर देखा था।
+llama3.1-8b,E034,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You saw the property in Cedar Creek on February 1st.
+llama3.1-8b,E034,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप ने १ फ़रवरी को सीडर क्रीक में एक संपत्ति देखी थी।
+llama3.1-8b,E034,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १ फ़रवरी को सीडर क्रीक वाली प्रॉपर्टी देखी थी।
+llama3.1-8b,E034,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने सीडर क्रीक वाली प्रॉपर्टी 1 फरवरी को देखी थी।
+llama3.1-8b,E034,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने सीडर क्रीक वाली प्रॉपर्टी १ फ़रवरी को देखी थी।
+llama3.1-8b,E034,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १ फ़रवरी को सीडर क्रीक वाली प्रॉपर्टी देखी थी।
+llama3.1-8b,E034,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine Cedar Creek wali property 1 February ko dekhi thi.
+llama3.1-8b,E034,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १ फ़रवरी को सीडर क्रीक वाली प्रॉपर्टी देखी थी।
+llama3.1-8b,E035,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप ३ मार्च को आर्ट गैलरी में 'The Evolution of Street Art' नाम के एक लेक्चर में गई थीं।
+llama3.1-8b,E035,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the lecture titled 'The Evolution of Street Art' at the Art Gallery on March 3.
+llama3.1-8b,E035,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप ३ मार्च को आर्ट गैलरी में 'The Evolution of Street Art' नाम के एक लेक्चर में गई थीं।
+llama3.1-8b,E035,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप ३ मार्च को 'The Evolution of Street Art' नाम के लेक्चर में गई थीं।
+llama3.1-8b,E035,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 3 मार्च को 'The Evolution of Street Art' वाले लेक्चर में गई थीं।
+llama3.1-8b,E035,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप ३ मार्च को 'The Evolution of Street Art' नाम के लेक्चर में गई थीं।
+llama3.1-8b,E035,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप ३ मार्च को 'The Evolution of Street Art' नाम के लेक्चर में गई थीं।
+llama3.1-8b,E035,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aap 3 March ko 'The Evolution of Street Art' wale lecture mein gaye the.
+llama3.1-8b,E035,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं ३ मार्च को आर्ट गैलरी में 'The Evolution of Street Art' नाम के एक लेक्चर में गई थी।
+llama3.1-8b,E036,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० फ़रवरी को 'Women in Art' प्रदर्शनी में गये थे।
+llama3.1-8b,E036,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the 'Women in Art' exhibition on February 10.
+llama3.1-8b,E036,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० फ़रवरी को 'वुमन इन आर्ट' प्रदर्शनी में गए थे।
+llama3.1-8b,E036,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० फ़रवरी को 'Women in Art' प्रदर्शनी में गये थे।
+llama3.1-8b,E036,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 10 फरवरी को 'Women in Art' प्रदर्शनी में गए थे।
+llama3.1-8b,E036,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० फ़रवरी को 'Women in Art' प्रदर्शनी में गये थे।
+llama3.1-8b,E036,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० फ़रवरी को 'Women in Art' प्रदर्शनी में गये थे।
+llama3.1-8b,E036,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main 'Women in Art' exhibition par February 10 ko gaya tha.
+llama3.1-8b,E036,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं १० फ़रवरी को 'Women in Art' प्रदर्शनी में गया था।
+llama3.1-8b,E037,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।
+llama3.1-8b,E037,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You volunteered at the Children's Museum's 'Art Afternoon' event on February 17th.
+llama3.1-8b,E037,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।
+llama3.1-8b,E037,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।
+llama3.1-8b,E037,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप ने 17 फरवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' में वॉलंटियर किया।
+llama3.1-8b,E037,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।
+llama3.1-8b,E037,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।
+llama3.1-8b,E037,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne Maine Children's Museum ke 'Art Afternoon' event mein 17 february ko volunteer kiya.
+llama3.1-8b,E037,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया था।
+llama3.1-8b,E038,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपका नया रिमोट शटर रिलीज़ १० फ़रवरी को आया था।
+llama3.1-8b,E038,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,Your remote shutter release arrived on 10 February.
+llama3.1-8b,E038,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपका नया रिमोट शटर रिलीज़ १० फ़रवरी को आया था।
+llama3.1-8b,E038,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपका नया रिमोट शटर रिलीज़ १० फ़रवरी को आया था।
+llama3.1-8b,E038,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपका रिमोट शटर रिलीज़ 10 फरवरी को आया था।
+llama3.1-8b,E038,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपका रिमोट शटर रिलीज़ १० फ़रवरी को आया था।
+llama3.1-8b,E038,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपका नया रिमोट शटर रिलीज़ १० फ़रवरी को आया था।
+llama3.1-8b,E038,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapke remote shutter release ka arrival date 10 February tha.
+llama3.1-8b,E038,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपका नया रिमोट शटर रिलीज़ १० फरवरी को आया था।
+llama3.1-8b,E039,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २ मार्च को चेन साफ़ करके तेल लगाने के बाद से अपनी रोड बाइक चला रहे हैं।
+llama3.1-8b,E039,event,True,hi,en,q1,RM-S2,INCORRECT,0,1,0,0,0,en,1,You cleaned and lubricated your road bike chain after March 2.
+llama3.1-8b,E039,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपकी रोड बाइक की चेन को २ मार्च को साफ़ करके तेल लगाया गया था।
+llama3.1-8b,E039,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने २ मार्च को अपनी रोड बाइक की चेन साफ़ करके तेल लगाया था।
+llama3.1-8b,E039,event,True,hi,hi,q1,RM-S2,INCORRECT,0,0,0,0,0,hi,1,मार्च 2 से पहले।
+llama3.1-8b,E039,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने २ मार्च को अपनी रोड बाइक की चेन साफ़ करके तेल लगाया था।
+llama3.1-8b,E039,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,२ मार्च को चेन साफ़ करके तेल लगाने के बाद से मेरी रोड बाइक बहुत अच्छी चल रही है.
+llama3.1-8b,E039,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine March 2 se aapki road bike ki chain saaf karke oil lagaya hai.
+llama3.1-8b,E039,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,२ मार्च को चेन साफ़ करके तेल लगाने के बाद से मेरी रोड बाइक बहुत अच्छी चल रही है.
+llama3.1-8b,E040,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपकी रोड बाइक की सर्विस १० मार्च को Pedal Power में करवाई गई थी।
+llama3.1-8b,E040,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You got your road bike serviced at Pedal Power on March 10.
+llama3.1-8b,E040,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपकी रोड बाइक की सर्विस १० मार्च को Pedal Power में करवाई गई थी।
+llama3.1-8b,E040,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १० मार्च को Pedal Power में अपनी रोड बाइक की सर्विस करवाई थी।
+llama3.1-8b,E040,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपकी रोड बाइक की सर्विस 10 मार्च को Pedal Power में करवाई गई थी।
+llama3.1-8b,E040,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने अपनी रोड बाइक की सर्विस १० मार्च को Pedal Power में करवाई थी।
+llama3.1-8b,E040,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं १० मार्च को Pedal Power में अपनी रोड बाइक की सर्विस करवाई थी।
+llama3.1-8b,E040,event,True,hi,hg,q1,RM-S2,INCORRECT,0,0,0,0,0,hg,1,"Maine aapki yadi pehle hi baat ki thi, lekin maine kuchh nahi suna."
+llama3.1-8b,E040,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं जानता हूँ कि आपने अपनी रोड बाइक की सर्विस Pedal Power में १० मार्च को करवाई थी।
+llama3.1-8b,E041,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,"आपने २० जनवरी को एक स्थानीय पशु आश्रय के लिए $२,००० जुटाने में मदद की।"
+llama3.1-8b,E041,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,"You helped raise $2,000 for the local animal shelter on January 20th."
+llama3.1-8b,E041,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,"आपने २० जनवरी को एक स्थानीय पशु आश्रय के लिए $२,००० जुटाने में मदद की।"
+llama3.1-8b,E041,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,"आप २० जनवरी को एक स्थानीय पशु आश्रय के लिए $२,००० जुटाने में मदद की।"
+llama3.1-8b,E041,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,"आपको 20 जनवरी को स्थानीय पशु आश्रय के लिए $2,000 जुटाने में मदद मिली।"
+llama3.1-8b,E041,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने २० जनवरी को स्थानीय पशु आश्रय के लिए पैसे जुटाने में मदद की।
+llama3.1-8b,E041,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,"मैंने २० जनवरी को एक स्थानीय पशु आश्रय के लिए $२,००० जुटाने में मदद की थी।"
+llama3.1-8b,E041,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,"Maine January 20th ko aapne local animal shelter ke liye $2,000 jama kiye the."
+llama3.1-8b,E041,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,"मैंने २० जनवरी को एक स्थानीय पशु आश्रय के लिए $२,००० जुटाने में मदद की थी।"
+llama3.1-8b,E042,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २४ सितंबर को डिज़्नीलैंड में Mickey's Halloween Party के दौरान Space Mountain: Ghost Galaxy की तीन बार सवारी की।
+llama3.1-8b,E042,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You rode Space Mountain: Ghost Galaxy at Disneyland on September 24.
+llama3.1-8b,E042,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २४ सितंबर को डिज़्नीलैंड में Mickey's Halloween Party के दौरान Space Mountain: Ghost Galaxy की सवारी की थी।
+llama3.1-8b,E042,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २४ सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की थी।
+llama3.1-8b,E042,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप ने डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी 24 सितंबर को की थी।
+llama3.1-8b,E042,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने २४ सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की।
+llama3.1-8b,E042,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने आपको बताया था कि आपने २४ सितंबर को डिज़्नीलैंड में Mickey's Halloween Party के दौरान Space Mountain: Ghost Galaxy की तीन बार सवारी की थी।
+llama3.1-8b,E042,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine September 24 ko Mickey's Halloween Party mein Space Mountain: Ghost Galaxy ki ride dekhi thi.
+llama3.1-8b,E042,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,"मैंने आपके साथ एक बार डिज़्नीलैंड में Mickey's Halloween Party के दौरान Space Mountain: Ghost Galaxy की सवारी की थी, और वह २४ सितंबर को थी।"
+llama3.1-8b,E043,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप ८ अक्टूबर को Knott's Berry Farm में Xcelerator रोलरकोस्टर की सवारी की थी।
+llama3.1-8b,E043,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You rode the Xcelerator roller coaster at Knott's Berry Farm on October 8.
+llama3.1-8b,E043,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप ८ अक्टूबर को Knott's Berry Farm में Xcelerator रोलरकोस्टर की सवारी की थी।
+llama3.1-8b,E043,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने ८ अक्टूबर को Knott's Berry Farm में Xcelerator रोलरकोस्टर की सवारी की थी।
+llama3.1-8b,E043,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप ने Xcelerator रोलरकोस्टर की सवारी 8 अक्टूबर को की थी।
+llama3.1-8b,E043,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने Xcelerator रोलरकोस्टर की सवारी ८ अक्टूबर को की थी।
+llama3.1-8b,E043,event,True,hi,hg,q1,RM-S1,NO_ANSWER,0,0,0,0,0,hi,1,"मैं आपके पिछले संवाद में इस सवाल का जवाब नहीं पा सका, इसलिए मैं नहीं जानता।"
+llama3.1-8b,E043,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,"Maine Xcelerator rollercoaster ki ride October 8, 2023 ki thi."
+llama3.1-8b,E043,event,True,hi,hg,q1,RM-S3,NO_ANSWER,0,0,0,0,1,hi,1,मैं आपके पिछले संवाद में इसके बारे में कोई जानकारी नहीं मिली।
+llama3.1-8b,E044,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १५ अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy रोलरकोस्टर की सवारी की थी।
+llama3.1-8b,E044,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You rode the Revenge of the Mummy roller coaster at Universal Studios Hollywood on October 15th.
+llama3.1-8b,E044,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १५ अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy रोलरकोस्टर की लगातार तीन बार सवारी की।
+llama3.1-8b,E044,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १५ अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy रोलरकोस्टर की सवारी की।
+llama3.1-8b,E044,event,True,hi,hi,q1,RM-S2,INCORRECT,0,1,0,0,0,hi,1,आपने 15 अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy की सवारी तीन बार की थी।
+llama3.1-8b,E044,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १५ अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy रोलरकोस्टर की सवारी की।
+llama3.1-8b,E044,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने आपको पहले बताया है कि आपने १५ अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy रोलरकोस्टर की लगातार तीन बार सवारी की थी।
+llama3.1-8b,E044,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne October 15th ko Revenge of the Mummy roller coaster ki ride ki thi.
+llama3.1-8b,E044,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने आपके साथ एक बार में 15 अक्टूबर को Revenge of the Mummy रोलरकोस्टर की सवारी की थी।
+llama3.1-8b,E045,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २२ फ़रवरी को एक स्थानीय स्टूडियो में एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थीं।
+llama3.1-8b,E045,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the one-day photography workshop on 22 February.
+llama3.1-8b,E045,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २२ फ़रवरी को एक स्थानीय स्टूडियो में एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थीं।
+llama3.1-8b,E045,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २२ फ़रवरी को एक स्थानीय स्टूडियो में एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थीं।
+llama3.1-8b,E045,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 22 फरवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थीं।
+llama3.1-8b,E045,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २२ फ़रवरी को एक स्थानीय स्टूडियो में एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थीं।
+llama3.1-8b,E045,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,4,मैं २२ फ़रवरी को एक स्थानीय स्टूडियो में एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।
+llama3.1-8b,E045,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aap 22 February ko ek din ki photography workshop mein gayi thi.
+llama3.1-8b,E045,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं २२ फ़रवरी को एक स्थानीय स्टूडियो में एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।
+llama3.1-8b,E046,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १२ दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गये थे।
+llama3.1-8b,E046,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended a half-day mindfulness workshop at a studio near your home on December 12th.
+llama3.1-8b,E046,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १२ दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गये थे।
+llama3.1-8b,E046,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १२ दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गये थे।
+llama3.1-8b,E046,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 12 दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गये थे।
+llama3.1-8b,E046,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप आधे दिन की माइंडफ़ुलनेस वर्कशॉप में १२ दिसंबर को गये थे।
+llama3.1-8b,E046,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,2,आप १२ दिसंबर को अपने घर के पास एक स्टूडियो में आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गये थे।
+llama3.1-8b,E046,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main December 12th ko aapke ghar ke paas ek studio mein ek aadhe din ki mindfulness workshop par gaya tha.
+llama3.1-8b,E046,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १२ दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गये थे।
+llama3.1-8b,E047,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० अप्रैल को सार्वजनिक पुस्तकालय में सतत विकास पर एक लेक्चर में गई थीं।
+llama3.1-8b,E047,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the lecture on sustainable development at the public library on April 10.
+llama3.1-8b,E047,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० अप्रैल को सार्वजनिक पुस्तकालय में सतत विकास पर एक लेक्चर में गई थीं।
+llama3.1-8b,E047,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० अप्रैल को सार्वजनिक पुस्तकालय में सतत विकास पर एक लेक्चर में गई थीं।
+llama3.1-8b,E047,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपको सतत विकास वाला लेक्चर 10 अप्रैल को पब्लिक लाइब्रेरी में गया था।
+llama3.1-8b,E047,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० अप्रैल को सार्वजनिक पुस्तकालय में सतत विकास पर एक लेक्चर में गई थीं।
+llama3.1-8b,E047,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० अप्रैल को सार्वजनिक पुस्तकालय में सतत विकास पर एक लेक्चर में गई थीं।
+llama3.1-8b,E047,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapke sustainable development ke lecture mein 10 April ko gayi thi.
+llama3.1-8b,E047,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० अप्रैल को सार्वजनिक पुस्तकालय में सतत विकास पर एक लेक्चर में गई थीं।
+llama3.1-8b,E048,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,2,आपके घर के बग़ीचे की ताज़ी ऑर्गेनिक जड़ी-बूटियों के १२ गुच्छे १५ मई को किसान बाज़ार में बेचे।
+llama3.1-8b,E048,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,2,You sold 12 bundles of fresh organic herbs from your home garden at the farmer's market on May 15th.
+llama3.1-8b,E048,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,2,आपके घर के बग़ीचे की ताज़ी ऑर्गेनिक जड़ी-बूटियों के १२ गुच्छे १५ मई को किसान बाज़ार में बेचे गए थे।
+llama3.1-8b,E048,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपकी जड़ी-बूटियाँ १५ मई को किसान बाज़ार में बेचीं।
+llama3.1-8b,E048,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,2,आपकी जड़ी-बूटियाँ 15 मई को किसान बाज़ार में बेचीं।
+llama3.1-8b,E048,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपकी जड़ी-बूटियाँ १५ मई को किसान बाज़ार में बेचीं।
+llama3.1-8b,E048,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने आपको बताया था कि 15 मई को आपने अपने घर के बगीचे की ताज़ी ऑर्गेनिक जड़ी-बूटियों के 12 गुच्छे बेचे।
+llama3.1-8b,E048,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,2,Maine farmers' market mein aapne herbs 15 May ko hi bechi the.
+llama3.1-8b,E048,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने आपको बताया था कि आपने १५ मई को किसान बाज़ार में अपने घर के बग़ीचे की ताज़ी ऑर्गेनिक जड़ी-बूटियों के १२ गुच्छे बेचे थे।
+llama3.1-8b,E049,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० फ़रवरी को TechConnect कॉन्फ़्रेंस में अपनी पिछली कंपनी की पुरानी साथी रेचल से मिले।
+llama3.1-8b,E049,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You met your former colleague Rachel at the TechConnect conference on February 10.
+llama3.1-8b,E049,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं १० फ़रवरी को TechConnect कॉन्फ़्रेंस में अपनी पिछली कंपनी की पुरानी साथी रेचल से मिला।
+llama3.1-8b,E049,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० फ़रवरी को TechConnect कॉन्फ़्रेंस में अपनी पुरानी साथी रेचल से मिली।
+llama3.1-8b,E049,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपकी पुरानी साथी रेचल से TechConnect कॉन्फ़्रेंस में 10 फरवरी को मिली थीं।
+llama3.1-8b,E049,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० फ़रवरी को TechConnect कॉन्फ़्रेंस में अपनी पुरानी साथी रेचल से मिली।
+llama3.1-8b,E049,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं १० फ़रवरी को TechConnect कॉन्फ़्रेंस में अपनी पिछली कंपनी की पुरानी साथी रेचल से मिली।
+llama3.1-8b,E049,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main TechConnect conference par aapne apni purani colleague Rachel se 10 February ko mila.
+llama3.1-8b,E049,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं १० फ़रवरी को TechConnect कॉन्फ़्रेंस में अपनी पिछली कंपनी की पुरानी साथी रेचल से मिली।
+llama3.1-8b,E050,event,True,hi,en,q1,RM-S1,CORRECT,1,1,1,0,0,hi,1,आपकी कार की सर्विस १० फ़रवरी को और फिर २८ फ़रवरी को करवाई गई थी।
+llama3.1-8b,E050,event,True,hi,en,q1,RM-S2,INCORRECT,0,0,1,0,1,en,1,"You mentioned that your dad had his car serviced on February 28th, but you didn't mention when you got your car serviced."
+llama3.1-8b,E050,event,True,hi,en,q1,RM-S3,INCORRECT,0,1,1,0,0,hi,1,आपकी कार की सर्विस १० फ़रवरी को और २८ फ़रवरी को हुई थी।
+llama3.1-8b,E050,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपकी कार की सर्विस १० फ़रवरी को करवाई थी।
+llama3.1-8b,E050,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपकी कार की सर्विस 10 फरवरी को करवाई गई थी।
+llama3.1-8b,E050,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपकी कार की सर्विस १० फ़रवरी को करवाई गई थी।
+llama3.1-8b,E050,event,True,hi,hg,q1,RM-S1,INCORRECT,0,0,1,0,0,hi,1,"मुझे याद है कि आपके पापा ने २८ फ़रवरी को अपनी कार की सर्विस करवाई थी, लेकिन मैं आपके बारे में कुछ नहीं जानता।"
+llama3.1-8b,E050,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine pehle hi suna hai ki aapki car ki service 10 February ko ki gayi thi.
+llama3.1-8b,E050,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मुझे याद है कि आपकी कार की सर्विस १० फ़रवरी को करवाई गई थी।
+qwen3-8b,E001,event,True,hi,en,q1,FC,INCORRECT,0,0,1,0,0,en,,You got your car serviced for the first time on April 2nd.
+qwen3-8b,E001,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १५ मार्च को पहली बार अपनी कार की सर्विस करवाई थी।
+qwen3-8b,E001,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १५ मार्च को पहली बार अपनी कार की सर्विस करवाई थी।
+qwen3-8b,E002,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You got your Samsung Galaxy S22 on 20 February.
+qwen3-8b,E002,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने २० फ़रवरी को अपना Samsung Galaxy S22 लिया था।
+qwen3-8b,E002,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने 20 फरवरी को अपना Samsung Galaxy S22 लिया था।
+qwen3-8b,E003,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You attended the workshop on Effective Communication in the Workplace on January 10th.
+qwen3-8b,E003,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर एक वर्कशॉप में हिस्सा लिया था।
+qwen3-8b,E003,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर वर्कशॉप में हिस्सा लिया।
+qwen3-8b,E004,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You attended the Holi celebration at your temple on February 26th.
+qwen3-8b,E004,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं अपने यहाँ के मंदिर में २६ फ़रवरी को होली के उत्सव में गया था।
+qwen3-8b,E004,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आप २६ फरवरी को अपने स्थानीय मंदिर में होली के उत्सव में गए थे।
+qwen3-8b,E005,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You ran in the Run for the Cure event on October 15th.
+qwen3-8b,E005,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में दौड़ लगाई थी।
+qwen3-8b,E005,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में दौड़ लगाई थी।
+qwen3-8b,E006,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,Your best friend's 30th birthday party was on April 22nd.
+qwen3-8b,E006,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मेरी सबसे अच्छी दोस्त की 30वें जन्मदिन की पार्टी 22 अप्रैल को थी।
+qwen3-8b,E006,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपकी सबसे अच्छी दोस्त की 30वीं जन्मदिवस पार्टी 22 अप्रैल को थी।
+qwen3-8b,E007,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You took your bike in for a tune-up on April 20th.
+qwen3-8b,E007,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने अपनी साइकिल के गियर अटक रहे होने के कारण २० अप्रैल को ट्यून-अप के लिए ले गई थी।
+qwen3-8b,E007,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने 20 अप्रैल को अपनी साइकिल के ट्यून-अप के लिए ले गई थी।
+qwen3-8b,E008,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You went on the guided tour at the History Museum on February 24th.
+qwen3-8b,E008,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं आपके प्रश्न के उत्तर देने के लिए खुश हूं! आप २४ फरवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर
+qwen3-8b,E008,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,24 फरवरी को
+qwen3-8b,E009,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You turned 32 on February 12th.
+qwen3-8b,E009,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप 12 फरवरी को 32 साल के बन गए।
+qwen3-8b,E009,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपके 32 साल के जन्मदिन 12 फरवरी को हुआ।
+qwen3-8b,E010,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You completed your first full marathon on April 10th.
+qwen3-8b,E010,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १० अप्रैल को अपनी पहली फ़ुल मैराथन पूरी की।
+qwen3-8b,E010,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १० अप्रैल को अपनी पहली फुल मैराथन पूरी की।
+qwen3-8b,E011,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You last washed your Corolla on February 27th.
+qwen3-8b,E011,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने अपनी Corolla को २७ फ़रवरी को धोई थी।
+qwen3-8b,E011,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने अपनी Corolla को २७ फरवरी को धोया था।
+qwen3-8b,E012,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You pre-ordered your Dell XPS 13 on January 28.
+qwen3-8b,E012,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने २८ जनवरी को प्री-ऑर्डर किया था।
+qwen3-8b,E012,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने अपना Dell XPS 13 28 जनवरी को प्री-ऑर्डर किया था।
+qwen3-8b,E013,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You mentioned that your marigold seeds arrived on March 3rd.
+qwen3-8b,E013,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मेरे गेंदे के बीज ३ मार्च को आए थे।
+qwen3-8b,E013,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hg,,Mere marigold ke seeds 3 मार्च को aaye the.
+qwen3-8b,E014,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You have been starting seeds indoors under grow lights since February 20.
+qwen3-8b,E014,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप २० फरवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।
+qwen3-8b,E014,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आप 20 फरवरी से बेसमेंट में ग्रो लाइट के नीचे बीज उगा रहे हैं।
+qwen3-8b,E015,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You took part in the Turbocharged Tuesdays racing event on June 14th.
+qwen3-8b,E015,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १४ जून को Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।
+qwen3-8b,E015,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने 14 जून को लोकल ट्रैक पर Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।
+qwen3-8b,E016,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You went to the Rack Fest car show on June 18th.
+qwen3-8b,E016,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १८ जून को Rack Fest कार शो में गए थे।
+qwen3-8b,E016,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १८ जून को हुए Rack Fest कार शो से लौटा है।
+qwen3-8b,E017,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You volunteered at the Coastal Cleanup event on March 7th.
+qwen3-8b,E017,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।
+qwen3-8b,E017,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने ७ मार्च को मेन कोस्टल क्लीनअप इवेंट में वॉलंटियर किया था।
+qwen3-8b,E018,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You attended the charity golf tournament on July 17th.
+qwen3-8b,E018,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं चैरिटी गोल्फ़ टूर्नामेंट में १७ जुलाई को गया था।
+qwen3-8b,E018,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १७ जुलाई को एक चैरिटी गोल्फ टूर्नामेंट में गया था।
+qwen3-8b,E019,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You volunteered at the Food for Thought charity gala on September 25.
+qwen3-8b,E019,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।
+qwen3-8b,E019,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,25 सितंबर को
+qwen3-8b,E020,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You went to the backyard BBQ at your colleague's house on June 3rd.
+qwen3-8b,E020,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप ३ जून को अपने साथी के घर के आँगन वाली BBQ पार्टी में गए थे।
+qwen3-8b,E020,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,en,,3 June.
+qwen3-8b,E021,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You got your new Adidas running shoes on January 10th.
+qwen3-8b,E021,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १० जनवरी को अपने नए Adidas रनिंग शूज़ लिए।
+qwen3-8b,E021,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने 10 जनवरी को अपने नए Adidas रनिंग शूज खरीदे।
+qwen3-8b,E022,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You wore your sneakers to play basketball on February 1st.
+qwen3-8b,E022,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १ फ़रवरी को बास्केटबॉल खेलते समय अपने सफ़ेद स्नीकर्स पहने थे।
+qwen3-8b,E022,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १ फरवरी को बास्केटबॉल खेलते समय अपने सफेद स्नीकर्स पहने थे।
+qwen3-8b,E023,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You got your new router on January 15th.
+qwen3-8b,E023,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने अपना नया राउटर १५ जनवरी को लिया।
+qwen3-8b,E023,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने 15 जनवरी को अपना नया राउटर लिया।
+qwen3-8b,E024,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You ordered the personalized photo album from Shutterfly on April 15th.
+qwen3-8b,E024,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १५ अप्रैल को ऑर्डर किया।
+qwen3-8b,E024,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,15 अप्रैल को
+qwen3-8b,E025,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You submitted your application to the exchange program on February 10th.
+qwen3-8b,E025,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १० फ़रवरी को एक्सचेंज प्रोग्राम के लिए आवेदन भेजा था।
+qwen3-8b,E025,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १० फ़रवरी को एक्सचेंज प्रोग्राम के लिए आवेदन भेजा था।
+qwen3-8b,E026,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,Your friend Rachel got engaged on May 15th.
+qwen3-8b,E026,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मेरी दोस्त रेचल की सगाई १५ मई को हुई।
+qwen3-8b,E026,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,15 मई को।
+qwen3-8b,E027,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You attended the pride parade on May 1st.
+qwen3-8b,E027,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं १ मई को प्राइड परेड में गई थी।
+qwen3-8b,E027,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,1 मई को
+qwen3-8b,E028,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You met your mentor Rachel on April 10th.
+qwen3-8b,E028,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १० अप्रैल को अपनी मेंटर रेचल से मिला था।
+qwen3-8b,E028,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १० अप्रैल को अपनी मेंटर रेचल से मिला था।
+qwen3-8b,E029,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You bought the silver necklace for your best friend on March 15th.
+qwen3-8b,E029,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १५ मार्च को अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार ख़रीदा।
+qwen3-8b,E029,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने 15 मार्च को अपनी सबसे अच्छी दोस्त के 30वें जन्मदिन के लिए छोटे-से पेंडेंट वाला चाँदी का हार खरीदा।
+qwen3-8b,E030,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You viewed the 1-bedroom condo on February 10th.
+qwen3-8b,E030,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १० फ़रवरी को एक १-बेडरूम कॉन्डो देखा था।
+qwen3-8b,E030,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १० फ़रवरी को एक १-बेडरूम कॉन्डो देखा था।
+qwen3-8b,E031,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You saw the 3-bedroom bungalow in Oakwood on January 22nd.
+qwen3-8b,E031,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने 22 जनवरी को ओकवुड में एक खूबसूरत 3-बेडरूम बंगला देखा था।
+qwen3-8b,E031,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने 22 जनवरी को ओकवुड इलाक़े में एक ख़ूबसूरत 3-बेडरूम बंगला देखा था।
+qwen3-8b,E032,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You put in an offer on the Brookside townhouse on February 25th.
+qwen3-8b,E032,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने २५ फ़रवरी को ब्रुकसाइड इलाक़े में एक ३-बेडरूम टाउनहाउस पर ऑफ़र दिया था।
+qwen3-8b,E032,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,25 फरवरी को
+qwen3-8b,E033,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You saw the 2-bedroom condo with the community pool on February 15th.
+qwen3-8b,E033,event,True,hi,hi,q1,FC,NO_ANSWER,0,0,0,0,0,hi,,मैं इस जानकारी को आपके पास के पिछले चर्चा में नहीं देख सकता।
+qwen3-8b,E033,event,True,hi,hg,q1,FC,CORRECT,1,0,0,0,0,hi,,आपने अपने समुदाय के पूल वाले 2-कमरा कंडो को फरवरी 15 को देखा था।
+qwen3-8b,E034,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You saw the property in Cedar Creek on February 1st.
+qwen3-8b,E034,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने सीडर क्रीक वाली प्रॉपर्टी १ फ़रवरी को देखी थी।
+qwen3-8b,E034,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने 1 फरवरी को सीडर क्रीक की गुणवत्ता देखी थी।
+qwen3-8b,E035,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You attended the lecture on 'The Evolution of Street Art' on March 3rd.
+qwen3-8b,E035,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं ३ मार्च को 'The Evolution of Street Art' वाले लेक्चर में गई थी।
+qwen3-8b,E035,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने ३ मार्च को 'The Evolution of Street Art' नाम के लेक्चर में शामिल होने के बारे में बताया था।
+qwen3-8b,E036,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You attended the 'Women in Art' exhibition on February 10th.
+qwen3-8b,E036,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं १० फ़रवरी को 'Women in Art' प्रदर्शनी में गया था।
+qwen3-8b,E036,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १० फ़रवरी को 'Women in Art' प्रदर्शनी में गया था।
+qwen3-8b,E037,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You volunteered at the Children's Museum 'Art Afternoon' on February 17th.
+qwen3-8b,E037,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।
+qwen3-8b,E037,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,17 फरवरी को।
+qwen3-8b,E038,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,Your remote shutter release arrived on February 10.
+qwen3-8b,E038,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपका रिमोट शटर रिलीज़ १० फ़रवरी को आया था।
+qwen3-8b,E038,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपका रिमोट शटर रिलीज़ १० फ़रवरी को आया था।
+qwen3-8b,E039,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You cleaned and lubricated your road bike chain on March 2.
+qwen3-8b,E039,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने २ मार्च को अपनी रोड बाइक की चेन को साफ़ करके तेल लगाया।
+qwen3-8b,E039,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने आपकी रोड बाइक की चेन २ मार्च को साफ करके तेल लगाया।
+qwen3-8b,E040,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You got your road bike serviced at Pedal Power on March 10th.
+qwen3-8b,E040,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने Pedal Power में अपनी रोड बाइक की सर्विस १० मार्च को करवाई।
+qwen3-8b,E040,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १० मार्च को Pedal Power में अपनी रोड बाइक की सर्विस करवाई।
+qwen3-8b,E041,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You helped raise money for the local animal shelter on January 20.
+qwen3-8b,E041,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने २० जनवरी को स्थानीय पशु आश्रय के लिए पैसे जुटाने में मदद की।
+qwen3-8b,E041,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,"आपने 20 जनवरी को स्थानीय पशु आश्रय के लिए $2,000 जुटाने में मदद की।"
+qwen3-8b,E042,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You rode Space Mountain: Ghost Galaxy at Disneyland on 24 September.
+qwen3-8b,E042,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने २४ सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की।
+qwen3-8b,E042,event,True,hi,hg,q1,FC,INCORRECT,0,0,0,0,1,hi,,मैं आपके प्रश्न के बारे में कोई जानकारी नहीं रखता।
+qwen3-8b,E043,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You rode the Xcelerator rollercoaster on October 8th.
+qwen3-8b,E043,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने ८ अक्टूबर को Xcelerator रोलरकोस्टर की सवारी की।
+qwen3-8b,E043,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने ८ अक्टूबर को Xcelerator रोलरकोस्टर की सवारी की।
+qwen3-8b,E044,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You rode Revenge of the Mummy at Universal Studios Hollywood on October 15th.
+qwen3-8b,E044,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १५ अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy की सवारी की।
+qwen3-8b,E044,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने 15 अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy रोलरकोस्टर की लगातार तीन बार सवारी की।
+qwen3-8b,E045,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You attended the one-day photography workshop on February 22nd.
+qwen3-8b,E045,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं २२ फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।
+qwen3-8b,E045,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आप २२ फरवरी को एक स्थानीय स्टूडियो में एक दिन की फोटोग्राफी वर्कशॉप में गई थी।
+qwen3-8b,E046,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You attended the half-day mindfulness workshop on December 12th.
+qwen3-8b,E046,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप १२ दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।
+qwen3-8b,E046,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १२ दिसंबर को अपने घर के पास एक स्टूडियो में आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गया था।
+qwen3-8b,E047,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You attended the lecture on sustainable development on April 10th.
+qwen3-8b,E047,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैं एक सतत विकास वाले लेक्चर में १० अप्रैल को गई थी।
+qwen3-8b,E047,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,आपने १० अप्रैल को सार्वजनिक पुस्तकालय में सतत विकास पर एक लेक्चर में गई थी।
+qwen3-8b,E048,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You sold your herbs at the farmers' market on May 15th.
+qwen3-8b,E048,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने १५ मई को किसान बाज़ार में अपनी जड़ी-बूटियाँ बेचीं।
+qwen3-8b,E048,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,मैंने 15 मई को किसान बाजार में अपने घर के बगीचे की ताज़ी ऑर्गेनिक जड़ी-बूटियों के 12 गुच्छे बेचे।
+qwen3-8b,E049,event,True,hi,en,q1,FC,CORRECT,1,1,0,0,0,en,,You met your old colleague Rachel at the TechConnect conference on February 10th.
+qwen3-8b,E049,event,True,hi,hi,q1,FC,CORRECT,1,1,0,0,0,hi,,आप १० फ़रवरी को TechConnect कॉन्फ़्रेंस में रेचल से मिले।
+qwen3-8b,E049,event,True,hi,hg,q1,FC,CORRECT,1,1,0,0,0,hi,,10 फरवरी को TechConnect कॉन्फ्रेंस में आपने अपनी पुरानी साथी Rachel से मिले।
+qwen3-8b,E050,event,True,hi,en,q1,FC,INCORRECT,0,0,1,0,0,en,,You got your car serviced on February 28th.
+qwen3-8b,E050,event,True,hi,hi,q1,FC,INCORRECT,0,0,1,0,0,hi,,मैंने अपनी कार की सर्विस २८ फ़रवरी को करवाई थी।
+qwen3-8b,E050,event,True,hi,hg,q1,FC,INCORRECT,0,0,1,0,0,hi,,मैंने अपनी कार की सर्विस २८ फ़रवरी को करवाई थी।
+qwen3-8b,E001,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You got your car serviced for the first time on 15 March.
+qwen3-8b,E001,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You had your car serviced for the first time on March 15th.
+qwen3-8b,E001,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,15 मार्च को।
+qwen3-8b,E001,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने पहली बार १५ मार्च को अपनी कार की सर्विस करवाई थी।
+qwen3-8b,E001,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने पहली बार अपनी कार की सर्विस 15 मार्च को करवाई थी।
+qwen3-8b,E001,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १५ मार्च को पहली बार अपनी कार की सर्विस करवाई थी।
+qwen3-8b,E001,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,15 मार्च को।
+qwen3-8b,E001,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine pehli baar apni car ki service March 15th ko karwayi thi.
+qwen3-8b,E001,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 15 मार्च को पहली बार अपनी कार की सर्विस करवाई थी।
+qwen3-8b,E002,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You got your Samsung Galaxy S22 on 20 February.
+qwen3-8b,E002,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You bought your Samsung Galaxy S22 on February 20.
+qwen3-8b,E002,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You got your Samsung Galaxy S22 on February 20.
+qwen3-8b,E002,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने २० फ़रवरी को अपना Samsung Galaxy S22 लिया था।
+qwen3-8b,E002,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 20 फरवरी को अपना Samsung Galaxy S22 खरीदा था।
+qwen3-8b,E002,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 20 फ़रवरी को अपना Samsung Galaxy S22 लिया था।
+qwen3-8b,E002,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने 20 फ़रवरी को अपना Samsung Galaxy S22 लिया था।
+qwen3-8b,E002,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,Maine apna Samsung Galaxy S22 20 फरवरी को खरीदा था।
+qwen3-8b,E002,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 20 फ़रवरी को अपना Samsung Galaxy S22 लिया था।
+qwen3-8b,E003,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You attended the workshop on Effective Communication in the Workplace on 10 January.
+qwen3-8b,E003,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the workshop on Effective Communication at the Workplace on January 10.
+qwen3-8b,E003,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You attended the workshop on Effective Communication in the Workplace on January 10.
+qwen3-8b,E003,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' वाली वर्कशॉप में गए थे।
+qwen3-8b,E003,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 10 जनवरी को 'कार्यस्थल पर प्रभावी संवाद' वाली वर्कशॉप में गए थे।
+qwen3-8b,E003,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' वाली वर्कशॉप में गए थे।
+qwen3-8b,E003,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर वर्कशॉप में हिस्सा लिया।
+qwen3-8b,E003,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main 'Effective Communication in the Workplace' wali workshop 10 january ko gayi thi.
+qwen3-8b,E003,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर वर्कशॉप में हिस्सा लिया।
+qwen3-8b,E004,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You attended the Holi celebration at your temple on 26 February.
+qwen3-8b,E004,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the Holi celebration at your temple on 26 February.
+qwen3-8b,E004,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You attended the Holi celebration at your temple on 26 February.
+qwen3-8b,E004,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गया था।
+qwen3-8b,E004,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 26 फरवरी को अपने यहाँ के मंदिर में होली के उत्सव में गया था।
+qwen3-8b,E004,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गए थे।
+qwen3-8b,E004,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गया था।
+qwen3-8b,E004,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main apne local temple mein Holi celebration mein 26 February ko gaya tha.
+qwen3-8b,E004,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गया था।
+qwen3-8b,E005,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You ran in the Run for the Cure event on October 15th.
+qwen3-8b,E005,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You ran in the Run for the Cure event on October 15th.
+qwen3-8b,E005,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You ran in the Run for the Cure event on October 15th.
+qwen3-8b,E005,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में दौड़ लगाई थी।
+qwen3-8b,E005,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 'रन फ़ॉर द क्योर' इवेंट में 15 अक्टूबर को दौड़ लगाई थी।
+qwen3-8b,E005,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 'रन फ़ॉर द क्योर' इवेंट में १५ अक्टूबर को दौड़ लगाई थी।
+qwen3-8b,E005,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में दौड़ लगाई।
+qwen3-8b,E005,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine 'Run for the Cure' event mein 15 October ko run kiya tha.
+qwen3-8b,E005,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 'रन फ़ॉर द क्योर' इवेंट में १५ अक्टूबर को दौड़ लगाई थी।
+qwen3-8b,E006,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,Your best friend's 30th birthday party was on 22 April.
+qwen3-8b,E006,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,Your best friend's 30th birthday party was on April 22nd.
+qwen3-8b,E006,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,On April 22nd.
+qwen3-8b,E006,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मेरी सबसे अच्छी दोस्त की 30वें जन्मदिन की पार्टी 22 अप्रैल को थी।
+qwen3-8b,E006,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपकी सबसे अच्छी दोस्त की 30वें जन्मदिन की पार्टी 22 अप्रैल को थी।
+qwen3-8b,E006,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मेरी सबसे अच्छी दोस्त की 30वें जन्मदिन की पार्टी 22 अप्रैल को थी।
+qwen3-8b,E006,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,22 अप्रैल को।
+qwen3-8b,E006,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Meri best friend ki 30th birthday party 22 April thi.
+qwen3-8b,E006,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,22 अप्रैल को।
+qwen3-8b,E007,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You took your bike in for a tune-up on April 20.
+qwen3-8b,E007,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You took your bike in for a tune-up on April 20.
+qwen3-8b,E007,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You took your bike in for a tune-up on April 20.
+qwen3-8b,E007,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २० अप्रैल को अपनी साइकिल के ट्यून-अप के लिए ले गई थी।
+qwen3-8b,E007,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने अपनी साइकिल ट्यून-अप 20 अप्रैल को ले गई थी।
+qwen3-8b,E007,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने अपनी साइकिल ट्यून-अप के लिए २० अप्रैल को ले गई थी।
+qwen3-8b,E007,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं 20 अप्रैल को अपनी साइकिल के ट्यून-अप के लिए ले गई थी।
+qwen3-8b,E007,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main apni cycle tune-up ke liye 20 april ko le gayi thi.
+qwen3-8b,E007,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 20 अप्रैल को अपनी साइकिल के ट्यून-अप के लिए ले गई थी।
+qwen3-8b,E008,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You went on the guided tour at the History Museum on February 24.
+qwen3-8b,E008,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You went on the guided tour at the History Museum on February 24.
+qwen3-8b,E008,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You went on the guided tour at the History Museum on February 24.
+qwen3-8b,E008,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं २४ फ़रवरी को हिस्ट्री म्यूज़ियम में गाइडेड टूर पर गया था।
+qwen3-8b,E008,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 24 फरवरी को हिस्ट्री म्यूज़ियम में गाइडेड टूर पर गए थे।
+qwen3-8b,E008,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं २४ फ़रवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर गया था।
+qwen3-8b,E008,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं 24 फ़रवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर गया था।
+qwen3-8b,E008,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main History Museum mein guided tour 24 February pe gaya tha.
+qwen3-8b,E008,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं २४ फ़रवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर गया था।
+qwen3-8b,E009,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You turned 32 on 12 February.
+qwen3-8b,E009,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You turned 32 on February 12th.
+qwen3-8b,E009,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You turned 32 on 12 February.
+qwen3-8b,E009,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप 12 फ़रवरी को 32 साल की हुई।
+qwen3-8b,E009,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,3,आप 32 साल की 12 फरवरी को हुई।
+qwen3-8b,E009,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप 12 फ़रवरी को 32 साल की हुई।
+qwen3-8b,E009,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप 12 फ़रवरी को 32 साल की हुई।
+qwen3-8b,E009,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,3,Aap 32 saal ki aapne 12 February ko hui.
+qwen3-8b,E009,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपकी 32 साल की उम्र 12 फ़रवरी को हुई।
+qwen3-8b,E010,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You completed your first full marathon on 10 April.
+qwen3-8b,E010,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You completed your first full marathon on April 10th.
+qwen3-8b,E010,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You completed your first full marathon on April 10th.
+qwen3-8b,E010,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १० अप्रैल को अपनी पहली फ़ुल मैराथन पूरी की थी।
+qwen3-8b,E010,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने अपनी पहली फ़ुल मैराथन 10 अप्रैल को पूरी की थी।
+qwen3-8b,E010,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १० अप्रैल को अपनी पहली फ़ुल मैराथन पूरी की।
+qwen3-8b,E010,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १० अप्रैल को अपनी पहली फ़ुल मैराथन पूरी की।
+qwen3-8b,E010,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne apni pehli full marathon 10 April ko complete ki thi.
+qwen3-8b,E010,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १० अप्रैल को अपनी पहली फ़ुल मैराथन पूरी की।
+qwen3-8b,E011,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You last washed your Corolla on February 27.
+qwen3-8b,E011,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You last washed your Corolla on February 27.
+qwen3-8b,E011,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You last washed your Corolla on February 27.
+qwen3-8b,E011,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने अपनी Corolla को २७ फ़रवरी को धोई थी।
+qwen3-8b,E011,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने अपनी Corolla को 27 फरवरी को धोया था।
+qwen3-8b,E011,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने अपनी Corolla को २७ फ़रवरी को धोई थी।
+qwen3-8b,E011,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने अपनी Corolla को २७ फ़रवरी को धोई थी।
+qwen3-8b,E011,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine last time apni Corolla February 27 par dhoyi thi.
+qwen3-8b,E011,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने अपनी Corolla को २७ फ़रवरी को धोई थी।
+qwen3-8b,E012,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You pre-ordered your Dell XPS 13 on 28 January.
+qwen3-8b,E012,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You pre-ordered your Dell XPS 13 on January 28th.
+qwen3-8b,E012,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You pre-ordered your Dell XPS 13 on January 28th.
+qwen3-8b,E012,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने 28 जनवरी को अपना Dell XPS 13 प्री-ऑर्डर किया था।
+qwen3-8b,E012,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 28 जनवरी को अपना Dell XPS 13 प्री-ऑर्डर किया था।
+qwen3-8b,E012,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 28 जनवरी को अपना Dell XPS 13 प्री-ऑर्डर किया था।
+qwen3-8b,E012,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने 28 जनवरी को प्री-ऑर्डर किया था।
+qwen3-8b,E012,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine Dell XPS 13 ko 28 janvar ko pre-order kiya tha.
+qwen3-8b,E012,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 28 जनवरी को अपना Dell XPS 13 प्री-ऑर्डर किया था।
+qwen3-8b,E013,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,Your marigold seeds arrived on 3 March.
+qwen3-8b,E013,event,True,hi,en,q1,RM-S2,NO_ANSWER,0,0,0,0,0,en,1,The information about when your marigold seeds arrived is not provided in our past conversations.
+qwen3-8b,E013,event,True,hi,en,q1,RM-S3,INCORRECT,0,0,0,0,1,en,1,You didn't mention when your marigold seeds arrived.
+qwen3-8b,E013,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मेरे गेंदे के बीज ३ मार्च को आए थे।
+qwen3-8b,E013,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपके गेंदे के बीज 3 मार्च को आए थे।
+qwen3-8b,E013,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मेरे गेंदे के बीज 3 मार्च को आए थे।
+qwen3-8b,E013,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,2,3 मार्च को।
+qwen3-8b,E013,event,True,hi,hg,q1,RM-S2,CORRECT,1,0,0,0,0,hg,1,Mere marigold ke seeds kab aaye the?
+qwen3-8b,E013,event,True,hi,hg,q1,RM-S3,INCORRECT,0,0,0,0,0,hi,2,आपने बताया नहीं कि मरिगोल्ड के बीज कब आए थे।
+qwen3-8b,E014,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,Since 20 February.
+qwen3-8b,E014,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You have been starting seeds indoors under grow lights since February 20.
+qwen3-8b,E014,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,Since February 20.
+qwen3-8b,E014,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २० फ़रवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।
+qwen3-8b,E014,event,True,hi,hi,q1,RM-S2,CORRECT,1,0,0,0,0,hi,2,आप फरवरी 20 से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।
+qwen3-8b,E014,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप २० फ़रवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।
+qwen3-8b,E014,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं २० फ़रवरी से ग्रो लाइट के नीचे बीज उगा रहा हूँ।
+qwen3-8b,E014,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aap February 20 se grow lights ke neeche seeds uga raha hoon.
+qwen3-8b,E014,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,2,20 फ़रवरी से।
+qwen3-8b,E015,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You took part in the Turbocharged Tuesdays racing event on 14 June.
+qwen3-8b,E015,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You participated in the Turbocharged Tuesdays racing event on June 14.
+qwen3-8b,E015,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You took part in the Turbocharged Tuesdays racing event on June 14.
+qwen3-8b,E015,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १४ जून को Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।
+qwen3-8b,E015,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने Turbocharged Tuesdays रेसिंग इवेंट में 14 जून को हिस्सा लिया था।
+qwen3-8b,E015,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १४ जून को Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।
+qwen3-8b,E015,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १४ जून को Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।
+qwen3-8b,E015,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne Maine Turbocharged Tuesdays racing event mein 14 June ko hissa liya tha.
+qwen3-8b,E015,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १४ जून को Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।
+qwen3-8b,E016,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You went to the Rack Fest car show on 18 June.
+qwen3-8b,E016,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You went to the Rack Fest car show on June 18th.
+qwen3-8b,E016,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You went to the Rack Fest car show on June 18th.
+qwen3-8b,E016,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १८ जून को Rack Fest कार शो में गए थे।
+qwen3-8b,E016,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 18 जून को Rack Fest कार शो में गए।
+qwen3-8b,E016,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १८ जून को Rack Fest कार शो में गए थे।
+qwen3-8b,E016,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १८ जून को Rack Fest कार शो में गए थे।
+qwen3-8b,E016,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main Rack Fest car show 18 June ko gaya tha.
+qwen3-8b,E016,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप 18 जून को Rack Fest कार शो में गए थे।
+qwen3-8b,E017,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You volunteered at the Coastal Cleanup event on 7th March.
+qwen3-8b,E017,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You volunteered at the Coastal Cleanup event on March 7th.
+qwen3-8b,E017,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You volunteered at the Coastal Cleanup event on March 7th.
+qwen3-8b,E017,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।
+qwen3-8b,E017,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 7 मार्च को कोस्टल क्लीनअप इवेंट में वॉलंटियर किया था।
+qwen3-8b,E017,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।
+qwen3-8b,E017,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।
+qwen3-8b,E017,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine Coastal Cleanup event mein March 7th ko volunteer kiya tha.
+qwen3-8b,E017,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने ७ मार्च को मेन कोस्टल क्लीनअप इवेंट में वॉलंटियर किया था।
+qwen3-8b,E018,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You attended the charity golf tournament on 17th July.
+qwen3-8b,E018,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the charity golf tournament on July 17th.
+qwen3-8b,E018,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You attended the charity golf tournament on July 17th.
+qwen3-8b,E018,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं १७ जुलाई को चैरिटी गोल्फ़ टूर्नामेंट में गया था।
+qwen3-8b,E018,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप चैरिटी गोल्फ़ टूर्नामेंट 17 जुलाई को गए थे।
+qwen3-8b,E018,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १७ जुलाई को चैरिटी गोल्फ़ टूर्नामेंट में गए थे।
+qwen3-8b,E018,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं १७ जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गया था।
+qwen3-8b,E018,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aap July 17th ko main charity golf tournament gaye the.
+qwen3-8b,E018,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं १७ जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गया था।
+qwen3-8b,E019,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You volunteered at the Food for Thought charity gala on September 25.
+qwen3-8b,E019,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You volunteered at the Food for Thought Charity Gala on September 25.
+qwen3-8b,E019,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You volunteered at the Food for Thought charity gala on September 25.
+qwen3-8b,E019,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।
+qwen3-8b,E019,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने Food for Thought चैरिटी गाला में 25 सितंबर को वॉलंटियर किया था।
+qwen3-8b,E019,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।
+qwen3-8b,E019,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।
+qwen3-8b,E019,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine Food for Thought charity gala ko 25 September ko volunteer kiya tha.
+qwen3-8b,E019,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 25 सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।
+qwen3-8b,E020,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,2,You went to the backyard BBQ at your colleague's house on 3 June.
+qwen3-8b,E020,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You went to the backyard BBQ at your colleague's house on June 3rd.
+qwen3-8b,E020,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,2,You went to the backyard BBQ at your colleague's house on June 3rd.
+qwen3-8b,E020,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं ३ जून को अपने साथी के घर के आँगन वाली BBQ पार्टी में गया था।
+qwen3-8b,E020,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप अपने साथी के घर के आँगन वाली BBQ पार्टी 3 जून को गए थे।
+qwen3-8b,E020,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप ३ जून को अपने साथी के घर के आँगन वाली BBQ पार्टी में गए थे।
+qwen3-8b,E020,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं ३ जून को अपने साथी के घर के आँगन में हुई BBQ पार्टी में गया था।
+qwen3-8b,E020,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main apne colleague ke ghar ke backyard wali BBQ party mein 3 June ko gaya tha.
+qwen3-8b,E020,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं 3 जून को अपने साथी के घर के आँगन में हुई BBQ पार्टी में गया था।
+qwen3-8b,E021,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You got your new Adidas running shoes on 10 January.
+qwen3-8b,E021,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You got your new Adidas running shoes on 10 January.
+qwen3-8b,E021,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You got your new Adidas running shoes on 10 January.
+qwen3-8b,E021,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने हाल ही में १० जनवरी को अपने नए Adidas रनिंग शूज़ लिए।
+qwen3-8b,E021,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 10 जनवरी को अपने नए Adidas रनिंग शूज़ लिए।
+qwen3-8b,E021,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 10 जनवरी को अपने नए Adidas रनिंग शूज़ लिए।
+qwen3-8b,E021,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने हाल ही में 10 जनवरी को अपने नए Adidas रनिंग शूज़ लिए।
+qwen3-8b,E021,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,Maine apne naye Adidas running shoes 10 January ko liye.
+qwen3-8b,E021,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,2,आपने 10 जनवरी को अपने नए Adidas रनिंग शूज़ लिए।
+qwen3-8b,E022,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You wore your sneakers to play basketball on February 1st.
+qwen3-8b,E022,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You wore your sneakers to play basketball on 1 February.
+qwen3-8b,E022,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You wore your sneakers to play basketball on 1 February.
+qwen3-8b,E022,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १ फ़रवरी को बास्केटबॉल खेलते समय अपने सफ़ेद स्नीकर्स पहने थे।
+qwen3-8b,E022,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 1 फरवरी को अपने स्नीकर्स पहनकर बास्केटबॉल खेला था।
+qwen3-8b,E022,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १ फ़रवरी को बास्केटबॉल खेला था।
+qwen3-8b,E022,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने 1 फ़रवरी को अपने सफ़ेद स्नीकर्स पहनकर बास्केटबॉल खेला था।
+qwen3-8b,E022,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine apne sneakers pehen ke basketball 1 February khela tha.
+qwen3-8b,E022,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने 1 फ़रवरी को अपने सफ़ेद स्नीकर्स पहनकर बास्केटबॉल खेला था।
+qwen3-8b,E023,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You got your new router on 15 January.
+qwen3-8b,E023,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You got your new router on January 15.
+qwen3-8b,E023,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You got your new router on January 15.
+qwen3-8b,E023,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १५ जनवरी को अपना नया राउटर लिया।
+qwen3-8b,E023,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने अपना नया राउटर 15 जनवरी को लिया।
+qwen3-8b,E023,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 15 जनवरी को अपना नया राउटर लिया।
+qwen3-8b,E023,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने 15 जनवरी को अपना नया राउटर लिया।
+qwen3-8b,E023,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine apna naya router 15 janvar ko liya.
+qwen3-8b,E023,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 15 जनवरी को अपना नया राउटर लिया।
+qwen3-8b,E024,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You ordered the photo album from Shutterfly on April 15th.
+qwen3-8b,E024,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You ordered the photo album from Shutterfly on April 15th.
+qwen3-8b,E024,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You ordered the photo album from Shutterfly on April 15th.
+qwen3-8b,E024,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने Shutterfly से फ़ोटो एल्बम 15 अप्रैल को ऑर्डर किया।
+qwen3-8b,E024,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 15 अप्रैल को Shutterfly से फ़ोटो एल्बम ऑर्डर किया।
+qwen3-8b,E024,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 15 अप्रैल को Shutterfly से फ़ोटो एल्बम ऑर्डर किया।
+qwen3-8b,E024,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने अपने सबसे अच्छे दोस्त के जन्मदिन के लिए 15 अप्रैल को ऑर्डर किया था।
+qwen3-8b,E024,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine Shutterfly se photo album 15 April ko order kiya.
+qwen3-8b,E024,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने 15 अप्रैल को Shutterfly से फोटो एल्बम का ऑर्डर किया।
+qwen3-8b,E025,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You submitted your application to the exchange program on February 10.
+qwen3-8b,E025,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You submitted your application to the exchange program on February 10th.
+qwen3-8b,E025,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You submitted your application to the exchange program on February 10th.
+qwen3-8b,E025,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १० फ़रवरी को एक्सचेंज प्रोग्राम के लिए आवेदन भेजा था।
+qwen3-8b,E025,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 10 फरवरी को एक्सचेंज प्रोग्राम के लिए आवेदन भेजा था।
+qwen3-8b,E025,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १० फ़रवरी को एक्सचेंज प्रोग्राम के लिए आवेदन भेजा था।
+qwen3-8b,E025,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १० फ़रवरी को एक्सचेंज प्रोग्राम के लिए आवेदन भेजा था।
+qwen3-8b,E025,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne Maine exchange program ke liye application 10 February ko bheji thi.
+qwen3-8b,E025,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने एक्सचेंज प्रोग्राम के लिए १० फ़रवरी को आवेदन भेजा था।
+qwen3-8b,E026,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,Your friend Rachel got engaged on 15 May.
+qwen3-8b,E026,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,Your friend Rachel got engaged on May 15th.
+qwen3-8b,E026,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,Your friend Rachel got engaged on May 15th.
+qwen3-8b,E026,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,रेचल की सगाई १५ मई को हुई।
+qwen3-8b,E026,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,रेचल की सगाई 15 मई को हुई।
+qwen3-8b,E026,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,रेचल की सगाई १५ मई को हुई।
+qwen3-8b,E026,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,रेचल की सगाई 15 मई को हुई।
+qwen3-8b,E026,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,Rachel की एंगेजमेंट 15 मई को हुई।
+qwen3-8b,E026,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,Rachel की सगाई 15 मई को हुई।
+qwen3-8b,E027,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You attended the pride parade on May 1st.
+qwen3-8b,E027,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the Pride Parade on May 1st.
+qwen3-8b,E027,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You attended the pride parade on May 1st.
+qwen3-8b,E027,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १ मई को प्राइड परेड में गई थी।
+qwen3-8b,E027,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 1 मई को अपने शहर के प्राइड परेड में गए थे।
+qwen3-8b,E027,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १ मई को प्राइड परेड में गई थी।
+qwen3-8b,E027,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १ मई को अपने शहर की प्राइड परेड में गई थी।
+qwen3-8b,E027,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main Pride Parade ko May 1 ko gayi thi.
+qwen3-8b,E027,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १ मई को प्राइड परेड में गई थी।
+qwen3-8b,E028,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You met your mentor Rachel on April 10th.
+qwen3-8b,E028,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You met your mentor Rachel on April 10th.
+qwen3-8b,E028,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You met your mentor Rachel on April 10th.
+qwen3-8b,E028,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप अपनी मेंटर रेचल से १० अप्रैल को मिले थे।
+qwen3-8b,E028,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप अपनी मेंटर रेचल से 10 अप्रैल को मिले थे।
+qwen3-8b,E028,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप अपनी मेंटर रेचल से १० अप्रैल को मिले थे।
+qwen3-8b,E028,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं अपनी मेंटर रेचल से १० अप्रैल को मिला था।
+qwen3-8b,E028,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main apni mentor Rachel se 10 April ko mila tha.
+qwen3-8b,E028,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १० अप्रैल को अपनी मेंटर रेचल से मिला था।
+qwen3-8b,E029,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You bought the silver necklace for your best friend on 15 March.
+qwen3-8b,E029,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You bought the silver necklace for your best friend's 30th birthday on March 15.
+qwen3-8b,E029,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You bought the silver necklace for your best friend on March 15.
+qwen3-8b,E029,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १५ मार्च को अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार ख़रीदा।
+qwen3-8b,E029,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार 15 मार्च को खरीदा।
+qwen3-8b,E029,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १५ मार्च को अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार ख़रीदा।
+qwen3-8b,E029,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने 15 मार्च को अपनी सबसे अच्छी दोस्त के 30वें जन्मदिन के लिए चाँदी के हार का खरीदा।
+qwen3-8b,E029,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aapne apni best friend ke liye silver necklace March 15 ko khareeda.
+qwen3-8b,E029,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १५ मार्च को अपनी सबसे अच्छी दोस्त के ३०वें जन्मदिन के लिए छोटे-से पेंडेंट वाला चाँदी का हार ख
+qwen3-8b,E030,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You viewed the 1-bedroom condo near the highway on February 10.
+qwen3-8b,E030,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You viewed the 1-bedroom condo near the highway on February 10th.
+qwen3-8b,E030,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You viewed the 1-bedroom condo near the highway on February 10th.
+qwen3-8b,E030,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १० फ़रवरी को हाईवे के पास वाला १-बेडरूम कॉन्डो देखा था।
+qwen3-8b,E030,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 10 फरवरी को हाईवे के पास वाला 1-बेडरूम कॉन्डो देखा था।
+qwen3-8b,E030,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १० फ़रवरी को हाईवे के पास वाला १-बेडरूम कॉन्डो देखा था।
+qwen3-8b,E030,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,तुमने १० फ़रवरी को हाईवे के पास एक १-बेडरूम कॉन्डो देखा था।
+qwen3-8b,E030,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine highway ke paas wala 1-bedroom condo 10 February ko dekha tha.
+qwen3-8b,E030,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १० फ़रवरी को एक हाईवे के पास वाला १-बेडरूम कॉन्डो देखा था।
+qwen3-8b,E031,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You saw the 3-bedroom bungalow in Oakwood on 22 January.
+qwen3-8b,E031,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You saw the 3-bedroom bungalow in Oakwood on 22 January.
+qwen3-8b,E031,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You saw the 3-bedroom bungalow in Oakwood on 22 January.
+qwen3-8b,E031,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने २२ जनवरी को ओकवुड में 3-बेडरूम बंगला देखा था।
+qwen3-8b,E031,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 22 जनवरी को ओकवुड में 3-बेडरूम बंगला देखा था।
+qwen3-8b,E031,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने ओकवुड में 3-बेडरूम बंगला 22 जनवरी को देखा था।
+qwen3-8b,E031,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने 22 जनवरी को ओकवुड इलाक़े में 3-बेडरूम बंगला देखा था।
+qwen3-8b,E031,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine Oakwood mein 3-bedroom bungalow 22 January ko dekha tha.
+qwen3-8b,E031,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने 22 जनवरी को ओकवुड में 3-बेडरूम बंगला देखा था।
+qwen3-8b,E032,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You put in an offer on the Brookside townhouse on February 25.
+qwen3-8b,E032,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You put in an offer on the Brookside townhouse on 25 February.
+qwen3-8b,E032,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You put in an offer on the Brookside townhouse on 25 February.
+qwen3-8b,E032,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने २५ फ़रवरी को ब्रुकसाइड वाले टाउनहाउस पर ऑफ़र दिया था।
+qwen3-8b,E032,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 25 फरवरी को ब्रुकसाइड वाले टाउनहाउस पर ऑफ़र दिया था।
+qwen3-8b,E032,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने २५ फ़रवरी को ब्रुकसाइड वाले टाउनहाउस पर ऑफ़र दिया था।
+qwen3-8b,E032,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने 25 फ़रवरी को ब्रुकसाइड इलाक़े में एक 3-बेडरूम टाउनहाउस पर ऑफ़र दिया था।
+qwen3-8b,E032,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,The offer on the Maine Brookside townhouse was made on 25 February.
+qwen3-8b,E032,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने 25 फ़रवरी को Brookside इलाक़े में टाउनहाउस पर ऑफ़र दिया था।
+qwen3-8b,E033,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You saw the 2-bedroom condo with the community pool on February 15.
+qwen3-8b,E033,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You saw the 2-bedroom condo with the community pool on February 15.
+qwen3-8b,E033,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,On February 15.
+qwen3-8b,E033,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १५ फ़रवरी को सोसाइटी पूल वाला २-बेडरूम कॉन्डो देखा था।
+qwen3-8b,E033,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 15 फरवरी को सोसाइटी पूल वाला 2-बेडरूम कॉन्डो देखा था।
+qwen3-8b,E033,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १५ फ़रवरी को एक २-बेडरूम कॉन्डो देखा था।
+qwen3-8b,E033,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,तुमने 15 फ़रवरी को एक 2-बेडरूम कॉन्डो के साथ प्यार हो गया था।
+qwen3-8b,E033,event,True,hi,hg,q1,RM-S2,INCORRECT,0,0,0,0,1,en,1,You haven't mentioned seeing a Maine community pool wala 2-bedroom condo in our past conversations.
+qwen3-8b,E033,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,तुमने 15 फ़रवरी को एक 2-बेडरूम कॉन्डो देखा था जिसमें सोसाइटी का पूल था।
+qwen3-8b,E034,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You saw the property in Cedar Creek on February 1st.
+qwen3-8b,E034,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You saw the property in Cedar Creek on February 1st.
+qwen3-8b,E034,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You saw the property in Cedar Creek on February 1st.
+qwen3-8b,E034,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने सीडर क्रीक वाली प्रॉपर्टी 1 फ़रवरी को देखी थी।
+qwen3-8b,E034,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने सीडर क्रीक की प्रॉपर्टी 1 फरवरी को देखी थी।
+qwen3-8b,E034,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने सीडर क्रीक वाली प्रॉपर्टी 1 फ़रवरी को देखी थी।
+qwen3-8b,E034,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने 1 फ़रवरी को सीडर क्रीक की जमीन देखी थी।
+qwen3-8b,E034,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,The Maine Cedar Creek property was seen on February 1st.
+qwen3-8b,E034,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने 1 फ़रवरी को सीडर क्रीक की गुणवत्ता वाली जगह देखी थी।
+qwen3-8b,E035,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You attended the lecture on 'The Evolution of Street Art' on 3rd March.
+qwen3-8b,E035,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the lecture on 'The Evolution of Street Art' on March 3.
+qwen3-8b,E035,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You attended the lecture on 'The Evolution of Street Art' on March 3.
+qwen3-8b,E035,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप ३ मार्च को 'The Evolution of Street Art' वाले लेक्चर में गई थी।
+qwen3-8b,E035,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 'The Evolution of Street Art' वाले लेक्चर में 3 मार्च को गई थी।
+qwen3-8b,E035,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप 3 मार्च को 'The Evolution of Street Art' वाले लेक्चर में गई थी।
+qwen3-8b,E035,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं ३ मार्च को 'The Evolution of Street Art' नाम के लेक्चर में गई थी।
+qwen3-8b,E035,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,"आपने ""The Evolution of Street Art"" वाले लेक्चर में 3 मार्च को गए थे।"
+qwen3-8b,E035,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं 3 मार्च को 'The Evolution of Street Art' वाले लेक्चर में गई थी।
+qwen3-8b,E036,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You attended the 'Women in Art' exhibition on 10 February.
+qwen3-8b,E036,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the 'Women in Art' exhibition on February 10.
+qwen3-8b,E036,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You attended the 'Women in Art' exhibition on February 10.
+qwen3-8b,E036,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० फ़रवरी को 'Women in Art' प्रदर्शनी में गए थे।
+qwen3-8b,E036,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 'Women in Art' प्रदर्शनी 10 फरवरी को गए थे।
+qwen3-8b,E036,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० फ़रवरी को 'Women in Art' प्रदर्शनी में गए थे।
+qwen3-8b,E036,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं १० फ़रवरी को 'Women in Art' प्रदर्शनी में गया था।
+qwen3-8b,E036,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main 'Women in Art' exhibition mein 10 February par gaya tha.
+qwen3-8b,E036,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं १० फ़रवरी को 'Women in Art' प्रदर्शनी में गया था।
+qwen3-8b,E037,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You volunteered at the Children's Museum 'Art Afternoon' on February 17.
+qwen3-8b,E037,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You volunteered at the Children's Museum's 'Art Afternoon' event on February 17th.
+qwen3-8b,E037,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You volunteered at the Children's Museum's 'Art Afternoon' on February 17th.
+qwen3-8b,E037,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।
+qwen3-8b,E037,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 17 फरवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' घटना में वॉलंटियर किया।
+qwen3-8b,E037,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।
+qwen3-8b,E037,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।
+qwen3-8b,E037,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine Children's Museum ke 'Art Afternoon' event mein 17 feb ko volunteer kiya.
+qwen3-8b,E037,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।
+qwen3-8b,E038,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,Your remote shutter release arrived on 10 February.
+qwen3-8b,E038,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,Your remote shutter release arrived on 10 February.
+qwen3-8b,E038,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,Your remote shutter release arrived on 10 February.
+qwen3-8b,E038,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मेरा रिमोट शटर रिलीज़ १० फ़रवरी को आया था।
+qwen3-8b,E038,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपका रिमोट शटर रिलीज़ 10 फरवरी को आया था।
+qwen3-8b,E038,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपका रिमोट शटर रिलीज़ १० फ़रवरी को आया था।
+qwen3-8b,E038,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मेरा नया रिमोट शटर रिलीज़ १० फ़रवरी को आया।
+qwen3-8b,E038,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Mera remote shutter release 10 February ko aaya tha.
+qwen3-8b,E038,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,तुम्हारा रिमोट शटर रिलीज़ 10 फ़रवरी को आया था।
+qwen3-8b,E039,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You cleaned and lubricated your road bike chain on 2nd March.
+qwen3-8b,E039,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You cleaned and lubricated your road bike chain since March 2.
+qwen3-8b,E039,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You cleaned and lubricated your road bike chain on 2nd March.
+qwen3-8b,E039,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने अपनी रोड बाइक की चेन २ मार्च को साफ़ करके तेल लगाया।
+qwen3-8b,E039,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने अपनी रोड बाइक की चेन 2 मार्च से अच्छी तरह साफ़ करके तेल लगाया।
+qwen3-8b,E039,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने अपनी रोड बाइक की चेन २ मार्च को साफ़ करके तेल लगाया।
+qwen3-8b,E039,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,2 मार्च को।
+qwen3-8b,E039,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine apni road bike ki chain March 2 ko saaf karke oil lagaya.
+qwen3-8b,E039,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,2 मार्च को।
+qwen3-8b,E040,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You got your road bike serviced at Pedal Power on 10 March.
+qwen3-8b,E040,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You got your road bike serviced at Pedal Power on March 10.
+qwen3-8b,E040,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You got your road bike serviced at Pedal Power on March 10.
+qwen3-8b,E040,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने Pedal Power में अपनी रोड बाइक की सर्विस १० मार्च को करवाई।
+qwen3-8b,E040,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने Pedal Power में अपनी रोड बाइक की सर्विस 10 मार्च को करवाई।
+qwen3-8b,E040,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने Pedal Power में अपनी रोड बाइक की सर्विस १० मार्च को करवाई।
+qwen3-8b,E040,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,10 मार्च को।
+qwen3-8b,E040,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine Pedal Power mein apni road bike ki service 10 मार्च ko karwayi.
+qwen3-8b,E040,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,10 मार्च को।
+qwen3-8b,E041,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You helped raise money for the local animal shelter on January 20.
+qwen3-8b,E041,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You helped raise money for the local animal shelter on January 20th.
+qwen3-8b,E041,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You helped raise money for the local animal shelter on January 20th.
+qwen3-8b,E041,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने २० जनवरी को स्थानीय पशु आश्रय के लिए पैसे जुटाने में मदद की।
+qwen3-8b,E041,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने स्थानीय पशु आश्रय के लिए पैसे जुटाने में 20 जनवरी की मदद की।
+qwen3-8b,E041,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने २० जनवरी को स्थानीय पशु आश्रय के लिए पैसे जुटाने में मदद की।
+qwen3-8b,E041,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने 20 जनवरी को स्थानीय पशु आश्रय के लिए पैसा जुटाने में मदद की।
+qwen3-8b,E041,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine local animal shelter ke liye paise jutane mein January 20th ko help ki.
+qwen3-8b,E041,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 20 जनवरी को एक स्थानीय पशु आश्रय के लिए पैसा जुटाने में मदद की।
+qwen3-8b,E042,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You rode Space Mountain: Ghost Galaxy at Disneyland on September 24th.
+qwen3-8b,E042,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You rode Space Mountain: Ghost Galaxy at Disneyland on September 24.
+qwen3-8b,E042,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You rode Space Mountain: Ghost Galaxy at Disneyland on September 24.
+qwen3-8b,E042,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने २४ सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की।
+qwen3-8b,E042,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी 24 सितंबर को की।
+qwen3-8b,E042,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने २४ सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की।
+qwen3-8b,E042,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने 24 सितंबर को Disneyland में Space Mountain: Ghost Galaxy की तीन बार सवारी की।
+qwen3-8b,E042,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine Disneyland mein Space Mountain: Ghost Galaxy ki ride 24 September ko ki thi.
+qwen3-8b,E042,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने 24 सितंबर को Disneyland में Space Mountain: Ghost Galaxy की राइड की।
+qwen3-8b,E043,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You rode the Xcelerator rollercoaster on October 8th.
+qwen3-8b,E043,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You rode the Xcelerator roller coaster on October 8.
+qwen3-8b,E043,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You rode the Xcelerator roller coaster on October 8.
+qwen3-8b,E043,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने 8 अक्टूबर को Xcelerator रोलरकोस्टर की सवारी की थी।
+qwen3-8b,E043,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने Xcelerator रोलरकोस्टर की सवारी 8 अक्टूबर की थी।
+qwen3-8b,E043,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 8 अक्टूबर को Xcelerator रोलरकोस्टर की सवारी की थी।
+qwen3-8b,E043,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने 8 अक्टूबर को Xcelerator रोलरकोस्टर की सवारी की।
+qwen3-8b,E043,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Maine Xcelerator roller coaster ki ride 8 October ki thi.
+qwen3-8b,E043,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 8 अक्टूबर को Xcelerator रोलरकोस्टर की सवारी की।
+qwen3-8b,E044,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You rode Revenge of the Mummy at Universal Studios Hollywood on October 15th.
+qwen3-8b,E044,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You rode the Revenge of the Mummy roller coaster at Universal Studios Hollywood on October 15th.
+qwen3-8b,E044,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You rode the Revenge of the Mummy at Universal Studios Hollywood on October 15th.
+qwen3-8b,E044,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने १५ अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy की सवारी की।
+qwen3-8b,E044,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने Universal Studios Hollywood में Revenge of the Mummy की सवारी 15 अक्टूबर को की।
+qwen3-8b,E044,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १५ अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy की सवारी की।
+qwen3-8b,E044,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैंने 15 अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy रोलरकोस्टर की लगातार तीन बार सवारी की।
+qwen3-8b,E044,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,Revenge of the Mummy ride at Universal Studios Hollywood was ridden three times in a row on October 15th.
+qwen3-8b,E044,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 15 अक्टूबर को Revenge of the Mummy की राइड की।
+qwen3-8b,E045,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You attended the one-day photography workshop on 22 February.
+qwen3-8b,E045,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the one-day photography workshop on 22 February.
+qwen3-8b,E045,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You attended the one-day photography workshop on 22 February.
+qwen3-8b,E045,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप २२ फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।
+qwen3-8b,E045,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप 22 फरवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गए थे।
+qwen3-8b,E045,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप 22 फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।
+qwen3-8b,E045,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,4,मैं २२ फ़रवरी को एक स्थानीय स्टूडियो में एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।
+qwen3-8b,E045,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main 22 February ko ek din ki photography workshop mein gayi thi.
+qwen3-8b,E045,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप 22 फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।
+qwen3-8b,E046,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You attended the half-day mindfulness workshop on 12 December.
+qwen3-8b,E046,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the half-day mindfulness workshop on December 12th.
+qwen3-8b,E046,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You attended the half-day mindfulness workshop on December 12th.
+qwen3-8b,E046,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १२ दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।
+qwen3-8b,E046,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आप आधे दिन की माइंडफ़ुलनेस वर्कशॉप 12 दिसंबर को गए थे।
+qwen3-8b,E046,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १२ दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।
+qwen3-8b,E046,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,2,आप १२ दिसंबर को अपने घर के पास एक स्टूडियो में आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।
+qwen3-8b,E046,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Aap 12 December ko ek aadhe din ki mindfulness workshop mein gaye the.
+qwen3-8b,E046,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,तुम १२ दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।
+qwen3-8b,E047,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You attended the lecture on sustainable development on 10 April.
+qwen3-8b,E047,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You attended the lecture on sustainable development on April 10.
+qwen3-8b,E047,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You attended the lecture on sustainable development on April 10.
+qwen3-8b,E047,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० अप्रैल को सतत विकास वाले लेक्चर में गई थी।
+qwen3-8b,E047,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने 10 अप्रैल को सतत विकास वाले लेक्चर में गई थी।
+qwen3-8b,E047,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० अप्रैल को सतत विकास वाले लेक्चर में गई थी।
+qwen3-8b,E047,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं १० अप्रैल को सार्वजनिक पुस्तकालय में सतत विकास पर एक लेक्चर में गई थी।
+qwen3-8b,E047,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main sustainable development wale lecture mein 10 April ko gayi thi.
+qwen3-8b,E047,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आप १० अप्रैल को सार्वजनिक पुस्तकालय में सतत विकास पर लेक्चर में गई थी।
+qwen3-8b,E048,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,2,You sold your herbs at the farmers' market on 15 May.
+qwen3-8b,E048,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,2,You sold your herbs at the farmers' market on May 15th.
+qwen3-8b,E048,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,2,You sold your herbs at the farmers' market on May 15th.
+qwen3-8b,E048,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १५ मई को किसान बाज़ार में अपनी जड़ी-बूटियाँ बेचीं।
+qwen3-8b,E048,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,2,आपने 15 मई को किसान बाज़ार में अपनी जड़ी-बूटियाँ बेचीं।
+qwen3-8b,E048,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १५ मई को किसान बाज़ार में अपनी जड़ी-बूटियाँ बेचीं।
+qwen3-8b,E048,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,तुमने १५ मई को किसान बाज़ार में अपनी जड़ी-बूटियाँ बेची।
+qwen3-8b,E048,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,2,Maine farmers' market mein apni herbs May 15th ko bechi gayi thi.
+qwen3-8b,E048,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने 15 मई को फ़ैरमर्केट में अपनी जड़ी-बूटियाँ बेची।
+qwen3-8b,E049,event,True,hi,en,q1,RM-S1,CORRECT,1,1,0,0,0,en,1,You met your old colleague Rachel at the TechConnect conference on February 10.
+qwen3-8b,E049,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You met your old colleague Rachel at the TechConnect conference on February 10.
+qwen3-8b,E049,event,True,hi,en,q1,RM-S3,CORRECT,1,1,0,0,0,en,1,You met your old colleague Rachel at the TechConnect conference on February 10.
+qwen3-8b,E049,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आप १० फ़रवरी को TechConnect कॉन्फ़्रेंस में रेचल से मिले।
+qwen3-8b,E049,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने TechConnect कॉन्फ़्रेंस में अपनी पुरानी साथी रेचल से 10 फरवरी को मिले।
+qwen3-8b,E049,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १० फ़रवरी को TechConnect कॉन्फ़्रेंस में अपनी पुरानी साथी रेचल से मिली।
+qwen3-8b,E049,event,True,hi,hg,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,मैं १० फ़रवरी को TechConnect कॉन्फ़्रेंस में अपनी पुरानी साथी रेचल से मिली।
+qwen3-8b,E049,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,0,hg,1,Main TechConnect conference mein apni purani colleague Rachel se 10 February ko mila।
+qwen3-8b,E049,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैं १० फ़रवरी को TechConnect कॉन्फ़्रेंस में अपनी पिछली कंपनी की पुरानी साथी रेचल से मिली।
+qwen3-8b,E050,event,True,hi,en,q1,RM-S1,INCORRECT,0,0,1,0,0,en,1,You got your car serviced on February 28th.
+qwen3-8b,E050,event,True,hi,en,q1,RM-S2,CORRECT,1,1,0,0,0,en,1,You had your car serviced on 10 February when the air filter was changed.
+qwen3-8b,E050,event,True,hi,en,q1,RM-S3,INCORRECT,0,0,1,0,0,en,1,You got your car serviced on February 28th.
+qwen3-8b,E050,event,True,hi,hi,q1,RM-S1,CORRECT,1,1,0,0,0,hi,1,आपने १० फ़रवरी को अपनी कार की सर्विस करवाई थी।
+qwen3-8b,E050,event,True,hi,hi,q1,RM-S2,CORRECT,1,1,0,0,0,hi,1,आपने अपनी कार की सर्विस 10 फरवरी करवाई थी।
+qwen3-8b,E050,event,True,hi,hi,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,आपने १० फ़रवरी को अपनी कार की सर्विस करवाई थी।
+qwen3-8b,E050,event,True,hi,hg,q1,RM-S1,INCORRECT,0,0,1,0,0,hi,1,मैंने २८ फ़रवरी को अपनी कार की सर्विस करवाई थी।
+qwen3-8b,E050,event,True,hi,hg,q1,RM-S2,CORRECT,1,1,0,0,1,en,1,"You don't know the exact mileage of your car, but you mentioned that service was done on 10 February when the air filter was changed."
+qwen3-8b,E050,event,True,hi,hg,q1,RM-S3,CORRECT,1,1,0,0,0,hi,1,मैंने १० फ़रवरी को अपनी कार की सर्विस करवाई थी।

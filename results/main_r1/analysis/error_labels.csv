@@ -1,0 +1,81 @@
+sid,code,note
+X001,E6,refuses
+X005,E6,refuses
+X008,E6,refuses
+X010,E6,refuses; reads Hinglish 'Maine' as a place
+X013,E5,Gardening Know How -> garbled 'गार्डनिंग नाउ हो'
+X018,OK,नाइके = Nike
+X021,E6,refuses
+X023,OK,3:1 correct
+X024,E9,repetition loop 'वे वे वे' (from 'Way Down')
+X026,E8,wrap right; sweet potato fries -> mashed potato fries
+X035,OK,जूल्स वर्ने = Jules Verne
+X036,E3,says brown sugar richer than turbinado
+X037,E7,correct UCLA then adds contradictory 'UC Berkeley'
+X038,E5,UCLA garbled to 'यूसीएली बेर्कली'
+X039,E9,answers place instead of date
+X041,E6,refuses
+X043,E6,refuses
+X045,E2,date -> '2-3 months' frequency
+X046,E9,asks the question back
+X048,E1,hedges between Gibson and Fender
+X049,E6,refuses
+X051,E6,refuses
+X053,E6,refuses
+X054,E5,quilting -> quilling (क्विलिंग)
+X055,E6,refuses
+X056,E6,refuses
+X057,E9,gives age (32) instead of birthday date
+X058,E5,Nike -> Nykaa (नाइका)
+X060,OK,turbinado correct plus extra advice
+X065,E9,does not answer
+X068,E1,sister -> brother
+X069,E8,gives reason (mild weather) but not 'spring'
+X072,E1,Hinglish 'Maine' read as US state Maine
+X073,E6,refuses
+X077,E5,Elder Scrolls -> 'Elder Towers'
+X079,E9,explains guitar differences instead of answering
+X080,E1,street food -> vegetarian food
+X083,E7,generic 'usually milk' not from memory
+X085,E6,non-committal refusal
+X086,E9,echoes the question
+X089,E9,lists commute suggestions instead of the podcasts
+X091,E6,refuses
+X092,E9,echoes the question
+X094,E7,generic 'morning or evening' not from memory
+X095,E1,gives other weekday lunch options from the same turn
+X096,E9,repetition loop
+X097,E9,echoes the question
+X099,E6,refuses
+X100,E1,spinach -> polenta
+X101,E2,Feb 17 -> 20 Feb
+X102,E6,mentions Miles Morales but says it does not know the favourite
+X103,E4,distractor Lotus Flow transliterated (missed by auto flag)
+X104,E2,April 10 -> 4 April
+X105,E1,yellow dress -> yellow ornament + glass jewellery
+X110,OK,10 comedians correct
+X111,E4,sunflowers + distractor roses (missed by auto flag)
+X112,E2,March 15 -> 3 March
+X114,E1,Canon QL17 -> 'board camera'
+X115,E6,refuses
+X116,E9,describes the bike instead of giving the date
+X117,E6,refuses
+X118,E1,sister -> mother
+X119,OK,Gibson Les Paul correct
+X120,E2,March 15 -> 3 March
+X121,E9,deflects to 'ask in your class'
+X122,E7,basil and mint correct + invented grape seeds
+X124,E9,yellow dress then repetition loop
+X128,E1,fantasy -> Marvel
+X129,E2,October 15 -> March 15
+X131,E6,refuses
+X133,E1,UCLA -> UC Berkeley
+X135,E7,unrelated 'bus pass' content
+X136,OK,correct upgrade answer (misword उपग्रह)
+X139,E9,echoes the question
+X141,E6,denies a favourite character
+X142,E1,University of Melbourne -> Victoria University of Melbourne
+X143,E7,unsupported studio advice
+X146,E1,spring -> winter
+X147,E1,sister -> 'सुन्नी'
+X123,OK,"correct: sunflowers are the users, roses the mothers (auto E4 overridden)"

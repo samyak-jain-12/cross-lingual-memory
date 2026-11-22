@@ -1,0 +1,49 @@
+aid,item_id,lang,answerable,corruption,expected_fail,change,meaning_same,key_fact_present,questions_same,natural,problems,caught_expected,caught_any
+P00|P045|hi,P045,hi,True,fact_swap,"['meaning_same', 'key_fact_present']",'Impressionist' -> 'mid-century modern'; 'इम्प्रेशनिस्ट' -> 'मॉडर्न',yes,yes,yes,yes,,False,False
+P01|P015|hi,P015,hi,True,fact_swap,"['meaning_same', 'key_fact_present']",'क्विनोआ' -> '18 जून',yes,yes,yes,yes,,False,False
+P02|P022|hi,P022,hi,True,fact_swap,"['meaning_same', 'key_fact_present']",'इचिरान' -> '55 इंच',yes,yes,yes,yes,,False,False
+P03|E030|hi,E030,hi,True,fact_swap,"['meaning_same', 'key_fact_present']",'10 फ़रवरी' -> '20 फरवरी',yes,yes,yes,yes,,False,False
+P04|E002|hi,E002,hi,True,fact_swap,"['meaning_same', 'key_fact_present']",'20 फ़रवरी' -> '1 फ़रवरी',yes,yes,yes,yes,,False,False
+P05|E027|hi,E027,hi,True,fact_swap,"['meaning_same', 'key_fact_present']",'1 मई' -> '10 फरवरी',yes,yes,yes,yes,,False,False
+P06|P009|hg,P009,hg,True,fact_swap,"['meaning_same', 'key_fact_present']",'almond milk' -> 'July 17th',yes,yes,yes,yes,,False,False
+P07|F002|hg,F002,hg,True,fact_swap,"['meaning_same', 'key_fact_present']",'Business Administration' -> '18th June',yes,yes,yes,yes,,False,False
+P08|P017|hg,P017,hg,True,fact_swap,"['meaning_same', 'key_fact_present']",'true crime' -> 'sci-fi'; 'self-improvement' -> 'fantasy',yes,yes,yes,yes,,False,False
+P09|P012|hg,P012,hg,True,fact_swap,"['meaning_same', 'key_fact_present']",'Kid Gorgeous' -> 'sadhe chhe',yes,yes,yes,yes,,False,False
+P10|F033|hg,F033,hg,True,fact_swap,"['meaning_same', 'key_fact_present']",'teen mahine' -> 'aadha ghanta',yes,yes,yes,yes,,False,False
+P11|E047|hg,E047,hg,True,fact_swap,"['meaning_same', 'key_fact_present']",'10 April' -> '10 Jan',yes,yes,yes,yes,,False,False
+P12|P014|hi,P014,hi,True,fact_drop,"['meaning_same', 'key_fact_present']",removed 'लेमन',yes,yes,yes,yes,,False,False
+P13|P013|hi,P013,hi,True,fact_drop,"['meaning_same', 'key_fact_present']",removed 'टर्बिनाडो',yes,yes,yes,yes,,False,False
+P14|F034|hi,F034,hi,True,fact_drop,"['meaning_same', 'key_fact_present']",removed 'हवाई',yes,yes,yes,yes,,False,False
+P15|P031|hi,P031,hi,True,fact_drop,"['meaning_same', 'key_fact_present']",removed 'जूल्स वर्न',yes,yes,yes,yes,,False,False
+P16|P049|hi,P049,hi,True,fact_drop,"['meaning_same', 'key_fact_present']",removed 'Defying Gravity',yes,yes,yes,yes,,False,False
+P17|E029|hi,E029,hi,True,fact_drop,"['meaning_same', 'key_fact_present']",removed '15 मार्च',yes,yes,yes,yes,,False,False
+P18|E010|hg,E010,hg,True,fact_drop,"['meaning_same', 'key_fact_present']",removed '10 April',yes,yes,yes,yes,,False,False
+P19|F023|hg,F023,hg,True,fact_drop,"['meaning_same', 'key_fact_present']",removed 'teen',yes,yes,yes,yes,,False,False
+P20|P035|hg,P035,hg,True,fact_drop,"['meaning_same', 'key_fact_present']",removed 'Miles Morales',yes,yes,yes,yes,,False,False
+P21|P010|hg,P010,hg,True,fact_drop,"['meaning_same', 'key_fact_present']",removed 'Netflix',yes,yes,yes,yes,,False,False
+P22|F041|hg,F041,hg,True,fact_drop,"['meaning_same', 'key_fact_present']",removed 'Seven Husbands of Evelyn Hugo',yes,yes,yes,yes,,False,False
+P23|P001|hg,P001,hg,True,fact_drop,"['meaning_same', 'key_fact_present']",removed 'Nike',yes,yes,yes,yes,,False,False
+P24|E041|hi,E041,hi,True,question_swap,"['meaning_same', 'questions_same']",q1 taken from P015,yes,yes,yes,yes,,False,False
+P25|F049|hi,F049,hi,True,question_swap,"['meaning_same', 'questions_same']",q1 taken from P045,yes,yes,yes,yes,,False,False
+P26|P002|hi,P002,hi,True,question_swap,"['meaning_same', 'questions_same']",q1 taken from E002,yes,yes,yes,yes,,False,False
+P27|P042|hi,P042,hi,True,question_swap,"['meaning_same', 'questions_same']",q1 taken from P043,yes,yes,yes,yes,,False,False
+P28|E045|hi,E045,hi,True,question_swap,"['meaning_same', 'questions_same']",q1 taken from E010,yes,yes,yes,yes,,False,False
+P29|E007|hi,E007,hi,True,question_swap,"['meaning_same', 'questions_same']",q1 taken from E044,yes,yes,yes,yes,,False,False
+P30|P018|hg,P018,hg,True,question_swap,"['meaning_same', 'questions_same']",q1 taken from E048,yes,yes,yes,yes,,False,False
+P31|F001|hg,F001,hg,True,question_swap,"['meaning_same', 'questions_same']",q1 taken from F043,yes,yes,yes,yes,,False,False
+P32|E037|hg,E037,hg,True,question_swap,"['meaning_same', 'questions_same']",q1 taken from F030,yes,yes,yes,yes,,False,False
+P33|E049|hg,E049,hg,True,question_swap,"['meaning_same', 'questions_same']",q1 taken from E021,no,yes,no,no,"The translations contain several inaccuracies and do not flow naturally. There are misspellings, incorrect word choices, and the context is often misinterpreted.",True,True
+P34|F027|hg,F027,hg,True,question_swap,"['meaning_same', 'questions_same']",q1 taken from E014,yes,yes,yes,yes,,False,False
+P35|F037|hg,F037,hg,True,question_swap,"['meaning_same', 'questions_same']",q1 taken from P049,yes,yes,yes,yes,,False,False
+P36|E031|hi,E031,hi,True,memory_swap,"['meaning_same', 'key_fact_present']",memory_turn taken from E036,yes,yes,yes,yes,,False,False
+P37|E023|hi,E023,hi,True,memory_swap,"['meaning_same', 'key_fact_present']",memory_turn taken from P047,yes,yes,yes,yes,,False,False
+P38|E016|hi,E016,hi,True,memory_swap,"['meaning_same', 'key_fact_present']",memory_turn taken from F021,yes,yes,yes,yes,,False,False
+P39|F004|hi,F004,hi,True,memory_swap,"['meaning_same', 'key_fact_present']",memory_turn taken from P020,yes,yes,yes,yes,,False,False
+P40|E008|hi,E008,hi,True,memory_swap,"['meaning_same', 'key_fact_present']",memory_turn taken from F028,yes,yes,yes,yes,,False,False
+P41|E006|hi,E006,hi,True,memory_swap,"['meaning_same', 'key_fact_present']",memory_turn taken from P040,yes,yes,yes,yes,,False,False
+P42|P029|hg,P029,hg,True,memory_swap,"['meaning_same', 'key_fact_present']",memory_turn taken from E007,yes,yes,yes,yes,,False,False
+P43|E003|hg,E003,hg,True,memory_swap,"['meaning_same', 'key_fact_present']",memory_turn taken from F021,yes,yes,yes,no,"The translations contain irrelevant and added information, do not accurately convey the meaning of the source text, and deviate from natural Hinglish. They also introduce new questions that are not related to the original content.",False,False
+P44|P007|hg,P007,hg,True,memory_swap,"['meaning_same', 'key_fact_present']",memory_turn taken from F004,no,yes,no,no,"The translations contain non-related content (e.g., referring to the Great Ocean Road and a roommate's preference for Scandinavian minimalism) and do not accurately convey the original meaning or key fact.",True,True
+P45|F014|hg,F014,hg,True,memory_swap,"['meaning_same', 'key_fact_present']",memory_turn taken from E048,yes,yes,yes,yes,,False,False
+P46|P030|hg,P030,hg,True,memory_swap,"['meaning_same', 'key_fact_present']",memory_turn taken from P016,yes,yes,yes,yes,,False,False
+P47|F032|hg,F032,hg,True,memory_swap,"['meaning_same', 'key_fact_present']",memory_turn taken from F023,yes,yes,yes,yes,,False,False

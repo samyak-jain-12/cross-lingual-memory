@@ -1,0 +1,6 @@
+QA report for batch06_controls: 0 answerable + 12 abstention items
+ERRORS: 0
+WARNINGS: 0
+BALANCE (type, gender): {}
+DISTRACTORS per type: {}
+EVIDENCE POSITION (type, slot): {}

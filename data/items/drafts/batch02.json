@@ -1,0 +1,1601 @@
+{
+ "batch": "batch02",
+ "drafted_by": "Claude Opus 5.5 (claude-opus-5-5), 19 Nov 2026",
+ "status": "DRAFT - LLM-drafted; human verification decision pending (ENDSEM_PLAN.md §2)",
+ "items": [
+  {
+   "item_id": "F011",
+   "cand_id": "FC108",
+   "memory_type": "fact",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I went to the local community theater last weekend, and the play I saw was a production of The Glass Menagerie. My niece Emily loved it too. Do you think she should audition for a role next season?",
+     "assistant_reply": "Community theater is a friendly place to start. If she enjoys performing, an audition is great practice even if she doesn't get a big role. Encourage her to prepare a short monologue.",
+     "followup_turn": "What should she wear to the audition?",
+     "followup_reply": "Simple, comfortable clothes she can move in, with no distracting logos. Directors want to see her expressions and hear her voice, not the outfit.",
+     "q1": "Which play did I see at the local community theater?",
+     "q2": "What was the name of the play I watched at the community theater?",
+     "q3": "My friend is asking what I watched on stage recently. What should I tell her?",
+     "distractor_sentence": "My cousin went to see Death of a Salesman at the same theater last month."
+    },
+    "hi": {
+     "memory_turn": "मैं पिछले वीकेंड यहाँ के कम्युनिटी थिएटर गई थी, और वहाँ मैंने The Glass Menagerie का नाटक देखा। मेरी भतीजी एमिली को भी यह बहुत पसंद आया। क्या उसे अगले सीज़न में किसी रोल के लिए ऑडिशन देना चाहिए?",
+     "assistant_reply": "कम्युनिटी थिएटर शुरुआत के लिए अच्छी जगह है। अगर उसे अभिनय पसंद है, तो ऑडिशन अच्छा अभ्यास है, चाहे बड़ा रोल न भी मिले। उसे एक छोटा मोनोलॉग तैयार करने को कहिए।",
+     "followup_turn": "ऑडिशन में उसे क्या पहनना चाहिए?",
+     "followup_reply": "सादे, आरामदायक कपड़े जिनमें वह आसानी से हिल-डुल सके, बिना बड़े लोगो के। डायरेक्टर उसकी आवाज़ और भाव देखना चाहते हैं, कपड़े नहीं।",
+     "q1": "मैंने कम्युनिटी थिएटर में कौन-सा नाटक देखा था?",
+     "q2": "कम्युनिटी थिएटर में जो नाटक मैंने देखा, उसका नाम क्या था?",
+     "q3": "मेरी दोस्त पूछ रही है कि मैंने हाल में स्टेज पर क्या देखा। उसे क्या बताऊँ?",
+     "distractor_sentence": "मेरे कज़िन ने पिछले महीने उसी थिएटर में Death of a Salesman देखा था।"
+    },
+    "hg": {
+     "memory_turn": "Main pichhle weekend local community theatre gayi thi, aur wahan maine The Glass Menagerie ka play dekha. Meri bhatiji Emily ko bhi yeh bahut pasand aaya. Kya use next season mein kisi role ke liye audition dena chahiye?",
+     "assistant_reply": "Community theatre shuru karne ke liye acchi jagah hai. Agar use acting pasand hai, toh audition accha practice hai, chahe bada role na mile. Use ek chhota monologue taiyaar karne ko kahiye.",
+     "followup_turn": "Audition mein use kya pehenna chahiye?",
+     "followup_reply": "Simple, comfortable kapde jinmein woh aasani se move kar sake, bina bade logo ke. Director uski awaaz aur expressions dekhna chahte hain, kapde nahi.",
+     "q1": "Maine community theatre mein kaunsa play dekha tha?",
+     "q2": "Community theatre mein jo play maine dekha, uska naam kya tha?",
+     "q3": "Meri friend pooch rahi hai ki maine recently stage pe kya dekha. Use kya bataun?",
+     "distractor_sentence": "Mere cousin ne pichhle mahine usi theatre mein Death of a Salesman dekha tha."
+    }
+   },
+   "gold": {
+    "answer_en": "The Glass Menagerie",
+    "slots": [
+     {
+      "name": "play",
+      "aliases": [
+       "The Glass Menagerie",
+       "Glass Menagerie",
+       "द ग्लास मेनेजरी",
+       "ग्लास मेनेजरी"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "Death of a Salesman",
+     "डेथ ऑफ़ अ सेल्समैन"
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "F012",
+   "cand_id": "FC109",
+   "memory_type": "fact",
+   "user_gender": "male",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I've been listening to a playlist I created on Spotify called Summer Vibes. It's full of chill tracks for relaxing or working out. Can you suggest a service that helps me discover new ambient and lo-fi artists?",
+     "assistant_reply": "Spotify's own Discover Weekly is a good start, and Bandcamp is great for independent ambient and lo-fi artists. Last.fm can also suggest similar artists based on what you already play.",
+     "followup_turn": "Is Bandcamp free to use?",
+     "followup_reply": "Yes, browsing and streaming most tracks is free. You pay only if you want to buy and download music, and much of that money goes directly to the artists.",
+     "q1": "What is the name of the playlist I made on Spotify?",
+     "q2": "What did I call my own Spotify playlist?"
+    },
+    "hi": {
+     "memory_turn": "मैं Spotify पर अपनी बनाई हुई एक प्लेलिस्ट सुन रहा हूँ, जिसका नाम Summer Vibes है। इसमें आराम करने या वर्कआउट के लिए शांत गाने हैं। क्या आप कोई ऐसी सर्विस बता सकते हैं जिससे मैं नए ambient और lo-fi आर्टिस्ट खोज सकूँ?",
+     "assistant_reply": "Spotify का अपना Discover Weekly अच्छी शुरुआत है, और स्वतंत्र ambient और lo-fi आर्टिस्ट के लिए Bandcamp बढ़िया है। Last.fm भी आपकी पसंद के हिसाब से मिलते-जुलते आर्टिस्ट सुझा सकता है।",
+     "followup_turn": "क्या Bandcamp इस्तेमाल करना मुफ़्त है?",
+     "followup_reply": "हाँ, ज़्यादातर गाने देखना और सुनना मुफ़्त है। पैसे सिर्फ़ तब लगते हैं जब आप संगीत ख़रीदकर डाउनलोड करना चाहें, और उसका बड़ा हिस्सा सीधे आर्टिस्ट को जाता है।",
+     "q1": "Spotify पर मैंने जो प्लेलिस्ट बनाई है, उसका नाम क्या है?",
+     "q2": "मैंने अपनी Spotify प्लेलिस्ट का क्या नाम रखा है?"
+    },
+    "hg": {
+     "memory_turn": "Main Spotify pe apni banayi hui ek playlist sun raha hoon, jiska naam Summer Vibes hai. Ismein relax karne ya workout ke liye chill songs hain. Kya aap koi aisi service bata sakte hain jisse main naye ambient aur lo-fi artists discover kar sakoon?",
+     "assistant_reply": "Spotify ka apna Discover Weekly accha start hai, aur independent ambient aur lo-fi artists ke liye Bandcamp badhiya hai. Last.fm bhi aapki pasand ke hisaab se milte-julte artists suggest kar sakta hai.",
+     "followup_turn": "Kya Bandcamp use karna free hai?",
+     "followup_reply": "Haan, zyaadatar tracks browse karna aur sunna free hai. Paise sirf tab lagte hain jab aap music khareed ke download karna chahein, aur uska bada hissa seedha artists ko jaata hai.",
+     "q1": "Spotify pe maine jo playlist banayi hai, uska naam kya hai?",
+     "q2": "Maine apni Spotify playlist ka kya naam rakha hai?"
+    }
+   },
+   "gold": {
+    "answer_en": "Summer Vibes",
+    "slots": [
+     {
+      "name": "playlist",
+      "aliases": [
+       "Summer Vibes",
+       "समर वाइब्स"
+      ]
+     }
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "F013",
+   "cand_id": "FC111",
+   "memory_type": "fact",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I've been using the Down Dog app for my home practice, which helps on days when I can't make it to my classes at Serenity Yoga. Can you suggest a short evening routine for better sleep?",
+     "assistant_reply": "Try ten minutes of gentle stretches: child's pose, a seated forward fold, legs up the wall and a reclined twist. Hold each for about a minute and breathe slowly through your nose.",
+     "followup_turn": "Should I avoid any poses right before bed?",
+     "followup_reply": "Skip strong backbends and fast flows, since they can be energising. Keep the session slow, quiet and close to the floor.",
+     "q1": "Where do I take my yoga classes?",
+     "q2": "Which studio do I go to for yoga classes?",
+     "distractor_sentence": "My roommate goes to Lotus Flow Studio for her yoga, but she says it's always crowded."
+    },
+    "hi": {
+     "memory_turn": "घर पर प्रैक्टिस के लिए मैं Down Dog ऐप इस्तेमाल कर रही हूँ, जिससे उन दिनों मदद मिलती है जब मैं Serenity Yoga की क्लास में नहीं जा पाती। क्या आप अच्छी नींद के लिए शाम का कोई छोटा रूटीन बता सकते हैं?",
+     "assistant_reply": "दस मिनट के हल्के स्ट्रेच आज़माइए: चाइल्ड पोज़, बैठकर आगे झुकना, दीवार पर पैर टिकाना और लेटकर ट्विस्ट। हर एक को करीब एक मिनट रोकें और नाक से धीरे-धीरे साँस लें।",
+     "followup_turn": "क्या सोने से ठीक पहले कुछ आसन नहीं करने चाहिए?",
+     "followup_reply": "तेज़ बैकबेंड और तेज़ फ़्लो से बचें, क्योंकि ये शरीर में ऊर्जा भर देते हैं। सेशन धीमा, शांत और ज़मीन के पास रखें।",
+     "q1": "मैं योगा क्लास कहाँ लेती हूँ?",
+     "q2": "योगा क्लास के लिए मैं किस स्टूडियो में जाती हूँ?",
+     "distractor_sentence": "मेरी रूममेट योगा के लिए Lotus Flow Studio जाती है, पर उसका कहना है कि वहाँ हमेशा भीड़ रहती है।"
+    },
+    "hg": {
+     "memory_turn": "Ghar pe practice ke liye main Down Dog app use kar rahi hoon, jisse un dinon help milti hai jab main Serenity Yoga ki class mein nahi ja paati. Kya aap acchi neend ke liye shaam ka koi chhota routine bata sakte hain?",
+     "assistant_reply": "Das minute ke halke stretches try kijiye: child's pose, baith ke aage jhukna, deewar pe pair tikana aur let ke twist. Har ek ko kareeb ek minute hold karein aur naak se dheere-dheere saans lein.",
+     "followup_turn": "Kya sone se theek pehle kuch poses avoid karne chahiye?",
+     "followup_reply": "Strong backbends aur fast flows avoid karein, kyunki yeh energy badha dete hain. Session slow, shaant aur zameen ke paas rakhein.",
+     "q1": "Main yoga classes kahan leti hoon?",
+     "q2": "Yoga class ke liye main kaunse studio jaati hoon?",
+     "distractor_sentence": "Meri roommate yoga ke liye Lotus Flow Studio jaati hai, par uska kehna hai ki wahan hamesha bheed rehti hai."
+    }
+   },
+   "gold": {
+    "answer_en": "Serenity Yoga",
+    "slots": [
+     {
+      "name": "studio",
+      "aliases": [
+       "Serenity Yoga",
+       "Serenity",
+       "सेरेनिटी योगा",
+       "सेरेनिटी"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "Lotus Flow",
+     "लोटस फ़्लो"
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "F014",
+   "cand_id": "FC112",
+   "memory_type": "fact",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I've been redecorating and recently repainted my bedroom walls a lighter shade of gray, which makes the room feel much brighter. Now I want some plants for it. Is a ZZ plant easy to care for?",
+     "assistant_reply": "Yes, ZZ plants are very forgiving. Water only when the soil is completely dry, usually every two to three weeks, and feed it lightly once a month in spring and summer.",
+     "followup_turn": "Can it survive in a room with only one small window?",
+     "followup_reply": "It can. ZZ plants tolerate low light well, though they grow more slowly there. Just keep it away from cold drafts in winter.",
+     "q1": "What colour did I repaint my bedroom walls?",
+     "q2": "Which colour are my bedroom walls now, after I repainted them?",
+     "q3": "I'm choosing curtains for the room where I sleep. What colour are the walls there?",
+     "distractor_sentence": "My brother painted his living room beige last year and now regrets it."
+    },
+    "hi": {
+     "memory_turn": "मैं घर की सजावट बदल रहा हूँ और हाल ही में मैंने बेडरूम की दीवारों पर हल्का ग्रे रंग करवाया है, जिससे कमरा काफ़ी रोशन लगता है। अब मुझे उसके लिए कुछ पौधे चाहिए। क्या ZZ प्लांट की देखभाल आसान है?",
+     "assistant_reply": "हाँ, ZZ प्लांट बहुत सहनशील होता है। मिट्टी पूरी सूख जाने पर ही पानी दें, आमतौर पर दो-तीन हफ़्ते में एक बार, और वसंत व गर्मियों में महीने में एक बार हल्की खाद दें।",
+     "followup_turn": "क्या यह सिर्फ़ एक छोटी खिड़की वाले कमरे में रह पाएगा?",
+     "followup_reply": "हाँ। ZZ प्लांट कम रोशनी में भी ठीक रहता है, बस वहाँ धीरे बढ़ता है। सर्दियों में इसे ठंडी हवा से दूर रखें।",
+     "q1": "मैंने अपने बेडरूम की दीवारों पर कौन-सा रंग करवाया?",
+     "q2": "दोबारा पेंट करवाने के बाद मेरे बेडरूम की दीवारें अब किस रंग की हैं?",
+     "q3": "मैं जिस कमरे में सोता हूँ उसके लिए पर्दे चुन रहा हूँ। वहाँ की दीवारें किस रंग की हैं?",
+     "distractor_sentence": "मेरे भाई ने पिछले साल अपना लिविंग रूम बेज रंग में पेंट करवाया और अब पछता रहा है।"
+    },
+    "hg": {
+     "memory_turn": "Main ghar ka decor badal raha hoon aur haal hi mein maine bedroom ki deewaron pe light grey colour karwaya hai, jisse room kaafi bright lagta hai. Ab mujhe uske liye kuch plants chahiye. Kya ZZ plant ki care easy hai?",
+     "assistant_reply": "Haan, ZZ plant bahut forgiving hota hai. Mitti poori sookh jaane pe hi paani dein, usually do-teen hafte mein ek baar, aur spring aur garmiyon mein mahine mein ek baar halki khaad dein.",
+     "followup_turn": "Kya yeh sirf ek chhoti khidki wale room mein survive kar payega?",
+     "followup_reply": "Haan. ZZ plant kam roshni mein bhi theek rehta hai, bas wahan dheere badhta hai. Sardiyon mein ise thandi hawa se door rakhein.",
+     "q1": "Maine apne bedroom ki deewaron pe kaunsa colour karwaya?",
+     "q2": "Repaint ke baad mere bedroom ki deewarein ab kis colour ki hain?",
+     "q3": "Main jis room mein sota hoon uske liye curtains choose kar raha hoon. Wahan ki deewarein kis colour ki hain?",
+     "distractor_sentence": "Mere bhai ne pichhle saal apna living room beige paint karwaya aur ab pachhta raha hai."
+    }
+   },
+   "gold": {
+    "answer_en": "a lighter shade of gray",
+    "slots": [
+     {
+      "name": "colour",
+      "aliases": [
+       "gray",
+       "grey",
+       "ग्रे",
+       "सलेटी"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "beige",
+     "बेज"
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "F015",
+   "cand_id": "FC114",
+   "memory_type": "fact",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I'm really happy with my new tennis racket, which I got from a sports store downtown. I feel like it has improved my game. Any tips on how to clean and maintain it?",
+     "assistant_reply": "Wipe the frame with a damp cloth after play, keep it out of hot cars, and store it in a cover. Replace the grip when it gets slippery, and restring it regularly if you play often.",
+     "followup_turn": "How do I know when the strings need replacing?",
+     "followup_reply": "If they keep moving out of place, feel dead, or the ball stops responding the way it used to, it's time. Visible fraying is another clear sign.",
+     "q1": "Where did I buy my new tennis racket?",
+     "q2": "From which shop did I get my new tennis racket?"
+    },
+    "hi": {
+     "memory_turn": "मैं अपने नए टेनिस रैकेट से बहुत ख़ुश हूँ, जो मैंने शहर के मेन मार्केट के एक स्पोर्ट्स स्टोर से लिया था। मुझे लगता है इससे मेरा खेल बेहतर हुआ है। इसकी सफ़ाई और देखभाल के लिए कोई टिप्स?",
+     "assistant_reply": "खेलने के बाद फ़्रेम को गीले कपड़े से पोंछें, इसे धूप में खड़ी गाड़ी में न छोड़ें और कवर में रखें। ग्रिप फिसलने लगे तो बदल दें, और अगर आप अक्सर खेलती हैं तो नियमित रूप से तारें बदलवाएँ।",
+     "followup_turn": "कैसे पता चलेगा कि तारें बदलने का समय आ गया है?",
+     "followup_reply": "अगर तारें बार-बार अपनी जगह से खिसकती हैं, बेजान लगती हैं या गेंद पहले जैसी प्रतिक्रिया नहीं देती, तो समय आ गया है। तारों का घिसना भी साफ़ संकेत है।",
+     "q1": "मैंने अपना नया टेनिस रैकेट कहाँ से ख़रीदा?",
+     "q2": "मैंने अपना नया टेनिस रैकेट किस दुकान से लिया था?"
+    },
+    "hg": {
+     "memory_turn": "Main apne naye tennis racket se bahut khush hoon, jo maine downtown ke ek sports store se liya tha. Mujhe lagta hai isse mera game better hua hai. Iski cleaning aur maintenance ke liye koi tips?",
+     "assistant_reply": "Khelne ke baad frame ko geele kapde se pochhein, ise dhoop mein khadi gaadi mein na chhodein aur cover mein rakhein. Grip slippery ho jaaye toh badal dein, aur agar aap aksar khelti hain toh regularly strings badlwayein.",
+     "followup_turn": "Kaise pata chalega ki strings badalne ka time aa gaya hai?",
+     "followup_reply": "Agar strings baar-baar apni jagah se khisakti hain, dead lagti hain ya ball pehle jaisa response nahi deti, toh time aa gaya hai. Strings ka ghisna bhi clear sign hai.",
+     "q1": "Maine apna naya tennis racket kahan se khareeda?",
+     "q2": "Mera naya tennis racket kis shop se liya tha?"
+    }
+   },
+   "gold": {
+    "answer_en": "a sports store downtown",
+    "slots": [
+     {
+      "name": "shop",
+      "aliases": [
+       "sports store",
+       "sports shop",
+       "स्पोर्ट्स स्टोर",
+       "स्पोर्ट्स की दुकान"
+      ]
+     }
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "F016",
+   "cand_id": "FC115",
+   "memory_type": "fact",
+   "user_gender": "male",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "In my previous role as a marketing specialist at a small startup, I used Trello every day. Now I'm exploring other tools. How does ClickUp differ from Trello?",
+     "assistant_reply": "Trello is simple and board-based, which suits small teams. ClickUp packs in more: lists, timelines, docs, goals and time tracking in one place, but it takes longer to learn.",
+     "followup_turn": "Which one would be better for managing a team of five?",
+     "followup_reply": "For five people with straightforward projects, Trello is usually enough. Choose ClickUp if you need dependencies, reporting or several project views.",
+     "q1": "What was my previous job?",
+     "q2": "What did I work as before my current role?"
+    },
+    "hi": {
+     "memory_turn": "अपनी पिछली नौकरी में मैं एक छोटे स्टार्टअप में मार्केटिंग स्पेशलिस्ट था, और रोज़ Trello इस्तेमाल करता था। अब मैं दूसरे टूल देख रहा हूँ। ClickUp, Trello से कैसे अलग है?",
+     "assistant_reply": "Trello सरल है और बोर्ड पर आधारित है, जो छोटी टीमों के लिए ठीक है। ClickUp में ज़्यादा चीज़ें हैं: लिस्ट, टाइमलाइन, डॉक्स, लक्ष्य और टाइम ट्रैकिंग एक ही जगह, पर इसे सीखने में ज़्यादा समय लगता है।",
+     "followup_turn": "पाँच लोगों की टीम संभालने के लिए कौन-सा बेहतर रहेगा?",
+     "followup_reply": "सीधे-सादे प्रोजेक्ट वाले पाँच लोगों के लिए Trello आमतौर पर काफ़ी है। अगर आपको डिपेंडेंसी, रिपोर्टिंग या कई प्रोजेक्ट व्यू चाहिए, तो ClickUp चुनें।",
+     "q1": "मेरी पिछली नौकरी क्या थी?",
+     "q2": "अभी के काम से पहले मैं क्या काम करता था?"
+    },
+    "hg": {
+     "memory_turn": "Apni pichhli job mein main ek chhote startup mein marketing specialist tha, aur roz Trello use karta tha. Ab main doosre tools dekh raha hoon. ClickUp, Trello se kaise alag hai?",
+     "assistant_reply": "Trello simple hai aur board-based hai, jo chhoti teams ke liye theek hai. ClickUp mein zyaada cheezein hain: lists, timelines, docs, goals aur time tracking ek hi jagah, par ise seekhne mein zyaada time lagta hai.",
+     "followup_turn": "Paanch logon ki team manage karne ke liye kaunsa better rahega?",
+     "followup_reply": "Seedhe-saade projects wale paanch logon ke liye Trello usually kaafi hai. Agar aapko dependencies, reporting ya kai project views chahiye, toh ClickUp chunein.",
+     "q1": "Meri pichhli job kya thi?",
+     "q2": "Abhi ke kaam se pehle main kya kaam karta tha?"
+    }
+   },
+   "gold": {
+    "answer_en": "marketing specialist at a small startup",
+    "slots": [
+     {
+      "name": "job",
+      "aliases": [
+       "marketing specialist",
+       "marketing",
+       "मार्केटिंग"
+      ]
+     }
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "F017",
+   "cand_id": "FC116",
+   "memory_type": "fact",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I want to start tracking my expenses. I've been using my credit card a lot, and last month I bought a designer handbag for $800. Can you recommend a good budgeting app?",
+     "assistant_reply": "YNAB is great if you want to give every dollar a job in advance, while Wallet or Monefy are simpler for logging daily spending. Linking your card makes tracking automatic.",
+     "followup_turn": "How much of my income should go to fun spending?",
+     "followup_reply": "A common rule is 50/30/20: half for needs, 30 percent for wants and 20 percent for savings. Adjust it if you have debt to pay off first.",
+     "q1": "How much did I spend on the designer handbag?",
+     "q2": "What did the designer handbag I bought cost me?",
+     "q3": "I'm adding up last month's big purchases for my budget. What amount should I write down for my bag?",
+     "distractor_sentence": "My sister spent $450 on a pair of boots last week."
+    },
+    "hi": {
+     "memory_turn": "मैं अपने ख़र्चों का हिसाब रखना शुरू करना चाहती हूँ। मैं क्रेडिट कार्ड बहुत इस्तेमाल कर रही हूँ, और पिछले महीने मैंने $800 का एक डिज़ाइनर हैंडबैग ख़रीदा। क्या आप कोई अच्छा बजटिंग ऐप बता सकते हैं?",
+     "assistant_reply": "अगर आप हर डॉलर की योजना पहले से बनाना चाहती हैं तो YNAB बढ़िया है, जबकि रोज़ का ख़र्च लिखने के लिए Wallet या Monefy ज़्यादा आसान हैं। कार्ड लिंक करने से हिसाब अपने-आप बनता रहता है।",
+     "followup_turn": "मेरी आमदनी का कितना हिस्सा मौज-मस्ती पर ख़र्च होना चाहिए?",
+     "followup_reply": "एक आम नियम 50/30/20 है: आधा ज़रूरतों के लिए, 30 प्रतिशत इच्छाओं के लिए और 20 प्रतिशत बचत के लिए। अगर पहले कोई क़र्ज़ चुकाना है तो इसे बदल लें।",
+     "q1": "डिज़ाइनर हैंडबैग पर मैंने कितने पैसे ख़र्च किए?",
+     "q2": "जो डिज़ाइनर हैंडबैग मैंने ख़रीदा, वह मुझे कितने का पड़ा?",
+     "q3": "मैं बजट के लिए पिछले महीने की बड़ी ख़रीदारियाँ जोड़ रही हूँ। अपने बैग के लिए कितनी रक़म लिखूँ?",
+     "distractor_sentence": "मेरी बहन ने पिछले हफ़्ते एक जोड़ी बूट्स पर $450 ख़र्च कर दिए।"
+    },
+    "hg": {
+     "memory_turn": "Main apne kharchon ka hisaab rakhna shuru karna chahti hoon. Main credit card bahut use kar rahi hoon, aur pichhle mahine maine $800 ka ek designer handbag khareeda. Kya aap koi accha budgeting app bata sakte hain?",
+     "assistant_reply": "Agar aap har dollar ka plan pehle se banana chahti hain toh YNAB badhiya hai, jabki roz ka kharcha likhne ke liye Wallet ya Monefy zyaada easy hain. Card link karne se tracking automatic ho jaati hai.",
+     "followup_turn": "Meri income ka kitna hissa fun spending pe jaana chahiye?",
+     "followup_reply": "Ek common rule 50/30/20 hai: aadha zarooraton ke liye, 30 percent wants ke liye aur 20 percent savings ke liye. Agar pehle koi loan chukana hai toh ise adjust kar lein.",
+     "q1": "Designer handbag pe maine kitne paise kharch kiye?",
+     "q2": "Jo designer handbag maine khareeda, woh mujhe kitne ka pada?",
+     "q3": "Main budget ke liye pichhle mahine ki badi shopping jod rahi hoon. Apne bag ke liye kitna amount likhun?",
+     "distractor_sentence": "Meri behen ne pichhle hafte ek pair boots pe $450 kharch kar diye."
+    }
+   },
+   "gold": {
+    "answer_en": "$800",
+    "slots": [
+     {
+      "name": "amount",
+      "aliases": [
+       "$800",
+       "800 dollars",
+       "800 dollar",
+       "800",
+       "800 डॉलर"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "$450",
+     "450"
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "F018",
+   "cand_id": "FC119",
+   "memory_type": "fact",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "Speaking of first purchases, I got a 10% discount on my first order from a new clothing brand I found on Instagram. I want to promote my writing services there too. Any tips for getting started?",
+     "assistant_reply": "Pick one clear niche, use a simple bio that says what you write and for whom, and post samples or short tips three times a week. Engaging with other writers' posts helps people find you.",
+     "followup_turn": "Should I use a personal account or a business account?",
+     "followup_reply": "A business or creator account is better, because it shows insights about who sees your posts and lets you add a contact button.",
+     "q1": "What discount did I get on my first purchase from the new clothing brand?",
+     "q2": "How much off did the new clothing brand give me on my first order?",
+     "q3": "My friend wants to try that clothing brand I found on Instagram. How much will she save on her first order if she gets the same deal I did?",
+     "distractor_sentence": "My friend got 25% off at a shoe website that same week."
+    },
+    "hi": {
+     "memory_turn": "पहली ख़रीदारी की बात चली तो, Instagram पर मिले एक नए कपड़ों के ब्रांड से मेरे पहले ऑर्डर पर मुझे 10% की छूट मिली थी। मैं वहाँ अपनी राइटिंग सर्विस का प्रचार भी करना चाहता हूँ। शुरुआत के लिए कोई टिप्स?",
+     "assistant_reply": "एक साफ़ विषय चुनें, बायो में सरल शब्दों में लिखें कि आप क्या और किसके लिए लिखते हैं, और हफ़्ते में तीन बार सैंपल या छोटे टिप्स पोस्ट करें। दूसरे लेखकों की पोस्ट पर जुड़ने से लोग आपको ढूँढ पाते हैं।",
+     "followup_turn": "पर्सनल अकाउंट इस्तेमाल करूँ या बिज़नेस अकाउंट?",
+     "followup_reply": "बिज़नेस या क्रिएटर अकाउंट बेहतर है, क्योंकि इसमें दिखता है कि आपकी पोस्ट कौन देख रहा है और आप कॉन्टैक्ट बटन जोड़ सकते हैं।",
+     "q1": "नए कपड़ों के ब्रांड से पहली ख़रीदारी पर मुझे कितनी छूट मिली थी?",
+     "q2": "नए कपड़ों के ब्रांड ने मेरे पहले ऑर्डर पर कितना डिस्काउंट दिया था?",
+     "q3": "मेरी दोस्त Instagram वाले उस कपड़ों के ब्रांड से ख़रीदना चाहती है। अगर उसे भी मेरे जैसा ऑफ़र मिले, तो पहले ऑर्डर पर कितनी बचत होगी?",
+     "distractor_sentence": "मेरे दोस्त को उसी हफ़्ते एक जूतों की वेबसाइट पर 25% की छूट मिली थी।"
+    },
+    "hg": {
+     "memory_turn": "First purchase ki baat chali toh, Instagram pe mile ek naye clothing brand se mere pehle order pe mujhe 10% discount mila tha. Main wahan apni writing services promote bhi karna chahta hoon. Shuru karne ke liye koi tips?",
+     "assistant_reply": "Ek clear niche chunein, bio mein simple words mein likhein ki aap kya aur kiske liye likhte hain, aur hafte mein teen baar samples ya chhote tips post karein. Doosre writers ki posts pe engage karne se log aapko dhoondh paate hain.",
+     "followup_turn": "Personal account use karoon ya business account?",
+     "followup_reply": "Business ya creator account better hai, kyunki ismein dikhta hai ki aapki posts kaun dekh raha hai aur aap contact button add kar sakte hain.",
+     "q1": "Naye clothing brand se first purchase pe mujhe kitna discount mila tha?",
+     "q2": "Naye clothing brand ne mere pehle order pe kitna off diya tha?",
+     "q3": "Meri friend Instagram wale us clothing brand se khareedna chahti hai. Agar use bhi mere jaisa offer mile, toh pehle order pe kitni saving hogi?",
+     "distractor_sentence": "Mere dost ko usi hafte ek shoe website pe 25% discount mila tha."
+    }
+   },
+   "gold": {
+    "answer_en": "10%",
+    "slots": [
+     {
+      "name": "discount",
+      "aliases": [
+       "10%",
+       "10 percent",
+       "10 per cent",
+       "10 प्रतिशत",
+       "10 फ़ीसदी",
+       "10 pratishat"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "25%",
+     "25 percent",
+     "25 प्रतिशत"
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "F019",
+   "cand_id": "FC120",
+   "memory_type": "fact",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I just assembled an IKEA bookshelf, and it took me 4 hours, which wasn't too bad. Now I'm choosing a coffee table. Would a glass top scratch more easily than wood?",
+     "assistant_reply": "Glass resists scratches better than most wood finishes, but it shows fingerprints, dust and water marks quickly. Wood hides daily marks well, though it can dent and needs coasters.",
+     "followup_turn": "Which is easier to keep clean with a cat at home?",
+     "followup_reply": "Wood is usually easier, since paw prints and hair are less visible. A matte or textured finish hides marks best.",
+     "q1": "How long did it take me to assemble the IKEA bookshelf?",
+     "q2": "How much time did putting together my IKEA bookshelf take?"
+    },
+    "hi": {
+     "memory_turn": "मैंने अभी एक IKEA बुकशेल्फ़ जोड़ी, और इसमें मुझे 4 घंटे लगे, जो बहुत बुरा नहीं था। अब मैं एक कॉफ़ी टेबल चुन रही हूँ। क्या काँच का टॉप लकड़ी से जल्दी खरोंच जाता है?",
+     "assistant_reply": "काँच ज़्यादातर लकड़ी की फ़िनिश से कम खरोंचता है, पर उस पर उँगलियों के निशान, धूल और पानी के धब्बे जल्दी दिखते हैं। लकड़ी रोज़ के निशान छिपा लेती है, हालाँकि उसमें गड्ढे पड़ सकते हैं और कोस्टर चाहिए।",
+     "followup_turn": "घर में बिल्ली हो तो किसे साफ़ रखना आसान है?",
+     "followup_reply": "आमतौर पर लकड़ी, क्योंकि पंजों के निशान और बाल कम दिखते हैं। मैट या टेक्सचर वाली फ़िनिश निशान सबसे अच्छे से छिपाती है।",
+     "q1": "IKEA बुकशेल्फ़ जोड़ने में मुझे कितना समय लगा?",
+     "q2": "मेरी IKEA बुकशेल्फ़ को असेंबल करने में कितनी देर लगी?"
+    },
+    "hg": {
+     "memory_turn": "Maine abhi ek IKEA bookshelf assemble ki, aur ismein mujhe 4 ghante lage, jo bahut bura nahi tha. Ab main ek coffee table choose kar rahi hoon. Kya glass top wood se jaldi scratch hota hai?",
+     "assistant_reply": "Glass zyaadatar wood finish se kam scratch hota hai, par uspe fingerprints, dhool aur paani ke daag jaldi dikhte hain. Wood roz ke nishaan chhupa leti hai, halanki usmein dents pad sakte hain aur coasters chahiye.",
+     "followup_turn": "Ghar mein billi ho toh kise saaf rakhna easy hai?",
+     "followup_reply": "Usually wood, kyunki panjon ke nishaan aur baal kam dikhte hain. Matte ya textured finish nishaan sabse acche se chhupati hai.",
+     "q1": "IKEA bookshelf assemble karne mein mujhe kitna time laga?",
+     "q2": "Meri IKEA bookshelf jodne mein kitni der lagi?"
+    }
+   },
+   "gold": {
+    "answer_en": "4 hours",
+    "slots": [
+     {
+      "name": "duration",
+      "aliases": [
+       "4 hours",
+       "four hours",
+       "4 hrs",
+       "4 hour",
+       "4 घंटे",
+       "चार घंटे",
+       "4 ghante",
+       "char ghante",
+       "chaar ghante"
+      ]
+     }
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "F020",
+   "cand_id": "FC122",
+   "memory_type": "fact",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "My internet has been really good lately, especially when streaming on Netflix. I upgraded my plan to 500 Mbps about three weeks ago. But my laptop battery drains fast. Could the battery just be old?",
+     "assistant_reply": "It could be. Batteries lose capacity after a few hundred charge cycles. Check the battery health report in your system settings; if it shows less than about 80 percent of the original capacity, a replacement will help.",
+     "followup_turn": "Can I do anything to make the current battery last longer?",
+     "followup_reply": "Lower the screen brightness, close background apps, and avoid keeping it at full charge all the time. Many laptops have a setting that stops charging at around 80 percent.",
+     "q1": "What speed is my new internet plan?",
+     "q2": "How fast is the internet plan I upgraded to?",
+     "distractor_sentence": "My neighbour only has a 100 Mbps plan and complains about it every day."
+    },
+    "hi": {
+     "memory_turn": "पिछले कुछ दिनों से मेरा इंटरनेट बहुत अच्छा चल रहा है, ख़ासकर Netflix पर। करीब तीन हफ़्ते पहले मैंने अपना प्लान 500 Mbps पर अपग्रेड किया था। पर मेरे लैपटॉप की बैटरी जल्दी ख़त्म हो जाती है। क्या बैटरी बस पुरानी हो गई है?",
+     "assistant_reply": "हो सकता है। कुछ सौ बार चार्ज होने के बाद बैटरी की क्षमता घटने लगती है। सिस्टम सेटिंग्स में बैटरी हेल्थ रिपोर्ट देखें; अगर वह असली क्षमता के लगभग 80 प्रतिशत से कम है, तो बदलने से फ़ायदा होगा।",
+     "followup_turn": "क्या मौजूदा बैटरी को ज़्यादा चलाने के लिए मैं कुछ कर सकता हूँ?",
+     "followup_reply": "स्क्रीन की ब्राइटनेस कम करें, बैकग्राउंड ऐप बंद करें और इसे हर समय पूरा चार्ज न रखें। कई लैपटॉप में ऐसी सेटिंग होती है जो लगभग 80 प्रतिशत पर चार्जिंग रोक देती है।",
+     "q1": "मेरे नए इंटरनेट प्लान की स्पीड कितनी है?",
+     "q2": "मैंने जिस इंटरनेट प्लान पर अपग्रेड किया, वह कितना तेज़ है?",
+     "distractor_sentence": "मेरे पड़ोसी के पास तो बस 100 Mbps का प्लान है और वह हर दिन शिकायत करता है।"
+    },
+    "hg": {
+     "memory_turn": "Pichhle kuch dinon se mera internet bahut accha chal raha hai, especially Netflix pe. Kareeb teen hafte pehle maine apna plan 500 Mbps pe upgrade kiya tha. Par mere laptop ki battery jaldi khatam ho jaati hai. Kya battery bas purani ho gayi hai?",
+     "assistant_reply": "Ho sakta hai. Kuch sau charge cycles ke baad battery ki capacity kam hone lagti hai. System settings mein battery health report dekhiye; agar woh original capacity ke lagbhag 80 percent se kam hai, toh replace karne se fayda hoga.",
+     "followup_turn": "Kya current battery ko zyaada chalane ke liye main kuch kar sakta hoon?",
+     "followup_reply": "Screen brightness kam karein, background apps band karein aur ise har time full charge na rakhein. Kai laptops mein aisi setting hoti hai jo lagbhag 80 percent pe charging rok deti hai.",
+     "q1": "Mere naye internet plan ki speed kitni hai?",
+     "q2": "Maine jis internet plan pe upgrade kiya, woh kitna fast hai?",
+     "distractor_sentence": "Mere padosi ke paas toh bas 100 Mbps ka plan hai aur woh roz complain karta hai."
+    }
+   },
+   "gold": {
+    "answer_en": "500 Mbps",
+    "slots": [
+     {
+      "name": "speed",
+      "aliases": [
+       "500 Mbps",
+       "500 megabits",
+       "500 एमबीपीएस",
+       "500"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "100 Mbps",
+     "100 एमबीपीएस",
+     "100"
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "P011",
+   "cand_id": "PC078",
+   "memory_type": "preference",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "Apart from a great view, I love hotels with a rooftop pool and a hot tub on the balcony. I'm planning a trip to Miami next month. Which area should I stay in?",
+     "assistant_reply": "South Beach is lively and close to the ocean, Brickell is modern and good for restaurants, and Mid-Beach is quieter with large resort hotels. Choose based on whether you want nightlife or rest.",
+     "followup_turn": "When is the beach least crowded?",
+     "followup_reply": "Early mornings on weekdays are the calmest. By late morning, especially on weekends, the popular stretches fill up quickly.",
+     "q1": "Apart from views, what hotel features do I like?",
+     "q2": "Besides a nice view, which amenities do I look for in a hotel?",
+     "q3": "I'm filtering hotel search results for my Miami trip. Which two amenity filters should I tick for myself?",
+     "distractor_sentence": "My friend always picks hotels with a free breakfast buffet."
+    },
+    "hi": {
+     "memory_turn": "अच्छे नज़ारे के अलावा, मुझे ऐसे होटल बहुत पसंद हैं जिनमें रूफ़टॉप पूल हो और बालकनी में हॉट टब हो। मैं अगले महीने मियामी घूमने का प्लान बना रही हूँ। मुझे किस इलाक़े में रुकना चाहिए?",
+     "assistant_reply": "साउथ बीच जीवंत है और समंदर के पास है, ब्रिकेल आधुनिक है और रेस्टोरेंट के लिए अच्छा है, और मिड-बीच शांत है जहाँ बड़े रिज़ॉर्ट होटल हैं। चुनें कि आपको नाइटलाइफ़ चाहिए या आराम।",
+     "followup_turn": "बीच पर सबसे कम भीड़ कब होती है?",
+     "followup_reply": "हफ़्ते के दिनों में सुबह-सुबह सबसे शांत रहता है। देर सुबह तक, ख़ासकर वीकेंड पर, मशहूर हिस्से जल्दी भर जाते हैं।",
+     "q1": "नज़ारों के अलावा, मुझे होटल की कौन-सी सुविधाएँ पसंद हैं?",
+     "q2": "अच्छे व्यू के अलावा मैं होटल में कौन-सी सुविधाएँ ढूँढती हूँ?",
+     "q3": "मियामी ट्रिप के लिए मैं होटल सर्च में फ़िल्टर लगा रही हूँ। अपने लिए कौन-से दो सुविधा वाले फ़िल्टर चुनूँ?",
+     "distractor_sentence": "मेरी दोस्त हमेशा वही होटल चुनती है जिसमें मुफ़्त ब्रेकफ़ास्ट बुफ़े हो।"
+    },
+    "hg": {
+     "memory_turn": "Acche view ke alawa, mujhe aise hotels bahut pasand hain jinmein rooftop pool ho aur balcony mein hot tub ho. Main next month Miami ghoomne ka plan bana rahi hoon. Mujhe kis area mein rukna chahiye?",
+     "assistant_reply": "South Beach lively hai aur samundar ke paas hai, Brickell modern hai aur restaurants ke liye accha hai, aur Mid-Beach shaant hai jahan bade resort hotels hain. Chunein ki aapko nightlife chahiye ya aaraam.",
+     "followup_turn": "Beach pe sabse kam bheed kab hoti hai?",
+     "followup_reply": "Weekdays mein subah-subah sabse shaant rehta hai. Late morning tak, especially weekends pe, popular hisse jaldi bhar jaate hain.",
+     "q1": "Views ke alawa, mujhe hotel ke kaunse features pasand hain?",
+     "q2": "Acche view ke alawa main hotel mein kaunsi amenities dhoondhti hoon?",
+     "q3": "Miami trip ke liye main hotel search mein filters laga rahi hoon. Apne liye kaunse do amenity filters select karoon?",
+     "distractor_sentence": "Meri friend hamesha wahi hotel chunti hai jismein free breakfast buffet ho."
+    }
+   },
+   "gold": {
+    "answer_en": "a rooftop pool and a hot tub on the balcony",
+    "slots": [
+     {
+      "name": "pool",
+      "aliases": [
+       "rooftop pool",
+       "rooftop swimming pool",
+       "रूफ़टॉप पूल",
+       "रूफटॉप पूल",
+       "छत पर पूल"
+      ]
+     },
+     {
+      "name": "hot_tub",
+      "aliases": [
+       "hot tub",
+       "jacuzzi",
+       "हॉट टब",
+       "जकूज़ी",
+       "जकूजी"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "breakfast buffet",
+     "ब्रेकफ़ास्ट बुफ़े"
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "P012",
+   "cand_id": "PC080",
+   "memory_type": "preference",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I love stand-up specials with great storytelling, and John Mulaney's Kid Gorgeous is my favourite for that. Can you recommend something similar to watch tonight?",
+     "assistant_reply": "Try Mike Birbiglia's The New One or Hasan Minhaj's Homecoming King. Both are built around long, personal stories with strong callbacks rather than quick one-liners.",
+     "followup_turn": "Which of those is better to watch with my parents?",
+     "followup_reply": "Homecoming King is a good pick for family viewing. It's about growing up in an immigrant family and has warm, relatable moments.",
+     "q1": "Which comedy special do I like for its storytelling?",
+     "q2": "What is my favourite stand-up special when it comes to storytelling?",
+     "distractor_sentence": "My roommate keeps rewatching Nanette, but it's not really my thing."
+    },
+    "hi": {
+     "memory_turn": "मुझे ऐसे स्टैंड-अप स्पेशल पसंद हैं जिनमें कहानी कहने का अंदाज़ बढ़िया हो, और इसके लिए जॉन मुलेनी का Kid Gorgeous मेरा सबसे पसंदीदा है। क्या आप आज रात देखने के लिए कुछ ऐसा ही सुझा सकते हैं?",
+     "assistant_reply": "माइक बिर्बिग्लिया का The New One या हसन मिन्हाज का Homecoming King देखिए। दोनों छोटे-छोटे जोक्स की बजाय लंबी, निजी कहानियों पर बने हैं।",
+     "followup_turn": "इनमें से कौन-सा मम्मी-पापा के साथ देखना बेहतर रहेगा?",
+     "followup_reply": "परिवार के साथ देखने के लिए Homecoming King अच्छा है। यह एक प्रवासी परिवार में बड़े होने के बारे में है और इसमें कई अपनापन भरे पल हैं।",
+     "q1": "कहानी कहने के अंदाज़ के लिए मुझे कौन-सा कॉमेडी स्पेशल पसंद है?",
+     "q2": "स्टोरीटेलिंग के मामले में मेरा पसंदीदा स्टैंड-अप स्पेशल कौन-सा है?",
+     "distractor_sentence": "मेरा रूममेट बार-बार Nanette देखता रहता है, पर मुझे वह ख़ास पसंद नहीं।"
+    },
+    "hg": {
+     "memory_turn": "Mujhe aise stand-up specials pasand hain jinmein storytelling badhiya ho, aur iske liye John Mulaney ka Kid Gorgeous mera sabse favourite hai. Kya aap aaj raat dekhne ke liye kuch aisa hi suggest kar sakte hain?",
+     "assistant_reply": "Mike Birbiglia ka The New One ya Hasan Minhaj ka Homecoming King dekhiye. Dono chhote-chhote jokes ki bajaye lambi, personal kahaniyon pe bane hain.",
+     "followup_turn": "Inmein se kaunsa mummy-papa ke saath dekhna better rahega?",
+     "followup_reply": "Family ke saath dekhne ke liye Homecoming King accha hai. Yeh ek immigrant family mein bade hone ke baare mein hai aur ismein kai relatable moments hain.",
+     "q1": "Storytelling ke liye mujhe kaunsa comedy special pasand hai?",
+     "q2": "Storytelling ke maamle mein mera favourite stand-up special kaunsa hai?",
+     "distractor_sentence": "Mera roommate baar-baar Nanette dekhta rehta hai, par mujhe woh khaas pasand nahi."
+    }
+   },
+   "gold": {
+    "answer_en": "John Mulaney's Kid Gorgeous",
+    "slots": [
+     {
+      "name": "special",
+      "aliases": [
+       "Kid Gorgeous",
+       "किड गॉर्जियस"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "Nanette",
+     "नैनेट"
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "P013",
+   "cand_id": "PC089",
+   "memory_type": "preference",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I've been baking chocolate chip cookies a lot, and I find turbinado sugar gives them a richer flavour than regular white sugar. They still feel like they need something extra, though. Any ideas?",
+     "assistant_reply": "Brown the butter first for a nutty depth, add a pinch of flaky sea salt on top, and rest the dough in the fridge for 24 hours. Chopped dark chocolate instead of chips also melts into nicer pools.",
+     "followup_turn": "Does resting the dough really make a difference?",
+     "followup_reply": "Yes. The flour absorbs more moisture and the flavours deepen, so the cookies bake up chewier and more caramel-like.",
+     "q1": "Which sugar do I find gives a richer flavour?",
+     "q2": "What kind of sugar do I think makes my cookies taste richer?"
+    },
+    "hi": {
+     "memory_turn": "मैं आजकल बहुत चॉकलेट चिप कुकीज़ बना रही हूँ, और मुझे लगता है कि सादी सफ़ेद चीनी से ज़्यादा टर्बिनाडो चीनी उनका स्वाद गहरा बनाती है। फिर भी उनमें कुछ कमी-सी लगती है। कोई आइडिया?",
+     "assistant_reply": "पहले मक्खन को हल्का भूरा कर लें ताकि उसमें मेवे जैसा स्वाद आए, ऊपर थोड़ा फ़्लेकी नमक डालें और आटे को 24 घंटे फ़्रिज में रखें। चिप्स की जगह कटी हुई डार्क चॉकलेट भी बेहतर पिघलती है।",
+     "followup_turn": "क्या आटे को रखने से सच में फ़र्क पड़ता है?",
+     "followup_reply": "हाँ। मैदा ज़्यादा नमी सोख लेता है और स्वाद गहरा हो जाता है, जिससे कुकीज़ ज़्यादा चबाने वाली और कैरामेल जैसी बनती हैं।",
+     "q1": "मुझे किस चीनी से ज़्यादा गहरा स्वाद मिलता है?",
+     "q2": "मेरे हिसाब से कौन-सी चीनी मेरी कुकीज़ को ज़्यादा स्वादिष्ट बनाती है?"
+    },
+    "hg": {
+     "memory_turn": "Main aajkal bahut chocolate chip cookies bana rahi hoon, aur mujhe lagta hai ki normal white sugar se zyaada turbinado sugar unka flavour rich banati hai. Phir bhi unmein kuch kami-si lagti hai. Koi idea?",
+     "assistant_reply": "Pehle butter ko halka brown kar lein taaki usmein nutty flavour aaye, upar thoda flaky salt daalein aur dough ko 24 ghante fridge mein rakhein. Chips ki jagah kati hui dark chocolate bhi better pighalti hai.",
+     "followup_turn": "Kya dough ko rest karne se sach mein fark padta hai?",
+     "followup_reply": "Haan. Maida zyaada moisture sokh leta hai aur flavour gehra ho jaata hai, jisse cookies zyaada chewy aur caramel jaisi banti hain.",
+     "q1": "Mujhe kis sugar se zyaada rich flavour milta hai?",
+     "q2": "Mere hisaab se kaunsi sugar meri cookies ko zyaada tasty banati hai?"
+    }
+   },
+   "gold": {
+    "answer_en": "turbinado sugar",
+    "slots": [
+     {
+      "name": "sugar",
+      "aliases": [
+       "turbinado",
+       "टर्बिनाडो"
+      ]
+     }
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "P014",
+   "cand_id": "PC090",
+   "memory_type": "preference",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I love baking lemon cakes; they're my favourite thing to bake. I'm inviting my colleagues over for a small gathering this Saturday. What else could I make that's easy to serve?",
+     "assistant_reply": "Mini savoury tarts, a big tray of roasted vegetables with dip, and some cookies all work well. Pick things you can make the day before so you can enjoy the evening with your guests.",
+     "followup_turn": "How many cookies should I make for eight people?",
+     "followup_reply": "Plan on about three per person, so around two dozen. That leaves a few extra for anyone who wants seconds.",
+     "q1": "What flavour of cake do I like baking?",
+     "q2": "Which cake flavour is my favourite to bake?",
+     "q3": "My colleague wants to bring a cake that matches my baking taste. Which flavour should she get?",
+     "distractor_sentence": "My sister always bakes chocolate cakes for every party."
+    },
+    "hi": {
+     "memory_turn": "मुझे लेमन केक बनाना बहुत पसंद है, यह मेरी सबसे पसंदीदा बेकिंग है। इस शनिवार मैं अपने साथियों को घर पर एक छोटी पार्टी के लिए बुला रहा हूँ। और क्या बना सकता हूँ जो परोसने में आसान हो?",
+     "assistant_reply": "छोटे नमकीन टार्ट, डिप के साथ भुनी सब्ज़ियों की एक बड़ी ट्रे और कुछ कुकीज़ अच्छे रहेंगे। ऐसी चीज़ें चुनें जो एक दिन पहले बन सकें, ताकि आप मेहमानों के साथ शाम का मज़ा ले सकें।",
+     "followup_turn": "आठ लोगों के लिए कितनी कुकीज़ बनाऊँ?",
+     "followup_reply": "हर व्यक्ति के लिए लगभग तीन, यानी करीब दो दर्जन। इससे जो दोबारा लेना चाहे, उसके लिए भी कुछ बच जाएँगी।",
+     "q1": "मुझे किस फ़्लेवर का केक बनाना पसंद है?",
+     "q2": "बेक करने के लिए मेरा पसंदीदा केक फ़्लेवर कौन-सा है?",
+     "q3": "मेरी एक साथी मेरी बेकिंग की पसंद से मिलता हुआ केक लाना चाहती है। उसे कौन-सा फ़्लेवर लेना चाहिए?",
+     "distractor_sentence": "मेरी बहन हर पार्टी के लिए हमेशा चॉकलेट केक बनाती है।"
+    },
+    "hg": {
+     "memory_turn": "Mujhe lemon cake bake karna bahut pasand hai, yeh meri sabse favourite baking hai. Is Saturday main apne colleagues ko ghar pe ek chhoti party ke liye bula raha hoon. Aur kya bana sakta hoon jo serve karne mein easy ho?",
+     "assistant_reply": "Chhote savoury tarts, dip ke saath roasted veggies ki ek badi tray aur kuch cookies acche rahenge. Aisi cheezein chunein jo ek din pehle ban sakein, taaki aap mehmaanon ke saath shaam enjoy kar sakein.",
+     "followup_turn": "Aath logon ke liye kitni cookies banaoon?",
+     "followup_reply": "Har person ke liye lagbhag teen, yaani kareeb do dozen. Isse jo dobara lena chahe, uske liye bhi kuch bach jayengi.",
+     "q1": "Mujhe kis flavour ka cake bake karna pasand hai?",
+     "q2": "Bake karne ke liye mera favourite cake flavour kaunsa hai?",
+     "q3": "Meri ek colleague meri baking pasand se match karta hua cake laana chahti hai. Use kaunsa flavour lena chahiye?",
+     "distractor_sentence": "Meri behen har party ke liye hamesha chocolate cake banati hai."
+    }
+   },
+   "gold": {
+    "answer_en": "lemon",
+    "slots": [
+     {
+      "name": "flavour",
+      "aliases": [
+       "lemon",
+       "लेमन",
+       "नींबू",
+       "nimbu",
+       "nimboo"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "chocolate",
+     "चॉकलेट"
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "P015",
+   "cand_id": "PC098",
+   "memory_type": "preference",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "For my weekly meal prep I like to pair my roasted vegetables with quinoa. I'm getting bored of the same recipes, though. Any new healthy ideas for next week?",
+     "assistant_reply": "Try a chickpea and spinach curry, sheet-pan chicken with peppers, or a lentil and sweet potato stew. All three keep well in the fridge for four days and reheat nicely.",
+     "followup_turn": "Can I freeze the lentil stew?",
+     "followup_reply": "Yes, it freezes very well for up to three months. Cool it completely, store it in portions, and thaw it overnight in the fridge.",
+     "q1": "What do I like to pair my meal-prep vegetables with?",
+     "q2": "Which grain do I usually eat with my meal-prep vegetables?"
+    },
+    "hi": {
+     "memory_turn": "हर हफ़्ते के मील प्रेप में मुझे भुनी हुई सब्ज़ियों के साथ क्विनोआ खाना पसंद है। पर अब वही रेसिपी खाकर बोर हो गई हूँ। अगले हफ़्ते के लिए कोई नए हेल्दी आइडिया?",
+     "assistant_reply": "छोले और पालक की करी, शिमला मिर्च के साथ ओवन में बना चिकन, या मसूर और शकरकंद का स्ट्यू आज़माइए। तीनों फ़्रिज में चार दिन ठीक रहते हैं और गर्म करने पर अच्छे लगते हैं।",
+     "followup_turn": "क्या मसूर का स्ट्यू फ़्रीज़ कर सकती हूँ?",
+     "followup_reply": "हाँ, यह तीन महीने तक अच्छे से फ़्रीज़ होता है। पूरा ठंडा करें, हिस्सों में रखें और रात भर फ़्रिज में पिघलाएँ।",
+     "q1": "मील प्रेप की सब्ज़ियों के साथ मुझे क्या खाना पसंद है?",
+     "q2": "मील प्रेप वाली सब्ज़ियों के साथ मैं आमतौर पर कौन-सा अनाज खाती हूँ?"
+    },
+    "hg": {
+     "memory_turn": "Har hafte ke meal prep mein mujhe roasted veggies ke saath quinoa khaana pasand hai. Par ab wahi recipes kha ke bore ho gayi hoon. Next week ke liye koi naye healthy ideas?",
+     "assistant_reply": "Chhole aur palak ki curry, shimla mirch ke saath oven wala chicken, ya masoor aur shakarkand ka stew try kijiye. Teeno fridge mein chaar din theek rehte hain aur garam karne pe acche lagte hain.",
+     "followup_turn": "Kya masoor ka stew freeze kar sakti hoon?",
+     "followup_reply": "Haan, yeh teen mahine tak acche se freeze hota hai. Poora thanda karein, portions mein rakhein aur raat bhar fridge mein thaw karein.",
+     "q1": "Meal prep ki veggies ke saath mujhe kya khaana pasand hai?",
+     "q2": "Meal prep wali sabziyon ke saath main usually kaunsa grain khaati hoon?"
+    }
+   },
+   "gold": {
+    "answer_en": "quinoa",
+    "slots": [
+     {
+      "name": "grain",
+      "aliases": [
+       "quinoa",
+       "क्विनोआ",
+       "kinwa"
+      ]
+     }
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "P016",
+   "cand_id": "PC099",
+   "memory_type": "preference",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I absolutely love Denver's music scene, and I'm planning a trip there soon. What should I do while I'm in town?",
+     "assistant_reply": "Catch a show at Red Rocks Amphitheatre if it's concert season, explore the record shops on South Broadway, and take a day trip into the mountains for a hike.",
+     "followup_turn": "Do I need to book Red Rocks tickets early?",
+     "followup_reply": "Yes, popular shows often sell out weeks in advance. Buy from the official venue site and check the weather, since it's an open-air venue.",
+     "q1": "Which city's music scene do I love?",
+     "q2": "The music scene of which city do I really enjoy?",
+     "q3": "I'm making a list of places to see live gigs. Which city should go at the top of my list?",
+     "distractor_sentence": "My cousin keeps telling me Austin has the best live music, but I'm not convinced."
+    },
+    "hi": {
+     "memory_turn": "मुझे डेनवर का म्यूज़िक सीन बेहद पसंद है, और मैं जल्द ही वहाँ घूमने जाने का प्लान बना रहा हूँ। वहाँ रहते हुए मुझे क्या-क्या करना चाहिए?",
+     "assistant_reply": "अगर कॉन्सर्ट का सीज़न हो तो Red Rocks Amphitheatre में कोई शो ज़रूर देखें, साउथ ब्रॉडवे की रिकॉर्ड शॉप घूमें, और पहाड़ों में एक दिन की हाइकिंग पर जाएँ।",
+     "followup_turn": "क्या Red Rocks के टिकट पहले से बुक करने पड़ते हैं?",
+     "followup_reply": "हाँ, मशहूर शो अक्सर हफ़्तों पहले बिक जाते हैं। ऑफ़िशियल वेबसाइट से ख़रीदें और मौसम देख लें, क्योंकि यह खुले आसमान के नीचे है।",
+     "q1": "मुझे किस शहर का म्यूज़िक सीन पसंद है?",
+     "q2": "मैं किस शहर के संगीत माहौल का बहुत आनंद लेता हूँ?",
+     "q3": "मैं लाइव गिग देखने की जगहों की लिस्ट बना रहा हूँ। मेरी लिस्ट में सबसे ऊपर कौन-सा शहर होना चाहिए?",
+     "distractor_sentence": "मेरा कज़िन कहता रहता है कि सबसे अच्छा लाइव म्यूज़िक ऑस्टिन में है, पर मैं नहीं मानता।"
+    },
+    "hg": {
+     "memory_turn": "Mujhe Denver ka music scene bahut pasand hai, aur main jaldi hi wahan ghoomne jaane ka plan bana raha hoon. Wahan rehte hue mujhe kya-kya karna chahiye?",
+     "assistant_reply": "Agar concert season ho toh Red Rocks Amphitheatre mein koi show zaroor dekhein, South Broadway ki record shops ghoomein, aur pahadon mein ek din ki hiking pe jaayein.",
+     "followup_turn": "Kya Red Rocks ke tickets pehle se book karne padte hain?",
+     "followup_reply": "Haan, popular shows aksar hafton pehle sold out ho jaate hain. Official website se khareedein aur mausam check kar lein, kyunki yeh open-air venue hai.",
+     "q1": "Mujhe kis city ka music scene pasand hai?",
+     "q2": "Main kis sheher ke music scene ko bahut enjoy karta hoon?",
+     "q3": "Main live gigs dekhne ki jagahon ki list bana raha hoon. Meri list mein sabse upar kaunsa city hona chahiye?",
+     "distractor_sentence": "Mera cousin kehta rehta hai ki best live music Austin mein hai, par main nahi maanta."
+    }
+   },
+   "gold": {
+    "answer_en": "Denver",
+    "slots": [
+     {
+      "name": "city",
+      "aliases": [
+       "Denver",
+       "डेनवर"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "Austin",
+     "ऑस्टिन"
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "P017",
+   "cand_id": "PC103",
+   "memory_type": "preference",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "On my commute to work I usually listen to true crime and self-improvement podcasts. Lately I want to use that time a bit differently. Any other ideas for the ride?",
+     "assistant_reply": "You could learn a language with an audio course, listen to an audiobook series, or try short guided breathing sessions to arrive calmer. Calling a friend once a week is nice too.",
+     "followup_turn": "Which language app works well without looking at the screen?",
+     "followup_reply": "Pimsleur is designed to be audio-only, so it suits commuting well. Language Transfer is a free option that also works just by listening.",
+     "q1": "Which podcast genres do I listen to on my commute?",
+     "q2": "What kinds of podcasts do I usually play on the way to work?"
+    },
+    "hi": {
+     "memory_turn": "ऑफ़िस आते-जाते मैं आमतौर पर ट्रू क्राइम और सेल्फ़-इम्प्रूवमेंट वाले पॉडकास्ट सुनती हूँ। आजकल मैं उस समय का कुछ अलग इस्तेमाल करना चाहती हूँ। सफ़र के लिए कोई और आइडिया?",
+     "assistant_reply": "आप ऑडियो कोर्स से कोई भाषा सीख सकती हैं, ऑडियोबुक की कोई सीरीज़ सुन सकती हैं, या शांत होकर पहुँचने के लिए छोटे गाइडेड ब्रीदिंग सेशन आज़मा सकती हैं। हफ़्ते में एक बार किसी दोस्त को फ़ोन करना भी अच्छा है।",
+     "followup_turn": "कौन-सा भाषा ऐप स्क्रीन देखे बिना अच्छा चलता है?",
+     "followup_reply": "Pimsleur सिर्फ़ ऑडियो के लिए बना है, इसलिए सफ़र में अच्छा रहता है। Language Transfer एक मुफ़्त विकल्प है जो सिर्फ़ सुनकर भी काम करता है।",
+     "q1": "सफ़र में मैं किस तरह के पॉडकास्ट सुनती हूँ?",
+     "q2": "ऑफ़िस जाते समय मैं आमतौर पर कौन-से पॉडकास्ट चलाती हूँ?"
+    },
+    "hg": {
+     "memory_turn": "Office aate-jaate main usually true crime aur self-improvement wale podcasts sunti hoon. Aajkal main us time ka kuch alag use karna chahti hoon. Commute ke liye koi aur ideas?",
+     "assistant_reply": "Aap audio course se koi language seekh sakti hain, audiobook ki koi series sun sakti hain, ya calm hokar pahunchne ke liye chhote guided breathing sessions try kar sakti hain. Hafte mein ek baar kisi dost ko call karna bhi accha hai.",
+     "followup_turn": "Kaunsa language app screen dekhe bina accha chalta hai?",
+     "followup_reply": "Pimsleur sirf audio ke liye bana hai, isliye commute mein accha rehta hai. Language Transfer ek free option hai jo sirf sun ke bhi kaam karta hai.",
+     "q1": "Commute mein main kis type ke podcasts sunti hoon?",
+     "q2": "Office jaate time main usually kaunse podcasts chalati hoon?"
+    }
+   },
+   "gold": {
+    "answer_en": "true crime and self-improvement",
+    "slots": [
+     {
+      "name": "genre1",
+      "aliases": [
+       "true crime",
+       "ट्रू क्राइम"
+      ]
+     },
+     {
+      "name": "genre2",
+      "aliases": [
+       "self-improvement",
+       "self improvement",
+       "self-help",
+       "सेल्फ़-इम्प्रूवमेंट",
+       "सेल्फ-इम्प्रूवमेंट",
+       "आत्म-सुधार"
+      ]
+     }
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "P018",
+   "cand_id": "PX0013",
+   "memory_type": "preference",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "For gardening resources, I'm a big fan of the Gardening Know How website. I'm planning a small vegetable patch this spring. Which vegetables are easiest for a beginner?",
+     "assistant_reply": "Lettuce, radishes, bush beans, zucchini and cherry tomatoes are all very forgiving. They grow quickly, need little special care, and give you results early in the season.",
+     "followup_turn": "How much sun do they need?",
+     "followup_reply": "Most of them need at least six hours of direct sun a day. Lettuce and radishes can manage with a little less, especially in warm weather.",
+     "q1": "Which gardening website am I a big fan of?",
+     "q2": "What is my favourite website for gardening advice?",
+     "distractor_sentence": "My neighbour swears by Garden Gate magazine instead."
+    },
+    "hi": {
+     "memory_turn": "बाग़बानी की जानकारी के लिए मैं Gardening Know How वेबसाइट का बड़ा फ़ैन हूँ। इस वसंत में मैं एक छोटी सब्ज़ी की क्यारी लगाने का सोच रहा हूँ। नौसिखिए के लिए कौन-सी सब्ज़ियाँ सबसे आसान हैं?",
+     "assistant_reply": "लेट्यूस, मूली, बीन्स, ज़ुकिनी और चेरी टमाटर बहुत आसान हैं। ये जल्दी उगते हैं, ख़ास देखभाल नहीं माँगते और सीज़न की शुरुआत में ही नतीजे देते हैं।",
+     "followup_turn": "इन्हें कितनी धूप चाहिए?",
+     "followup_reply": "ज़्यादातर को दिन में कम से कम छह घंटे सीधी धूप चाहिए। लेट्यूस और मूली थोड़ी कम धूप में भी चल जाती हैं, ख़ासकर गर्म मौसम में।",
+     "q1": "मैं बाग़बानी की किस वेबसाइट का बड़ा फ़ैन हूँ?",
+     "q2": "बाग़बानी की सलाह के लिए मेरी पसंदीदा वेबसाइट कौन-सी है?",
+     "distractor_sentence": "मेरे पड़ोसी तो Garden Gate मैगज़ीन की ही क़सम खाते हैं।"
+    },
+    "hg": {
+     "memory_turn": "Gardening resources ke liye main Gardening Know How website ka bada fan hoon. Is spring mein main ek chhota vegetable patch lagane ka soch raha hoon. Beginner ke liye kaunsi sabziyan sabse easy hain?",
+     "assistant_reply": "Lettuce, mooli, beans, zucchini aur cherry tomatoes bahut easy hain. Yeh jaldi ugte hain, khaas care nahi maangte aur season ki shuruaat mein hi results dete hain.",
+     "followup_turn": "Inhe kitni dhoop chahiye?",
+     "followup_reply": "Zyaadatar ko din mein kam se kam chhe ghante direct dhoop chahiye. Lettuce aur mooli thodi kam dhoop mein bhi chal jaati hain, especially garam mausam mein.",
+     "q1": "Main gardening ki kis website ka bada fan hoon?",
+     "q2": "Gardening advice ke liye meri favourite website kaunsi hai?",
+     "distractor_sentence": "Mere padosi toh Garden Gate magazine ki hi kasam khaate hain."
+    }
+   },
+   "gold": {
+    "answer_en": "Gardening Know How",
+    "slots": [
+     {
+      "name": "website",
+      "aliases": [
+       "Gardening Know How",
+       "गार्डनिंग नो हाउ"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "Garden Gate",
+     "गार्डन गेट"
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "P019",
+   "cand_id": "PX0070",
+   "memory_type": "preference",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I'm really enjoying my Hatha yoga classes, and my favourite pose is probably downward-facing dog. How can I make my practice more consistent at home?",
+     "assistant_reply": "Pick a fixed time, keep your mat rolled out somewhere visible, and start with just fifteen minutes. A simple sequence you repeat each day is easier to stick with than a new one every time.",
+     "followup_turn": "Is it okay to practise right after dinner?",
+     "followup_reply": "It's better to wait two to three hours after a full meal. Twists and inversions on a full stomach can feel uncomfortable.",
+     "q1": "Which yoga pose is my favourite?",
+     "q2": "What's my favourite pose in yoga?",
+     "q3": "My instructor wants to end Friday's class with each student's best-loved asana. Which one should I name?"
+    },
+    "hi": {
+     "memory_turn": "मुझे अपनी हठ योग की क्लास बहुत अच्छी लग रही हैं, और मेरा सबसे पसंदीदा आसन शायद अधोमुख श्वानासन यानी डाउनवर्ड डॉग है। घर पर अपनी प्रैक्टिस नियमित कैसे बनाऊँ?",
+     "assistant_reply": "एक तय समय चुनें, अपनी मैट ऐसी जगह बिछाकर रखें जहाँ दिखती रहे, और सिर्फ़ पंद्रह मिनट से शुरुआत करें। हर दिन दोहराया जाने वाला एक सरल क्रम, रोज़ नए क्रम से आसानी से निभता है।",
+     "followup_turn": "क्या रात के खाने के तुरंत बाद योग करना ठीक है?",
+     "followup_reply": "भरपेट खाने के बाद दो-तीन घंटे रुकना बेहतर है। भरे पेट पर ट्विस्ट और उलटे आसन असहज लग सकते हैं।",
+     "q1": "मेरा पसंदीदा योग आसन कौन-सा है?",
+     "q2": "योग में मुझे सबसे ज़्यादा कौन-सा आसन पसंद है?",
+     "q3": "मेरी टीचर शुक्रवार की क्लास हर स्टूडेंट के सबसे प्यारे आसन से ख़त्म करना चाहती हैं। मुझे कौन-सा आसन बताना चाहिए?"
+    },
+    "hg": {
+     "memory_turn": "Mujhe apni Hatha yoga classes bahut acchi lag rahi hain, aur mera sabse favourite pose shayad downward-facing dog hai. Ghar pe apni practice regular kaise banaoon?",
+     "assistant_reply": "Ek fixed time chunein, apni mat aisi jagah bichha ke rakhein jahan dikhti rahe, aur sirf pandrah minute se shuru karein. Roz repeat hone wala ek simple sequence, roz naye sequence se aasani se nibhta hai.",
+     "followup_turn": "Kya dinner ke turant baad yoga karna theek hai?",
+     "followup_reply": "Bharpet khaane ke baad do-teen ghante rukna better hai. Bhare pet pe twists aur inversions uncomfortable lag sakte hain.",
+     "q1": "Mera favourite yoga pose kaunsa hai?",
+     "q2": "Yoga mein mujhe sabse zyaada kaunsa pose pasand hai?",
+     "q3": "Meri teacher Friday ki class har student ke sabse pyaare asana se khatam karna chahti hain. Mujhe kaunsa asana batana chahiye?"
+    }
+   },
+   "gold": {
+    "answer_en": "downward-facing dog",
+    "slots": [
+     {
+      "name": "pose",
+      "aliases": [
+       "downward-facing dog",
+       "downward facing dog",
+       "downward dog",
+       "down dog",
+       "adho mukha svanasana",
+       "अधोमुख श्वानासन",
+       "डाउनवर्ड डॉग",
+       "डाउनवर्ड-फ़ेसिंग डॉग"
+      ]
+     }
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "P020",
+   "cand_id": "PX0121",
+   "memory_type": "preference",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I'm a big fan of scrambled eggs with spinach and feta for breakfast. I want to add more protein to my mornings. What else could I eat?",
+     "assistant_reply": "Greek yogurt with nuts and seeds, cottage cheese on toast, or a smoothie with a scoop of protein powder all add a lot of protein. Leftover chicken or lentils in a wrap works too.",
+     "followup_turn": "Is a protein smoothie filling enough on its own?",
+     "followup_reply": "It can be if you add fibre and fat, like nuts, banana and peanut butter. Otherwise you may feel hungry again within a couple of hours.",
+     "q1": "Which breakfast dish am I a big fan of?",
+     "q2": "What is my favourite thing to eat for breakfast?",
+     "distractor_sentence": "My roommate eats masala oats every single morning."
+    },
+    "hi": {
+     "memory_turn": "नाश्ते में मुझे पालक और फ़ेटा चीज़ वाले स्क्रैम्बल्ड एग्स बहुत पसंद हैं। मैं अपनी सुबह में और प्रोटीन जोड़ना चाहता हूँ। और क्या खा सकता हूँ?",
+     "assistant_reply": "मेवे और बीज के साथ ग्रीक योगर्ट, टोस्ट पर पनीर, या प्रोटीन पाउडर वाली स्मूदी, सबमें काफ़ी प्रोटीन होता है। बचा हुआ चिकन या दाल रैप में डालकर भी खा सकते हैं।",
+     "followup_turn": "क्या सिर्फ़ प्रोटीन स्मूदी से पेट भर जाएगा?",
+     "followup_reply": "अगर उसमें फ़ाइबर और फ़ैट डालें, जैसे मेवे, केला और पीनट बटर, तो हाँ। वरना दो घंटे में फिर भूख लग सकती है।",
+     "q1": "नाश्ते की किस डिश का मैं बड़ा फ़ैन हूँ?",
+     "q2": "नाश्ते में मुझे सबसे ज़्यादा क्या खाना पसंद है?",
+     "distractor_sentence": "मेरा रूममेट हर सुबह मसाला ओट्स ही खाता है।"
+    },
+    "hg": {
+     "memory_turn": "Breakfast mein mujhe spinach aur feta wale scrambled eggs bahut pasand hain. Main apni subah mein aur protein add karna chahta hoon. Aur kya kha sakta hoon?",
+     "assistant_reply": "Nuts aur seeds ke saath Greek yogurt, toast pe paneer, ya protein powder wali smoothie, sabmein kaafi protein hota hai. Bacha hua chicken ya dal wrap mein daal ke bhi kha sakte hain.",
+     "followup_turn": "Kya sirf protein smoothie se pet bhar jayega?",
+     "followup_reply": "Agar usmein fibre aur fat daalein, jaise nuts, kela aur peanut butter, toh haan. Warna do ghante mein phir bhookh lag sakti hai.",
+     "q1": "Breakfast ki kis dish ka main bada fan hoon?",
+     "q2": "Breakfast mein mujhe sabse zyaada kya khaana pasand hai?",
+     "distractor_sentence": "Mera roommate har subah masala oats hi khaata hai."
+    }
+   },
+   "gold": {
+    "answer_en": "scrambled eggs with spinach and feta",
+    "slots": [
+     {
+      "name": "dish",
+      "aliases": [
+       "scrambled eggs",
+       "scrambled egg",
+       "स्क्रैम्बल्ड एग्स",
+       "स्क्रैम्बल्ड एग",
+       "अंडा भुर्जी",
+       "anda bhurji"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "masala oats",
+     "मसाला ओट्स"
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "E011",
+   "cand_id": "EC002",
+   "memory_type": "event",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I'm researching the new hybrid version of my Toyota Corolla. By the way, I washed my current Corolla on February 27th after more than a month, since it was really dirty after the snowstorm. How fuel-efficient is the hybrid?",
+     "assistant_reply": "The Corolla Hybrid is one of the most efficient compact cars, often around 20 to 25 kilometres per litre in mixed driving. It shines most in city traffic, where the electric motor does more of the work.",
+     "followup_turn": "Does the hybrid battery need replacing often?",
+     "followup_reply": "Not usually. Toyota hybrid batteries commonly last well over ten years, and they come with a long warranty in most markets.",
+     "q1": "When did I last wash my Corolla?",
+     "q2": "On what date did I wash my current Corolla?",
+     "q3": "I want to keep a regular cleaning routine for my car. When was it last cleaned?",
+     "distractor_sentence": "My brother washed his car on March 12th."
+    },
+    "hi": {
+     "memory_turn": "मैं अपनी Toyota Corolla के नए हाइब्रिड मॉडल के बारे में पढ़ रही हूँ। वैसे, मैंने अपनी मौजूदा Corolla को 27 फ़रवरी को धोया था, एक महीने से ज़्यादा के बाद, क्योंकि बर्फ़ीले तूफ़ान के बाद वह बहुत गंदी हो गई थी। हाइब्रिड का माइलेज कैसा है?",
+     "assistant_reply": "Corolla Hybrid सबसे किफ़ायती कॉम्पैक्ट कारों में से है, मिली-जुली ड्राइविंग में अक्सर 20 से 25 किलोमीटर प्रति लीटर। शहर के ट्रैफ़िक में यह सबसे अच्छा चलता है, जहाँ इलेक्ट्रिक मोटर ज़्यादा काम करती है।",
+     "followup_turn": "क्या हाइब्रिड बैटरी बार-बार बदलनी पड़ती है?",
+     "followup_reply": "आमतौर पर नहीं। Toyota की हाइब्रिड बैटरियाँ अक्सर दस साल से ज़्यादा चलती हैं, और ज़्यादातर बाज़ारों में लंबी वारंटी के साथ आती हैं।",
+     "q1": "मैंने आख़िरी बार अपनी Corolla कब धोई थी?",
+     "q2": "मैंने अपनी मौजूदा Corolla किस तारीख़ को धोई?",
+     "q3": "मैं अपनी गाड़ी की सफ़ाई का एक नियमित रूटीन रखना चाहती हूँ। पिछली बार वह कब साफ़ हुई थी?",
+     "distractor_sentence": "मेरे भाई ने अपनी कार 12 मार्च को धोई थी।"
+    },
+    "hg": {
+     "memory_turn": "Main apni Toyota Corolla ke naye hybrid model ke baare mein padh rahi hoon. Waise, maine apni current Corolla ko 27 February ko dhoya tha, ek mahine se zyaada ke baad, kyunki snowstorm ke baad woh bahut gandi ho gayi thi. Hybrid ka mileage kaisa hai?",
+     "assistant_reply": "Corolla Hybrid sabse efficient compact cars mein se hai, mixed driving mein aksar 20 se 25 km per litre. City traffic mein yeh sabse accha chalta hai, jahan electric motor zyaada kaam karti hai.",
+     "followup_turn": "Kya hybrid battery baar-baar badalni padti hai?",
+     "followup_reply": "Usually nahi. Toyota ki hybrid batteries aksar das saal se zyaada chalti hain, aur zyaadatar markets mein lambi warranty ke saath aati hain.",
+     "q1": "Maine last time apni Corolla kab dhoyi thi?",
+     "q2": "Maine apni current Corolla kis date ko dhoyi?",
+     "q3": "Main apni gaadi ki safai ka ek regular routine rakhna chahti hoon. Pichhli baar woh kab saaf hui thi?",
+     "distractor_sentence": "Mere bhai ne apni car 12 March ko dhoyi thi."
+    }
+   },
+   "gold": {
+    "answer_en": "February 27",
+    "date": {
+     "day": 27,
+     "month": 2
+    }
+   },
+   "distractor": {
+    "date": {
+     "day": 12,
+     "month": 3
+    }
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "E012",
+   "cand_id": "EC004",
+   "memory_type": "event",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I'm packing for a trip to Hawaii and need adapters for my new Dell XPS 13. By the way, I pre-ordered the laptop on January 28th, and it arrived after a delay. Will I need a voltage converter?",
+     "assistant_reply": "Probably not. Hawaii uses the same plugs and voltage as the rest of the United States, and laptop chargers usually accept a wide voltage range. Check the label on your charger to be sure.",
+     "followup_turn": "Should I bring a power bank too?",
+     "followup_reply": "It's a good idea for long beach days or flights. Pick one that supports USB-C power delivery so it can top up both your phone and the laptop.",
+     "q1": "When did I pre-order my Dell XPS 13?",
+     "q2": "On what date did I place the pre-order for my new laptop?",
+     "distractor_sentence": "One of my colleagues ordered the same laptop on February 9th."
+    },
+    "hi": {
+     "memory_turn": "मैं हवाई की ट्रिप के लिए पैकिंग कर रहा हूँ और मुझे अपने नए Dell XPS 13 के लिए अडैप्टर चाहिए। वैसे, मैंने यह लैपटॉप 28 जनवरी को प्री-ऑर्डर किया था, और यह देर से पहुँचा। क्या मुझे वोल्टेज कन्वर्टर की ज़रूरत पड़ेगी?",
+     "assistant_reply": "शायद नहीं। हवाई में बाक़ी अमेरिका जैसे ही प्लग और वोल्टेज हैं, और लैपटॉप चार्जर आमतौर पर कई वोल्टेज पर चल जाते हैं। पक्का करने के लिए चार्जर का लेबल देख लें।",
+     "followup_turn": "क्या पावर बैंक भी साथ ले जाऊँ?",
+     "followup_reply": "लंबे बीच वाले दिनों या फ़्लाइट के लिए अच्छा रहेगा। ऐसा चुनें जो USB-C पावर डिलीवरी सपोर्ट करे, ताकि फ़ोन और लैपटॉप दोनों चार्ज हो सकें।",
+     "q1": "मैंने अपना Dell XPS 13 कब प्री-ऑर्डर किया था?",
+     "q2": "मैंने अपने नए लैपटॉप का प्री-ऑर्डर किस तारीख़ को दिया था?",
+     "distractor_sentence": "मेरे एक साथी ने वही लैपटॉप 9 फ़रवरी को ऑर्डर किया था।"
+    },
+    "hg": {
+     "memory_turn": "Main Hawaii trip ke liye packing kar raha hoon aur mujhe apne naye Dell XPS 13 ke liye adapters chahiye. Waise, maine yeh laptop 28 January ko pre-order kiya tha, aur yeh late pahuncha. Kya mujhe voltage converter ki zaroorat padegi?",
+     "assistant_reply": "Shayad nahi. Hawaii mein baaki America jaise hi plugs aur voltage hain, aur laptop chargers usually kai voltages pe chal jaate hain. Pakka karne ke liye charger ka label check kar lein.",
+     "followup_turn": "Kya power bank bhi saath le jaaun?",
+     "followup_reply": "Lambe beach days ya flights ke liye accha rahega. Aisa chunein jo USB-C power delivery support kare, taaki phone aur laptop dono charge ho sakein.",
+     "q1": "Maine apna Dell XPS 13 kab pre-order kiya tha?",
+     "q2": "Maine apne naye laptop ka pre-order kis date ko diya tha?",
+     "distractor_sentence": "Mere ek colleague ne wahi laptop 9 February ko order kiya tha."
+    }
+   },
+   "gold": {
+    "answer_en": "January 28",
+    "date": {
+     "day": 28,
+     "month": 1
+    }
+   },
+   "distractor": {
+    "date": {
+     "day": 9,
+     "month": 2
+    }
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "E013",
+   "cand_id": "EC009",
+   "memory_type": "event",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I just started some marigold seeds that arrived on March 3rd, and they're already germinating. I'm so excited to see them grow! When should I move the seedlings into bigger pots?",
+     "assistant_reply": "Wait until each seedling has two sets of true leaves, usually two to three weeks after sprouting. Handle them by the leaves, not the stem, and water them well after moving.",
+     "followup_turn": "Do marigolds need a lot of fertiliser?",
+     "followup_reply": "No, too much fertiliser gives lots of leaves but fewer flowers. A light feed once a month is plenty.",
+     "q1": "When did my marigold seeds arrive?",
+     "q2": "On what date were the marigold seeds I'm growing delivered?"
+    },
+    "hi": {
+     "memory_turn": "मैंने गेंदे के कुछ बीज बोए हैं जो 3 मार्च को आए थे, और वे अभी से अंकुरित हो रहे हैं। उन्हें बढ़ते देखने के लिए मैं बहुत उत्साहित हूँ! पौधों को बड़े गमलों में कब लगाना चाहिए?",
+     "assistant_reply": "जब हर पौधे पर असली पत्तियों के दो जोड़े आ जाएँ, आमतौर पर अंकुर निकलने के दो-तीन हफ़्ते बाद। उन्हें तने से नहीं, पत्तियों से पकड़ें, और लगाने के बाद अच्छे से पानी दें।",
+     "followup_turn": "क्या गेंदे को बहुत खाद चाहिए?",
+     "followup_reply": "नहीं, ज़्यादा खाद से पत्तियाँ तो ख़ूब आती हैं पर फूल कम। महीने में एक बार हल्की खाद काफ़ी है।",
+     "q1": "मेरे गेंदे के बीज कब आए थे?",
+     "q2": "जो गेंदे के बीज मैं उगा रही हूँ, वे किस तारीख़ को डिलीवर हुए थे?"
+    },
+    "hg": {
+     "memory_turn": "Maine marigold ke kuch seeds boye hain jo 3 March ko aaye the, aur woh abhi se germinate ho rahe hain. Unhe badhte dekhne ke liye main bahut excited hoon! Seedlings ko bade gamlon mein kab lagana chahiye?",
+     "assistant_reply": "Jab har seedling pe asli pattiyon ke do jode aa jaayein, usually ankur nikalne ke do-teen hafte baad. Unhe stem se nahi, pattiyon se pakdein, aur lagane ke baad acche se paani dein.",
+     "followup_turn": "Kya marigold ko bahut khaad chahiye?",
+     "followup_reply": "Nahi, zyaada khaad se pattiyan toh khoob aati hain par phool kam. Mahine mein ek baar halki khaad kaafi hai.",
+     "q1": "Mere marigold ke seeds kab aaye the?",
+     "q2": "Jo marigold seeds main uga rahi hoon, woh kis date ko deliver hue the?"
+    }
+   },
+   "gold": {
+    "answer_en": "March 3",
+    "date": {
+     "day": 3,
+     "month": 3
+    }
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "E014",
+   "cand_id": "EC010",
+   "memory_type": "event",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I've been starting seeds indoors under grow lights in my basement since February 20th. The tomatoes, peppers and cucumbers are all doing well. When can I move them outside?",
+     "assistant_reply": "After your last frost, once night temperatures stay above about 10°C. Harden them off first by putting them outside for a few hours a day for a week, increasing the time gradually.",
+     "followup_turn": "How long should the grow lights stay on each day?",
+     "followup_reply": "Around 14 to 16 hours a day works well for most vegetable seedlings. Keep the lights a few centimetres above the plants and raise them as they grow.",
+     "q1": "Since when have I been starting seeds indoors under grow lights?",
+     "q2": "On what date did I start growing seeds under the grow lights in my basement?",
+     "q3": "My neighbour asked how long my basement seedlings have been under the lamps. From which date should I count?",
+     "distractor_sentence": "My uncle sowed his seeds outdoors on April 5th."
+    },
+    "hi": {
+     "memory_turn": "मैं 20 फ़रवरी से अपने बेसमेंट में ग्रो लाइट के नीचे घर के अंदर बीज उगा रहा हूँ। टमाटर, शिमला मिर्च और खीरे सब अच्छे से बढ़ रहे हैं। इन्हें बाहर कब ले जा सकता हूँ?",
+     "assistant_reply": "आख़िरी पाले के बाद, जब रात का तापमान लगातार लगभग 10°C से ऊपर रहने लगे। पहले एक हफ़्ते तक इन्हें रोज़ कुछ घंटे बाहर रखकर आदत डालें, और धीरे-धीरे समय बढ़ाएँ।",
+     "followup_turn": "ग्रो लाइट रोज़ कितनी देर जलानी चाहिए?",
+     "followup_reply": "ज़्यादातर सब्ज़ियों के पौधों के लिए दिन में 14 से 16 घंटे ठीक हैं। लाइट को पौधों से कुछ सेंटीमीटर ऊपर रखें और बढ़ने पर ऊपर करते जाएँ।",
+     "q1": "मैं कब से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहा हूँ?",
+     "q2": "मैंने अपने बेसमेंट में ग्रो लाइट के नीचे बीज किस तारीख़ से उगाने शुरू किए?",
+     "q3": "मेरे पड़ोसी ने पूछा कि बेसमेंट वाले पौधे कितने समय से लैंप के नीचे हैं। मुझे किस तारीख़ से गिनना चाहिए?",
+     "distractor_sentence": "मेरे चाचा ने अपने बीज 5 अप्रैल को बाहर बोए थे।"
+    },
+    "hg": {
+     "memory_turn": "Main 20 February se apne basement mein grow lights ke neeche ghar ke andar seeds uga raha hoon. Tomatoes, shimla mirch aur kheere sab acche se badh rahe hain. Inhe bahar kab le ja sakta hoon?",
+     "assistant_reply": "Last frost ke baad, jab raat ka temperature lagataar lagbhag 10°C se upar rehne lage. Pehle ek hafte tak inhe roz kuch ghante bahar rakh ke aadat daalein, aur dheere-dheere time badhayein.",
+     "followup_turn": "Grow lights roz kitni der jalani chahiye?",
+     "followup_reply": "Zyaadatar vegetable seedlings ke liye din mein 14 se 16 ghante theek hain. Lights ko plants se kuch centimetre upar rakhein aur badhne pe upar karte jaayein.",
+     "q1": "Main kab se ghar ke andar grow lights ke neeche seeds uga raha hoon?",
+     "q2": "Maine apne basement mein grow lights ke neeche seeds kis date se ugane shuru kiye?",
+     "q3": "Mere padosi ne poocha ki basement wale plants kitne time se lamps ke neeche hain. Mujhe kis date se ginna chahiye?",
+     "distractor_sentence": "Mere chacha ne apne seeds 5 April ko bahar boye the."
+    }
+   },
+   "gold": {
+    "answer_en": "February 20",
+    "date": {
+     "day": 20,
+     "month": 2
+    }
+   },
+   "distractor": {
+    "date": {
+     "day": 5,
+     "month": 4
+    }
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "E015",
+   "cand_id": "EC013",
+   "memory_type": "event",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I took part in the Turbocharged Tuesdays racing event at the local track on June 14th and set a personal best of 12.8 seconds in the quarter-mile drag race! How can I improve my launch off the line?",
+     "assistant_reply": "Practise consistent reaction times with a tree simulator app, check your tyre pressure for better grip, and avoid too much wheelspin by easing into the throttle rather than flooring it instantly.",
+     "followup_turn": "Do I need special tyres for drag racing?",
+     "followup_reply": "Not to start with. Many people race on regular performance tyres. Drag radials help a lot later, but they wear quickly on normal roads.",
+     "q1": "When did I take part in the Turbocharged Tuesdays racing event?",
+     "q2": "On what date was the Turbocharged Tuesdays event where I raced?"
+    },
+    "hi": {
+     "memory_turn": "मैंने 14 जून को लोकल ट्रैक पर Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया और क्वार्टर-माइल ड्रैग रेस में 12.8 सेकंड का अपना सबसे अच्छा टाइम निकाला! लाइन से तेज़ शुरुआत कैसे सुधारूँ?",
+     "assistant_reply": "ट्री सिम्युलेटर ऐप से रिएक्शन टाइम की प्रैक्टिस करें, बेहतर पकड़ के लिए टायर प्रेशर जाँचें, और एकदम पूरा एक्सेलरेटर दबाने की बजाय धीरे से दबाकर व्हीलस्पिन कम करें।",
+     "followup_turn": "क्या ड्रैग रेसिंग के लिए ख़ास टायर चाहिए?",
+     "followup_reply": "शुरुआत में नहीं। बहुत लोग सामान्य परफ़ॉर्मेंस टायर पर ही रेस करते हैं। आगे चलकर ड्रैग रेडियल बहुत मदद करते हैं, पर सामान्य सड़कों पर जल्दी घिसते हैं।",
+     "q1": "मैंने Turbocharged Tuesdays रेसिंग इवेंट में कब हिस्सा लिया था?",
+     "q2": "जिस Turbocharged Tuesdays इवेंट में मैंने रेस की, वह किस तारीख़ को था?"
+    },
+    "hg": {
+     "memory_turn": "Maine 14 June ko local track pe Turbocharged Tuesdays racing event mein hissa liya aur quarter-mile drag race mein 12.8 second ka apna best time nikala! Line se fast start kaise improve karoon?",
+     "assistant_reply": "Tree simulator app se reaction time ki practice karein, better grip ke liye tyre pressure check karein, aur ekdum full throttle ki bajaye dheere se daba ke wheelspin kam karein.",
+     "followup_turn": "Kya drag racing ke liye special tyres chahiye?",
+     "followup_reply": "Shuru mein nahi. Bahut log normal performance tyres pe hi race karte hain. Aage chal ke drag radials bahut help karte hain, par normal roads pe jaldi ghiste hain.",
+     "q1": "Maine Turbocharged Tuesdays racing event mein kab hissa liya tha?",
+     "q2": "Jis Turbocharged Tuesdays event mein maine race ki, woh kis date ko tha?"
+    }
+   },
+   "gold": {
+    "answer_en": "June 14",
+    "date": {
+     "day": 14,
+     "month": 6
+    }
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "E016",
+   "cand_id": "EC014",
+   "memory_type": "event",
+   "user_gender": "male",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I just got back from the Rack Fest car show in a nearby city on June 18th, and it was amazing! I saw so many modified cars. How do I start modifying my own car on a small budget?",
+     "assistant_reply": "Start with things that improve the driving feel: good tyres, better brake pads and a proper alignment. After that, a simple wheel upgrade changes the look a lot without a big cost.",
+     "followup_turn": "Will modifications affect my car insurance?",
+     "followup_reply": "They can. Tell your insurer about any changes, because undeclared modifications may let them refuse a claim. Some changes raise the premium only slightly.",
+     "q1": "When did I go to the Rack Fest car show?",
+     "q2": "On what date did I attend Rack Fest?"
+    },
+    "hi": {
+     "memory_turn": "मैं अभी पास के शहर में 18 जून को हुए Rack Fest कार शो से लौटा हूँ, और वह शानदार था! मैंने बहुत सारी मॉडिफ़ाइड कारें देखीं। कम बजट में अपनी कार मॉडिफ़ाई करना कैसे शुरू करूँ?",
+     "assistant_reply": "उन चीज़ों से शुरू करें जो ड्राइविंग का अनुभव बेहतर बनाती हैं: अच्छे टायर, बेहतर ब्रेक पैड और सही अलाइनमेंट। उसके बाद व्हील अपग्रेड बिना ज़्यादा ख़र्च के लुक बहुत बदल देता है।",
+     "followup_turn": "क्या मॉडिफ़िकेशन से मेरी कार का बीमा प्रभावित होगा?",
+     "followup_reply": "हो सकता है। बीमा कंपनी को हर बदलाव के बारे में बताएँ, क्योंकि बिना बताए बदलाव होने पर वे क्लेम ठुकरा सकते हैं। कुछ बदलावों से प्रीमियम बस थोड़ा बढ़ता है।",
+     "q1": "मैं Rack Fest कार शो में कब गया था?",
+     "q2": "मैं किस तारीख़ को Rack Fest में शामिल हुआ था?"
+    },
+    "hg": {
+     "memory_turn": "Main abhi paas ke sheher mein 18 June ko hue Rack Fest car show se lauta hoon, aur woh amazing tha! Maine bahut saari modified cars dekhin. Kam budget mein apni car modify karna kaise shuru karoon?",
+     "assistant_reply": "Un cheezon se shuru karein jo driving feel better banati hain: acche tyres, better brake pads aur sahi alignment. Uske baad wheel upgrade bina zyaada kharche ke look bahut badal deta hai.",
+     "followup_turn": "Kya modifications se meri car ka insurance affect hoga?",
+     "followup_reply": "Ho sakta hai. Insurance company ko har change ke baare mein batayein, kyunki bina bataye changes hone pe woh claim reject kar sakte hain. Kuch changes se premium bas thoda badhta hai.",
+     "q1": "Main Rack Fest car show mein kab gaya tha?",
+     "q2": "Main kis date ko Rack Fest mein gaya tha?"
+    }
+   },
+   "gold": {
+    "answer_en": "June 18",
+    "date": {
+     "day": 18,
+     "month": 6
+    }
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "E017",
+   "cand_id": "EC015",
+   "memory_type": "event",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I recently volunteered at the Coastal Cleanup event on March 7th, and it was amazing to see the impact we made on our beaches. Can you suggest other environmental volunteering I could try?",
+     "assistant_reply": "Tree-planting drives, river and lake cleanups, and helping at a local recycling or composting centre are all good options. Many city councils and nature groups post upcoming events on their websites.",
+     "followup_turn": "Do I need any training for tree planting?",
+     "followup_reply": "Usually not. Organisers show you how to dig the hole, place the sapling and firm the soil. Just bring gloves, water and comfortable shoes.",
+     "q1": "When did I volunteer at the Coastal Cleanup event?",
+     "q2": "On what date was the Coastal Cleanup I volunteered at?",
+     "q3": "I'm filling in my volunteer hours log. What date should I enter for the beach work I did?",
+     "distractor_sentence": "My friend joined a river cleanup on April 19th."
+    },
+    "hi": {
+     "memory_turn": "हाल ही में मैंने 7 मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया, और हमारे बीच पर जो असर हुआ वह देखकर बहुत अच्छा लगा। क्या आप पर्यावरण से जुड़ा कोई और वॉलंटियर काम सुझा सकते हैं?",
+     "assistant_reply": "पेड़ लगाने के अभियान, नदी और झील की सफ़ाई, और लोकल रीसाइक्लिंग या कम्पोस्टिंग सेंटर में मदद, सब अच्छे विकल्प हैं। कई नगर निगम और प्रकृति से जुड़े समूह अपनी वेबसाइट पर आने वाले इवेंट डालते हैं।",
+     "followup_turn": "क्या पेड़ लगाने के लिए कोई ट्रेनिंग चाहिए?",
+     "followup_reply": "आमतौर पर नहीं। आयोजक बताते हैं कि गड्ढा कैसे खोदें, पौधा कैसे रखें और मिट्टी कैसे दबाएँ। बस दस्ताने, पानी और आरामदायक जूते ले जाएँ।",
+     "q1": "मैंने Coastal Cleanup इवेंट में कब वॉलंटियर किया था?",
+     "q2": "जिस Coastal Cleanup में मैंने वॉलंटियर किया, वह किस तारीख़ को था?",
+     "q3": "मैं अपने वॉलंटियर घंटों का रिकॉर्ड भर रही हूँ। बीच पर किए गए काम के लिए कौन-सी तारीख़ लिखूँ?",
+     "distractor_sentence": "मेरी दोस्त 19 अप्रैल को नदी की सफ़ाई में शामिल हुई थी।"
+    },
+    "hg": {
+     "memory_turn": "Haal hi mein maine 7 March ko Coastal Cleanup event mein volunteer kiya, aur hamare beaches pe jo impact hua woh dekh ke bahut accha laga. Kya aap environment se juda koi aur volunteering kaam suggest kar sakte hain?",
+     "assistant_reply": "Tree-planting drives, nadi aur jheel ki safai, aur local recycling ya composting centre mein help, sab acche options hain. Kai city councils aur nature groups apni website pe upcoming events daalte hain.",
+     "followup_turn": "Kya tree planting ke liye koi training chahiye?",
+     "followup_reply": "Usually nahi. Organisers batate hain ki gaddha kaise khodein, paudha kaise rakhein aur mitti kaise dabayein. Bas gloves, paani aur comfortable shoes le jaayein.",
+     "q1": "Maine Coastal Cleanup event mein kab volunteer kiya tha?",
+     "q2": "Jis Coastal Cleanup mein maine volunteer kiya, woh kis date ko tha?",
+     "q3": "Main apne volunteer hours ka record bhar rahi hoon. Beach pe kiye gaye kaam ke liye kaunsi date likhun?",
+     "distractor_sentence": "Meri friend 19 April ko river cleanup mein shaamil hui thi."
+    }
+   },
+   "gold": {
+    "answer_en": "March 7",
+    "date": {
+     "day": 7,
+     "month": 3
+    }
+   },
+   "distractor": {
+    "date": {
+     "day": 19,
+     "month": 4
+    }
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "E018",
+   "cand_id": "EC019",
+   "memory_type": "event",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I attended a charity golf tournament on July 17th, and while I had a blast playing with colleagues, I realised I need to work on my swing. What drills can help a beginner?",
+     "assistant_reply": "Try the towel drill, holding a towel under both armpits to keep your arms connected, and slow half-swings focused on a smooth tempo. Hitting balls with your feet together also improves balance.",
+     "followup_turn": "How often should I practise at the range?",
+     "followup_reply": "Two short sessions a week are better than one long one. Focus on a single drill each time instead of hitting a whole bucket without a plan.",
+     "q1": "When did I attend the charity golf tournament?",
+     "q2": "On what date did I play in the charity golf tournament?",
+     "q3": "My manager wants to thank everyone who represented the company at the golf fundraiser. What date did I play there?",
+     "distractor_sentence": "My boss played in a different golf tournament on August 2nd."
+    },
+    "hi": {
+     "memory_turn": "मैं 17 जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गया था, और साथियों के साथ खेलकर मज़ा तो बहुत आया, पर समझ आया कि मुझे अपने स्विंग पर काम करना होगा। नौसिखिए के लिए कौन-सी ड्रिल मदद करेंगी?",
+     "assistant_reply": "तौलिया ड्रिल आज़माइए, जिसमें बाँहें जुड़ी रखने के लिए दोनों बगलों में तौलिया दबाते हैं, और आराम की लय पर ध्यान देते हुए धीमे हाफ़-स्विंग करें। पैर साथ रखकर गेंद मारने से संतुलन भी सुधरता है।",
+     "followup_turn": "मुझे रेंज पर कितनी बार प्रैक्टिस करनी चाहिए?",
+     "followup_reply": "एक लंबे सेशन से हफ़्ते में दो छोटे सेशन बेहतर हैं। हर बार बिना योजना के पूरी बाल्टी मारने की बजाय एक ड्रिल पर ध्यान दें।",
+     "q1": "मैं चैरिटी गोल्फ़ टूर्नामेंट में कब गया था?",
+     "q2": "मैंने चैरिटी गोल्फ़ टूर्नामेंट किस तारीख़ को खेला था?",
+     "q3": "मेरे मैनेजर गोल्फ़ वाले फ़ंडरेज़र में कंपनी की तरफ़ से खेलने वाले सबको धन्यवाद देना चाहते हैं। मैं वहाँ किस तारीख़ को खेला था?",
+     "distractor_sentence": "मेरे बॉस 2 अगस्त को एक दूसरे गोल्फ़ टूर्नामेंट में खेले थे।"
+    },
+    "hg": {
+     "memory_turn": "Main 17 July ko ek charity golf tournament mein gaya tha, aur colleagues ke saath khel ke maza toh bahut aaya, par samajh aaya ki mujhe apne swing pe kaam karna hoga. Beginner ke liye kaunse drills help karenge?",
+     "assistant_reply": "Towel drill try kijiye, jismein arms connected rakhne ke liye dono baghlon mein towel dabate hain, aur smooth tempo pe dhyaan dete hue slow half-swings karein. Pair saath rakh ke ball maarne se balance bhi sudharta hai.",
+     "followup_turn": "Mujhe range pe kitni baar practice karni chahiye?",
+     "followup_reply": "Ek lambe session se hafte mein do chhote sessions better hain. Har baar bina plan ke poori bucket maarne ki bajaye ek drill pe focus karein.",
+     "q1": "Main charity golf tournament mein kab gaya tha?",
+     "q2": "Maine charity golf tournament kis date ko khela tha?",
+     "q3": "Mere manager golf fundraiser mein company ki taraf se khelne wale sabko thank you bolna chahte hain. Main wahan kis date ko khela tha?",
+     "distractor_sentence": "Mere boss 2 August ko ek doosre golf tournament mein khele the."
+    }
+   },
+   "gold": {
+    "answer_en": "July 17",
+    "date": {
+     "day": 17,
+     "month": 7
+    }
+   },
+   "distractor": {
+    "date": {
+     "day": 2,
+     "month": 8
+    }
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "E019",
+   "cand_id": "EC020",
+   "memory_type": "event",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I volunteered at the Food for Thought charity gala on September 25th, which was a great experience. Now I'd like to organise a small fundraiser myself. Where should I start?",
+     "assistant_reply": "Choose one clear cause and a realistic goal, then pick a simple format like a bake sale or a quiz night. Ask a local café or community hall to host it for free in exchange for publicity.",
+     "followup_turn": "How do I get people to actually show up?",
+     "followup_reply": "Personal invitations work best. Ask each helper to bring five friends, post reminders a week and a day before, and make it easy to donate online for anyone who can't come.",
+     "q1": "When did I volunteer at the Food for Thought charity gala?",
+     "q2": "On what date was the Food for Thought gala where I volunteered?"
+    },
+    "hi": {
+     "memory_turn": "मैंने 25 सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था, जो बहुत अच्छा अनुभव रहा। अब मैं ख़ुद एक छोटा फ़ंडरेज़र आयोजित करना चाहती हूँ। कहाँ से शुरू करूँ?",
+     "assistant_reply": "एक साफ़ मक़सद और एक व्यावहारिक लक्ष्य चुनें, फिर बेक सेल या क्विज़ नाइट जैसा कोई आसान तरीक़ा तय करें। किसी लोकल कैफ़े या सामुदायिक हॉल से प्रचार के बदले मुफ़्त में जगह देने को कहें।",
+     "followup_turn": "लोगों को सच में आने के लिए कैसे मनाऊँ?",
+     "followup_reply": "निजी न्योते सबसे अच्छे काम करते हैं। हर मददगार से पाँच दोस्त लाने को कहें, एक हफ़्ता और एक दिन पहले याद दिलाएँ, और जो न आ सकें उनके लिए ऑनलाइन दान आसान बनाएँ।",
+     "q1": "मैंने Food for Thought चैरिटी गाला में कब वॉलंटियर किया था?",
+     "q2": "जिस Food for Thought गाला में मैंने वॉलंटियर किया, वह किस तारीख़ को था?"
+    },
+    "hg": {
+     "memory_turn": "Maine 25 September ko Food for Thought charity gala mein volunteer kiya tha, jo bahut accha experience raha. Ab main khud ek chhota fundraiser organise karna chahti hoon. Kahan se shuru karoon?",
+     "assistant_reply": "Ek clear cause aur ek realistic goal chunein, phir bake sale ya quiz night jaisa koi simple format decide karein. Kisi local cafe ya community hall se publicity ke badle free mein jagah dene ko kahein.",
+     "followup_turn": "Logon ko sach mein aane ke liye kaise manaun?",
+     "followup_reply": "Personal invites sabse accha kaam karte hain. Har helper se paanch dost laane ko kahein, ek hafta aur ek din pehle reminder dein, aur jo na aa sakein unke liye online donation easy banayein.",
+     "q1": "Maine Food for Thought charity gala mein kab volunteer kiya tha?",
+     "q2": "Jis Food for Thought gala mein maine volunteer kiya, woh kis date ko tha?"
+    }
+   },
+   "gold": {
+    "answer_en": "September 25",
+    "date": {
+     "day": 25,
+     "month": 9
+    }
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "E020",
+   "cand_id": "EC022",
+   "memory_type": "event",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I went to a backyard BBQ party at my colleague's house on June 3rd, and they had an amazing selection of BBQ sauces. I want to make my own sauce now. Any simple recipe ideas?",
+     "assistant_reply": "Start with ketchup, apple cider vinegar, brown sugar, smoked paprika, garlic powder and a little mustard. Simmer for fifteen minutes and adjust the sweetness and tang to your taste.",
+     "followup_turn": "How long does homemade sauce keep?",
+     "followup_reply": "In a clean, sealed jar in the fridge it usually lasts about two weeks. Use a clean spoon each time so it doesn't spoil early.",
+     "q1": "When did I go to the backyard BBQ at my colleague's house?",
+     "q2": "On what date was the BBQ party I attended at my colleague's place?",
+     "distractor_sentence": "My neighbours are hosting their own BBQ on June 24th."
+    },
+    "hi": {
+     "memory_turn": "मैं 3 जून को अपने एक साथी के घर के आँगन में हुई BBQ पार्टी में गया था, और वहाँ BBQ सॉस की कमाल की वैरायटी थी। अब मैं अपना सॉस बनाना चाहता हूँ। कोई आसान रेसिपी?",
+     "assistant_reply": "केचप, ऐप्पल साइडर विनेगर, ब्राउन शुगर, स्मोक्ड पपरिका, लहसुन पाउडर और थोड़ी सरसों से शुरू करें। पंद्रह मिनट धीमी आँच पर पकाएँ और मिठास व खटास अपने स्वाद के हिसाब से ठीक करें।",
+     "followup_turn": "घर का बना सॉस कितने दिन चलता है?",
+     "followup_reply": "साफ़, बंद जार में फ़्रिज में रखें तो आमतौर पर लगभग दो हफ़्ते चलता है। हर बार साफ़ चम्मच इस्तेमाल करें ताकि यह जल्दी ख़राब न हो।",
+     "q1": "मैं अपने साथी के घर के आँगन वाली BBQ पार्टी में कब गया था?",
+     "q2": "अपने साथी के घर जिस BBQ पार्टी में मैं गया, वह किस तारीख़ को थी?",
+     "distractor_sentence": "मेरे पड़ोसी 24 जून को अपनी BBQ पार्टी रख रहे हैं।"
+    },
+    "hg": {
+     "memory_turn": "Main 3 June ko apne ek colleague ke ghar ke backyard mein hui BBQ party mein gaya tha, aur wahan BBQ sauces ki kamaal ki variety thi. Ab main apna sauce banana chahta hoon. Koi easy recipe?",
+     "assistant_reply": "Ketchup, apple cider vinegar, brown sugar, smoked paprika, garlic powder aur thodi mustard se shuru karein. Pandrah minute dheemi aanch pe pakayein aur meethapan aur khattapan apne taste ke hisaab se adjust karein.",
+     "followup_turn": "Ghar ka bana sauce kitne din chalta hai?",
+     "followup_reply": "Saaf, band jar mein fridge mein rakhein toh usually lagbhag do hafte chalta hai. Har baar saaf chammach use karein taaki yeh jaldi kharab na ho.",
+     "q1": "Main apne colleague ke ghar ke backyard wali BBQ party mein kab gaya tha?",
+     "q2": "Apne colleague ke ghar jis BBQ party mein main gaya, woh kis date ko thi?",
+     "distractor_sentence": "Mere padosi 24 June ko apni BBQ party rakh rahe hain."
+    }
+   },
+   "gold": {
+    "answer_en": "June 3",
+    "date": {
+     "day": 3,
+     "month": 6
+    }
+   },
+   "distractor": {
+    "date": {
+     "day": 24,
+     "month": 6
+    }
+   },
+   "has_q3": false
+  }
+ ],
+ "changelog": []
+}

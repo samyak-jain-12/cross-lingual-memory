@@ -1,0 +1,6 @@
+QA report for batch04: 30 answerable + 0 abstention items
+ERRORS: 0
+WARNINGS: 0
+BALANCE (type, gender): {('event', 'female'): 5, ('event', 'male'): 5, ('fact', 'female'): 5, ('fact', 'male'): 5, ('preference', 'female'): 5, ('preference', 'male'): 5}
+DISTRACTORS per type: {'fact': 6, 'preference': 6, 'event': 6}
+EVIDENCE POSITION (type, slot): {('event', 2): 4, ('event', 5): 3, ('event', 9): 3, ('fact', 2): 4, ('fact', 5): 3, ('fact', 9): 3, ('preference', 2): 4, ('preference', 5): 3, ('preference', 9): 3}

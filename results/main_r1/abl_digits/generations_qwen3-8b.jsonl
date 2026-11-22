@@ -1,0 +1,600 @@
+{"id": "E001|hi|en|q1|FC", "model": "qwen3-8b", "response": "You got your car serviced for the first time on April 2nd."}
+{"id": "E001|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने १५ मार्च को पहली बार अपनी कार की सर्विस करवाई थी।"}
+{"id": "E001|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने १५ मार्च को पहली बार अपनी कार की सर्विस करवाई थी।"}
+{"id": "E002|hi|en|q1|FC", "model": "qwen3-8b", "response": "You got your Samsung Galaxy S22 on 20 February."}
+{"id": "E002|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने २० फ़रवरी को अपना Samsung Galaxy S22 लिया था।"}
+{"id": "E002|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने 20 फरवरी को अपना Samsung Galaxy S22 लिया था।"}
+{"id": "E003|hi|en|q1|FC", "model": "qwen3-8b", "response": "You attended the workshop on Effective Communication in the Workplace on January 10th."}
+{"id": "E003|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपने १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर एक वर्कशॉप में हिस्सा लिया था।"}
+{"id": "E003|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर वर्कशॉप में हिस्सा लिया।"}
+{"id": "E004|hi|en|q1|FC", "model": "qwen3-8b", "response": "You attended the Holi celebration at your temple on February 26th."}
+{"id": "E004|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं अपने यहाँ के मंदिर में २६ फ़रवरी को होली के उत्सव में गया था।"}
+{"id": "E004|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आप २६ फरवरी को अपने स्थानीय मंदिर में होली के उत्सव में गए थे।"}
+{"id": "E005|hi|en|q1|FC", "model": "qwen3-8b", "response": "You ran in the Run for the Cure event on October 15th."}
+{"id": "E005|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में दौड़ लगाई थी।"}
+{"id": "E005|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में दौड़ लगाई थी।"}
+{"id": "E006|hi|en|q1|FC", "model": "qwen3-8b", "response": "Your best friend's 30th birthday party was on April 22nd."}
+{"id": "E006|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मेरी सबसे अच्छी दोस्त की 30वें जन्मदिन की पार्टी 22 अप्रैल को थी।"}
+{"id": "E006|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपकी सबसे अच्छी दोस्त की 30वीं जन्मदिवस पार्टी 22 अप्रैल को थी।"}
+{"id": "E007|hi|en|q1|FC", "model": "qwen3-8b", "response": "You took your bike in for a tune-up on April 20th."}
+{"id": "E007|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने अपनी साइकिल के गियर अटक रहे होने के कारण २० अप्रैल को ट्यून-अप के लिए ले गई थी।"}
+{"id": "E007|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने 20 अप्रैल को अपनी साइकिल के ट्यून-अप के लिए ले गई थी।"}
+{"id": "E008|hi|en|q1|FC", "model": "qwen3-8b", "response": "You went on the guided tour at the History Museum on February 24th."}
+{"id": "E008|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं आपके प्रश्न के उत्तर देने के लिए खुश हूं! आप २४ फरवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर"}
+{"id": "E008|hi|hg|q1|FC", "model": "qwen3-8b", "response": "24 फरवरी को"}
+{"id": "E009|hi|en|q1|FC", "model": "qwen3-8b", "response": "You turned 32 on February 12th."}
+{"id": "E009|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आप 12 फरवरी को 32 साल के बन गए।"}
+{"id": "E009|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपके 32 साल के जन्मदिन 12 फरवरी को हुआ।"}
+{"id": "E010|hi|en|q1|FC", "model": "qwen3-8b", "response": "You completed your first full marathon on April 10th."}
+{"id": "E010|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने १० अप्रैल को अपनी पहली फ़ुल मैराथन पूरी की।"}
+{"id": "E010|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने १० अप्रैल को अपनी पहली फुल मैराथन पूरी की।"}
+{"id": "E011|hi|en|q1|FC", "model": "qwen3-8b", "response": "You last washed your Corolla on February 27th."}
+{"id": "E011|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपने अपनी Corolla को २७ फ़रवरी को धोई थी।"}
+{"id": "E011|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने अपनी Corolla को २७ फरवरी को धोया था।"}
+{"id": "E012|hi|en|q1|FC", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on January 28."}
+{"id": "E012|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने २८ जनवरी को प्री-ऑर्डर किया था।"}
+{"id": "E012|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने अपना Dell XPS 13 28 जनवरी को प्री-ऑर्डर किया था।"}
+{"id": "E013|hi|en|q1|FC", "model": "qwen3-8b", "response": "You mentioned that your marigold seeds arrived on March 3rd."}
+{"id": "E013|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मेरे गेंदे के बीज ३ मार्च को आए थे।"}
+{"id": "E013|hi|hg|q1|FC", "model": "qwen3-8b", "response": "Mere marigold ke seeds 3 मार्च को aaye the."}
+{"id": "E014|hi|en|q1|FC", "model": "qwen3-8b", "response": "You have been starting seeds indoors under grow lights since February 20."}
+{"id": "E014|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आप २० फरवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E014|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आप 20 फरवरी से बेसमेंट में ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E015|hi|en|q1|FC", "model": "qwen3-8b", "response": "You took part in the Turbocharged Tuesdays racing event on June 14th."}
+{"id": "E015|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने १४ जून को Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।"}
+{"id": "E015|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने 14 जून को लोकल ट्रैक पर Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।"}
+{"id": "E016|hi|en|q1|FC", "model": "qwen3-8b", "response": "You went to the Rack Fest car show on June 18th."}
+{"id": "E016|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपने १८ जून को Rack Fest कार शो में गए थे।"}
+{"id": "E016|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने १८ जून को हुए Rack Fest कार शो से लौटा है।"}
+{"id": "E017|hi|en|q1|FC", "model": "qwen3-8b", "response": "You volunteered at the Coastal Cleanup event on March 7th."}
+{"id": "E017|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।"}
+{"id": "E017|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने ७ मार्च को मेन कोस्टल क्लीनअप इवेंट में वॉलंटियर किया था।"}
+{"id": "E018|hi|en|q1|FC", "model": "qwen3-8b", "response": "You attended the charity golf tournament on July 17th."}
+{"id": "E018|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं चैरिटी गोल्फ़ टूर्नामेंट में १७ जुलाई को गया था।"}
+{"id": "E018|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने १७ जुलाई को एक चैरिटी गोल्फ टूर्नामेंट में गया था।"}
+{"id": "E019|hi|en|q1|FC", "model": "qwen3-8b", "response": "You volunteered at the Food for Thought charity gala on September 25."}
+{"id": "E019|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।"}
+{"id": "E019|hi|hg|q1|FC", "model": "qwen3-8b", "response": "25 सितंबर को"}
+{"id": "E020|hi|en|q1|FC", "model": "qwen3-8b", "response": "You went to the backyard BBQ at your colleague's house on June 3rd."}
+{"id": "E020|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आप ३ जून को अपने साथी के घर के आँगन वाली BBQ पार्टी में गए थे।"}
+{"id": "E020|hi|hg|q1|FC", "model": "qwen3-8b", "response": "3 June."}
+{"id": "E021|hi|en|q1|FC", "model": "qwen3-8b", "response": "You got your new Adidas running shoes on January 10th."}
+{"id": "E021|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने १० जनवरी को अपने नए Adidas रनिंग शूज़ लिए।"}
+{"id": "E021|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने 10 जनवरी को अपने नए Adidas रनिंग शूज खरीदे।"}
+{"id": "E022|hi|en|q1|FC", "model": "qwen3-8b", "response": "You wore your sneakers to play basketball on February 1st."}
+{"id": "E022|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने १ फ़रवरी को बास्केटबॉल खेलते समय अपने सफ़ेद स्नीकर्स पहने थे।"}
+{"id": "E022|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने १ फरवरी को बास्केटबॉल खेलते समय अपने सफेद स्नीकर्स पहने थे।"}
+{"id": "E023|hi|en|q1|FC", "model": "qwen3-8b", "response": "You got your new router on January 15th."}
+{"id": "E023|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपने अपना नया राउटर १५ जनवरी को लिया।"}
+{"id": "E023|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने 15 जनवरी को अपना नया राउटर लिया।"}
+{"id": "E024|hi|en|q1|FC", "model": "qwen3-8b", "response": "You ordered the personalized photo album from Shutterfly on April 15th."}
+{"id": "E024|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने १५ अप्रैल को ऑर्डर किया।"}
+{"id": "E024|hi|hg|q1|FC", "model": "qwen3-8b", "response": "15 अप्रैल को"}
+{"id": "E025|hi|en|q1|FC", "model": "qwen3-8b", "response": "You submitted your application to the exchange program on February 10th."}
+{"id": "E025|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपने १० फ़रवरी को एक्सचेंज प्रोग्राम के लिए आवेदन भेजा था।"}
+{"id": "E025|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने १० फ़रवरी को एक्सचेंज प्रोग्राम के लिए आवेदन भेजा था।"}
+{"id": "E026|hi|en|q1|FC", "model": "qwen3-8b", "response": "Your friend Rachel got engaged on May 15th."}
+{"id": "E026|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मेरी दोस्त रेचल की सगाई १५ मई को हुई।"}
+{"id": "E026|hi|hg|q1|FC", "model": "qwen3-8b", "response": "15 मई को।"}
+{"id": "E027|hi|en|q1|FC", "model": "qwen3-8b", "response": "You attended the pride parade on May 1st."}
+{"id": "E027|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं १ मई को प्राइड परेड में गई थी।"}
+{"id": "E027|hi|hg|q1|FC", "model": "qwen3-8b", "response": "1 मई को"}
+{"id": "E028|hi|en|q1|FC", "model": "qwen3-8b", "response": "You met your mentor Rachel on April 10th."}
+{"id": "E028|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपने १० अप्रैल को अपनी मेंटर रेचल से मिला था।"}
+{"id": "E028|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने १० अप्रैल को अपनी मेंटर रेचल से मिला था।"}
+{"id": "E029|hi|en|q1|FC", "model": "qwen3-8b", "response": "You bought the silver necklace for your best friend on March 15th."}
+{"id": "E029|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने १५ मार्च को अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार ख़रीदा।"}
+{"id": "E029|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने 15 मार्च को अपनी सबसे अच्छी दोस्त के 30वें जन्मदिन के लिए छोटे-से पेंडेंट वाला चाँदी का हार खरीदा।"}
+{"id": "E030|hi|en|q1|FC", "model": "qwen3-8b", "response": "You viewed the 1-bedroom condo on February 10th."}
+{"id": "E030|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने १० फ़रवरी को एक १-बेडरूम कॉन्डो देखा था।"}
+{"id": "E030|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने १० फ़रवरी को एक १-बेडरूम कॉन्डो देखा था।"}
+{"id": "E031|hi|en|q1|FC", "model": "qwen3-8b", "response": "You saw the 3-bedroom bungalow in Oakwood on January 22nd."}
+{"id": "E031|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 22 जनवरी को ओकवुड में एक खूबसूरत 3-बेडरूम बंगला देखा था।"}
+{"id": "E031|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने 22 जनवरी को ओकवुड इलाक़े में एक ख़ूबसूरत 3-बेडरूम बंगला देखा था।"}
+{"id": "E032|hi|en|q1|FC", "model": "qwen3-8b", "response": "You put in an offer on the Brookside townhouse on February 25th."}
+{"id": "E032|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने २५ फ़रवरी को ब्रुकसाइड इलाक़े में एक ३-बेडरूम टाउनहाउस पर ऑफ़र दिया था।"}
+{"id": "E032|hi|hg|q1|FC", "model": "qwen3-8b", "response": "25 फरवरी को"}
+{"id": "E033|hi|en|q1|FC", "model": "qwen3-8b", "response": "You saw the 2-bedroom condo with the community pool on February 15th."}
+{"id": "E033|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं इस जानकारी को आपके पास के पिछले चर्चा में नहीं देख सकता।"}
+{"id": "E033|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने अपने समुदाय के पूल वाले 2-कमरा कंडो को फरवरी 15 को देखा था।"}
+{"id": "E034|hi|en|q1|FC", "model": "qwen3-8b", "response": "You saw the property in Cedar Creek on February 1st."}
+{"id": "E034|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने सीडर क्रीक वाली प्रॉपर्टी १ फ़रवरी को देखी थी।"}
+{"id": "E034|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने 1 फरवरी को सीडर क्रीक की गुणवत्ता देखी थी।"}
+{"id": "E035|hi|en|q1|FC", "model": "qwen3-8b", "response": "You attended the lecture on 'The Evolution of Street Art' on March 3rd."}
+{"id": "E035|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं ३ मार्च को 'The Evolution of Street Art' वाले लेक्चर में गई थी।"}
+{"id": "E035|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने ३ मार्च को 'The Evolution of Street Art' नाम के लेक्चर में शामिल होने के बारे में बताया था।"}
+{"id": "E036|hi|en|q1|FC", "model": "qwen3-8b", "response": "You attended the 'Women in Art' exhibition on February 10th."}
+{"id": "E036|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं १० फ़रवरी को 'Women in Art' प्रदर्शनी में गया था।"}
+{"id": "E036|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने १० फ़रवरी को 'Women in Art' प्रदर्शनी में गया था।"}
+{"id": "E037|hi|en|q1|FC", "model": "qwen3-8b", "response": "You volunteered at the Children's Museum 'Art Afternoon' on February 17th."}
+{"id": "E037|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।"}
+{"id": "E037|hi|hg|q1|FC", "model": "qwen3-8b", "response": "17 फरवरी को।"}
+{"id": "E038|hi|en|q1|FC", "model": "qwen3-8b", "response": "Your remote shutter release arrived on February 10."}
+{"id": "E038|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपका रिमोट शटर रिलीज़ १० फ़रवरी को आया था।"}
+{"id": "E038|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपका रिमोट शटर रिलीज़ १० फ़रवरी को आया था।"}
+{"id": "E039|hi|en|q1|FC", "model": "qwen3-8b", "response": "You cleaned and lubricated your road bike chain on March 2."}
+{"id": "E039|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपने २ मार्च को अपनी रोड बाइक की चेन को साफ़ करके तेल लगाया।"}
+{"id": "E039|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने आपकी रोड बाइक की चेन २ मार्च को साफ करके तेल लगाया।"}
+{"id": "E040|hi|en|q1|FC", "model": "qwen3-8b", "response": "You got your road bike serviced at Pedal Power on March 10th."}
+{"id": "E040|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने Pedal Power में अपनी रोड बाइक की सर्विस १० मार्च को करवाई।"}
+{"id": "E040|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने १० मार्च को Pedal Power में अपनी रोड बाइक की सर्विस करवाई।"}
+{"id": "E041|hi|en|q1|FC", "model": "qwen3-8b", "response": "You helped raise money for the local animal shelter on January 20."}
+{"id": "E041|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपने २० जनवरी को स्थानीय पशु आश्रय के लिए पैसे जुटाने में मदद की।"}
+{"id": "E041|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने 20 जनवरी को स्थानीय पशु आश्रय के लिए $2,000 जुटाने में मदद की।"}
+{"id": "E042|hi|en|q1|FC", "model": "qwen3-8b", "response": "You rode Space Mountain: Ghost Galaxy at Disneyland on 24 September."}
+{"id": "E042|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने २४ सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की।"}
+{"id": "E042|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैं आपके प्रश्न के बारे में कोई जानकारी नहीं रखता।"}
+{"id": "E043|hi|en|q1|FC", "model": "qwen3-8b", "response": "You rode the Xcelerator rollercoaster on October 8th."}
+{"id": "E043|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने ८ अक्टूबर को Xcelerator रोलरकोस्टर की सवारी की।"}
+{"id": "E043|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने ८ अक्टूबर को Xcelerator रोलरकोस्टर की सवारी की।"}
+{"id": "E044|hi|en|q1|FC", "model": "qwen3-8b", "response": "You rode Revenge of the Mummy at Universal Studios Hollywood on October 15th."}
+{"id": "E044|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने १५ अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy की सवारी की।"}
+{"id": "E044|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने 15 अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy रोलरकोस्टर की लगातार तीन बार सवारी की।"}
+{"id": "E045|hi|en|q1|FC", "model": "qwen3-8b", "response": "You attended the one-day photography workshop on February 22nd."}
+{"id": "E045|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं २२ फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।"}
+{"id": "E045|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आप २२ फरवरी को एक स्थानीय स्टूडियो में एक दिन की फोटोग्राफी वर्कशॉप में गई थी।"}
+{"id": "E046|hi|en|q1|FC", "model": "qwen3-8b", "response": "You attended the half-day mindfulness workshop on December 12th."}
+{"id": "E046|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आप १२ दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E046|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने १२ दिसंबर को अपने घर के पास एक स्टूडियो में आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गया था।"}
+{"id": "E047|hi|en|q1|FC", "model": "qwen3-8b", "response": "You attended the lecture on sustainable development on April 10th."}
+{"id": "E047|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं एक सतत विकास वाले लेक्चर में १० अप्रैल को गई थी।"}
+{"id": "E047|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने १० अप्रैल को सार्वजनिक पुस्तकालय में सतत विकास पर एक लेक्चर में गई थी।"}
+{"id": "E048|hi|en|q1|FC", "model": "qwen3-8b", "response": "You sold your herbs at the farmers' market on May 15th."}
+{"id": "E048|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने १५ मई को किसान बाज़ार में अपनी जड़ी-बूटियाँ बेचीं।"}
+{"id": "E048|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने 15 मई को किसान बाजार में अपने घर के बगीचे की ताज़ी ऑर्गेनिक जड़ी-बूटियों के 12 गुच्छे बेचे।"}
+{"id": "E049|hi|en|q1|FC", "model": "qwen3-8b", "response": "You met your old colleague Rachel at the TechConnect conference on February 10th."}
+{"id": "E049|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आप १० फ़रवरी को TechConnect कॉन्फ़्रेंस में रेचल से मिले।"}
+{"id": "E049|hi|hg|q1|FC", "model": "qwen3-8b", "response": "10 फरवरी को TechConnect कॉन्फ्रेंस में आपने अपनी पुरानी साथी Rachel से मिले।"}
+{"id": "E050|hi|en|q1|FC", "model": "qwen3-8b", "response": "You got your car serviced on February 28th."}
+{"id": "E050|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने अपनी कार की सर्विस २८ फ़रवरी को करवाई थी।"}
+{"id": "E050|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने अपनी कार की सर्विस २८ फ़रवरी को करवाई थी।"}
+{"id": "E001|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You got your car serviced for the first time on 15 March."}
+{"id": "E001|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You had your car serviced for the first time on March 15th."}
+{"id": "E001|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "15 मार्च को।"}
+{"id": "E001|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने पहली बार १५ मार्च को अपनी कार की सर्विस करवाई थी।"}
+{"id": "E001|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने पहली बार अपनी कार की सर्विस 15 मार्च को करवाई थी।"}
+{"id": "E001|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने १५ मार्च को पहली बार अपनी कार की सर्विस करवाई थी।"}
+{"id": "E001|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "15 मार्च को।"}
+{"id": "E001|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine pehli baar apni car ki service March 15th ko karwayi thi."}
+{"id": "E001|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 मार्च को पहली बार अपनी कार की सर्विस करवाई थी।"}
+{"id": "E002|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You got your Samsung Galaxy S22 on 20 February."}
+{"id": "E002|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You bought your Samsung Galaxy S22 on February 20."}
+{"id": "E002|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You got your Samsung Galaxy S22 on February 20."}
+{"id": "E002|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने २० फ़रवरी को अपना Samsung Galaxy S22 लिया था।"}
+{"id": "E002|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 20 फरवरी को अपना Samsung Galaxy S22 खरीदा था।"}
+{"id": "E002|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 20 फ़रवरी को अपना Samsung Galaxy S22 लिया था।"}
+{"id": "E002|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 20 फ़रवरी को अपना Samsung Galaxy S22 लिया था।"}
+{"id": "E002|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine apna Samsung Galaxy S22 20 फरवरी को खरीदा था।"}
+{"id": "E002|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 20 फ़रवरी को अपना Samsung Galaxy S22 लिया था।"}
+{"id": "E003|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the workshop on Effective Communication in the Workplace on 10 January."}
+{"id": "E003|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You attended the workshop on Effective Communication at the Workplace on January 10."}
+{"id": "E003|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the workshop on Effective Communication in the Workplace on January 10."}
+{"id": "E003|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' वाली वर्कशॉप में गए थे।"}
+{"id": "E003|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आप 10 जनवरी को 'कार्यस्थल पर प्रभावी संवाद' वाली वर्कशॉप में गए थे।"}
+{"id": "E003|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' वाली वर्कशॉप में गए थे।"}
+{"id": "E003|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर वर्कशॉप में हिस्सा लिया।"}
+{"id": "E003|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Main 'Effective Communication in the Workplace' wali workshop 10 january ko gayi thi."}
+{"id": "E003|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने १० जनवरी को 'कार्यस्थल पर प्रभावी संवाद' पर वर्कशॉप में हिस्सा लिया।"}
+{"id": "E004|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the Holi celebration at your temple on 26 February."}
+{"id": "E004|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You attended the Holi celebration at your temple on 26 February."}
+{"id": "E004|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the Holi celebration at your temple on 26 February."}
+{"id": "E004|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैं २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गया था।"}
+{"id": "E004|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 26 फरवरी को अपने यहाँ के मंदिर में होली के उत्सव में गया था।"}
+{"id": "E004|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गए थे।"}
+{"id": "E004|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गया था।"}
+{"id": "E004|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Main apne local temple mein Holi celebration mein 26 February ko gaya tha."}
+{"id": "E004|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैं २६ फ़रवरी को अपने यहाँ के मंदिर में होली के उत्सव में गया था।"}
+{"id": "E005|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You ran in the Run for the Cure event on October 15th."}
+{"id": "E005|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You ran in the Run for the Cure event on October 15th."}
+{"id": "E005|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You ran in the Run for the Cure event on October 15th."}
+{"id": "E005|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में दौड़ लगाई थी।"}
+{"id": "E005|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 'रन फ़ॉर द क्योर' इवेंट में 15 अक्टूबर को दौड़ लगाई थी।"}
+{"id": "E005|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 'रन फ़ॉर द क्योर' इवेंट में १५ अक्टूबर को दौड़ लगाई थी।"}
+{"id": "E005|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १५ अक्टूबर को 'रन फ़ॉर द क्योर' इवेंट में दौड़ लगाई।"}
+{"id": "E005|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine 'Run for the Cure' event mein 15 October ko run kiya tha."}
+{"id": "E005|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 'रन फ़ॉर द क्योर' इवेंट में १५ अक्टूबर को दौड़ लगाई थी।"}
+{"id": "E006|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your best friend's 30th birthday party was on 22 April."}
+{"id": "E006|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "Your best friend's 30th birthday party was on April 22nd."}
+{"id": "E006|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "On April 22nd."}
+{"id": "E006|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मेरी सबसे अच्छी दोस्त की 30वें जन्मदिन की पार्टी 22 अप्रैल को थी।"}
+{"id": "E006|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपकी सबसे अच्छी दोस्त की 30वें जन्मदिन की पार्टी 22 अप्रैल को थी।"}
+{"id": "E006|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मेरी सबसे अच्छी दोस्त की 30वें जन्मदिन की पार्टी 22 अप्रैल को थी।"}
+{"id": "E006|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "22 अप्रैल को।"}
+{"id": "E006|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Meri best friend ki 30th birthday party 22 April thi."}
+{"id": "E006|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "22 अप्रैल को।"}
+{"id": "E007|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You took your bike in for a tune-up on April 20."}
+{"id": "E007|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You took your bike in for a tune-up on April 20."}
+{"id": "E007|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You took your bike in for a tune-up on April 20."}
+{"id": "E007|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप २० अप्रैल को अपनी साइकिल के ट्यून-अप के लिए ले गई थी।"}
+{"id": "E007|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने अपनी साइकिल ट्यून-अप 20 अप्रैल को ले गई थी।"}
+{"id": "E007|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी साइकिल ट्यून-अप के लिए २० अप्रैल को ले गई थी।"}
+{"id": "E007|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं 20 अप्रैल को अपनी साइकिल के ट्यून-अप के लिए ले गई थी।"}
+{"id": "E007|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Main apni cycle tune-up ke liye 20 april ko le gayi thi."}
+{"id": "E007|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 20 अप्रैल को अपनी साइकिल के ट्यून-अप के लिए ले गई थी।"}
+{"id": "E008|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You went on the guided tour at the History Museum on February 24."}
+{"id": "E008|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You went on the guided tour at the History Museum on February 24."}
+{"id": "E008|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You went on the guided tour at the History Museum on February 24."}
+{"id": "E008|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैं २४ फ़रवरी को हिस्ट्री म्यूज़ियम में गाइडेड टूर पर गया था।"}
+{"id": "E008|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आप 24 फरवरी को हिस्ट्री म्यूज़ियम में गाइडेड टूर पर गए थे।"}
+{"id": "E008|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैं २४ फ़रवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर गया था।"}
+{"id": "E008|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं 24 फ़रवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर गया था।"}
+{"id": "E008|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Main History Museum mein guided tour 24 February pe gaya tha."}
+{"id": "E008|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैं २४ फ़रवरी को हिस्ट्री म्यूज़ियम में एक गाइडेड टूर पर गया था।"}
+{"id": "E009|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You turned 32 on 12 February."}
+{"id": "E009|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You turned 32 on February 12th."}
+{"id": "E009|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You turned 32 on 12 February."}
+{"id": "E009|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप 12 फ़रवरी को 32 साल की हुई।"}
+{"id": "E009|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आप 32 साल की 12 फरवरी को हुई।"}
+{"id": "E009|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 12 फ़रवरी को 32 साल की हुई।"}
+{"id": "E009|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आप 12 फ़रवरी को 32 साल की हुई।"}
+{"id": "E009|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Aap 32 saal ki aapne 12 February ko hui."}
+{"id": "E009|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपकी 32 साल की उम्र 12 फ़रवरी को हुई।"}
+{"id": "E010|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You completed your first full marathon on 10 April."}
+{"id": "E010|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You completed your first full marathon on April 10th."}
+{"id": "E010|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You completed your first full marathon on April 10th."}
+{"id": "E010|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने १० अप्रैल को अपनी पहली फ़ुल मैराथन पूरी की थी।"}
+{"id": "E010|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने अपनी पहली फ़ुल मैराथन 10 अप्रैल को पूरी की थी।"}
+{"id": "E010|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने १० अप्रैल को अपनी पहली फ़ुल मैराथन पूरी की।"}
+{"id": "E010|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १० अप्रैल को अपनी पहली फ़ुल मैराथन पूरी की।"}
+{"id": "E010|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Aapne apni pehli full marathon 10 April ko complete ki thi."}
+{"id": "E010|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने १० अप्रैल को अपनी पहली फ़ुल मैराथन पूरी की।"}
+{"id": "E011|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You last washed your Corolla on February 27."}
+{"id": "E011|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You last washed your Corolla on February 27."}
+{"id": "E011|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You last washed your Corolla on February 27."}
+{"id": "E011|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपनी Corolla को २७ फ़रवरी को धोई थी।"}
+{"id": "E011|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने अपनी Corolla को 27 फरवरी को धोया था।"}
+{"id": "E011|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी Corolla को २७ फ़रवरी को धोई थी।"}
+{"id": "E011|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपनी Corolla को २७ फ़रवरी को धोई थी।"}
+{"id": "E011|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine last time apni Corolla February 27 par dhoyi thi."}
+{"id": "E011|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी Corolla को २७ फ़रवरी को धोई थी।"}
+{"id": "E012|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on 28 January."}
+{"id": "E012|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on January 28th."}
+{"id": "E012|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on January 28th."}
+{"id": "E012|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 28 जनवरी को अपना Dell XPS 13 प्री-ऑर्डर किया था।"}
+{"id": "E012|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 28 जनवरी को अपना Dell XPS 13 प्री-ऑर्डर किया था।"}
+{"id": "E012|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 28 जनवरी को अपना Dell XPS 13 प्री-ऑर्डर किया था।"}
+{"id": "E012|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 28 जनवरी को प्री-ऑर्डर किया था।"}
+{"id": "E012|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine Dell XPS 13 ko 28 janvar ko pre-order kiya tha."}
+{"id": "E012|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 28 जनवरी को अपना Dell XPS 13 प्री-ऑर्डर किया था।"}
+{"id": "E013|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your marigold seeds arrived on 3 March."}
+{"id": "E013|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "The information about when your marigold seeds arrived is not provided in our past conversations."}
+{"id": "E013|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You didn't mention when your marigold seeds arrived."}
+{"id": "E013|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मेरे गेंदे के बीज ३ मार्च को आए थे।"}
+{"id": "E013|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपके गेंदे के बीज 3 मार्च को आए थे।"}
+{"id": "E013|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मेरे गेंदे के बीज 3 मार्च को आए थे।"}
+{"id": "E013|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "3 मार्च को।"}
+{"id": "E013|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Mere marigold ke seeds kab aaye the?"}
+{"id": "E013|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने बताया नहीं कि मरिगोल्ड के बीज कब आए थे।"}
+{"id": "E014|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Since 20 February."}
+{"id": "E014|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You have been starting seeds indoors under grow lights since February 20."}
+{"id": "E014|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Since February 20."}
+{"id": "E014|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप २० फ़रवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E014|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आप फरवरी 20 से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E014|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप २० फ़रवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E014|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं २० फ़रवरी से ग्रो लाइट के नीचे बीज उगा रहा हूँ।"}
+{"id": "E014|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Aap February 20 se grow lights ke neeche seeds uga raha hoon."}
+{"id": "E014|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "20 फ़रवरी से।"}
+{"id": "E015|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You took part in the Turbocharged Tuesdays racing event on 14 June."}
+{"id": "E015|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You participated in the Turbocharged Tuesdays racing event on June 14."}
+{"id": "E015|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You took part in the Turbocharged Tuesdays racing event on June 14."}
+{"id": "E015|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १४ जून को Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।"}
+{"id": "E015|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने Turbocharged Tuesdays रेसिंग इवेंट में 14 जून को हिस्सा लिया था।"}
+{"id": "E015|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने १४ जून को Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।"}
+{"id": "E015|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १४ जून को Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।"}
+{"id": "E015|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Aapne Maine Turbocharged Tuesdays racing event mein 14 June ko hissa liya tha."}
+{"id": "E015|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने १४ जून को Turbocharged Tuesdays रेसिंग इवेंट में हिस्सा लिया था।"}
+{"id": "E016|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You went to the Rack Fest car show on 18 June."}
+{"id": "E016|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You went to the Rack Fest car show on June 18th."}
+{"id": "E016|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You went to the Rack Fest car show on June 18th."}
+{"id": "E016|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप १८ जून को Rack Fest कार शो में गए थे।"}
+{"id": "E016|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 18 जून को Rack Fest कार शो में गए।"}
+{"id": "E016|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप १८ जून को Rack Fest कार शो में गए थे।"}
+{"id": "E016|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आप १८ जून को Rack Fest कार शो में गए थे।"}
+{"id": "E016|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Main Rack Fest car show 18 June ko gaya tha."}
+{"id": "E016|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आप 18 जून को Rack Fest कार शो में गए थे।"}
+{"id": "E017|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You volunteered at the Coastal Cleanup event on 7th March."}
+{"id": "E017|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You volunteered at the Coastal Cleanup event on March 7th."}
+{"id": "E017|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You volunteered at the Coastal Cleanup event on March 7th."}
+{"id": "E017|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।"}
+{"id": "E017|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 7 मार्च को कोस्टल क्लीनअप इवेंट में वॉलंटियर किया था।"}
+{"id": "E017|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।"}
+{"id": "E017|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपने ७ मार्च को Coastal Cleanup इवेंट में वॉलंटियर किया था।"}
+{"id": "E017|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine Coastal Cleanup event mein March 7th ko volunteer kiya tha."}
+{"id": "E017|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने ७ मार्च को मेन कोस्टल क्लीनअप इवेंट में वॉलंटियर किया था।"}
+{"id": "E018|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the charity golf tournament on 17th July."}
+{"id": "E018|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You attended the charity golf tournament on July 17th."}
+{"id": "E018|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the charity golf tournament on July 17th."}
+{"id": "E018|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैं १७ जुलाई को चैरिटी गोल्फ़ टूर्नामेंट में गया था।"}
+{"id": "E018|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आप चैरिटी गोल्फ़ टूर्नामेंट 17 जुलाई को गए थे।"}
+{"id": "E018|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप १७ जुलाई को चैरिटी गोल्फ़ टूर्नामेंट में गए थे।"}
+{"id": "E018|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं १७ जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गया था।"}
+{"id": "E018|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Aap July 17th ko main charity golf tournament gaye the."}
+{"id": "E018|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैं १७ जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गया था।"}
+{"id": "E019|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You volunteered at the Food for Thought charity gala on September 25."}
+{"id": "E019|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You volunteered at the Food for Thought Charity Gala on September 25."}
+{"id": "E019|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You volunteered at the Food for Thought charity gala on September 25."}
+{"id": "E019|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।"}
+{"id": "E019|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने Food for Thought चैरिटी गाला में 25 सितंबर को वॉलंटियर किया था।"}
+{"id": "E019|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।"}
+{"id": "E019|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने २५ सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।"}
+{"id": "E019|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine Food for Thought charity gala ko 25 September ko volunteer kiya tha."}
+{"id": "E019|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 25 सितंबर को Food for Thought चैरिटी गाला में वॉलंटियर किया था।"}
+{"id": "E020|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You went to the backyard BBQ at your colleague's house on 3 June."}
+{"id": "E020|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You went to the backyard BBQ at your colleague's house on June 3rd."}
+{"id": "E020|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You went to the backyard BBQ at your colleague's house on June 3rd."}
+{"id": "E020|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैं ३ जून को अपने साथी के घर के आँगन वाली BBQ पार्टी में गया था।"}
+{"id": "E020|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आप अपने साथी के घर के आँगन वाली BBQ पार्टी 3 जून को गए थे।"}
+{"id": "E020|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप ३ जून को अपने साथी के घर के आँगन वाली BBQ पार्टी में गए थे।"}
+{"id": "E020|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं ३ जून को अपने साथी के घर के आँगन में हुई BBQ पार्टी में गया था।"}
+{"id": "E020|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Main apne colleague ke ghar ke backyard wali BBQ party mein 3 June ko gaya tha."}
+{"id": "E020|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैं 3 जून को अपने साथी के घर के आँगन में हुई BBQ पार्टी में गया था।"}
+{"id": "E021|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You got your new Adidas running shoes on 10 January."}
+{"id": "E021|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You got your new Adidas running shoes on 10 January."}
+{"id": "E021|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You got your new Adidas running shoes on 10 January."}
+{"id": "E021|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने हाल ही में १० जनवरी को अपने नए Adidas रनिंग शूज़ लिए।"}
+{"id": "E021|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 10 जनवरी को अपने नए Adidas रनिंग शूज़ लिए।"}
+{"id": "E021|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 10 जनवरी को अपने नए Adidas रनिंग शूज़ लिए।"}
+{"id": "E021|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने हाल ही में 10 जनवरी को अपने नए Adidas रनिंग शूज़ लिए।"}
+{"id": "E021|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine apne naye Adidas running shoes 10 January ko liye."}
+{"id": "E021|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 10 जनवरी को अपने नए Adidas रनिंग शूज़ लिए।"}
+{"id": "E022|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You wore your sneakers to play basketball on February 1st."}
+{"id": "E022|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You wore your sneakers to play basketball on 1 February."}
+{"id": "E022|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You wore your sneakers to play basketball on 1 February."}
+{"id": "E022|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १ फ़रवरी को बास्केटबॉल खेलते समय अपने सफ़ेद स्नीकर्स पहने थे।"}
+{"id": "E022|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 1 फरवरी को अपने स्नीकर्स पहनकर बास्केटबॉल खेला था।"}
+{"id": "E022|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने १ फ़रवरी को बास्केटबॉल खेला था।"}
+{"id": "E022|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 1 फ़रवरी को अपने सफ़ेद स्नीकर्स पहनकर बास्केटबॉल खेला था।"}
+{"id": "E022|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine apne sneakers pehen ke basketball 1 February khela tha."}
+{"id": "E022|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 1 फ़रवरी को अपने सफ़ेद स्नीकर्स पहनकर बास्केटबॉल खेला था।"}
+{"id": "E023|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You got your new router on 15 January."}
+{"id": "E023|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You got your new router on January 15."}
+{"id": "E023|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You got your new router on January 15."}
+{"id": "E023|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १५ जनवरी को अपना नया राउटर लिया।"}
+{"id": "E023|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने अपना नया राउटर 15 जनवरी को लिया।"}
+{"id": "E023|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 जनवरी को अपना नया राउटर लिया।"}
+{"id": "E023|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 15 जनवरी को अपना नया राउटर लिया।"}
+{"id": "E023|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine apna naya router 15 janvar ko liya."}
+{"id": "E023|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 जनवरी को अपना नया राउटर लिया।"}
+{"id": "E024|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You ordered the photo album from Shutterfly on April 15th."}
+{"id": "E024|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You ordered the photo album from Shutterfly on April 15th."}
+{"id": "E024|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You ordered the photo album from Shutterfly on April 15th."}
+{"id": "E024|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने Shutterfly से फ़ोटो एल्बम 15 अप्रैल को ऑर्डर किया।"}
+{"id": "E024|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 15 अप्रैल को Shutterfly से फ़ोटो एल्बम ऑर्डर किया।"}
+{"id": "E024|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 अप्रैल को Shutterfly से फ़ोटो एल्बम ऑर्डर किया।"}
+{"id": "E024|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने अपने सबसे अच्छे दोस्त के जन्मदिन के लिए 15 अप्रैल को ऑर्डर किया था।"}
+{"id": "E024|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine Shutterfly se photo album 15 April ko order kiya."}
+{"id": "E024|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 15 अप्रैल को Shutterfly से फोटो एल्बम का ऑर्डर किया।"}
+{"id": "E025|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You submitted your application to the exchange program on February 10."}
+{"id": "E025|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You submitted your application to the exchange program on February 10th."}
+{"id": "E025|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You submitted your application to the exchange program on February 10th."}
+{"id": "E025|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १० फ़रवरी को एक्सचेंज प्रोग्राम के लिए आवेदन भेजा था।"}
+{"id": "E025|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 10 फरवरी को एक्सचेंज प्रोग्राम के लिए आवेदन भेजा था।"}
+{"id": "E025|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने १० फ़रवरी को एक्सचेंज प्रोग्राम के लिए आवेदन भेजा था।"}
+{"id": "E025|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपने १० फ़रवरी को एक्सचेंज प्रोग्राम के लिए आवेदन भेजा था।"}
+{"id": "E025|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Aapne Maine exchange program ke liye application 10 February ko bheji thi."}
+{"id": "E025|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने एक्सचेंज प्रोग्राम के लिए १० फ़रवरी को आवेदन भेजा था।"}
+{"id": "E026|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your friend Rachel got engaged on 15 May."}
+{"id": "E026|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "Your friend Rachel got engaged on May 15th."}
+{"id": "E026|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your friend Rachel got engaged on May 15th."}
+{"id": "E026|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "रेचल की सगाई १५ मई को हुई।"}
+{"id": "E026|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "रेचल की सगाई 15 मई को हुई।"}
+{"id": "E026|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "रेचल की सगाई १५ मई को हुई।"}
+{"id": "E026|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "रेचल की सगाई 15 मई को हुई।"}
+{"id": "E026|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Rachel की एंगेजमेंट 15 मई को हुई।"}
+{"id": "E026|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Rachel की सगाई 15 मई को हुई।"}
+{"id": "E027|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the pride parade on May 1st."}
+{"id": "E027|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You attended the Pride Parade on May 1st."}
+{"id": "E027|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the pride parade on May 1st."}
+{"id": "E027|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप १ मई को प्राइड परेड में गई थी।"}
+{"id": "E027|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आप 1 मई को अपने शहर के प्राइड परेड में गए थे।"}
+{"id": "E027|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप १ मई को प्राइड परेड में गई थी।"}
+{"id": "E027|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आप १ मई को अपने शहर की प्राइड परेड में गई थी।"}
+{"id": "E027|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Main Pride Parade ko May 1 ko gayi thi."}
+{"id": "E027|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आप १ मई को प्राइड परेड में गई थी।"}
+{"id": "E028|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You met your mentor Rachel on April 10th."}
+{"id": "E028|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You met your mentor Rachel on April 10th."}
+{"id": "E028|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You met your mentor Rachel on April 10th."}
+{"id": "E028|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप अपनी मेंटर रेचल से १० अप्रैल को मिले थे।"}
+{"id": "E028|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आप अपनी मेंटर रेचल से 10 अप्रैल को मिले थे।"}
+{"id": "E028|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप अपनी मेंटर रेचल से १० अप्रैल को मिले थे।"}
+{"id": "E028|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं अपनी मेंटर रेचल से १० अप्रैल को मिला था।"}
+{"id": "E028|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Main apni mentor Rachel se 10 April ko mila tha."}
+{"id": "E028|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने १० अप्रैल को अपनी मेंटर रेचल से मिला था।"}
+{"id": "E029|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You bought the silver necklace for your best friend on 15 March."}
+{"id": "E029|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You bought the silver necklace for your best friend's 30th birthday on March 15."}
+{"id": "E029|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You bought the silver necklace for your best friend on March 15."}
+{"id": "E029|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १५ मार्च को अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार ख़रीदा।"}
+{"id": "E029|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार 15 मार्च को खरीदा।"}
+{"id": "E029|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने १५ मार्च को अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार ख़रीदा।"}
+{"id": "E029|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 15 मार्च को अपनी सबसे अच्छी दोस्त के 30वें जन्मदिन के लिए चाँदी के हार का खरीदा।"}
+{"id": "E029|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Aapne apni best friend ke liye silver necklace March 15 ko khareeda."}
+{"id": "E029|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने १५ मार्च को अपनी सबसे अच्छी दोस्त के ३०वें जन्मदिन के लिए छोटे-से पेंडेंट वाला चाँदी का हार ख"}
+{"id": "E030|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You viewed the 1-bedroom condo near the highway on February 10."}
+{"id": "E030|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You viewed the 1-bedroom condo near the highway on February 10th."}
+{"id": "E030|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You viewed the 1-bedroom condo near the highway on February 10th."}
+{"id": "E030|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १० फ़रवरी को हाईवे के पास वाला १-बेडरूम कॉन्डो देखा था।"}
+{"id": "E030|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 10 फरवरी को हाईवे के पास वाला 1-बेडरूम कॉन्डो देखा था।"}
+{"id": "E030|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने १० फ़रवरी को हाईवे के पास वाला १-बेडरूम कॉन्डो देखा था।"}
+{"id": "E030|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "तुमने १० फ़रवरी को हाईवे के पास एक १-बेडरूम कॉन्डो देखा था।"}
+{"id": "E030|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine highway ke paas wala 1-bedroom condo 10 February ko dekha tha."}
+{"id": "E030|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने १० फ़रवरी को एक हाईवे के पास वाला १-बेडरूम कॉन्डो देखा था।"}
+{"id": "E031|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You saw the 3-bedroom bungalow in Oakwood on 22 January."}
+{"id": "E031|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You saw the 3-bedroom bungalow in Oakwood on 22 January."}
+{"id": "E031|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You saw the 3-bedroom bungalow in Oakwood on 22 January."}
+{"id": "E031|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने २२ जनवरी को ओकवुड में 3-बेडरूम बंगला देखा था।"}
+{"id": "E031|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 22 जनवरी को ओकवुड में 3-बेडरूम बंगला देखा था।"}
+{"id": "E031|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने ओकवुड में 3-बेडरूम बंगला 22 जनवरी को देखा था।"}
+{"id": "E031|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 22 जनवरी को ओकवुड इलाक़े में 3-बेडरूम बंगला देखा था।"}
+{"id": "E031|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine Oakwood mein 3-bedroom bungalow 22 January ko dekha tha."}
+{"id": "E031|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 22 जनवरी को ओकवुड में 3-बेडरूम बंगला देखा था।"}
+{"id": "E032|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You put in an offer on the Brookside townhouse on February 25."}
+{"id": "E032|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You put in an offer on the Brookside townhouse on 25 February."}
+{"id": "E032|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You put in an offer on the Brookside townhouse on 25 February."}
+{"id": "E032|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने २५ फ़रवरी को ब्रुकसाइड वाले टाउनहाउस पर ऑफ़र दिया था।"}
+{"id": "E032|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 25 फरवरी को ब्रुकसाइड वाले टाउनहाउस पर ऑफ़र दिया था।"}
+{"id": "E032|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने २५ फ़रवरी को ब्रुकसाइड वाले टाउनहाउस पर ऑफ़र दिया था।"}
+{"id": "E032|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 25 फ़रवरी को ब्रुकसाइड इलाक़े में एक 3-बेडरूम टाउनहाउस पर ऑफ़र दिया था।"}
+{"id": "E032|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "The offer on the Maine Brookside townhouse was made on 25 February."}
+{"id": "E032|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 25 फ़रवरी को Brookside इलाक़े में टाउनहाउस पर ऑफ़र दिया था।"}
+{"id": "E033|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You saw the 2-bedroom condo with the community pool on February 15."}
+{"id": "E033|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You saw the 2-bedroom condo with the community pool on February 15."}
+{"id": "E033|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "On February 15."}
+{"id": "E033|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने १५ फ़रवरी को सोसाइटी पूल वाला २-बेडरूम कॉन्डो देखा था।"}
+{"id": "E033|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 15 फरवरी को सोसाइटी पूल वाला 2-बेडरूम कॉन्डो देखा था।"}
+{"id": "E033|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने १५ फ़रवरी को एक २-बेडरूम कॉन्डो देखा था।"}
+{"id": "E033|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "तुमने 15 फ़रवरी को एक 2-बेडरूम कॉन्डो के साथ प्यार हो गया था।"}
+{"id": "E033|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "You haven't mentioned seeing a Maine community pool wala 2-bedroom condo in our past conversations."}
+{"id": "E033|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "तुमने 15 फ़रवरी को एक 2-बेडरूम कॉन्डो देखा था जिसमें सोसाइटी का पूल था।"}
+{"id": "E034|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You saw the property in Cedar Creek on February 1st."}
+{"id": "E034|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You saw the property in Cedar Creek on February 1st."}
+{"id": "E034|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You saw the property in Cedar Creek on February 1st."}
+{"id": "E034|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने सीडर क्रीक वाली प्रॉपर्टी 1 फ़रवरी को देखी थी।"}
+{"id": "E034|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने सीडर क्रीक की प्रॉपर्टी 1 फरवरी को देखी थी।"}
+{"id": "E034|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने सीडर क्रीक वाली प्रॉपर्टी 1 फ़रवरी को देखी थी।"}
+{"id": "E034|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 1 फ़रवरी को सीडर क्रीक की जमीन देखी थी।"}
+{"id": "E034|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "The Maine Cedar Creek property was seen on February 1st."}
+{"id": "E034|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 1 फ़रवरी को सीडर क्रीक की गुणवत्ता वाली जगह देखी थी।"}
+{"id": "E035|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the lecture on 'The Evolution of Street Art' on 3rd March."}
+{"id": "E035|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You attended the lecture on 'The Evolution of Street Art' on March 3."}
+{"id": "E035|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the lecture on 'The Evolution of Street Art' on March 3."}
+{"id": "E035|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप ३ मार्च को 'The Evolution of Street Art' वाले लेक्चर में गई थी।"}
+{"id": "E035|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 'The Evolution of Street Art' वाले लेक्चर में 3 मार्च को गई थी।"}
+{"id": "E035|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 3 मार्च को 'The Evolution of Street Art' वाले लेक्चर में गई थी।"}
+{"id": "E035|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं ३ मार्च को 'The Evolution of Street Art' नाम के लेक्चर में गई थी।"}
+{"id": "E035|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "आपने \"The Evolution of Street Art\" वाले लेक्चर में 3 मार्च को गए थे।"}
+{"id": "E035|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैं 3 मार्च को 'The Evolution of Street Art' वाले लेक्चर में गई थी।"}
+{"id": "E036|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the 'Women in Art' exhibition on 10 February."}
+{"id": "E036|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You attended the 'Women in Art' exhibition on February 10."}
+{"id": "E036|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the 'Women in Art' exhibition on February 10."}
+{"id": "E036|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप १० फ़रवरी को 'Women in Art' प्रदर्शनी में गए थे।"}
+{"id": "E036|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आप 'Women in Art' प्रदर्शनी 10 फरवरी को गए थे।"}
+{"id": "E036|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप १० फ़रवरी को 'Women in Art' प्रदर्शनी में गए थे।"}
+{"id": "E036|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं १० फ़रवरी को 'Women in Art' प्रदर्शनी में गया था।"}
+{"id": "E036|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Main 'Women in Art' exhibition mein 10 February par gaya tha."}
+{"id": "E036|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैं १० फ़रवरी को 'Women in Art' प्रदर्शनी में गया था।"}
+{"id": "E037|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You volunteered at the Children's Museum 'Art Afternoon' on February 17."}
+{"id": "E037|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You volunteered at the Children's Museum's 'Art Afternoon' event on February 17th."}
+{"id": "E037|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You volunteered at the Children's Museum's 'Art Afternoon' on February 17th."}
+{"id": "E037|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।"}
+{"id": "E037|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 17 फरवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' घटना में वॉलंटियर किया।"}
+{"id": "E037|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।"}
+{"id": "E037|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।"}
+{"id": "E037|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine Children's Museum ke 'Art Afternoon' event mein 17 feb ko volunteer kiya."}
+{"id": "E037|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने १७ फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया।"}
+{"id": "E038|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your remote shutter release arrived on 10 February."}
+{"id": "E038|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "Your remote shutter release arrived on 10 February."}
+{"id": "E038|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your remote shutter release arrived on 10 February."}
+{"id": "E038|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मेरा रिमोट शटर रिलीज़ १० फ़रवरी को आया था।"}
+{"id": "E038|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपका रिमोट शटर रिलीज़ 10 फरवरी को आया था।"}
+{"id": "E038|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका रिमोट शटर रिलीज़ १० फ़रवरी को आया था।"}
+{"id": "E038|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मेरा नया रिमोट शटर रिलीज़ १० फ़रवरी को आया।"}
+{"id": "E038|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Mera remote shutter release 10 February ko aaya tha."}
+{"id": "E038|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "तुम्हारा रिमोट शटर रिलीज़ 10 फ़रवरी को आया था।"}
+{"id": "E039|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You cleaned and lubricated your road bike chain on 2nd March."}
+{"id": "E039|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You cleaned and lubricated your road bike chain since March 2."}
+{"id": "E039|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You cleaned and lubricated your road bike chain on 2nd March."}
+{"id": "E039|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने अपनी रोड बाइक की चेन २ मार्च को साफ़ करके तेल लगाया।"}
+{"id": "E039|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने अपनी रोड बाइक की चेन 2 मार्च से अच्छी तरह साफ़ करके तेल लगाया।"}
+{"id": "E039|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने अपनी रोड बाइक की चेन २ मार्च को साफ़ करके तेल लगाया।"}
+{"id": "E039|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "2 मार्च को।"}
+{"id": "E039|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine apni road bike ki chain March 2 ko saaf karke oil lagaya."}
+{"id": "E039|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "2 मार्च को।"}
+{"id": "E040|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You got your road bike serviced at Pedal Power on 10 March."}
+{"id": "E040|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You got your road bike serviced at Pedal Power on March 10."}
+{"id": "E040|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You got your road bike serviced at Pedal Power on March 10."}
+{"id": "E040|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने Pedal Power में अपनी रोड बाइक की सर्विस १० मार्च को करवाई।"}
+{"id": "E040|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने Pedal Power में अपनी रोड बाइक की सर्विस 10 मार्च को करवाई।"}
+{"id": "E040|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने Pedal Power में अपनी रोड बाइक की सर्विस १० मार्च को करवाई।"}
+{"id": "E040|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "10 मार्च को।"}
+{"id": "E040|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine Pedal Power mein apni road bike ki service 10 मार्च ko karwayi."}
+{"id": "E040|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "10 मार्च को।"}
+{"id": "E041|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You helped raise money for the local animal shelter on January 20."}
+{"id": "E041|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You helped raise money for the local animal shelter on January 20th."}
+{"id": "E041|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You helped raise money for the local animal shelter on January 20th."}
+{"id": "E041|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने २० जनवरी को स्थानीय पशु आश्रय के लिए पैसे जुटाने में मदद की।"}
+{"id": "E041|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने स्थानीय पशु आश्रय के लिए पैसे जुटाने में 20 जनवरी की मदद की।"}
+{"id": "E041|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने २० जनवरी को स्थानीय पशु आश्रय के लिए पैसे जुटाने में मदद की।"}
+{"id": "E041|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 20 जनवरी को स्थानीय पशु आश्रय के लिए पैसा जुटाने में मदद की।"}
+{"id": "E041|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine local animal shelter ke liye paise jutane mein January 20th ko help ki."}
+{"id": "E041|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 20 जनवरी को एक स्थानीय पशु आश्रय के लिए पैसा जुटाने में मदद की।"}
+{"id": "E042|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You rode Space Mountain: Ghost Galaxy at Disneyland on September 24th."}
+{"id": "E042|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You rode Space Mountain: Ghost Galaxy at Disneyland on September 24."}
+{"id": "E042|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You rode Space Mountain: Ghost Galaxy at Disneyland on September 24."}
+{"id": "E042|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने २४ सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की।"}
+{"id": "E042|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी 24 सितंबर को की।"}
+{"id": "E042|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने २४ सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की।"}
+{"id": "E042|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 24 सितंबर को Disneyland में Space Mountain: Ghost Galaxy की तीन बार सवारी की।"}
+{"id": "E042|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine Disneyland mein Space Mountain: Ghost Galaxy ki ride 24 September ko ki thi."}
+{"id": "E042|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 24 सितंबर को Disneyland में Space Mountain: Ghost Galaxy की राइड की।"}
+{"id": "E043|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You rode the Xcelerator rollercoaster on October 8th."}
+{"id": "E043|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You rode the Xcelerator roller coaster on October 8."}
+{"id": "E043|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You rode the Xcelerator roller coaster on October 8."}
+{"id": "E043|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 8 अक्टूबर को Xcelerator रोलरकोस्टर की सवारी की थी।"}
+{"id": "E043|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने Xcelerator रोलरकोस्टर की सवारी 8 अक्टूबर की थी।"}
+{"id": "E043|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 8 अक्टूबर को Xcelerator रोलरकोस्टर की सवारी की थी।"}
+{"id": "E043|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 8 अक्टूबर को Xcelerator रोलरकोस्टर की सवारी की।"}
+{"id": "E043|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine Xcelerator roller coaster ki ride 8 October ki thi."}
+{"id": "E043|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 8 अक्टूबर को Xcelerator रोलरकोस्टर की सवारी की।"}
+{"id": "E044|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You rode Revenge of the Mummy at Universal Studios Hollywood on October 15th."}
+{"id": "E044|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You rode the Revenge of the Mummy roller coaster at Universal Studios Hollywood on October 15th."}
+{"id": "E044|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You rode the Revenge of the Mummy at Universal Studios Hollywood on October 15th."}
+{"id": "E044|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने १५ अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy की सवारी की।"}
+{"id": "E044|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने Universal Studios Hollywood में Revenge of the Mummy की सवारी 15 अक्टूबर को की।"}
+{"id": "E044|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने १५ अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy की सवारी की।"}
+{"id": "E044|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 15 अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy रोलरकोस्टर की लगातार तीन बार सवारी की।"}
+{"id": "E044|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Revenge of the Mummy ride at Universal Studios Hollywood was ridden three times in a row on October 15th."}
+{"id": "E044|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 अक्टूबर को Revenge of the Mummy की राइड की।"}
+{"id": "E045|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the one-day photography workshop on 22 February."}
+{"id": "E045|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You attended the one-day photography workshop on 22 February."}
+{"id": "E045|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the one-day photography workshop on 22 February."}
+{"id": "E045|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप २२ फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।"}
+{"id": "E045|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आप 22 फरवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गए थे।"}
+{"id": "E045|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 22 फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।"}
+{"id": "E045|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं २२ फ़रवरी को एक स्थानीय स्टूडियो में एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।"}
+{"id": "E045|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Main 22 February ko ek din ki photography workshop mein gayi thi."}
+{"id": "E045|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आप 22 फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।"}
+{"id": "E046|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the half-day mindfulness workshop on 12 December."}
+{"id": "E046|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You attended the half-day mindfulness workshop on December 12th."}
+{"id": "E046|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the half-day mindfulness workshop on December 12th."}
+{"id": "E046|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप १२ दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E046|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आप आधे दिन की माइंडफ़ुलनेस वर्कशॉप 12 दिसंबर को गए थे।"}
+{"id": "E046|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप १२ दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E046|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आप १२ दिसंबर को अपने घर के पास एक स्टूडियो में आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E046|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Aap 12 December ko ek aadhe din ki mindfulness workshop mein gaye the."}
+{"id": "E046|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "तुम १२ दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E047|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the lecture on sustainable development on 10 April."}
+{"id": "E047|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You attended the lecture on sustainable development on April 10."}
+{"id": "E047|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the lecture on sustainable development on April 10."}
+{"id": "E047|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप १० अप्रैल को सतत विकास वाले लेक्चर में गई थी।"}
+{"id": "E047|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 10 अप्रैल को सतत विकास वाले लेक्चर में गई थी।"}
+{"id": "E047|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप १० अप्रैल को सतत विकास वाले लेक्चर में गई थी।"}
+{"id": "E047|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं १० अप्रैल को सार्वजनिक पुस्तकालय में सतत विकास पर एक लेक्चर में गई थी।"}
+{"id": "E047|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Main sustainable development wale lecture mein 10 April ko gayi thi."}
+{"id": "E047|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आप १० अप्रैल को सार्वजनिक पुस्तकालय में सतत विकास पर लेक्चर में गई थी।"}
+{"id": "E048|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You sold your herbs at the farmers' market on 15 May."}
+{"id": "E048|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You sold your herbs at the farmers' market on May 15th."}
+{"id": "E048|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You sold your herbs at the farmers' market on May 15th."}
+{"id": "E048|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने १५ मई को किसान बाज़ार में अपनी जड़ी-बूटियाँ बेचीं।"}
+{"id": "E048|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने 15 मई को किसान बाज़ार में अपनी जड़ी-बूटियाँ बेचीं।"}
+{"id": "E048|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने १५ मई को किसान बाज़ार में अपनी जड़ी-बूटियाँ बेचीं।"}
+{"id": "E048|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "तुमने १५ मई को किसान बाज़ार में अपनी जड़ी-बूटियाँ बेची।"}
+{"id": "E048|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Maine farmers' market mein apni herbs May 15th ko bechi gayi thi."}
+{"id": "E048|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 मई को फ़ैरमर्केट में अपनी जड़ी-बूटियाँ बेची।"}
+{"id": "E049|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You met your old colleague Rachel at the TechConnect conference on February 10."}
+{"id": "E049|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You met your old colleague Rachel at the TechConnect conference on February 10."}
+{"id": "E049|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You met your old colleague Rachel at the TechConnect conference on February 10."}
+{"id": "E049|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप १० फ़रवरी को TechConnect कॉन्फ़्रेंस में रेचल से मिले।"}
+{"id": "E049|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने TechConnect कॉन्फ़्रेंस में अपनी पुरानी साथी रेचल से 10 फरवरी को मिले।"}
+{"id": "E049|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने १० फ़रवरी को TechConnect कॉन्फ़्रेंस में अपनी पुरानी साथी रेचल से मिली।"}
+{"id": "E049|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं १० फ़रवरी को TechConnect कॉन्फ़्रेंस में अपनी पुरानी साथी रेचल से मिली।"}
+{"id": "E049|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "Main TechConnect conference mein apni purani colleague Rachel se 10 February ko mila।"}
+{"id": "E049|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैं १० फ़रवरी को TechConnect कॉन्फ़्रेंस में अपनी पिछली कंपनी की पुरानी साथी रेचल से मिली।"}
+{"id": "E050|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You got your car serviced on February 28th."}
+{"id": "E050|hi|en|q1|RM-S2", "model": "qwen3-8b", "response": "You had your car serviced on 10 February when the air filter was changed."}
+{"id": "E050|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You got your car serviced on February 28th."}
+{"id": "E050|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने १० फ़रवरी को अपनी कार की सर्विस करवाई थी।"}
+{"id": "E050|hi|hi|q1|RM-S2", "model": "qwen3-8b", "response": "आपने अपनी कार की सर्विस 10 फरवरी करवाई थी।"}
+{"id": "E050|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने १० फ़रवरी को अपनी कार की सर्विस करवाई थी।"}
+{"id": "E050|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने २८ फ़रवरी को अपनी कार की सर्विस करवाई थी।"}
+{"id": "E050|hi|hg|q1|RM-S2", "model": "qwen3-8b", "response": "You don't know the exact mileage of your car, but you mentioned that service was done on 10 February when the air filter was changed."}
+{"id": "E050|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने १० फ़रवरी को अपनी कार की सर्विस करवाई थी।"}

@@ -1,0 +1,74 @@
+{
+  "_comment": "Item schema v1.0 (design_spec.md §3.3). Item 1 is a worked example from LongMemEval 118b2229. Its HI/HG text is a DRAFT; it still needs the 2-annotator verification in §3.4. Item 2 shows an abstention control.",
+  "items": [
+    {
+      "item_id": "F001",
+      "source": {"dataset": "LongMemEval", "question_id": "118b2229", "lme_type": "single-session-user"},
+      "memory_type": "fact",
+      "topic": "work/commute",
+      "user_gender": "female",
+      "is_answerable": true,
+      "evidence_position": 5,
+      "filler_seed": 1001,
+      "has_distractor": true,
+      "text": {
+        "en": {
+          "memory_turn": "I've been listening to audiobooks during my daily commute, which takes 45 minutes each way. Can you recommend some good fiction audiobooks?",
+          "assistant_reply": "That's a great way to use your travel time! A few popular picks: The Nightingale by Kristin Hannah, The Silent Patient by Alex Michaelides, and Project Hail Mary by Andy Weir. Do you prefer mysteries or historical fiction?",
+          "followup_turn": "I'm already reading Gone Girl on my Kindle, but The Nightingale sounds interesting. What is it about?",
+          "followup_reply": "It's a historical novel set in France during World War II, following two sisters who resist the occupation in very different ways.",
+          "q1": "How long does my commute to work take, one way?",
+          "q2": "One way, how much time does it take me to get to work?",
+          "q3": "I'm planning tomorrow. If I have to be at the office by 9:30, what time should I leave home?",
+          "distractor_sentence": "By the way, my sister's commute is only 20 minutes each way, lucky her!"
+        },
+        "hi": {
+          "memory_turn": "मैं आजकल रोज़ ऑफिस आते-जाते ऑडियोबुक्स सुनती हूँ, एक तरफ़ का सफ़र 45 मिनट का होता है। क्या आप कुछ अच्छी फिक्शन ऑडियोबुक्स बता सकते हैं?",
+          "assistant_reply": "सफ़र के समय का यह बढ़िया इस्तेमाल है! कुछ लोकप्रिय विकल्प: क्रिस्टिन हैना की The Nightingale, एलेक्स माइकलिडीज़ की The Silent Patient और एंडी वियर की Project Hail Mary। आपको मिस्ट्री पसंद है या ऐतिहासिक कहानियाँ?",
+          "followup_turn": "मैं Gone Girl पहले से अपने Kindle पर पढ़ रही हूँ, पर The Nightingale दिलचस्प लग रही है। यह किस बारे में है?",
+          "followup_reply": "यह दूसरे विश्व युद्ध के दौरान फ़्रांस में बसी एक ऐतिहासिक कहानी है, जिसमें दो बहनें अलग-अलग तरीक़ों से कब्ज़े का विरोध करती हैं।",
+          "q1": "मेरे ऑफिस जाने में एक तरफ़ कितना समय लगता है?",
+          "q2": "एक तरफ़ से, मुझे काम पर पहुँचने में कितनी देर लगती है?",
+          "q3": "मैं कल का प्लान बना रही हूँ। अगर मुझे 9:30 तक ऑफिस पहुँचना है, तो घर से कितने बजे निकलना चाहिए?",
+          "distractor_sentence": "वैसे, मेरी बहन का ऑफिस तो बस एक तरफ़ 20 मिनट दूर है, किस्मत वाली है!"
+        },
+        "hg": {
+          "memory_turn": "Main aajkal daily office aate-jaate audiobooks sunti hoon, ek side ka travel 45 minute ka hota hai. Kya aap kuch acchi fiction audiobooks suggest kar sakte hain?",
+          "assistant_reply": "Travel time ka yeh bahut accha use hai! Kuch popular options: Kristin Hannah ki The Nightingale, Alex Michaelides ki The Silent Patient, aur Andy Weir ki Project Hail Mary. Aapko mystery pasand hai ya historical fiction?",
+          "followup_turn": "Main Gone Girl already apne Kindle pe padh rahi hoon, par The Nightingale interesting lag rahi hai. Yeh kis baare mein hai?",
+          "followup_reply": "Yeh World War II ke time France mein set ek historical novel hai, jismein do behnein alag-alag tareeke se occupation ka virodh karti hain.",
+          "q1": "Mera office jaane mein ek side kitna time lagta hai?",
+          "q2": "One way, mujhe kaam pe pahunchne mein kitni der lagti hai?",
+          "q3": "Main kal ka plan bana rahi hoon. Agar mujhe 9:30 tak office pahunchna hai, toh ghar se kitne baje nikalna chahiye?",
+          "distractor_sentence": "Waise, meri behen ka office toh bas ek side 20 minute door hai, lucky hai woh!"
+        }
+      },
+      "gold": {
+        "answer_en": "45 minutes (each way)",
+        "slots": [
+          {"name": "duration", "aliases": ["45 minutes", "45 minute", "45 mins", "45 min", "45 मिनट", "पौन घंटा", "paun ghanta", "three quarters of an hour"]}
+        ],
+        "q3_answer_en": "By 8:45 (45 minutes before 9:30)",
+        "q3_slots": [{"name": "leave_time", "aliases": ["8:45", "8.45", "पौने नौ", "paune nau", "quarter to nine"]}]
+      },
+      "distractor": {"value_aliases": ["20 minutes", "20 minute", "20 min", "20 मिनट"], "host_filler_rule": "first user turn of a filler session >= 2 sessions from evidence"},
+      "verification": {
+        "hi": {"annotator_1": null, "annotator_2": null, "decision": null, "notes": ""},
+        "hg": {"annotator_1": null, "annotator_2": null, "decision": null, "notes": ""}
+      }
+    },
+    {
+      "item_id": "F001-ABS",
+      "source": {"dataset": "LongMemEval", "question_id": "118b2229", "lme_type": "single-session-user (abstention variant)"},
+      "memory_type": "fact",
+      "is_answerable": false,
+      "_comment": "Same history as F001. The queried detail never appears; a related one (the commute, audiobooks) does.",
+      "text": {
+        "en": {"q1": "Which audiobook app do I use on my commute?", "q2": "What's the name of the app I listen to audiobooks on?"},
+        "hi": {"q1": "मैं सफ़र में ऑडियोबुक्स सुनने के लिए कौन-सा ऐप इस्तेमाल करती हूँ?", "q2": "जिस ऐप पर मैं ऑडियोबुक्स सुनती हूँ, उसका नाम क्या है?"},
+        "hg": {"q1": "Main commute mein audiobooks sunne ke liye kaunsa app use karti hoon?", "q2": "Jis app pe main audiobooks sunti hoon, uska naam kya hai?"}
+      },
+      "gold": {"answer_en": "NO_ANSWER (never mentioned)", "slots": []}
+    }
+  ]
+}

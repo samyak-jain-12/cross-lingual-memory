@@ -1,0 +1,1620 @@
+{"id": "F001|en|en|q1|FC", "model": "qwen3-8b", "response": "You mentioned that your commute takes 45 minutes each way."}
+{"id": "F001|en|hi|q1|FC", "model": "qwen3-8b", "response": "मैं आपके ऑफिस जाने के समय के बारे में कोई जानकारी नहीं रखता हूँ।"}
+{"id": "F001|en|hg|q1|FC", "model": "qwen3-8b", "response": "Mera office jaane mein ek side 20 minute ka time lagta hai."}
+{"id": "F001|hi|en|q1|FC", "model": "qwen3-8b", "response": "I don't know."}
+{"id": "F001|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं आपके ऑफिस जाने के समय के बारे में जानकारी नहीं रखता।"}
+{"id": "F001|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैं आपके ऑफिस जाने के समय के बारे में जानकारी नहीं रखता।"}
+{"id": "F001|hg|en|q1|FC", "model": "qwen3-8b", "response": "Main aapke commute ke baare mein koi information nahi rakhata hoon."}
+{"id": "F001|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैं आपके ऑफिस जाने में कितना समय लगता है इस बारे में कोई जानकारी नहीं रखता।"}
+{"id": "F001|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main aapke office jaane mein kitna time lagta hai is baare mein information nahi rakhata hoon."}
+{"id": "F004|en|en|q1|FC", "model": "qwen3-8b", "response": "You did your study abroad program at the University of Melbourne."}
+{"id": "F004|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने अपना स्टडी अब्रॉड प्रोग्राम यूनिवर्सिटी ऑफ मेलबोर्न में किया था।"}
+{"id": "F004|en|hg|q1|FC", "model": "qwen3-8b", "response": "I don't know."}
+{"id": "F004|hi|en|q1|FC", "model": "qwen3-8b", "response": "You did your study abroad program at the University of Melbourne."}
+{"id": "F004|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने अपना स्टडी अब्रॉड प्रोग्राम यूनिवर्सिटी ऑफ़ मेलबर्न में किया था।"}
+{"id": "F004|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने अपना स्टडी अब्रॉड प्रोग्राम यूनिवर्सिटी ऑफ़ मेलबर्न में किया था।"}
+{"id": "F004|hg|en|q1|FC", "model": "qwen3-8b", "response": "University of Melbourne."}
+{"id": "F004|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने अपना स्टडी अब्रॉड प्रोग्राम विक्टोरिया यूनिवर्सिटी ऑफ मेलबोर्न में किया था।"}
+{"id": "F004|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine apna study abroad program University of Melbourne mein kiya tha."}
+{"id": "F005|en|en|q1|FC", "model": "qwen3-8b", "response": "You bought your sister a yellow dress and matching earrings."}
+{"id": "F005|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने अपनी बहन के जन्मदिन पर उसके लिए एक पीला ड्रेस और मेल चढ़ाई ईअरिंग्स खरीदे थे।"}
+{"id": "F005|en|hg|q1|FC", "model": "qwen3-8b", "response": "I don't know."}
+{"id": "F005|hi|en|q1|FC", "model": "qwen3-8b", "response": "You bought your sister a yellow dress and matching earrings."}
+{"id": "F005|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने अपनी बहन के जन्मदिन पर उसके लिए एक पीली ड्रेस और मैचिंग इयररिंग्स खरीदे थे।"}
+{"id": "F005|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने उसके लिए एक पीली ड्रेस और मैचिंग इयररिंग्स खरीदे थे।"}
+{"id": "F005|hg|en|q1|FC", "model": "qwen3-8b", "response": "You bought your sister a yellow dress and matching earrings."}
+{"id": "F005|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने उसके लिए एक पीला ड्रेस और उसके साथ मेल खाने वाले ईअररिंग्स खरीदे थे।"}
+{"id": "F005|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine apni behen ke birthday ke liye uske liye ek yellow dress aur uske saath matching earrings khareeda tha."}
+{"id": "F006|en|en|q1|FC", "model": "qwen3-8b", "response": "I don't know."}
+{"id": "F006|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने अपने कुत्ते की नस्ल के बारे में कोई जानकारी नहीं दी है, इसलिए मैं नस्ल के बारे में कुछ नहीं कह सकता।"}
+{"id": "F006|en|hg|q1|FC", "model": "qwen3-8b", "response": "I don't know."}
+{"id": "F006|hi|en|q1|FC", "model": "qwen3-8b", "response": "मैं आपके कुत्ते की जाति निर्धारित करने में सक्षम नहीं हूं।"}
+{"id": "F006|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं आपके कुत्ते की नस्ल के बारे में कोई जानकारी नहीं रखता।"}
+{"id": "F006|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैं आपके कुत्ते की जाति के बारे में कोई जानकारी नहीं रखता।"}
+{"id": "F006|hg|en|q1|FC", "model": "qwen3-8b", "response": "You haven't mentioned the breed of your dog in past conversations."}
+{"id": "F006|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैं आपके कुत्ते की नस्ल के बारे में कोई जानकारी नहीं रखता।"}
+{"id": "F006|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main aapke dog ke breed ke bare mei koi information nahi rakhata hoon."}
+{"id": "F008|en|en|q1|FC", "model": "qwen3-8b", "response": "You were in Japan for two weeks."}
+{"id": "F008|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने जापान में दो सप्ताह तक रहा था।"}
+{"id": "F008|en|hg|q1|FC", "model": "qwen3-8b", "response": "Main Japan mein do सप्ताह तक raha tha."}
+{"id": "F008|hi|en|q1|FC", "model": "qwen3-8b", "response": "You were in Japan for two weeks."}
+{"id": "F008|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं जापान में दो हफ्ते रहा था।"}
+{"id": "F008|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने कुछ महीने पहले जापान में रहे थे।"}
+{"id": "F008|hg|en|q1|FC", "model": "qwen3-8b", "response": "You were in Japan for two weeks."}
+{"id": "F008|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैं जापान में दो हफ्ते तक रहा था।"}
+{"id": "F008|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main Japan mein do hafte raha tha."}
+{"id": "F009|en|en|q1|FC", "model": "qwen3-8b", "response": "Your new Samsung TV is a 55-inch 4K smart TV."}
+{"id": "F009|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपका नया Samsung टीवी 55 इंच का है।"}
+{"id": "F009|en|hg|q1|FC", "model": "qwen3-8b", "response": "Mera naya Samsung TV 55-inch ka hai."}
+{"id": "F009|hi|en|q1|FC", "model": "qwen3-8b", "response": "Your new Samsung TV is 55 inches."}
+{"id": "F009|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपका नया Samsung टीवी 55 इंच का है।"}
+{"id": "F009|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपका नया Samsung टीवी 55 इंच का है।"}
+{"id": "F009|hg|en|q1|FC", "model": "qwen3-8b", "response": "Your new Samsung TV is 55-inch."}
+{"id": "F009|hg|hi|q1|FC", "model": "qwen3-8b", "response": "आपका नया Samsung टीवी 55 इंच का है।"}
+{"id": "F009|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Aapke naya Samsung TV 55-inch ka hai."}
+{"id": "P001|en|en|q1|FC", "model": "qwen3-8b", "response": "You mentioned that Nike has been your favorite brand for running shoes."}
+{"id": "P001|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपका पसंदीदा रनिंग शूज़ ब्रांड नाइकि है।"}
+{"id": "P001|en|hg|q1|FC", "model": "qwen3-8b", "response": "Mera favourite brand running shoes Nike hai."}
+{"id": "P001|hi|en|q1|FC", "model": "qwen3-8b", "response": "Nike is your favorite brand of running shoes."}
+{"id": "P001|hi|hi|q1|FC", "model": "qwen3-8b", "response": "Nike"}
+{"id": "P001|hi|hg|q1|FC", "model": "qwen3-8b", "response": "Nike."}
+{"id": "P001|hg|en|q1|FC", "model": "qwen3-8b", "response": "Nike."}
+{"id": "P001|hg|hi|q1|FC", "model": "qwen3-8b", "response": "Nike."}
+{"id": "P001|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Nike."}
+{"id": "P006|en|en|q1|FC", "model": "qwen3-8b", "response": "You've been using basil and mint in your cooking lately."}
+{"id": "P006|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने अपने खाने में बेसिल और मिंट का इस्तेमाल कर रहे हैं।"}
+{"id": "P006|en|hg|q1|FC", "model": "qwen3-8b", "response": "You are using basil and mint in your cooking."}
+{"id": "P006|hi|en|q1|FC", "model": "qwen3-8b", "response": "You have been using basil and mint in your cooking lately."}
+{"id": "P006|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आप अपने खाने में बेसिल और पुदीना इस्तेमाल कर रहे हैं।"}
+{"id": "P006|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आप अपने खाने में बेसिल और पुदीना बहुत इस्तेमाल कर रहे हैं।"}
+{"id": "P006|hg|en|q1|FC", "model": "qwen3-8b", "response": "You have been using basil and mint in your cooking lately."}
+{"id": "P006|hg|hi|q1|FC", "model": "qwen3-8b", "response": "आजकल आप अपने खाने में basil और pudina जड़ी-बूटियाँ इस्तेमाल कर रहे हैं।"}
+{"id": "P006|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Aajkal main apne khane mein basil aur pudina use kar raha hoon."}
+{"id": "P007|en|en|q1|FC", "model": "qwen3-8b", "response": "Based on your previous interest in Scandinavian minimalism, it seems you likely prefer a clean, simple, and functional furniture design style."}
+{"id": "P007|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने कोई फर्नीचर डिज़ाइन स्टाइल के बारे में बताया नहीं है, इसलिए मैं नहीं जान सकता कि आपको कौन-सा डिज"}
+{"id": "P007|en|hg|q1|FC", "model": "qwen3-8b", "response": "Mujhe Scandinavian minimalism pasand hai."}
+{"id": "P007|hi|en|q1|FC", "model": "qwen3-8b", "response": "मैं आपकी बहन के स्कैंडिनेवियन मिनिमलिज़्म के पसंद के बारे में जानता हूँ, इसलिए आप उस शैली को पसंद कर स"}
+{"id": "P007|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपको मिड-सेंचुरी मॉडर्न डिज़ाइन पसंद है।"}
+{"id": "P007|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मुझे आपके पसंदीदा फर्नीचर डिज़ाइन स्टाइल के बारे में कोई जानकारी नहीं है।"}
+{"id": "P007|hg|en|q1|FC", "model": "qwen3-8b", "response": "You like mid-century modern design."}
+{"id": "P007|hg|hi|q1|FC", "model": "qwen3-8b", "response": "आपके बेडरूम में मिड-सेंचुरी मॉडर्न डिज़ाइन पसंद है।"}
+{"id": "P007|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main nahi pata ki aapka furniture design style kya pasand hai."}
+{"id": "E001|en|en|q1|FC", "model": "qwen3-8b", "response": "You got your car serviced for the first time on March 15th."}
+{"id": "E001|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने 15 मार्च को पहली बार अपनी कार की सर्विस करवाई थी।"}
+{"id": "E001|en|hg|q1|FC", "model": "qwen3-8b", "response": "Maine pehli baar apni car ki service 15 March ko karwayi thi."}
+{"id": "E001|hi|en|q1|FC", "model": "qwen3-8b", "response": "15 मार्च को।"}
+{"id": "E001|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने पहली बार अपनी कार की सर्विस 15 मार्च को करवाई थी।"}
+{"id": "E001|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने पहली बार अपनी कार की सर्विस 15 मार्च को करवाई थी।"}
+{"id": "E001|hg|en|q1|FC", "model": "qwen3-8b", "response": "You got your car serviced for the first time on 15 March."}
+{"id": "E001|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने पहली बार 2 अप्रैल को अपनी कार की सर्विस करवाई थी।"}
+{"id": "E001|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine pehli baar apni car ki service 15 March ko karwayi thi."}
+{"id": "E006|en|en|q1|FC", "model": "qwen3-8b", "response": "Your best friend's 30th birthday party was on the 22nd of April."}
+{"id": "E006|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपकी सबसे अच्छी दोस्त की 30वें जन्मदिन की पार्टी 22 अप्रैल को थी।"}
+{"id": "E006|en|hg|q1|FC", "model": "qwen3-8b", "response": "Meri best friend ki 30th birthday party 22nd April thi."}
+{"id": "E006|hi|en|q1|FC", "model": "qwen3-8b", "response": "Your best friend's 30th birthday party was on April 22nd."}
+{"id": "E006|hi|hi|q1|FC", "model": "qwen3-8b", "response": "22 अप्रैल।"}
+{"id": "E006|hi|hg|q1|FC", "model": "qwen3-8b", "response": "22 अप्रैल को।"}
+{"id": "E006|hg|en|q1|FC", "model": "qwen3-8b", "response": "22 April."}
+{"id": "E006|hg|hi|q1|FC", "model": "qwen3-8b", "response": "22 April को।"}
+{"id": "E006|hg|hg|q1|FC", "model": "qwen3-8b", "response": "22 April."}
+{"id": "E007|en|en|q1|FC", "model": "qwen3-8b", "response": "You took your bike in for a tune-up on April 20th."}
+{"id": "E007|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने अपनी साइकिल के ट्यून-अप के लिए 20 अप्रैल को ले गई थी।"}
+{"id": "E007|en|hg|q1|FC", "model": "qwen3-8b", "response": "Main apni cycle tune-up ke liye 20 April ko le gayi thi."}
+{"id": "E007|hi|en|q1|FC", "model": "qwen3-8b", "response": "You took your bike in for a tune-up on April 20th."}
+{"id": "E007|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं अपनी साइकिल ट्यून-अप के लिए 20 अप्रैल को ले गई थी।"}
+{"id": "E007|hi|hg|q1|FC", "model": "qwen3-8b", "response": "20 अप्रैल को।"}
+{"id": "E007|hg|en|q1|FC", "model": "qwen3-8b", "response": "You took your bike in for a tune-up on 20 April."}
+{"id": "E007|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 20 अप्रैल को अपनी साइकिल के ट्यून-अप के लिए ले गई थी।"}
+{"id": "E007|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main apni cycle tune-up ke liye 20 April ko le gayi thi."}
+{"id": "E009|en|en|q1|FC", "model": "qwen3-8b", "response": "You turned 32 on February 12th."}
+{"id": "E009|en|hi|q1|FC", "model": "qwen3-8b", "response": "आप 32 साल की उम्र के बारे में बताएं गए जन्म तारीख के आधार पर, आप 12 फरवरी 1992 को जन्मे हुए हैं।"}
+{"id": "E009|en|hg|q1|FC", "model": "qwen3-8b", "response": "The question is in Hindi and translates to \"When did the main 32 years happen?\" However, there is no information provided in the past conversations that relates to this question. Therefore, I don't know."}
+{"id": "E009|hi|en|q1|FC", "model": "qwen3-8b", "response": "You turned 32 on 12 February."}
+{"id": "E009|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आप 12 फरवरी को 32 साल के हुए।"}
+{"id": "E009|hi|hg|q1|FC", "model": "qwen3-8b", "response": "12 फरवरी को।"}
+{"id": "E009|hg|en|q1|FC", "model": "qwen3-8b", "response": "You turned 32 on 12 February."}
+{"id": "E009|hg|hi|q1|FC", "model": "qwen3-8b", "response": "आप 12 फरवरी को 32 साल के हुए।"}
+{"id": "E009|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main 12 February ko 32 saal ki hui."}
+{"id": "F011|en|en|q1|FC", "model": "qwen3-8b", "response": "You saw the play \"The Glass Menagerie\" at the local community theater."}
+{"id": "F011|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने कम्युनिटी थिएटर में \"द ग्लास मेनेजरी\" नाटक देखा था।"}
+{"id": "F011|en|hg|q1|FC", "model": "qwen3-8b", "response": "I don't know."}
+{"id": "F011|hi|en|q1|FC", "model": "qwen3-8b", "response": "The Glass Menagerie."}
+{"id": "F011|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने कम्युनिटी थिएटर में \"The Glass Menagerie\" नाटक देखा था।"}
+{"id": "F011|hi|hg|q1|FC", "model": "qwen3-8b", "response": "The Glass Menagerie."}
+{"id": "F011|hg|en|q1|FC", "model": "qwen3-8b", "response": "The Glass Menagerie."}
+{"id": "F011|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने कम्युनिटी थिएटर में \"The Glass Menagerie\" नाटक देखा था।"}
+{"id": "F011|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine community theatre mein \"The Glass Menagerie\" ka play dekha tha."}
+{"id": "P018|en|en|q1|FC", "model": "qwen3-8b", "response": "You are a big fan of the Gardening Know How website."}
+{"id": "P018|en|hi|q1|FC", "model": "qwen3-8b", "response": "आप बाग़बानी के लिए Gardening Know How वेबसाइट का बड़ा फ़ैन हैं।"}
+{"id": "P018|en|hg|q1|FC", "model": "qwen3-8b", "response": "आप गार्डनिंग के लिए गार्डनिंग कनो हॉव वेबसाइट का बड़ा फैन हैं।"}
+{"id": "P018|hi|en|q1|FC", "model": "qwen3-8b", "response": "You are a big fan of Gardening Know How website."}
+{"id": "P018|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आप Gardening Know How वेबसाइट का बड़ा फ़ैन हैं।"}
+{"id": "P018|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आप Gardening Know How वेबसाइट का बड़ा फ़ैन हैं।"}
+{"id": "P018|hg|en|q1|FC", "model": "qwen3-8b", "response": "Gardening Know How website."}
+{"id": "P018|hg|hi|q1|FC", "model": "qwen3-8b", "response": "Gardening Know How वेबसाइट।"}
+{"id": "P018|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main Gardening Know How website ka bada fan hoon."}
+{"id": "P019|en|en|q1|FC", "model": "qwen3-8b", "response": "Your favorite yoga pose is downward-facing dog."}
+{"id": "P019|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपका पसंदीदा योग आसन डाउनवर्ड-फेसिंग डॉग है।"}
+{"id": "P019|en|hg|q1|FC", "model": "qwen3-8b", "response": "Your favorite yoga pose is downward-facing dog."}
+{"id": "P019|hi|en|q1|FC", "model": "qwen3-8b", "response": "अधोमुख श्वानासन (डाउनवर्ड डॉग) आपका सबसे पसंदीदा आसन है।"}
+{"id": "P019|hi|hi|q1|FC", "model": "qwen3-8b", "response": "अधोमुख श्वानासन (डाउनवर्ड डॉग) आपका पसंदीदा योग आसन है।"}
+{"id": "P019|hi|hg|q1|FC", "model": "qwen3-8b", "response": "अधोमुख श्वानासन (डाउनवर्ड डॉग) आपका पसंदीदा योगासन है।"}
+{"id": "P019|hg|en|q1|FC", "model": "qwen3-8b", "response": "Downward-facing dog is your favorite yoga pose."}
+{"id": "P019|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मेरा पसंदीदा योग आसन डाउनवर्ड-फेसिंग डॉग है।"}
+{"id": "P019|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main aapke favourite yoga pose ko nahi pata, lekin aapne shayad downward-facing dog ke baare mein mention kiya tha."}
+{"id": "E011|en|en|q1|FC", "model": "qwen3-8b", "response": "You last washed your Corolla on February 27th."}
+{"id": "E011|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने अपनी Corolla को 27 फरवरी को धोया था।"}
+{"id": "E011|en|hg|q1|FC", "model": "qwen3-8b", "response": "Maine last time apni Corolla kab dhoyi thi?"}
+{"id": "E011|hi|en|q1|FC", "model": "qwen3-8b", "response": "You last washed your Corolla on February 27."}
+{"id": "E011|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने आखिरी बार अपनी Corolla को 27 फरवरी को धोई थी।"}
+{"id": "E011|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने अपनी मौजूदा Corolla को 27 फ़रवरी को धोया था।"}
+{"id": "E011|hg|en|q1|FC", "model": "qwen3-8b", "response": "You last washed your Corolla on 27 February."}
+{"id": "E011|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने आख़िरी बार अपनी Corolla 27 फ़रवरी को धोई थी।"}
+{"id": "E011|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine last time apni Corolla 27 February ko dhoyi thi."}
+{"id": "E012|en|en|q1|FC", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on January 28th."}
+{"id": "E012|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने 1 जनवरी 2023 को प्री-ऑर्डर किया था।"}
+{"id": "E012|en|hg|q1|FC", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on January 28th."}
+{"id": "E012|hi|en|q1|FC", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on 28 January."}
+{"id": "E012|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 28 जनवरी को प्री-ऑर्डर किया था।"}
+{"id": "E012|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने 28 जनवरी को प्री-ऑर्डर किया था।"}
+{"id": "E012|hg|en|q1|FC", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on 28 January."}
+{"id": "E012|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 28 जनवरी को प्री-ऑर्डर किया था।"}
+{"id": "E012|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine apna Dell XPS 13 28 January ko pre-order kiya tha."}
+{"id": "E014|en|en|q1|FC", "model": "qwen3-8b", "response": "You have been starting seeds indoors under grow lights since February 20th."}
+{"id": "E014|en|hi|q1|FC", "model": "qwen3-8b", "response": "आप अपने बीज को घर के अंदर ग्रो लाइट के नीचे फरवरी 20 से उगा रहे हैं।"}
+{"id": "E014|en|hg|q1|FC", "model": "qwen3-8b", "response": "Main kab se ghar ke andar grow lights ke neeche seeds uga raha hoon?"}
+{"id": "E014|hi|en|q1|FC", "model": "qwen3-8b", "response": "You have been starting seeds indoors under grow lights since February 20."}
+{"id": "E014|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आप 20 फ़रवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E014|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आप 20 फरवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E014|hg|en|q1|FC", "model": "qwen3-8b", "response": "Since 20 February."}
+{"id": "E014|hg|hi|q1|FC", "model": "qwen3-8b", "response": "20 फरवरी से।"}
+{"id": "E014|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main 20 February se ghar ke andar grow lights ke neeche seeds uga raha hoon."}
+{"id": "E018|en|en|q1|FC", "model": "qwen3-8b", "response": "You attended the charity golf tournament on July 17th."}
+{"id": "E018|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने जून 17 तारीख को चैरिटी गोल्फ़ टूर्नामेंट में गए थे।"}
+{"id": "E018|en|hg|q1|FC", "model": "qwen3-8b", "response": "Main charity golf tournament mein 2nd August ko gaya tha."}
+{"id": "E018|hi|en|q1|FC", "model": "qwen3-8b", "response": "You attended the charity golf tournament on July 17th."}
+{"id": "E018|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं 17 जुलाई को चैरिटी गोल्फ़ टूर्नामेंट में गया था।"}
+{"id": "E018|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने 17 जुलाई को एक चैरिटी गोल्फ टूर्नामेंट में गए।"}
+{"id": "E018|hg|en|q1|FC", "model": "qwen3-8b", "response": "You attended the charity golf tournament on 17 July."}
+{"id": "E018|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैं 17 जुलाई को चैरिटी गोल्फ़ टूर्नामेंट में गया था।"}
+{"id": "E018|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main 17 July ko ek charity golf tournament mein gaya tha."}
+{"id": "F021|en|en|q1|FC", "model": "qwen3-8b", "response": "You packed 7 shirts for your 5-day trip to Costa Rica."}
+{"id": "F021|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने 5 दिन की कोस्टा रिका ट्रिप के लिए 7 शर्ट पैक की थीं।"}
+{"id": "F021|en|hg|q1|FC", "model": "qwen3-8b", "response": "Costa Rica 5-day trip ke liye aapne 7 shirts pack ki thi."}
+{"id": "F021|hi|en|q1|FC", "model": "qwen3-8b", "response": "You packed 7 shirts for your 5-day trip to Costa Rica."}
+{"id": "F021|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपने 7 शर्ट पैक की थीं।"}
+{"id": "F021|hi|hg|q1|FC", "model": "qwen3-8b", "response": "7."}
+{"id": "F021|hg|en|q1|FC", "model": "qwen3-8b", "response": "You packed 7 shirts for your 5-day trip to Costa Rica."}
+{"id": "F021|hg|hi|q1|FC", "model": "qwen3-8b", "response": "7 शर्ट।"}
+{"id": "F021|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Costa Rica ki 5 din ki trip ke liye aapne 7 shirts pack ki thi."}
+{"id": "F024|en|en|q1|FC", "model": "qwen3-8b", "response": "You caught 12 largemouth bass on your last trip to Lake Michigan."}
+{"id": "F024|en|hi|q1|FC", "model": "qwen3-8b", "response": "मिशिगन झील की पिछली ट्रिप पर आपने 12 लार्जमाउथ बास पकड़ी थीं।"}
+{"id": "F024|en|hg|q1|FC", "model": "qwen3-8b", "response": "On your previous trip to Lake Michigan, you caught 12 largemouth bass."}
+{"id": "F024|hi|en|q1|FC", "model": "qwen3-8b", "response": "You caught 12 largemouth bass on your last trip to Lake Michigan."}
+{"id": "F024|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मिशिगन झील की पिछली ट्रिप पर आपने 12 लार्जमाउथ बास पकड़ी थीं।"}
+{"id": "F024|hi|hg|q1|FC", "model": "qwen3-8b", "response": "पिछली ट्रिप पर आपने 12 लार्जमाउथ बास पकड़ीं।"}
+{"id": "F024|hg|en|q1|FC", "model": "qwen3-8b", "response": "You caught 12 largemouth bass on your last trip to Lake Michigan."}
+{"id": "F024|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मिशिगन झील की पिछली ट्रिप पर आपने 12 लार्जमाउथ बास पकड़ी थी।"}
+{"id": "F024|hg|hg|q1|FC", "model": "qwen3-8b", "response": "12"}
+{"id": "F025|en|en|q1|FC", "model": "qwen3-8b", "response": "You watched 10 amateur comedians perform at the open mic night."}
+{"id": "F025|en|hi|q1|FC", "model": "qwen3-8b", "response": "तुमने ओपन माइक नाइट में 10 अमैटर कॉमेडियन को परफॉर्म करते देखा।"}
+{"id": "F025|en|hg|q1|FC", "model": "qwen3-8b", "response": "You saw 10 amateur comedians perform at the open mic night."}
+{"id": "F025|hi|en|q1|FC", "model": "qwen3-8b", "response": "You watched 10 amateur comedians perform at the open mic night."}
+{"id": "F025|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपने ओपन माइक नाइट में 10 नए कॉमेडियन को परफॉर्म करते देखा।"}
+{"id": "F025|hi|hg|q1|FC", "model": "qwen3-8b", "response": "10"}
+{"id": "F025|hg|en|q1|FC", "model": "qwen3-8b", "response": "You watched 10 amateur comedians perform at the open mic night."}
+{"id": "F025|hg|hi|q1|FC", "model": "qwen3-8b", "response": "तुमने ओपन माइक नाइट में 10 नए कॉमेडियन को परफॉर्म करते देखा।"}
+{"id": "F025|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine open mic night mein 10 amateur comedians ko perform karte dekha."}
+{"id": "F026|en|en|q1|FC", "model": "qwen3-8b", "response": "You were 18 years old when your grandma gave you the silver chain."}
+{"id": "F026|en|hi|q1|FC", "model": "qwen3-8b", "response": "तब आपकी उम्र 18 साल थी।"}
+{"id": "F026|en|hg|q1|FC", "model": "qwen3-8b", "response": "You were 18 years old when your grandmother gave you the silver chain."}
+{"id": "F026|hi|en|q1|FC", "model": "qwen3-8b", "response": "You were 18 years old when your grandma gave you the silver chain."}
+{"id": "F026|hi|hi|q1|FC", "model": "qwen3-8b", "response": "18 वर्ष."}
+{"id": "F026|hi|hg|q1|FC", "model": "qwen3-8b", "response": "18 वर्ष."}
+{"id": "F026|hg|en|q1|FC", "model": "qwen3-8b", "response": "You were 18 years old when your grandma gave you the silver chain."}
+{"id": "F026|hg|hi|q1|FC", "model": "qwen3-8b", "response": "उस वक्त आपकी उम्र 18 साल थी।"}
+{"id": "F026|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine apni umar ke baare mei koi mention nahi kiya hai."}
+{"id": "F027|en|en|q1|FC", "model": "qwen3-8b", "response": "Your preferred gin-to-vermouth ratio for a classic martini is 3:1 with a dash of citrus bitters."}
+{"id": "F027|en|hi|q1|FC", "model": "qwen3-8b", "response": "क्लासिक मार्टिनी के लिए जिन और वरमाउथ का आपका पसंदीदा अनुपात 3:1 है।"}
+{"id": "F027|en|hg|q1|FC", "model": "qwen3-8b", "response": "Classic martini ke liye gin aur vermouth ka aapka favourite ratio 3:1 hai."}
+{"id": "F027|hi|en|q1|FC", "model": "qwen3-8b", "response": "3:1"}
+{"id": "F027|hi|hi|q1|FC", "model": "qwen3-8b", "response": "3:1 का अनुपात है।"}
+{"id": "F027|hi|hg|q1|FC", "model": "qwen3-8b", "response": "3:1."}
+{"id": "F027|hg|en|q1|FC", "model": "qwen3-8b", "response": "3:1."}
+{"id": "F027|hg|hi|q1|FC", "model": "qwen3-8b", "response": "क्लासिक मार्टिनी के लिए जिन और वरमाउथ का पसंदीदा अनुपात 3:1 है।"}
+{"id": "F027|hg|hg|q1|FC", "model": "qwen3-8b", "response": "3:1."}
+{"id": "F029|en|en|q1|FC", "model": "qwen3-8b", "response": "You attended your cousin's wedding at the Grand Ballroom."}
+{"id": "F029|en|hi|q1|FC", "model": "qwen3-8b", "response": "आप अपनी कज़िन की शादी में ग्रैंड बॉलरूम में गए थे।"}
+{"id": "F029|en|hg|q1|FC", "model": "qwen3-8b", "response": "Main apni cousin ki shaadi mein Lakeview Gardens mein gayi thi."}
+{"id": "F029|hi|en|q1|FC", "model": "qwen3-8b", "response": "You attended your cousin's wedding at Grand Ballroom."}
+{"id": "F029|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं अपनी कज़िन की शादी में ग्रैंड बॉलरूम में गई थी।"}
+{"id": "F029|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने अपनी कज़िन की शादी में ग्रैंड बॉलरूम में गई।"}
+{"id": "F029|hg|en|q1|FC", "model": "qwen3-8b", "response": "You attended your cousin's wedding at the Grand Ballroom."}
+{"id": "F029|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैं अपनी कज़िन की शादी में ग्रांड बॉलरूम में गई थी।"}
+{"id": "F029|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main apni cousin ki shaadi mein Grand Ballroom gayi thi."}
+{"id": "P021|en|en|q1|FC", "model": "qwen3-8b", "response": "You have always loved the Elder Scrolls series."}
+{"id": "P021|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपको हमेशा से एल्डर रोल्स सीरीज़ पसंद रही है।"}
+{"id": "P021|en|hg|q1|FC", "model": "qwen3-8b", "response": "Tumhe hamesha se Elder Scrolls series pasand rahi hai."}
+{"id": "P021|hi|en|q1|FC", "model": "qwen3-8b", "response": "Elder Scrolls series."}
+{"id": "P021|hi|hi|q1|FC", "model": "qwen3-8b", "response": "ईयर्थ एक्सपैंडर्स सीरीज़।"}
+{"id": "P021|hi|hg|q1|FC", "model": "qwen3-8b", "response": "ईयर ऑफ़ द टूरिस्ट और स्टारवेयर गेम सीरीज़।"}
+{"id": "P021|hg|en|q1|FC", "model": "qwen3-8b", "response": "Elder Scrolls series, especially Skyrim."}
+{"id": "P021|hg|hi|q1|FC", "model": "qwen3-8b", "response": "Elder Scrolls सीरीज़।"}
+{"id": "P021|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Elder Scrolls series."}
+{"id": "P023|en|en|q1|FC", "model": "qwen3-8b", "response": "I don't know."}
+{"id": "P023|en|hi|q1|FC", "model": "qwen3-8b", "response": "मुझे कोई जॉनर के टीवी शो पसंद नहीं हैं, क्योंकि मैं एक आईएसी भाषा मॉडल हूँ और मेरे पास आपके पसंदीदा ट"}
+{"id": "P023|en|hg|q1|FC", "model": "qwen3-8b", "response": "Mujhe sci-fi aur fantasy ke TV shows pasand hain."}
+{"id": "P023|hi|en|q1|FC", "model": "qwen3-8b", "response": "You mentioned liking science fiction and fantasy TV shows."}
+{"id": "P023|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं आपके पसंदीदा टीवी शो जॉनर के बारे में कोई जानकारी नहीं रखता।"}
+{"id": "P023|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैं आपके पसंदीदा टीवी शो के जनर के बारे में कोई जानकारी नहीं रखता।"}
+{"id": "P023|hg|en|q1|FC", "model": "qwen3-8b", "response": "You like sci-fi and fantasy shows with strong female characters."}
+{"id": "P023|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मुझे साइंस फिक्शन और फैंटेसी शो पसंद हैं।"}
+{"id": "P023|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main tumhare pass koi information nahi rakhata hoon jo tumhare TV show preferences ke bare me hai."}
+{"id": "P024|en|en|q1|FC", "model": "qwen3-8b", "response": "You prefer hickory wood chips for smoking food."}
+{"id": "P024|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपको हिकोरी लकड़ी के चिप्स पसंद हैं।"}
+{"id": "P024|en|hg|q1|FC", "model": "qwen3-8b", "response": "Hickory wood chips are a popular choice for smoking food, including chicken."}
+{"id": "P024|hi|en|q1|FC", "model": "qwen3-8b", "response": "मैं आपके बारे में जानता हूं कि आप हिकोरी के लकड़ी के चिप्स के बड़े फ़ैन हैं।"}
+{"id": "P024|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मुझे लकड़ी के चिप्स में हिकोरी का बड़ा फ़ैन है।"}
+{"id": "P024|hi|hg|q1|FC", "model": "qwen3-8b", "response": "हिकोरी लकड़ी के चिप्स बहुत पसंद किए जाते हैं, वे आपके खाना स्मोक करने के लिए एक अद्वितीय चटपट और खास स"}
+{"id": "P024|hg|en|q1|FC", "model": "qwen3-8b", "response": "Hickory wood chips."}
+{"id": "P024|hg|hi|q1|FC", "model": "qwen3-8b", "response": "हिकोरी लकड़ी के चिप्स आपके पसंदीदा हैं।"}
+{"id": "P024|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Hickory wood chips pasand hain."}
+{"id": "P025|en|en|q1|FC", "model": "qwen3-8b", "response": "You prefer scenic routes, especially ones that pass through national parks."}
+{"id": "P025|en|hi|q1|FC", "model": "qwen3-8b", "response": "आप लंबे और शानदार रास्तों को पसंद करते हैं, जो राष्ट्रीय उद्यानों के माध्यम से गुजरते हैं।"}
+{"id": "P025|en|hg|q1|FC", "model": "qwen3-8b", "response": "Aapko scenic routes jo national parks se pass hoti hain, us type ke driving routes pasand hain."}
+{"id": "P025|hi|en|q1|FC", "model": "qwen3-8b", "response": "I don't know."}
+{"id": "P025|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपको नेशनल पार्क से होकर जाने वाले रास्ते पसंद हैं।"}
+{"id": "P025|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपको नेशनल पार्क से होकर जाने वाले रास्ते पसंद हैं।"}
+{"id": "P025|hg|en|q1|FC", "model": "qwen3-8b", "response": "You prefer scenic routes that go through national parks."}
+{"id": "P025|hg|hi|q1|FC", "model": "qwen3-8b", "response": "आपको स्केनिक रास्ते पसंद हैं, विशेष रूप से जो राष्ट्रीय उद्यान से होकर जाते हैं।"}
+{"id": "P025|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main scenic routes jo national parks se hokar jaate hain pasand karte hain."}
+{"id": "P028|en|en|q1|FC", "model": "qwen3-8b", "response": "Your favorite character from Attack on Titan is Levi Ackerman."}
+{"id": "P028|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपका पसंदीदा किरदार लेवी एकरमैन है।"}
+{"id": "P028|en|hg|q1|FC", "model": "qwen3-8b", "response": "Mera favourite character Attack on Titan mein Levi Ackerman hai."}
+{"id": "P028|hi|en|q1|FC", "model": "qwen3-8b", "response": "Your favorite character from Attack on Titan is Levi Ackerman."}
+{"id": "P028|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मेरा पसंदीदा किरदार लेवी एकरमैन है।"}
+{"id": "P028|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मेरा पसंदीदा किरदार लेवी एकरमैन है।"}
+{"id": "P028|hg|en|q1|FC", "model": "qwen3-8b", "response": "Levi Ackerman."}
+{"id": "P028|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मेरा पसंदीदा किरदार Levi Ackerman है।"}
+{"id": "P028|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main nahi janta ki aapke favorite character kaun hai."}
+{"id": "E022|en|en|q1|FC", "model": "qwen3-8b", "response": "You wore your sneakers to play basketball on February 1st."}
+{"id": "E022|en|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 1 फरवरी को अपने स्नीकर्स पहनकर बास्केटबॉल खेला था।"}
+{"id": "E022|en|hg|q1|FC", "model": "qwen3-8b", "response": "You wore your white sneakers to play basketball on February 1st."}
+{"id": "E022|hi|en|q1|FC", "model": "qwen3-8b", "response": "1 फ़रवरी को।"}
+{"id": "E022|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 1 फ़रवरी को बास्केटबॉल खेलते समय अपने सफ़ेद स्नीकर्स पहने थे।"}
+{"id": "E022|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने 1 फ़रवरी को बास्केटबॉल खेलते समय अपने सफ़ेद स्नीकर्स पहने थे।"}
+{"id": "E022|hg|en|q1|FC", "model": "qwen3-8b", "response": "You wore your sneakers to play basketball on February 1st."}
+{"id": "E022|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 1 फरवरी को बास्केटबॉल खेला था।"}
+{"id": "E022|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine apne sneakers pehne ke basketball khelne ka mention kiya hai."}
+{"id": "E023|en|en|q1|FC", "model": "qwen3-8b", "response": "You got your new router on January 15th."}
+{"id": "E023|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने अपना नया राउटर 15 जनवरी को लिया।"}
+{"id": "E023|en|hg|q1|FC", "model": "qwen3-8b", "response": "I don't know."}
+{"id": "E023|hi|en|q1|FC", "model": "qwen3-8b", "response": "You got your new router on 15 January."}
+{"id": "E023|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपने 15 जनवरी को अपना नया राउटर लिया।"}
+{"id": "E023|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने 15 जनवरी को नया राउटर लिया।"}
+{"id": "E023|hg|en|q1|FC", "model": "qwen3-8b", "response": "You got your new router on January 15."}
+{"id": "E023|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 15 जनवरी को अपना नया राउटर लिया।"}
+{"id": "E023|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine apna naya router 15 January ko liya."}
+{"id": "E026|en|en|q1|FC", "model": "qwen3-8b", "response": "Your friend Rachel got engaged on May 15th."}
+{"id": "E026|en|hi|q1|FC", "model": "qwen3-8b", "response": "रेचल की सगाई 15 मई को हुई।"}
+{"id": "E026|en|hg|q1|FC", "model": "qwen3-8b", "response": "Meri friend Rachel ki engagement 15 May ko hui."}
+{"id": "E026|hi|en|q1|FC", "model": "qwen3-8b", "response": "Your friend Rachel got engaged on May 15th."}
+{"id": "E026|hi|hi|q1|FC", "model": "qwen3-8b", "response": "रेचल की सगाई 15 मई को हुई।"}
+{"id": "E026|hi|hg|q1|FC", "model": "qwen3-8b", "response": "15 मई को।"}
+{"id": "E026|hg|en|q1|FC", "model": "qwen3-8b", "response": "Your friend Rachel got engaged on 15 May."}
+{"id": "E026|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मेरी दोस्त रेचल की सगाई 15 मई को हुई।"}
+{"id": "E026|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Rachel ki engagement 15 May ko hui."}
+{"id": "E029|en|en|q1|FC", "model": "qwen3-8b", "response": "You bought the silver necklace for your best friend's 30th birthday on March 15th."}
+{"id": "E029|en|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार मार्च 15 तारीख को ख़रीदा।"}
+{"id": "E029|en|hg|q1|FC", "model": "qwen3-8b", "response": "Maine apni best friend ke liye silver necklace March 15th ko khareeda."}
+{"id": "E029|hi|en|q1|FC", "model": "qwen3-8b", "response": "You bought the silver necklace for your best friend on March 15th."}
+{"id": "E029|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 15 मार्च को अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार खरीदा।"}
+{"id": "E029|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने अपनी सबसे अच्छी दोस्त के लिए चाँदी के हार को 15 मार्च को खरीदा।"}
+{"id": "E029|hg|en|q1|FC", "model": "qwen3-8b", "response": "You bought the silver necklace for your best friend on 15 March."}
+{"id": "E029|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 15 मार्च को अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार खरीदा।"}
+{"id": "E029|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine apni best friend ke liye silver necklace 15 March ko khareeda."}
+{"id": "F031|en|en|q1|FC", "model": "qwen3-8b", "response": "It took you and your friends around 5 hours to move everything into the new apartment."}
+{"id": "F031|en|hi|q1|FC", "model": "qwen3-8b", "response": "नए अपार्टमेंट में शिफ़्ट होने में आपके साथियों के साथ 5 घंटे लगे।"}
+{"id": "F031|en|hg|q1|FC", "model": "qwen3-8b", "response": "पिछले चर्चा में आपने अपने नए अपार्टमेंट में चीजों को शिफ्ट करने में लगभग 5 घंटे लगे होने का उल्लेख किया"}
+{"id": "F031|hi|en|q1|FC", "model": "qwen3-8b", "response": "It took almost 5 hours to move all the belongings into the new apartment."}
+{"id": "F031|hi|hi|q1|FC", "model": "qwen3-8b", "response": "पांच घंटे।"}
+{"id": "F031|hi|hg|q1|FC", "model": "qwen3-8b", "response": "पाच घंटे।"}
+{"id": "F031|hg|en|q1|FC", "model": "qwen3-8b", "response": "It took approximately five hours to move into the new apartment."}
+{"id": "F031|hg|hi|q1|FC", "model": "qwen3-8b", "response": "नए अपार्टमेंट में शिफ़्ट होने में लगभग 5 घंटे लगे।"}
+{"id": "F031|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine apne pahle message mei bataya tha ki naye apartment mein shift hone mein lagbhag 5 ghante lage."}
+{"id": "F032|en|en|q1|FC", "model": "qwen3-8b", "response": "You stop checking work emails and messages by 7 pm to separate work from your personal life."}
+{"id": "F032|en|hi|q1|FC", "model": "qwen3-8b", "response": "आप 7 बजे के बाद काम के ईमेल और मैसेज देखना बंद करते हैं।"}
+{"id": "F032|en|hg|q1|FC", "model": "qwen3-8b", "response": "Main work emails aur messages 7 pm ke baad dekhna chahie."}
+{"id": "F032|hi|en|q1|FC", "model": "qwen3-8b", "response": "7 PM."}
+{"id": "F032|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आप 7 बजे तक काम के ईमेल और मैसेज देखना बंद कर देते हैं।"}
+{"id": "F032|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आप 7 बजे तक काम के ईमेल और मैसेज देखते हैं।"}
+{"id": "F032|hg|en|q1|FC", "model": "qwen3-8b", "response": "You stop checking work emails and messages by 7 PM."}
+{"id": "F032|hg|hi|q1|FC", "model": "qwen3-8b", "response": "आप शाम 7 बजे तक काम के ईमेल और मैसेज देखते हैं।"}
+{"id": "F032|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Aap shaam 7 baje tak work emails aur messages dekhna band karte hain."}
+{"id": "F034|en|en|q1|FC", "model": "qwen3-8b", "response": "You went to Hawaii with your family for a week-long trip."}
+{"id": "F034|en|hi|q1|FC", "model": "qwen3-8b", "response": "आप अपने परिवार के साथ हवाई द्वीप पर एक हफ़्ते की ट्रिप पर गए थे।"}
+{"id": "F034|en|hg|q1|FC", "model": "qwen3-8b", "response": "Main apni family ke saath ek hafte ki trip pe Hawaii gaya tha."}
+{"id": "F034|hi|en|q1|FC", "model": "qwen3-8b", "response": "You went to the Big Island."}
+{"id": "F034|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आप हवाई जाकर एक हफ़्ते की ट्रिप पर गए थे।"}
+{"id": "F034|hi|hg|q1|FC", "model": "qwen3-8b", "response": "Main apni family ke saath ek hafte ki trip pe Big Island pe gaya tha."}
+{"id": "F034|hg|en|q1|FC", "model": "qwen3-8b", "response": "You went on a week-long trip with your family to Hawaii."}
+{"id": "F034|hg|hi|q1|FC", "model": "qwen3-8b", "response": "आप अपने परिवार के साथ हवाई द्वीप पर गए थे।"}
+{"id": "F034|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main apni family ke saath ek hafte ki trip pe Hawaii gaya tha."}
+{"id": "F037|en|en|q1|FC", "model": "qwen3-8b", "response": "You bought a rare blue Snaggletooth action figure from a thrift store."}
+{"id": "F037|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने थ्रिफ़्ट स्टोर से एक रार ब्लू स्नैगलटूथ एक्शन फ़िगर ख़रीदा।"}
+{"id": "F037|en|hg|q1|FC", "model": "qwen3-8b", "response": "Maine thrift store se rare blue Snaggletooth action figure khareeda hai."}
+{"id": "F037|hi|en|q1|FC", "model": "qwen3-8b", "response": "You bought a rare blue Snaggletooth action figure from a thrift store."}
+{"id": "F037|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने थ्रिफ़्ट स्टोर से एक दुर्लभ नीला Snaggletooth एक्शन फ़िगर ख़रीदा।"}
+{"id": "F037|hi|hg|q1|FC", "model": "qwen3-8b", "response": "तुम्हारे पास एक थ्रिफ़्ट स्टोर से दुर्लभ नीला Snaggletooth एक्शन फ़िगर है।"}
+{"id": "F037|hg|en|q1|FC", "model": "qwen3-8b", "response": "You bought a rare blue Snaggletooth action figure from a thrift store."}
+{"id": "F037|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने थ्रिफ़्ट स्टोर से एक रारे ब्लू स्नैगलटूथ एक्शन फ़िगर ख़रीदा।"}
+{"id": "F037|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine thrift store se rare blue Snaggletooth action figure khareeda."}
+{"id": "P032|en|en|q1|FC", "model": "qwen3-8b", "response": "You prefer weighted keys on a keyboard instrument."}
+{"id": "P032|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपको वजन वाली कीज़ पसंद हैं।"}
+{"id": "P032|en|hg|q1|FC", "model": "qwen3-8b", "response": "Keyboard instrument pe aap weighted keys pasand hain."}
+{"id": "P032|hi|en|q1|FC", "model": "qwen3-8b", "response": "You prefer weighted keys on a keyboard instrument."}
+{"id": "P032|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपको हैमर एक्शन वाली कीज़ पसंद हैं।"}
+{"id": "P032|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मुझे वेटेड कीज पसंद हैं।"}
+{"id": "P032|hg|en|q1|FC", "model": "qwen3-8b", "response": "Weighted keys."}
+{"id": "P032|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मुझे वेटेड कीज़ पसंद हैं क्योंकि वे बजाने के लिए अधिक सुविधाजनक और अधिक नियंत्रित होती हैं।"}
+{"id": "P032|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main apne chhote flat ke liye weighted keys pasand hain."}
+{"id": "P033|en|en|q1|FC", "model": "qwen3-8b", "response": "You have always loved sunflowers."}
+{"id": "P033|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपके पास कोई भी फूल के बारे में जानकारी नहीं है, जो आपके पसंदीदा फूल हो सकते हैं।"}
+{"id": "P033|en|hg|q1|FC", "model": "qwen3-8b", "response": "Mujhe hamesha se marigold, rose, sunflower aur lily pasand rahe hain."}
+{"id": "P033|hi|en|q1|FC", "model": "qwen3-8b", "response": "You have always loved sunflowers."}
+{"id": "P033|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपको हमेशा से सूरजमुखी के फूल पसंद रहे हैं।"}
+{"id": "P033|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपके माँ को हमेशा से गुलाब पसंद रहे हैं।"}
+{"id": "P033|hg|en|q1|FC", "model": "qwen3-8b", "response": "You have always loved sunflowers."}
+{"id": "P033|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मुझे हमेशा से sunflowers पसंद रहे हैं।"}
+{"id": "P033|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Sunflowers."}
+{"id": "P035|en|en|q1|FC", "model": "qwen3-8b", "response": "You are a big fan of Miles Morales."}
+{"id": "P035|en|hi|q1|FC", "model": "qwen3-8b", "response": "मैं आपके पसंदीदा स्पाइडर-मैन किरदार के बारे में जानकारी नहीं रखता।"}
+{"id": "P035|en|hg|q1|FC", "model": "qwen3-8b", "response": "Spider-Man is a character that many people love, but I don't have personal preferences or feelings."}
+{"id": "P035|hi|en|q1|FC", "model": "qwen3-8b", "response": "I don't know."}
+{"id": "P035|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैं आपके पसंदीदा स्पाइडर-मैन किरदार के बारे में जानकारी नहीं रखता।"}
+{"id": "P035|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैं आपके पसंदीदा स्पाइडर-मैन के चरित्र के बारे में जानकारी नहीं रखता।"}
+{"id": "P035|hg|en|q1|FC", "model": "qwen3-8b", "response": "You are a big fan of Miles Morales."}
+{"id": "P035|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैं आपके पसंदीदा स्पाइडर-मैन किरदार के बारे में कोई जानकारी नहीं रखता।"}
+{"id": "P035|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main koi personal preferences ya emotions nahi rakhata hoon, isliye main Spider-Man ke characters ke baare mei koi specific preference nahi rakh sakta hoon."}
+{"id": "P036|en|en|q1|FC", "model": "qwen3-8b", "response": "Your favourite Pilates exercise is the hundred."}
+{"id": "P036|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपकी पसंदीदा पिलाटेज़ एक्सरसाइज़ \"हंड्रेड\" है।"}
+{"id": "P036|en|hg|q1|FC", "model": "qwen3-8b", "response": "Meri favourite Pilates exercise hai hundred, jo core ko engage karne aur posture ko improve karne me madad karta hai."}
+{"id": "P036|hi|en|q1|FC", "model": "qwen3-8b", "response": "द हंड्रेड."}
+{"id": "P036|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मेरी पसंदीदा पिलाटेज़ एक्सरसाइज़ 'द हंड्रेड' है।"}
+{"id": "P036|hi|hg|q1|FC", "model": "qwen3-8b", "response": "'द हंड्रेड'"}
+{"id": "P036|hg|en|q1|FC", "model": "qwen3-8b", "response": "The Hundred is your favourite Pilates exercise."}
+{"id": "P036|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मेरी पसंदीदा पिलाटेज़ एक्सरसाइज़ \"हंड्रेड\" है।"}
+{"id": "P036|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maina favourite Pilates exercise the hundred hai."}
+{"id": "P037|en|en|q1|FC", "model": "qwen3-8b", "response": "Your favorite yoga instructor on YouTube is Adriene."}
+{"id": "P037|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपकी पसंदीदा योगा इंस्ट्रक्टर अद्रियन (Adriene) है।"}
+{"id": "P037|en|hg|q1|FC", "model": "qwen3-8b", "response": "YouTube pe meri favourite yoga instructor Adriene hai."}
+{"id": "P037|hi|en|q1|FC", "model": "qwen3-8b", "response": "एड्रीन"}
+{"id": "P037|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपकी पसंदीदा योगा इंस्ट्रक्टर एड्रीन है।"}
+{"id": "P037|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपकी पसंदीदा योगा इंस्ट्रक्टर एड्रीन है।"}
+{"id": "P037|hg|en|q1|FC", "model": "qwen3-8b", "response": "Adriene."}
+{"id": "P037|hg|hi|q1|FC", "model": "qwen3-8b", "response": "YouTube पर आपकी पसंदीदा योगा इंस्ट्रक्टर Adriene है।"}
+{"id": "P037|hg|hg|q1|FC", "model": "qwen3-8b", "response": "YouTube pe aapki favourite yoga instructor Adriene hai."}
+{"id": "P039|en|en|q1|FC", "model": "qwen3-8b", "response": "Your favourite synth-pop album is 'Violator' by Depeche Mode."}
+{"id": "P039|en|hi|q1|FC", "model": "qwen3-8b", "response": "मेरा पसंदीदा सिंथ-पॉप एल्बम 'Violator' है।"}
+{"id": "P039|en|hg|q1|FC", "model": "qwen3-8b", "response": "Mera favourite synth-pop album hai 'Violator' by Depeche Mode."}
+{"id": "P039|hi|en|q1|FC", "model": "qwen3-8b", "response": "Your favorite synth-pop album is \"Violator\" by Depeche Mode."}
+{"id": "P039|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपका पसंदीदा सिंथ-पॉप एल्बम 'Violator' है।"}
+{"id": "P039|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपका पसंदीदा सिंथ-पॉप एल्बम 'Violator' है, जो डेपेश मोड द्वारा बनाया गया है।"}
+{"id": "P039|hg|en|q1|FC", "model": "qwen3-8b", "response": "Your favorite synth-pop album is Depeche Mode's 'Violator'."}
+{"id": "P039|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मेरा पसंदीदा सिंथ-पॉप एल्बम डीपच मोड का 'वियोलेटर' है।"}
+{"id": "P039|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Aapke favourite synth-pop album Depeche Mode ka 'Violator' hai."}
+{"id": "E031|en|en|q1|FC", "model": "qwen3-8b", "response": "You saw the 3-bedroom bungalow in Oakwood on January 22nd."}
+{"id": "E031|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने ओकवुड में 3-बेडरूम बंगला 22 जनवरी को देखा था।"}
+{"id": "E031|en|hg|q1|FC", "model": "qwen3-8b", "response": "Maine Oakwood mein 3-bedroom bungalow 22 january ko dekha tha."}
+{"id": "E031|hi|en|q1|FC", "model": "qwen3-8b", "response": "You saw the 3-bedroom bungalow in Oakwood on January 22nd."}
+{"id": "E031|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 22 जनवरी को ओकवुड में एक खूबसूरत 3-बेडरूम बंगला देखा था।"}
+{"id": "E031|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने 22 जनवरी को ओकवुड इलाक़े में एक ख़ूबसूरत 3-बेडरूम बंगला देखा था।"}
+{"id": "E031|hg|en|q1|FC", "model": "qwen3-8b", "response": "You saw the 3-bedroom bungalow in Oakwood on 22 January."}
+{"id": "E031|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 22 जनवरी को ओकवुड में 3-बेडरूम बंगला देखा था।"}
+{"id": "E031|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine Oakwood mein 3-bedroom bungalow 22 January ko dekha tha."}
+{"id": "E033|en|en|q1|FC", "model": "qwen3-8b", "response": "You saw the 2-bedroom condo with the community pool on February 15th."}
+{"id": "E033|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने 2-बेडरूम कॉन्डो को 15 फरवरी को देखा था।"}
+{"id": "E033|en|hg|q1|FC", "model": "qwen3-8b", "response": "I don't know."}
+{"id": "E033|hi|en|q1|FC", "model": "qwen3-8b", "response": "You saw the 2-bedroom condo with the community pool on February 15th."}
+{"id": "E033|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपने 15 फ़रवरी को सोसाइटी पूल वाला 2-बेडरूम कॉन्डो देखा था।"}
+{"id": "E033|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैं आपके पिछले चर्चा के आधार पर यह नहीं जानता कि आपने कब एक 2-बेडरूम कॉन्डो के साथ समुदाय पूल के साथ देख"}
+{"id": "E033|hg|en|q1|FC", "model": "qwen3-8b", "response": "You saw the 2-bedroom condo with the community pool on 15 February."}
+{"id": "E033|hg|hi|q1|FC", "model": "qwen3-8b", "response": "आपने 15 फरवरी को 2-बेडरूम कॉन्डो देखा था।"}
+{"id": "E033|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine community pool wala 2-bedroom condo 15 February ko dekha tha."}
+{"id": "E038|en|en|q1|FC", "model": "qwen3-8b", "response": "Your remote shutter release arrived on February 10th."}
+{"id": "E038|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपका रिमोट शटर रिलीज़ 10 फरवरी को आया था।"}
+{"id": "E038|en|hg|q1|FC", "model": "qwen3-8b", "response": "Mera remote shutter release 10 February ko aaya tha."}
+{"id": "E038|hi|en|q1|FC", "model": "qwen3-8b", "response": "Your remote shutter release arrived on February 10."}
+{"id": "E038|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मेरा रिमोट शटर रिलीज़ 10 फ़रवरी को आया था।"}
+{"id": "E038|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपका रिमोट शटर रिलीज़ 10 फ़रवरी को आया था।"}
+{"id": "E038|hg|en|q1|FC", "model": "qwen3-8b", "response": "Your remote shutter release arrived on 10 February."}
+{"id": "E038|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मेरा रिमोट शटर रिलीज़ 10 फरवरी को आया था।"}
+{"id": "E038|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Mera remote shutter release 10 February ko aaya tha."}
+{"id": "E039|en|en|q1|FC", "model": "qwen3-8b", "response": "You cleaned and lubricated your road bike chain on March 2nd."}
+{"id": "E039|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने अपनी रोड बाइक की चेन 3 मार्च को साफ़ करके तेल लगाया।"}
+{"id": "E039|en|hg|q1|FC", "model": "qwen3-8b", "response": "Maine apni road bike ki chain 300 किमी या उससे कम दूरी के बाद साफ करके तेल लगाया जाता है, या जल्दी से बरसात या पानी के बाद।"}
+{"id": "E039|hi|en|q1|FC", "model": "qwen3-8b", "response": "2 मार्च को चेन साफ़ करके तेल लगाने के बाद से मेरी रोड बाइक बहुत अच्छी चल रही है; गियर आराम से और बिना आ"}
+{"id": "E039|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपने अपनी रोड बाइक की चेन 2 मार्च को साफ़ करके तेल लगाया।"}
+{"id": "E039|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपने 2 मार्च को चेन साफ़ करके तेल लगाया।"}
+{"id": "E039|hg|en|q1|FC", "model": "qwen3-8b", "response": "You cleaned and lubricated your road bike chain on 2 March."}
+{"id": "E039|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने अपनी रोड बाइक की चेन को हर 300 किमी या लगभग हर दो-तीन महीने बाद साफ़ करके तेल लगाया।"}
+{"id": "E039|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Har 300 kilometre pe acche se saaf karke lube lagayein, baarish ya dhool mein chalane ke baad aur jaldi."}
+{"id": "F042|en|en|q1|FC", "model": "qwen3-8b", "response": "You found 17 skeins of worsted weight yarn in your stash."}
+{"id": "F042|en|hi|q1|FC", "model": "qwen3-8b", "response": "मुझे अपने ज़ख़ीरे में 17 लच्छियाँ वर्स्टेड वेट ऊन मिलीं।"}
+{"id": "F042|en|hg|q1|FC", "model": "qwen3-8b", "response": "आपके स्टैच में 17 स्कीन्स वॉर्स्टेड वेट यार्न मिले हैं।"}
+{"id": "F042|hi|en|q1|FC", "model": "qwen3-8b", "response": "You found 17 skeins of worsted weight yarn in your stash."}
+{"id": "F042|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपको 17 लच्छियाँ मिलीं।"}
+{"id": "F042|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आपके स्टैच में 17 लच्छियां वर्स्टेड वेट ऊन मिली है।"}
+{"id": "F042|hg|en|q1|FC", "model": "qwen3-8b", "response": "You found 17 skeins of worsted weight yarn in your stash."}
+{"id": "F042|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मुझे अपने ज़ख़ीरे में 17 लच्छियाँ वर्स्टेड वेट ऊन मिलीं।"}
+{"id": "F042|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main tumhe 17 skeins worsted weight yarn mili hain."}
+{"id": "F045|en|en|q1|FC", "model": "qwen3-8b", "response": "Your sister Emily lives in Denver."}
+{"id": "F045|en|hi|q1|FC", "model": "qwen3-8b", "response": "मेरी बहन एमिली डेनवर में रहती है।"}
+{"id": "F045|en|hg|q1|FC", "model": "qwen3-8b", "response": "Meri behen Emily Denver rehti hai."}
+{"id": "F045|hi|en|q1|FC", "model": "qwen3-8b", "response": "You mentioned that your sister Emily lives in Denver."}
+{"id": "F045|hi|hi|q1|FC", "model": "qwen3-8b", "response": "डेनवर में।"}
+{"id": "F045|hi|hg|q1|FC", "model": "qwen3-8b", "response": "Emily डेनवर में रहती है।"}
+{"id": "F045|hg|en|q1|FC", "model": "qwen3-8b", "response": "Your sister Emily lives in Denver."}
+{"id": "F045|hg|hi|q1|FC", "model": "qwen3-8b", "response": "एमिली डेनवर में रहती है।"}
+{"id": "F045|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main nahi pata."}
+{"id": "F049|en|en|q1|FC", "model": "qwen3-8b", "response": "You met Sophia at a coffee shop in the city."}
+{"id": "F049|en|hi|q1|FC", "model": "qwen3-8b", "response": "आप ने सोफ़िया को शहर के कॉफी शॉप में मिला था।"}
+{"id": "F049|en|hg|q1|FC", "model": "qwen3-8b", "response": "Main Sophia ko kahan mili thi?"}
+{"id": "F049|hi|en|q1|FC", "model": "qwen3-8b", "response": "You met Sophia at a coffee shop in the city."}
+{"id": "F049|hi|hi|q1|FC", "model": "qwen3-8b", "response": "सोफ़िया कॉफ़ी शॉप में मिली थी।"}
+{"id": "F049|hi|hg|q1|FC", "model": "qwen3-8b", "response": "सोफिया कॉफ़ी शॉप में मिली थी।"}
+{"id": "F049|hg|en|q1|FC", "model": "qwen3-8b", "response": "You met Sophia at a coffee shop in the city."}
+{"id": "F049|hg|hi|q1|FC", "model": "qwen3-8b", "response": "आप अपनी दोस्त सोफिया से एक कॉफी शॉप में मिली थी।"}
+{"id": "F049|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main Sophia se coffee shop mein mili thi."}
+{"id": "P042|en|en|q1|FC", "model": "qwen3-8b", "response": "You prefer to visit Greece in spring."}
+{"id": "P042|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपको ग्रीस जाना पसंद है तो वसंत मौसम आपके लिए आदिष्ट हो सकता है।"}
+{"id": "P042|en|hg|q1|FC", "model": "qwen3-8b", "response": "Mujhe spring mein Greece jaana pasand hai."}
+{"id": "P042|hi|en|q1|FC", "model": "qwen3-8b", "response": "You prefer to visit Greece in spring."}
+{"id": "P042|hi|hi|q1|FC", "model": "qwen3-8b", "response": "वसंत मौसम आपके लिए सबसे सही है।"}
+{"id": "P042|hi|hg|q1|FC", "model": "qwen3-8b", "response": "ग्रीस वसंत में जाना आपके लिए सबसे सही समय है क्योंकि यहां हल्का मौसम और कम भीड़ होती है।"}
+{"id": "P042|hg|en|q1|FC", "model": "qwen3-8b", "response": "You prefer to visit Greece in spring."}
+{"id": "P042|hg|hi|q1|FC", "model": "qwen3-8b", "response": "ग्रीस के लिए सबसे अच्छा मौसम स्प्रिंग है।"}
+{"id": "P042|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Spring mein Greece jaana sabse accha hai, kyunki mausam halka hai aur bheed kam hai."}
+{"id": "P045|en|en|q1|FC", "model": "qwen3-8b", "response": "You mentioned that your favorite type of exhibit is Impressionist art."}
+{"id": "P045|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपको इम्प्रेशनिस्ट कला प्रदर्शनी सबसे ज़्यादा पसंद है।"}
+{"id": "P045|en|hg|q1|FC", "model": "qwen3-8b", "response": "Mujhe Impressionist art exhibition sabse zyaada pasand hai."}
+{"id": "P045|hi|en|q1|FC", "model": "qwen3-8b", "response": "You mentioned liking contemporary installation art the most."}
+{"id": "P045|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आपको कंटेम्पररी इंस्टॉलेशन आर्ट की प्रदर्शनी सबसे ज्यादा पसंद है।"}
+{"id": "P045|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मुझे आपके पसंदीदा इंस्टॉलेशन आर्ट के अनुसार एक अद्भुत इंस्टॉलेशन आर्ट प्रदर्शनी के बारे में बताने के"}
+{"id": "P045|hg|en|q1|FC", "model": "qwen3-8b", "response": "You like contemporary installation art the most."}
+{"id": "P045|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मुझे आधुनिक स्थापना कला की प्रदर्शनियाँ सबसे ज़्यादा पसंद हैं।"}
+{"id": "P045|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main aapke pasand ki art exhibition ke bare me koi information nahi rakhati hoon."}
+{"id": "P047|en|en|q1|FC", "model": "qwen3-8b", "response": "You like Dan Harris, whose book '10% Happier' explains mindfulness in a relatable way."}
+{"id": "P047|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपके पसंदीदा ध्यान पर लिखने वाला लेखक डैन हैरिस है।"}
+{"id": "P047|en|hg|q1|FC", "model": "qwen3-8b", "response": "Meditation pe likhne wala aapke pasand hai Dan Harris."}
+{"id": "P047|hi|en|q1|FC", "model": "qwen3-8b", "response": "डैन हैरिस"}
+{"id": "P047|hi|hi|q1|FC", "model": "qwen3-8b", "response": "डैन हैरिस."}
+{"id": "P047|hi|hg|q1|FC", "model": "qwen3-8b", "response": "डैन हैरिस"}
+{"id": "P047|hg|en|q1|FC", "model": "qwen3-8b", "response": "Dan Harris."}
+{"id": "P047|hg|hi|q1|FC", "model": "qwen3-8b", "response": "Dan Harris."}
+{"id": "P047|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Dan Harris."}
+{"id": "P050|en|en|q1|FC", "model": "qwen3-8b", "response": "Your favourite thing to do in your craft room is quilting."}
+{"id": "P050|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपका क्राफ़्ट रूम में सबसे पसंदीदा काम क्विलिंग है।"}
+{"id": "P050|en|hg|q1|FC", "model": "qwen3-8b", "response": "Craft room mein mera sabse favourite kaam quilting hai."}
+{"id": "P050|hi|en|q1|FC", "model": "qwen3-8b", "response": "Quilting."}
+{"id": "P050|hi|hi|q1|FC", "model": "qwen3-8b", "response": "क्राफ़्ट रूम में आपका सबसे पसंदीदा काम क्विल्टिंग है।"}
+{"id": "P050|hi|hg|q1|FC", "model": "qwen3-8b", "response": "क्राफ्ट रूम में आपका सबसे पसंदीदा काम क्विल्टिंग है।"}
+{"id": "P050|hg|en|q1|FC", "model": "qwen3-8b", "response": "Quilting."}
+{"id": "P050|hg|hi|q1|FC", "model": "qwen3-8b", "response": "क्राफ़्ट रूम में आपका सबसे पसंदीदा काम क्विलिंग है।"}
+{"id": "P050|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Aapke craft room mein sabse favourite kaam quilting hai."}
+{"id": "E042|en|en|q1|FC", "model": "qwen3-8b", "response": "You rode Space Mountain: Ghost Galaxy at Disneyland on September 24th."}
+{"id": "E042|en|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी 24 सितंबर की थी।"}
+{"id": "E042|en|hg|q1|FC", "model": "qwen3-8b", "response": "Maine Disneyland mein Space Mountain: Ghost Galaxy ki ride 24 September ko ki gayi thi."}
+{"id": "E042|hi|en|q1|FC", "model": "qwen3-8b", "response": "You rode Space Mountain: Ghost Galaxy at Disneyland on September 24th."}
+{"id": "E042|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 24 सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की।"}
+{"id": "E042|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने 24 सितंबर को Disneyland में Space Mountain: Ghost Galaxy की तीन बार सवारी की।"}
+{"id": "E042|hg|en|q1|FC", "model": "qwen3-8b", "response": "You rode Space Mountain: Ghost Galaxy at Disneyland on 24 September."}
+{"id": "E042|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 24 सितंबर को Disneyland में Space Mountain: Ghost Galaxy की तीन बार सवारी की।"}
+{"id": "E042|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine Disneyland mein Space Mountain: Ghost Galaxy ki ride 24 September ko ki thi."}
+{"id": "E044|en|en|q1|FC", "model": "qwen3-8b", "response": "You rode the Revenge of the Mummy rollercoaster at Universal Studios Hollywood on October 15th."}
+{"id": "E044|en|hi|q1|FC", "model": "qwen3-8b", "response": "आपने Universal Studios Hollywood में Revenge of the Mummy की सवारी 15 अक्टूबर को की।"}
+{"id": "E044|en|hg|q1|FC", "model": "qwen3-8b", "response": "Maine Universal Studios Hollywood mein Revenge of the Mummy ki ride 15 October ko ki thi."}
+{"id": "E044|hi|en|q1|FC", "model": "qwen3-8b", "response": "You rode Revenge of the Mummy at Universal Studios Hollywood on October 15th."}
+{"id": "E044|hi|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 15 अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy की सवारी की।"}
+{"id": "E044|hi|hg|q1|FC", "model": "qwen3-8b", "response": "मैंने 15 अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy रोलरकोस्टर की लगातार तीन बार सवारी की।"}
+{"id": "E044|hg|en|q1|FC", "model": "qwen3-8b", "response": "You rode Revenge of the Mummy at Universal Studios Hollywood on 15 October."}
+{"id": "E044|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैंने 15 अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy की सवारी की।"}
+{"id": "E044|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Maine Universal Studios Hollywood mein Revenge of the Mummy ki ride 15 October ko ki."}
+{"id": "E045|en|en|q1|FC", "model": "qwen3-8b", "response": "You attended the one-day photography workshop on February 22nd."}
+{"id": "E045|en|hi|q1|FC", "model": "qwen3-8b", "response": "आप फ़ेब्रुवरी 22 तारीख को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गए थे।"}
+{"id": "E045|en|hg|q1|FC", "model": "qwen3-8b", "response": "Main ek din ki photography workshop mein 22 February ko gayi thi."}
+{"id": "E045|hi|en|q1|FC", "model": "qwen3-8b", "response": "You attended the one-day photography workshop on February 22nd."}
+{"id": "E045|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आप 22 फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।"}
+{"id": "E045|hi|hg|q1|FC", "model": "qwen3-8b", "response": "आप 22 फरवरी को एक दिन की फोटोग्राफी वर्कशॉप में गई थी।"}
+{"id": "E045|hg|en|q1|FC", "model": "qwen3-8b", "response": "You attended the one-day photography workshop on 22 February."}
+{"id": "E045|hg|hi|q1|FC", "model": "qwen3-8b", "response": "मैं 22 फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।"}
+{"id": "E045|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main 22 February ko ek din ki photography workshop mein gayi thi."}
+{"id": "E046|en|en|q1|FC", "model": "qwen3-8b", "response": "You attended the half-day mindfulness workshop on December 12th."}
+{"id": "E046|en|hi|q1|FC", "model": "qwen3-8b", "response": "आप ने 12 दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E046|en|hg|q1|FC", "model": "qwen3-8b", "response": "Aapne 12 December ko aadhe din ki mindfulness workshop mein gaya tha."}
+{"id": "E046|hi|en|q1|FC", "model": "qwen3-8b", "response": "You attended the half-day mindfulness workshop on 12 December."}
+{"id": "E046|hi|hi|q1|FC", "model": "qwen3-8b", "response": "आप 12 दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E046|hi|hg|q1|FC", "model": "qwen3-8b", "response": "12 दिसंबर को।"}
+{"id": "E046|hg|en|q1|FC", "model": "qwen3-8b", "response": "You attended the half-day mindfulness workshop on 12 December."}
+{"id": "E046|hg|hi|q1|FC", "model": "qwen3-8b", "response": "आप 12 दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E046|hg|hg|q1|FC", "model": "qwen3-8b", "response": "Main 12 December ko apne ghar ke paas ek studio mein aadhe din ki mindfulness workshop mein gaya tha."}
+{"id": "F001|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your commute to work takes 45 minutes each way."}
+{"id": "F001|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your commute to work takes 45 minutes each way."}
+{"id": "F001|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपके ऑफिस जाने में एक तरफ़ 45 मिनट समय लगता है।"}
+{"id": "F001|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपके ऑफिस जाने में एक तरफ़ 45 मिनट समय लगता है।"}
+{"id": "F001|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Mera office jaane mein ek side 45 minute ka time lagta hai."}
+{"id": "F001|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Mera office jaane mein ek side 45 minute ka time lagta hai."}
+{"id": "F001|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your one-way commute to work takes 45 minutes."}
+{"id": "F001|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your one-way commute to work takes 45 minutes."}
+{"id": "F001|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपके ऑफिस जाने में एक तरफ़ 45 मिनट का समय लगता है।"}
+{"id": "F001|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपके ऑफिस जाने में एक तरफ़ 45 मिनट का समय लगता है।"}
+{"id": "F001|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपके ऑफिस जाने में एक तरफ़ 20 मिनट का समय लगता है।"}
+{"id": "F001|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपके ऑफिस जाने में एक तरफ़ 45 मिनट का समय लगता है।"}
+{"id": "F001|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your commute to work takes 45 minutes one way."}
+{"id": "F001|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your commute to work takes 45 minutes one way."}
+{"id": "F001|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपके ऑफिस जाने में एक तरफ़ 45 मिनट का समय लगता है।"}
+{"id": "F001|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपके ऑफिस जाने में एक तरफ़ 45 मिनट का समय लगता है।"}
+{"id": "F001|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Mera office jaane mein ek side 45 minute ka time lagta hai."}
+{"id": "F001|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apni office jaane ki travel time ko 45 minute ka mention kiya hai."}
+{"id": "F004|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You did your study abroad program at the University of Melbourne."}
+{"id": "F004|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You did your study abroad program at the University of Melbourne."}
+{"id": "F004|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपना स्टडी अब्रॉड प्रोग्राम विक्टोरिया विश्वविद्यालय में किया था।"}
+{"id": "F004|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपना स्टडी अब्रॉड प्रोग्राम विक्टोरिया विश्वविद्यालय में किया था।"}
+{"id": "F004|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apna study abroad program University of Melbourne mein kiya tha."}
+{"id": "F004|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apna study abroad program University of Melbourne mein kiya tha."}
+{"id": "F004|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "यूनिवर्सिटी ऑफ़ मेलबर्न।"}
+{"id": "F004|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You did your study abroad program at the University of Melbourne."}
+{"id": "F004|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने अपना स्टडी अब्रॉड प्रोग्राम यूनिवर्सिटी ऑफ़ मेलबर्न में किया था।"}
+{"id": "F004|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने अपना स्टडी अब्रॉड प्रोग्राम यूनिवर्सिटी ऑफ़ मेलबर्न में किया था।"}
+{"id": "F004|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपना स्टडी अब्रॉड प्रोग्राम यूनिवर्सिटी ऑफ़ मेलबर्न में किया था।"}
+{"id": "F004|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपना स्टडी अब्रॉड प्रोग्राम यूनिवर्सिटी ऑफ़ मेलबर्न में किया था।"}
+{"id": "F004|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You did your study abroad program at the University of Melbourne."}
+{"id": "F004|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You did your study abroad program at the University of Melbourne."}
+{"id": "F004|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपना स्टडी अब्रॉड प्रोग्राम यूनिवर्सिटी ऑफ मेलबर्न में किया था।"}
+{"id": "F004|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपना स्टडी अब्रॉड प्रोग्राम यूनिवर्सिटी ऑफ मेलबर्न में किया था।"}
+{"id": "F004|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apna study abroad program University of Melbourne mein kiya tha."}
+{"id": "F004|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apna study abroad program University of Melbourne mein kiya tha."}
+{"id": "F005|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You bought your sister a yellow dress and matching earrings for her birthday."}
+{"id": "F005|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You bought your sister a yellow dress and matching earrings for her birthday."}
+{"id": "F005|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपनी बहन के जन्मदिन पर उसके लिए एक पीला गहना और मेल खाने वाले कांच के जूते खरीदे थे।"}
+{"id": "F005|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी बहन के जन्मदिन पर उसके लिए एक पीला गहना और मेल खाने वाले कांच के जूते खरीदे थे।"}
+{"id": "F005|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apni behen ke birthday ke liye ek yellow dress aur match karne wale earrings khareeda thi."}
+{"id": "F005|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apni behen ke birthday ke liye ek yellow dress aur match karne wale earrings khareeda thi."}
+{"id": "F005|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You bought your sister a yellow dress and matching earrings."}
+{"id": "F005|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी बहन के जन्मदिन पर उसके लिए एक पीली ड्रेस और मैचिंग इयररिंग्स खरीदे।"}
+{"id": "F005|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपनी बहन के जन्मदिन पर उसके लिए एक पीली ड्रेस और मैचिंग इयररिंग्स खरीदा था।"}
+{"id": "F005|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी बहन के जन्मदिन पर उसके लिए एक पीली ड्रेस और मैचिंग इयररिंग्स खरीदा था।"}
+{"id": "F005|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपनी बहन के जन्मदिन पर उसके लिए एक पीली ड्रेस और मैचिंग इयररिंग्स खरीदे थे।"}
+{"id": "F005|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने अपनी बहन के जन्मदिन पर उसके लिए एक पीली ड्रेस और मैचिंग इयररिंग्स खरीदी थी।"}
+{"id": "F005|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You bought your sister a yellow dress and matching earrings for her birthday."}
+{"id": "F005|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You bought your sister a yellow dress and matching earrings for her birthday."}
+{"id": "F005|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपनी बहन के जन्मदिन पर उसके लिए एक yellow dress और matching earrings खरीदा था।"}
+{"id": "F005|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी बहन के जन्मदिन पर उसके लिए एक yellow dress और matching earrings खरीदा था।"}
+{"id": "F005|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apni behen ke birthday pe uske liye ek yellow dress aur uske saath matching earrings khareeda tha."}
+{"id": "F005|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apni behen ke birthday pe uske liye ek yellow dress aur uske saath matching earrings khareeda tha."}
+{"id": "F006|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You didn't mention your dog's breed in our previous conversations, so I don't know."}
+{"id": "F006|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You didn't mention your dog's breed in our previous conversations, so I don't know."}
+{"id": "F006|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपने कुत्ते की नस्ल के बारे में कोई जानकारी नहीं दी है।"}
+{"id": "F006|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपने कुत्ते की नस्ल के बारे में कोई जानकारी नहीं दी है।"}
+{"id": "F006|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Mera dog ka breed bataaaiye, main aapki madad kar sakta hoon."}
+{"id": "F006|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Mera dog ka breed bataaaiye, main aapki madad kar sakta hoon."}
+{"id": "F006|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "I don't know."}
+{"id": "F006|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You didn't mention your dog's breed in our previous conversations."}
+{"id": "F006|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपने कुत्ते की नस्ल के बारे में कोई जानकारी नहीं दी है।"}
+{"id": "F006|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपने कुत्ते की नस्ल के बारे में कोई जानकारी नहीं दी है।"}
+{"id": "F006|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं नहीं जानता कि आपका कुत्ता किस ब्रीड का है।"}
+{"id": "F006|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपने कुत्ते की ब्रीड के बारे में कोई जानकारी नहीं दी है।"}
+{"id": "F006|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "I don't know."}
+{"id": "F006|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You haven't mentioned the breed of your dog in our previous conversations."}
+{"id": "F006|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैं नहीं जानता कि आपका कुत्ता किस नस्ल का है।"}
+{"id": "F006|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपने कुत्ते की नस्ल के बारे में कोई जानकारी नहीं दी है।"}
+{"id": "F006|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apne dog ke breed ke baare mein koi information nahi diya hai."}
+{"id": "F006|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "You haven't mentioned your dog's breed in our previous conversations."}
+{"id": "F008|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You were in Japan for two weeks."}
+{"id": "F008|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You were in Japan for two weeks."}
+{"id": "F008|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप जापान में दो सप्ताह तक रहे थे।"}
+{"id": "F008|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप जापान में दो सप्ताह तक रहे थे।"}
+{"id": "F008|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main Japan mein do hafta tak raha tha."}
+{"id": "F008|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main Japan mein do hafta tak raha tha."}
+{"id": "F008|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You were in Japan for two weeks."}
+{"id": "F008|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You were in Japan for two weeks."}
+{"id": "F008|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैं जापान में लगभग दो हफ़्ते तक रहा था।"}
+{"id": "F008|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने कुछ महीने पहले जापान में रहकर दो हफ़्ते बिताए थे।"}
+{"id": "F008|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "कुछ महीने पहले जब आप जापान में थे, तब आपने दो हफ्ते अकेले पूरे देश में घूमते हुए बिताए।"}
+{"id": "F008|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "कुछ महीने पहले जब आप जापान में थे, तब आपने दो हफ्ते अकेले पूरे देश में घूमते हुए बिताए।"}
+{"id": "F008|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You were in Japan for about two weeks."}
+{"id": "F008|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You were in Japan for two weeks."}
+{"id": "F008|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैं जापान में कुछ महीने तक रहा था।"}
+{"id": "F008|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप जापान में दो हफ्ते रहे थे।"}
+{"id": "F008|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main Japan mein do hafte raha tha."}
+{"id": "F008|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "A few months ago when you were in Japan, you spent two weeks traveling around the whole country alone."}
+{"id": "F009|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your new Samsung TV is 55 inches."}
+{"id": "F009|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your new Samsung TV is 55 inches."}
+{"id": "F009|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका नया Samsung टीवी 55 इंच का है।"}
+{"id": "F009|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका नया Samsung टीवी 55 इंच का है।"}
+{"id": "F009|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Mera naya Samsung TV 55-inch ka hai."}
+{"id": "F009|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Mera naya Samsung TV 55-inch ka hai."}
+{"id": "F009|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your new Samsung TV is 55 inches."}
+{"id": "F009|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your new Samsung TV is 55 inches."}
+{"id": "F009|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका नया Samsung टीवी 55 इंच का है।"}
+{"id": "F009|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका नया Samsung टीवी 55 इंच का है।"}
+{"id": "F009|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपका नया Samsung TV 55 इंच का है।"}
+{"id": "F009|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपका नया Samsung TV 55 इंच का है।"}
+{"id": "F009|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your new Samsung TV is 55 inches."}
+{"id": "F009|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your new Samsung TV is 55 inches."}
+{"id": "F009|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका नया Samsung टीवी 55 इंच का है।"}
+{"id": "F009|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका नया Samsung टीवी 55 इंच का है।"}
+{"id": "F009|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Tumne apna naya Samsung 55-inch 4K smart TV set kiya hai."}
+{"id": "F009|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Tumne apna naya Samsung TV 55-inch ka kiya hai."}
+{"id": "P001|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite brand of running shoes is Nike."}
+{"id": "P001|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favourite brand of running shoes is Nike."}
+{"id": "P001|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका पसंदीदा रनिंग शू ब्रांड नाइकी है।"}
+{"id": "P001|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका पसंदीदा रनिंग शू ब्रांड नाइकी है।"}
+{"id": "P001|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Nike meri favourite brand hai."}
+{"id": "P001|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Nike meri favourite brand hai."}
+{"id": "P001|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Nike is your favourite brand of running shoes."}
+{"id": "P001|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Nike is your favorite brand of running shoes."}
+{"id": "P001|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका पसंदीदा रनिंग शूज़ ब्रांड Nike है।"}
+{"id": "P001|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "नाइकी (Nike) मेरा पसंदीदा ब्रांड है।"}
+{"id": "P001|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "अब तक रनिंग शूज़ के लिए नाइकी मेरा पसंदीदा ब्रांड रहा है।"}
+{"id": "P001|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Nike."}
+{"id": "P001|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite brand of running shoes is Nike."}
+{"id": "P001|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Nike is your favorite brand of running shoes."}
+{"id": "P001|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मेरा पसंदीदा रनिंग शूज़ का ब्रांड नाइके है।"}
+{"id": "P001|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका पसंदीदा रनिंग शूज का ब्रांड नाइके (Nike) है।"}
+{"id": "P001|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Nike."}
+{"id": "P001|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Nike."}
+{"id": "P006|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You've been using basil and mint in your cooking lately."}
+{"id": "P006|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You've been using basil and mint in your cooking lately."}
+{"id": "P006|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आजकल आप अपने खाने में बेसिल, मिंट और करीमंडल और करी छोटी इस्तेमाल कर रहे हैं।"}
+{"id": "P006|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आजकल आप अपने खाने में बेसिल, मिंट और करीमंडल और करी छोटी इस्तेमाल कर रहे हैं।"}
+{"id": "P006|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Aajkal aap apne khane mein basil aur mint use kar raha hoon."}
+{"id": "P006|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aajkal aap apne khane mein basil aur mint use kar raha hoon."}
+{"id": "P006|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You have been using basil and mint in your cooking lately."}
+{"id": "P006|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You have been using basil and mint in your cooking lately."}
+{"id": "P006|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आजकल आप अपने खाने में बेसिल और पुदीना इस्तेमाल कर रहे हैं।"}
+{"id": "P006|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आजकल मैं अपने खाने में बेसिल और पुदीना इस्तेमाल कर रहा हूँ।"}
+{"id": "P006|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आजकल आप अपने खाने में बेसिल और पुदीना इस्तेमाल कर रहे हैं।"}
+{"id": "P006|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आजकल मैं अपने खाने में बेसिल और पुदीना बहुत इस्तेमाल कर रहा हूँ।"}
+{"id": "P006|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You have been using basil and mint in your cooking lately."}
+{"id": "P006|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You have been using basil and mint in your cooking lately."}
+{"id": "P006|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आजकल मैं अपने खाने में बेसिल और पुदीना इस्तेमाल कर रहा हूँ।"}
+{"id": "P006|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आजकल मैं अपने खाने में बेसिल और पुदीना इस्तेमाल कर रहा हूँ।"}
+{"id": "P006|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Aajkal main apne khane mein basil aur pudina use kar raha hoon."}
+{"id": "P006|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aajkal main apne khane mein basil aur pudina use kar raha hoon."}
+{"id": "P007|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You haven't explicitly mentioned a preferred furniture design style, but you've shown interest in mid-century modern design."}
+{"id": "P007|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You haven't explicitly mentioned a preferred furniture design style, but you've shown interest in mid-century modern design."}
+{"id": "P007|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको मिड-सेंचुरी मॉडर्न डिज़ाइन स्टाइल पसंद है।"}
+{"id": "P007|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको मिड-सेंचुरी मॉडर्न डिज़ाइन स्टाइल पसंद है।"}
+{"id": "P007|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Mujhe mid-century modern design style pasand hai."}
+{"id": "P007|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Mujhe mid-century modern design style pasand hai."}
+{"id": "P007|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You like mid-century modern design for your dresser."}
+{"id": "P007|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Mid-century modern design."}
+{"id": "P007|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मिड-सेंचुरी मॉडर्न डिज़ाइन पसंद है।"}
+{"id": "P007|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मुझे मिड-सेंचुरी मॉडर्न डिज़ाइन पसंद है।"}
+{"id": "P007|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपके पास मिड-सेंचुरी मॉडर्न डिज़ाइन के लिए प्रेरणा ढूँढ़ रहे हैं, इसलिए आपको उस शैली के फर्नीचर के"}
+{"id": "P007|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मुझे मिड-सेंचुरी मॉडर्न डिज़ाइन पसंद है।"}
+{"id": "P007|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You like mid-century modern design."}
+{"id": "P007|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You like mid-century modern design."}
+{"id": "P007|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको मिड-सेंचुरी मॉडर्न डिज़ाइन पसंद है।"}
+{"id": "P007|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको मिड-सेंचुरी मॉडर्न डिज़ाइन पसंद है।"}
+{"id": "P007|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apne bedroom ke naye dresser ke liye mid-century modern design ko pasand kiya hai."}
+{"id": "P007|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apne bedroom ke dresser ke liye mid-century modern design ko pasand kiya hai."}
+{"id": "E001|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You got your car serviced for the first time on March 15th."}
+{"id": "E001|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You got your car serviced for the first time on March 15th."}
+{"id": "E001|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने पहली बार अपनी कार की सर्विस 15 मार्च को करवाई थी।"}
+{"id": "E001|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने पहली बार अपनी कार की सर्विस 15 मार्च को करवाई थी।"}
+{"id": "E001|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine pehli baar apni car ki service March 15th ko karwayi thi."}
+{"id": "E001|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine pehli baar apni car ki service March 15th ko karwayi thi."}
+{"id": "E001|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You got your car serviced for the first time on 15 March."}
+{"id": "E001|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You got your car serviced for the first time on March 15th."}
+{"id": "E001|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने पहली बार 15 मार्च को अपनी कार की सर्विस करवाई थी।"}
+{"id": "E001|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने पहली बार अपनी कार की सर्विस 15 मार्च को करवाई थी।"}
+{"id": "E001|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "15 मार्च को।"}
+{"id": "E001|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 मार्च को पहली बार अपनी कार की सर्विस करवाई थी।"}
+{"id": "E001|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You got your car serviced for the first time on 15 March."}
+{"id": "E001|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You got your car serviced for the first time on 15 March."}
+{"id": "E001|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने पहली बार 15 मार्च को अपनी कार की सर्विस करवाई थी।"}
+{"id": "E001|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने पहली बार अपनी कार की सर्विस 15 मार्च को करवाई थी।"}
+{"id": "E001|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "15 March ko."}
+{"id": "E001|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine pehli baar apni car ki service 15 March ko karwayi thi."}
+{"id": "E006|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your best friend's 30th birthday party was on the 22nd of April."}
+{"id": "E006|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your best friend's 30th birthday party was on the 22nd of April."}
+{"id": "E006|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपकी सबसे अच्छी दोस्त की 30वें जन्मदिन की पार्टी 22 अप्रैल को थी।"}
+{"id": "E006|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपकी सबसे अच्छी दोस्त की 30वें जन्मदिन की पार्टी 22 अप्रैल को थी।"}
+{"id": "E006|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Meri best friend ki 30th birthday party 22 April thi."}
+{"id": "E006|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Meri best friend ki 30th birthday party 22 April thi."}
+{"id": "E006|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your best friend's 30th birthday party was on April 22."}
+{"id": "E006|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "On April 22nd."}
+{"id": "E006|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "22 अप्रैल को।"}
+{"id": "E006|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "22 अप्रैल को।"}
+{"id": "E006|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "22 अप्रैल को।"}
+{"id": "E006|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "22 अप्रैल को।"}
+{"id": "E006|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your best friend's 30th birthday party was on 22 April."}
+{"id": "E006|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your best friend's 30th birthday party was on 22 April."}
+{"id": "E006|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "22 अप्रैल को।"}
+{"id": "E006|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "22 अप्रैल।"}
+{"id": "E006|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "22 April."}
+{"id": "E006|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "22 April."}
+{"id": "E007|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You took your bike in for a tune-up on April 20th."}
+{"id": "E007|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You took your bike in for a tune-up on April 20th."}
+{"id": "E007|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपनी साइकिल के ट्यून-अप के लिए 20 अप्रैल को ले गई थी।"}
+{"id": "E007|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी साइकिल के ट्यून-अप के लिए 20 अप्रैल को ले गई थी।"}
+{"id": "E007|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main apni cycle tune-up ke liye 20 april ko le gayi thi."}
+{"id": "E007|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main apni cycle tune-up ke liye 20 april ko le gayi thi."}
+{"id": "E007|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You took your bike in for a tune-up on April 20."}
+{"id": "E007|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You took your bike in for a tune-up on April 20th."}
+{"id": "E007|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैं अपनी साइकिल ट्यून-अप के लिए 20 अप्रैल को ले गई थी।"}
+{"id": "E007|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी साइकिल ट्यून-अप के लिए 20 अप्रैल को ले गई थी।"}
+{"id": "E007|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "20 अप्रैल को।"}
+{"id": "E007|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 20 अप्रैल को अपनी साइकिल के ट्यून-अप के लिए ले गई थी।"}
+{"id": "E007|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You took your bike in for a tune-up on 20 April."}
+{"id": "E007|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You took your bike in for a tune-up on April 20th."}
+{"id": "E007|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 20 अप्रैल को अपनी साइकिल के ट्यून-अप के लिए ले गई थी।"}
+{"id": "E007|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी साइकिल को 20 अप्रैल को ट्यून-अप के लिए ले गई थी।"}
+{"id": "E007|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main apni cycle tune-up ke liye 20 April ko le gayi thi."}
+{"id": "E007|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main apni cycle tune-up ke liye 20 April ko le gayi thi."}
+{"id": "E009|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You turned 32 on February 12th."}
+{"id": "E009|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You turned 32 on February 12th."}
+{"id": "E009|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप 32 साल की 12 फरवरी को हुई।"}
+{"id": "E009|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 32 साल की 12 फरवरी को हुई।"}
+{"id": "E009|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Aap 32 saal ki kab hui? Aapne February 12th ko 32 saal ki hui."}
+{"id": "E009|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aap 32 saal ki kab hui? Aapne February 12th ko 32 saal ki hui."}
+{"id": "E009|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You turned 32 on 12 February."}
+{"id": "E009|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You turned 32 on February 12."}
+{"id": "E009|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप 12 फ़रवरी को 32 साल की हुई।"}
+{"id": "E009|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 12 फ़रवरी को 32 साल की हुई।"}
+{"id": "E009|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आप 12 फ़रवरी को 32 साल की हो गई।"}
+{"id": "E009|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आप 32 साल की 12 फ़रवरी को हुई।"}
+{"id": "E009|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You turned 32 on 12 February."}
+{"id": "E009|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You turned 32 on 12 February."}
+{"id": "E009|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप 12 फरवरी को 32 साल की हुई।"}
+{"id": "E009|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 12 फरवरी को 32 साल की हुई।"}
+{"id": "E009|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main 32 saal 12 February ko hui."}
+{"id": "E009|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main 12 February ko 32 saal ki hui."}
+{"id": "F011|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You saw a production of The Glass Menagerie at the local community theater."}
+{"id": "F011|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You saw a production of The Glass Menagerie at the local community theater."}
+{"id": "F011|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने कम्युनिटी थिएटर में \"द ग्लास मेनेजरी\" नाटक देखा था।"}
+{"id": "F011|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने कम्युनिटी थिएटर में \"द ग्लास मेनेजरी\" नाटक देखा था।"}
+{"id": "F011|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine community theatre mein \"The Glass Menagerie\" play dekha tha."}
+{"id": "F011|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine community theatre mein \"The Glass Menagerie\" play dekha tha."}
+{"id": "F011|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "The Glass Menagerie."}
+{"id": "F011|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "The play you saw at the local community theater was The Glass Menagerie."}
+{"id": "F011|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने कम्युनिटी थिएटर में \"The Glass Menagerie\" नाटक देखा था।"}
+{"id": "F011|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने कम्युनिटी थिएटर में \"The Glass Menagerie\" नाटक देखा था।"}
+{"id": "F011|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने The Glass Menagerie का नाटक देखा था।"}
+{"id": "F011|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने The Glass Menagerie नाटक देखा था।"}
+{"id": "F011|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You saw \"The Glass Menagerie\" at the local community theater."}
+{"id": "F011|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You saw \"The Glass Menagerie\" at the local community theater."}
+{"id": "F011|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने कम्युनिटी थिएटर में \"The Glass Menagerie\" नाटक देखा था।"}
+{"id": "F011|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने कम्युनिटी थिएटर में \"The Glass Menagerie\" नाटक देखा था।"}
+{"id": "F011|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine community theatre mein The Glass Menagerie ka play dekha tha."}
+{"id": "F011|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine community theatre mein The Glass Menagerie ka play dekha tha."}
+{"id": "P018|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You are a big fan of the Gardening Know How website."}
+{"id": "P018|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You are a big fan of the Gardening Know How website."}
+{"id": "P018|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप गार्डनिंग कन हॉव वेबसाइट का बड़ा फ़ैन हैं।"}
+{"id": "P018|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप गार्डनिंग कन हॉव वेबसाइट का बड़ा फ़ैन हैं।"}
+{"id": "P018|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आप गार्डनिंग कन हॉव वेबसाइट का बड़ा फैन हैं।"}
+{"id": "P018|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आप गार्डनिंग कन हॉव वेबसाइट का बड़ा फैन हैं।"}
+{"id": "P018|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You are a big fan of the Gardening Know How website."}
+{"id": "P018|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You are a big fan of the Gardening Know How website."}
+{"id": "P018|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप Gardening Know How वेबसाइट का बड़ा फ़ैन हैं।"}
+{"id": "P018|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप Gardening Know How वेबसाइट का बड़ा फ़ैन हैं।"}
+{"id": "P018|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आप Gardening Know How वेबसाइट का बड़ा फ़ैन हैं।"}
+{"id": "P018|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आप गार्डनिंग कन हॉव की वेबसाइट का बड़ा फ़ैन हैं।"}
+{"id": "P018|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You are a big fan of the Gardening Know How website."}
+{"id": "P018|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You are a big fan of the Gardening Know How website."}
+{"id": "P018|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप गार्डन क्नो हॉव वेबसाइट का बड़ा फैन हैं।"}
+{"id": "P018|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप गार्डनिंग कनहॉव वेबसाइट का बड़ा फ़ैन हैं।"}
+{"id": "P018|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main Gardening Know How website ka bada fan hoon."}
+{"id": "P018|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main Gardening Know How website ka bada fan hoon."}
+{"id": "P019|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite yoga pose is downward-facing dog."}
+{"id": "P019|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favourite yoga pose is downward-facing dog."}
+{"id": "P019|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका पसंदीदा योग आसन शायद अपने अंतर्मुखी शिव आसन है।"}
+{"id": "P019|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका पसंदीदा योग आसन शायद अपने अंतर्मुखी शिव आसन है।"}
+{"id": "P019|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Tumhare favourite yoga pose ko mention kiya gaya hai, lekin uska naam nahi diya gaya hai."}
+{"id": "P019|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Tumhare favourite yoga pose ko mention kiya gaya hai, lekin uska naam nahi diya gaya hai."}
+{"id": "P019|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "अधोमुख श्वानासन यानी डाउनवर्ड डॉग आपका सबसे पसंदीदा आसन है।"}
+{"id": "P019|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favorite yoga pose is adhomukh shvanasana, which is downward dog."}
+{"id": "P019|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका सबसे पसंदीदा योग आसन अधोमुख श्वानासन यानी डाउनवर्ड डॉग है।"}
+{"id": "P019|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका पसंदीदा योग आसन अधोमुख श्वानासन (डाउनवर्ड डॉग) है।"}
+{"id": "P019|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपका सबसे पसंदीदा आसन अधोमुख श्वानासन (डाउनवर्ड डॉग) है।"}
+{"id": "P019|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपका सबसे पसंदीदा आसन अधोमुख श्वानासन (डाउनवर्ड डॉग) है।"}
+{"id": "P019|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favorite yoga pose is downward-facing dog."}
+{"id": "P019|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favorite yoga pose is the downward-facing dog."}
+{"id": "P019|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका पसंदीदा योग आसन downward-facing dog है।"}
+{"id": "P019|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका पसंदीदा योग आसन downward-facing dog है।"}
+{"id": "P019|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maina apni favourite yoga pose ko downward-facing dog kahte hoon."}
+{"id": "P019|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Tumhare favourite yoga pose downward-facing dog hai."}
+{"id": "E011|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You last washed your Corolla on February 27th."}
+{"id": "E011|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You last washed your Corolla on February 27th."}
+{"id": "E011|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपनी Corolla को 27 फरवरी को धोया था।"}
+{"id": "E011|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी Corolla को 27 फरवरी को धोया था।"}
+{"id": "E011|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine last time apni Corolla February 27th ko dhoyi thi."}
+{"id": "E011|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine last time apni Corolla February 27th ko dhoyi thi."}
+{"id": "E011|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You last washed your Corolla on February 27."}
+{"id": "E011|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You last washed your Corolla on February 27th."}
+{"id": "E011|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपनी Corolla को 27 फ़रवरी को धोई थी।"}
+{"id": "E011|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी Corolla को 27 फ़रवरी को धोई थी।"}
+{"id": "E011|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपनी Corolla को 27 फ़रवरी को धोई थी।"}
+{"id": "E011|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी Corolla 27 फ़रवरी को धोई थी।"}
+{"id": "E011|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You last washed your Corolla on 27 February."}
+{"id": "E011|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You last washed your Corolla on 27 February."}
+{"id": "E011|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपनी Corolla को 27 फरवरी को धोई थी।"}
+{"id": "E011|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी Corolla को 27 फरवरी को धोई थी।"}
+{"id": "E011|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine last time apni Corolla 27 February ko dhoyi thi."}
+{"id": "E011|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine last time apni Corolla 27 February ko dhoyi thi."}
+{"id": "E012|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on January 28th."}
+{"id": "E012|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on January 28th."}
+{"id": "E012|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 1 जनवरी 28 को प्री-ऑर्डर किया था।"}
+{"id": "E012|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 1 जनवरी 28 को प्री-ऑर्डर किया था।"}
+{"id": "E012|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Aapne Dell XPS 13 ko 28 janvar ko pre-order kiya tha."}
+{"id": "E012|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aapne Dell XPS 13 ko 28 janvar ko pre-order kiya tha."}
+{"id": "E012|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on 28 January."}
+{"id": "E012|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on January 28th."}
+{"id": "E012|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 28 जनवरी को प्री-ऑर्डर किया था।"}
+{"id": "E012|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने अपना Dell XPS 13 28 जनवरी को प्री-ऑर्डर किया था।"}
+{"id": "E012|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने अपना Dell XPS 13 28 जनवरी को प्री-ऑर्डर किया था।"}
+{"id": "E012|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "तुमने अपना Dell XPS 13 28 जनवरी को प्री-ऑर्डर किया था।"}
+{"id": "E012|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on 28 January."}
+{"id": "E012|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You pre-ordered your Dell XPS 13 on January 28th."}
+{"id": "E012|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने अपना Dell XPS 13 28 जनवरी को प्री-ऑर्डर किया था।"}
+{"id": "E012|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने अपना Dell XPS 13 28 जनवरी को प्री-ऑर्डर किया था।"}
+{"id": "E012|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apna Dell XPS 13 28 January ko pre-order kiya tha."}
+{"id": "E012|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apna Dell XPS 13 28 January ko pre-order kiya tha."}
+{"id": "E014|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You have been starting seeds indoors under grow lights since February 20th."}
+{"id": "E014|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You have been starting seeds indoors under grow lights since February 20th."}
+{"id": "E014|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप 20 फरवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E014|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 20 फरवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E014|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Aap 20 February se grow lights ke neeche seeds uga raha hoon."}
+{"id": "E014|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aap 20 February se grow lights ke neeche seeds uga raha hoon."}
+{"id": "E014|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Since 20 February."}
+{"id": "E014|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Since February 20."}
+{"id": "E014|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप 20 फ़रवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E014|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 20 फ़रवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E014|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आप 20 फ़रवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E014|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "20 फ़रवरी से।"}
+{"id": "E014|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Since 20 February."}
+{"id": "E014|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Since 20 February."}
+{"id": "E014|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप 20 फरवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E014|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 20 फरवरी से घर के अंदर ग्रो लाइट के नीचे बीज उगा रहे हैं।"}
+{"id": "E014|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main 20 February se ghar ke andar grow lights ke neeche seeds uga raha hoon."}
+{"id": "E014|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aap 20 February se ghar ke andar grow lights ke neeche seeds uga raha hoon."}
+{"id": "E018|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the charity golf tournament on July 17th."}
+{"id": "E018|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the charity golf tournament on July 17th."}
+{"id": "E018|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप चैरिटी गोल्फ़ टूर्नामेंट 17 जुलाई को गए थे।"}
+{"id": "E018|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप चैरिटी गोल्फ़ टूर्नामेंट 17 जुलाई को गए थे।"}
+{"id": "E018|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main charity golf tournament ko July 17th ko gaya tha."}
+{"id": "E018|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main charity golf tournament ko July 17th ko gaya tha."}
+{"id": "E018|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the charity golf tournament on 17 July."}
+{"id": "E018|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the charity golf tournament on July 17th."}
+{"id": "E018|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप 17 जुलाई को चैरिटी गोल्फ़ टूर्नामेंट में गए थे।"}
+{"id": "E018|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 17 जुलाई को चैरिटी गोल्फ़ टूर्नामेंट में गए थे।"}
+{"id": "E018|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं 17 जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गया था।"}
+{"id": "E018|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैं 17 जुलाई को एक चैरिटी गोल्फ़ टूर्नामेंट में गया था।"}
+{"id": "E018|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the charity golf tournament on 17 July."}
+{"id": "E018|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the charity golf tournament on 17 July."}
+{"id": "E018|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैं 17 जुलाई को चैरिटी गोल्फ़ टूर्नामेंट में गया था।"}
+{"id": "E018|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 17 जुलाई को चैरिटी गोल्फ़ टूर्नामेंट में गए थे।"}
+{"id": "E018|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main 17 July ko charity golf tournament mein gaya tha."}
+{"id": "E018|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main 17 July ko charity golf tournament mein gaya tha."}
+{"id": "F021|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You packed 7 shirts for your 5-day trip to Costa Rica."}
+{"id": "F021|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You packed 7 shirts for your 5-day trip to Costa Rica."}
+{"id": "F021|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 5 दिन की कोस्टा रिका की ट्रिप के लिए 7 शर्ट पैक की थी।"}
+{"id": "F021|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 5 दिन की कोस्टा रिका की ट्रिप के लिए 7 शर्ट पैक की थी।"}
+{"id": "F021|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Costa Rica ki 5 din ki trip ke liye maine 7 shirts pack ki thi."}
+{"id": "F021|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Costa Rica ki 5 din ki trip ke liye maine 7 shirts pack ki thi."}
+{"id": "F021|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You packed 7 shirts for your 5-day trip to Costa Rica."}
+{"id": "F021|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You packed 7 shirts for your 5-day trip to Costa Rica."}
+{"id": "F021|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने कोस्टा रिका की 5 दिन की ट्रिप के लिए 7 शर्ट पैक की थी।"}
+{"id": "F021|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने कोस्टा रिका की 5 दिन की ट्रिप के लिए 7 शर्ट पैक की थी।"}
+{"id": "F021|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने कोस्टा रिका की 5 दिन की ट्रिप के लिए 7 शर्ट पैक की थी।"}
+{"id": "F021|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने कोस्टा रिका की 5 दिन की ट्रिप के लिए 7 शर्ट पैक की थी।"}
+{"id": "F021|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You packed 7 shirts for your 5-day trip to Costa Rica."}
+{"id": "F021|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You packed 7 shirts for your 5-day trip to Costa Rica."}
+{"id": "F021|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने कोस्टा रिका की 5 दिन की ट्रिप के लिए 7 शर्ट पैक की थीं।"}
+{"id": "F021|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "कोस्टा रिका की 5 दिन की ट्रिप के लिए आपने 7 शर्ट पैक की थीं।"}
+{"id": "F021|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Costa Rica ki 5 din ki trip ke liye maine 7 shirts pack ki thi."}
+{"id": "F021|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Costa Rica ki 5 din ki trip ke liye maine 7 shirts pack ki thi."}
+{"id": "F024|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You caught 12 largemouth bass on your last trip to Lake Michigan."}
+{"id": "F024|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You caught 12 largemouth bass on your last trip to Lake Michigan."}
+{"id": "F024|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने मिशिगन झील की पिछली ट्रिप पर 12 लार्जमाउथ बास पकड़ी थी।"}
+{"id": "F024|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने मिशिगन झील की पिछली ट्रिप पर 12 लार्जमाउथ बास पकड़ी थी।"}
+{"id": "F024|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "अपनी पिछली यात्रा पर आपने 12 लार्जमूथ बैस पकड़ी थी।"}
+{"id": "F024|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "अपनी पिछली यात्रा पर आपने 12 लार्जमूथ बैस पकड़ी थी।"}
+{"id": "F024|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You caught 12 largemouth bass on your last trip to Lake Michigan."}
+{"id": "F024|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You caught 12 largemouth bass on your last trip to Lake Michigan."}
+{"id": "F024|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मिशिगन झील की पिछली ट्रिप पर आपने 12 लार्जमाउथ बास पकड़ी थीं।"}
+{"id": "F024|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मिशिगन झील की पिछली ट्रिप पर आपने 12 लार्जमाउथ बास पकड़ी थीं।"}
+{"id": "F024|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "पिछली ट्रिप पर मैंने 12 लार्जमाउथ बास पकड़ीं।"}
+{"id": "F024|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "पिछली ट्रिप पर मैंने 12 लार्जमाउथ बास पकड़ीं।"}
+{"id": "F024|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You caught 12 largemouth bass on your last trip to Lake Michigan."}
+{"id": "F024|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You caught 12 largemouth bass on your last trip to Lake Michigan."}
+{"id": "F024|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मिशिगन झील की पिछली ट्रिप पर आपने 12 लार्जमाउथ बास पकड़ी थी।"}
+{"id": "F024|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मिशिगन झील की पिछली ट्रिप पर आपने 12 लार्जमाउथ बास पकड़ी थी।"}
+{"id": "F024|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Pichhli trip par aapne 12 largemouth bass pakdi thi."}
+{"id": "F024|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apni pichhli Lake Michigan trip par 12 largemouth bass pakdi thi."}
+{"id": "F025|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You watched 10 amateur comedians perform at the open mic night."}
+{"id": "F025|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You watched 10 amateur comedians perform at the open mic night."}
+{"id": "F025|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "तुमने ओपन माइक नाइट में 10 अमैटर कॉमेडियन को परफॉर्म करते देखा।"}
+{"id": "F025|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "तुमने ओपन माइक नाइट में 10 अमैटर कॉमेडियन को परफॉर्म करते देखा।"}
+{"id": "F025|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "तुमने खुद बताया था कि तुमने 10 अमेटर कॉमेडियन के प्रदर्शन को देखा।"}
+{"id": "F025|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "तुमने खुद बताया था कि तुमने 10 अमेटर कॉमेडियन के प्रदर्शन को देखा।"}
+{"id": "F025|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You watched 10 amateur comedians perform at the open mic night."}
+{"id": "F025|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You watched 10 amateur comedians perform at the open mic night."}
+{"id": "F025|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "तुमने ओपन माइक नाइट में 10 नए कॉमेडियन को परफॉर्म करते देखा।"}
+{"id": "F025|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "तुमने ओपन माइक नाइट में 10 नए कॉमेडियन को परफॉर्म करते देखा।"}
+{"id": "F025|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "तुमने हाल ही में एक ओपन माइक नाइट में 10 नए कॉमेडियन को परफॉर्म करते देखा।"}
+{"id": "F025|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "तुमने ओपन माइक नाइट में 10 अमेटर कॉमेडियन को परफॉर्म करते देखा।"}
+{"id": "F025|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You watched 10 amateur comedians perform at the open mic night."}
+{"id": "F025|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You watched 10 amateur comedians perform at the open mic night."}
+{"id": "F025|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "10 नए कॉमेडियन को परफॉर्म करते देखा।"}
+{"id": "F025|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "तुमने ओपन माइक नाइट में 10 नए कॉमेडियन को परफॉर्म करते देखा।"}
+{"id": "F025|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "10 amateur comedians ko perform karte dekha."}
+{"id": "F025|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "10 amateur comedians."}
+{"id": "F026|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You were 18 years old when your grandma gave you the silver chain."}
+{"id": "F026|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You were 18 years old when your grandma gave you the silver chain."}
+{"id": "F026|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "जब आपकी दादी ने आपको चाँदी की चेन दी, तब आपकी उम्र 18 साल थी।"}
+{"id": "F026|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "जब आपकी दादी ने आपको चाँदी की चेन दी, तब आपकी उम्र 18 साल थी।"}
+{"id": "F026|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Jab dadi ne tumhe silver chain di, tab tumhare umar 18 saal thi."}
+{"id": "F026|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Jab dadi ne tumhe silver chain di, tab tumhare umar 18 saal thi."}
+{"id": "F026|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You were 18 years old when your grandma gave you the silver chain."}
+{"id": "F026|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You were 18 years old when your grandma gave you the silver chain."}
+{"id": "F026|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "18 वर्ष।"}
+{"id": "F026|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "तब आपकी उम्र 18 वर्ष थी।"}
+{"id": "F026|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मुझे अपने 18वें जन्मदिन पर दादी ने चाँदी की चेन दी थी।"}
+{"id": "F026|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "तब आपकी उम्र 18 साल थी।"}
+{"id": "F026|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You were 18 years old when your grandma gave you the silver chain."}
+{"id": "F026|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You were 18 years old when your grandma gave you the silver chain."}
+{"id": "F026|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "18 साल की थी।"}
+{"id": "F026|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "18 वर्ष।"}
+{"id": "F026|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "18 saal."}
+{"id": "F026|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine dadi se silver chain leke 18 saal ki thi."}
+{"id": "F027|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your preferred gin-to-vermouth ratio for a classic martini is 3:1."}
+{"id": "F027|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your preferred gin-to-vermouth ratio for a classic martini is 3:1."}
+{"id": "F027|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "क्लासिक मार्टिनी के लिए आपका पसंदीदा अनुपात 3:1 है।"}
+{"id": "F027|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "क्लासिक मार्टिनी के लिए आपका पसंदीदा अनुपात 3:1 है।"}
+{"id": "F027|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपका पसंदीदा क्लासिक मार्टिनी के लिए जिन और वर्मुथ का अनुपात 3:1 है।"}
+{"id": "F027|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपका पसंदीदा क्लासिक मार्टिनी के लिए जिन और वर्मुथ का अनुपात 3:1 है।"}
+{"id": "F027|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "3:1."}
+{"id": "F027|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your preferred gin-to-vermouth ratio for a classic martini is 3:1."}
+{"id": "F027|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "3:1 का अनुपात आपका पसंदीदा है।"}
+{"id": "F027|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "3:1 का अनुपात आपके क्लासिक मार्टिनी के लिए पसंदीदा है।"}
+{"id": "F027|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपका पसंदीदा अनुपात 3:1 है।"}
+{"id": "F027|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपका पसंदीदा रेशो 3:1 है।"}
+{"id": "F027|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your preferred gin-to-vermouth ratio for a classic martini is 3:1."}
+{"id": "F027|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your preferred gin-to-vermouth ratio for a classic martini is 3:1."}
+{"id": "F027|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "क्लासिक मार्टिनी के लिए आपका पसंदीदा अनुपात 3:1 है।"}
+{"id": "F027|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "क्लासिक मार्टिनी के लिए जिन और वरमाउथ का आपका पसंदीदा अनुपात 3:1 है।"}
+{"id": "F027|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "3:1 ka ratio aapki favourite ratio hai."}
+{"id": "F027|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aapka favourite ratio 3:1 hai."}
+{"id": "F029|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended your cousin's wedding at the Grand Ballroom."}
+{"id": "F029|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended your cousin's wedding at the Grand Ballroom."}
+{"id": "F029|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप अपनी कज़िन की शादी ग्रैंड बॉलरूम में गए थे।"}
+{"id": "F029|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप अपनी कज़िन की शादी ग्रैंड बॉलरूम में गए थे।"}
+{"id": "F029|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main apni cousin ki shaadi Grand Ballroom mein gayi thi."}
+{"id": "F029|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main apni cousin ki shaadi Grand Ballroom mein gayi thi."}
+{"id": "F029|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended your cousin's wedding at the Grand Ballroom."}
+{"id": "F029|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended your cousin's wedding at the Grand Ballroom."}
+{"id": "F029|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप अपनी कज़िन की शादी में ग्रैंड बॉलरूम में गई थी।"}
+{"id": "F029|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप अपनी कज़िन की शादी में ग्रैंड बॉलरूम में गई थी।"}
+{"id": "F029|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं पिछले वीकेंड अपनी कज़िन की शादी में ग्रैंड बॉलरूम गई थी।"}
+{"id": "F029|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैं पिछले वीकेंड अपनी कज़िन की शादी में ग्रैंड बॉलरूम गई थी।"}
+{"id": "F029|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended your cousin's wedding at the Grand Ballroom."}
+{"id": "F029|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended your cousin's wedding at the Grand Ballroom."}
+{"id": "F029|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैं अपनी कज़िन की शादी में ग्रांड बॉलरूम में गई थी।"}
+{"id": "F029|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप अपनी कज़िन की शादी में ग्रैंड बॉलरूम में गई थी।"}
+{"id": "F029|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main pichhle weekend apni cousin ki shaadi mein Grand Ballroom gayi thi."}
+{"id": "F029|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main apni cousin ki shaadi mein Grand Ballroom gayi thi."}
+{"id": "P021|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You have always loved the Elder Scrolls series."}
+{"id": "P021|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You have always loved the Elder Scrolls series."}
+{"id": "P021|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको हमेशा से एल्डर स्क्रॉल्स सीरीज़ पसंद रही है।"}
+{"id": "P021|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको हमेशा से एल्डर स्क्रॉल्स सीरीज़ पसंद रही है।"}
+{"id": "P021|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Tumhe hamesha se Elder Scrolls video game series pasand rahi hai."}
+{"id": "P021|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Tumhe hamesha se Elder Scrolls video game series pasand rahi hai."}
+{"id": "P021|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Elder Scrolls सीरीज़।"}
+{"id": "P021|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You have always loved the Elder Scrolls series."}
+{"id": "P021|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मुझे हमेशा से Elder Scrolls सीरीज़ पसंद रही है।"}
+{"id": "P021|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मुझे हमेशा से Elder Scrolls सीरीज़ पसंद रही है।"}
+{"id": "P021|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मुझे हमेशा से Elder Scrolls सीरीज़ पसंद रही है।"}
+{"id": "P021|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मुझे हमेशा से Elder Scrolls सीरीज़ पसंद रही है।"}
+{"id": "P021|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You have always loved the Elder Scrolls series."}
+{"id": "P021|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You have always loved the Elder Scrolls series."}
+{"id": "P021|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मुझे हमेशा से Elder Scrolls सीरीज़ पसंद रही है।"}
+{"id": "P021|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको हमेशा से एल्डर स्क्रॉल्स सीरीज़ पसंद रही है।"}
+{"id": "P021|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Elder Scrolls series."}
+{"id": "P021|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Elder Scrolls series."}
+{"id": "P023|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You like sci-fi and fantasy shows with a strong female lead."}
+{"id": "P023|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You like sci-fi and fantasy shows with a strong female lead."}
+{"id": "P023|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको साइंस फिक्शन और फैंटेसी जॉनर के टीवी शो पसंद हैं।"}
+{"id": "P023|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको साइंस फिक्शन और फैंटेसी जॉनर के टीवी शो पसंद हैं।"}
+{"id": "P023|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Aapko sci-fi aur fantasy ke TV shows pasand hain."}
+{"id": "P023|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aapko sci-fi aur fantasy ke TV shows pasand hain."}
+{"id": "P023|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You like science fiction and fantasy TV shows."}
+{"id": "P023|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You like science fiction and fantasy TV shows."}
+{"id": "P023|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको साइंस फ़िक्शन और फ़ैंटेसी जॉनर के टीवी शो पसंद हैं।"}
+{"id": "P023|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको साइंस फ़िक्शन और फ़ैंटेसी जॉनर के टीवी शो पसंद हैं।"}
+{"id": "P023|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपको साइंस फ़िक्शन और फ़ैंटेसी शो पसंद हैं।"}
+{"id": "P023|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपको साइंस फ़िक्शन और फ़ैंटेसी शो पसंद हैं।"}
+{"id": "P023|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You like sci-fi and fantasy genres."}
+{"id": "P023|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You like sci-fi and fantasy genres of TV shows."}
+{"id": "P023|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको साइंस फिक्शन और फैंटेसी जॉनर के टीवी शो पसंद हैं।"}
+{"id": "P023|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको साइंस फिक्शन और फैंटेसी जॉनर के टीवी शो पसंद हैं।"}
+{"id": "P023|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apni watchlist mein sci-fi aur fantasy ke shows ki har cheez dekhi hai."}
+{"id": "P023|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aapki pasand ki TV shows ki genres sci-fi aur fantasy hain."}
+{"id": "P024|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You prefer hickory wood chips for smoking food."}
+{"id": "P024|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You prefer hickory wood chips for smoking food."}
+{"id": "P024|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको हिकोरी लकड़ी के चिप्स पसंद हैं।"}
+{"id": "P024|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको हिकोरी लकड़ी के चिप्स पसंद हैं।"}
+{"id": "P024|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Hickory wood chips are a big fan of yours for smoking food."}
+{"id": "P024|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Hickory wood chips are a big fan of yours for smoking food."}
+{"id": "P024|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You prefer hickory wood chips for smoking food."}
+{"id": "P024|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You prefer hickory chips for smoking food."}
+{"id": "P024|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "हाँ, आपके पड़ोसी हमेशा सिर्फ मेस्क्वीट चिप्स ही डालते हैं।"}
+{"id": "P024|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको हिकोरी के चिप्स पसंद हैं।"}
+{"id": "P024|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं लकड़ी के चिप्स में हिकोरी का बड़ा फ़ैन हूँ।"}
+{"id": "P024|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "हिकोरी चिप्स आपके लिए अच्छे हो सकते हैं।"}
+{"id": "P024|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You prefer hickory wood chips for smoking food."}
+{"id": "P024|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You prefer hickory wood chips for smoking food."}
+{"id": "P024|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको हिकोरी लकड़ी के चिप्स पसंद हैं।"}
+{"id": "P024|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको हिकोरी लकड़ी के चिप्स पसंद हैं।"}
+{"id": "P024|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Hickory wood chips pasand hain."}
+{"id": "P024|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Hickory ka wood chips pasand hain."}
+{"id": "P025|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You prefer scenic routes, especially ones that pass through national parks."}
+{"id": "P025|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You prefer scenic routes, especially ones that pass through national parks."}
+{"id": "P025|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको स्केनिक रास्ते पसंद हैं, खासकर जहां राष्ट्रीय उद्यान से गुजरते हैं।"}
+{"id": "P025|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको स्केनिक रास्ते पसंद हैं, खासकर जहां राष्ट्रीय उद्यान से गुजरते हैं।"}
+{"id": "P025|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपको स्केनिक रूट्स पसंद हैं, खासकर जहां राष्ट्रीय उद्यान से गुजरते हैं।"}
+{"id": "P025|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपको स्केनिक रूट्स पसंद हैं, खासकर जहां राष्ट्रीय उद्यान से गुजरते हैं।"}
+{"id": "P025|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You prefer driving routes with beautiful views, especially those that go through national parks."}
+{"id": "P025|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You prefer scenic routes, especially those that go through national parks."}
+{"id": "P025|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको नेशनल पार्क से होकर जाने वाले खूबसूरत नज़ारों वाले रास्ते पसंद हैं।"}
+{"id": "P025|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको खूबसूरत नज़ारों वाले रास्ते पसंद हैं, ख़ासकर वे जो नेशनल पार्क से होकर जाते हैं।"}
+{"id": "P025|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मुझे नेशनल पार्क से होकर जाने वाले खूबसूरत नजारों वाले रास्ते पसंद हैं।"}
+{"id": "P025|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मुझे खूबसूरत नजारों वाले रास्ते पसंद हैं, खासकर वे जो नेशनल पार्क से होकर जाते हैं।"}
+{"id": "P025|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You prefer scenic routes that go through national parks."}
+{"id": "P025|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You prefer scenic routes that pass through national parks."}
+{"id": "P025|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको स्केनिक रूट्स पसंद हैं, जो राष्ट्रीय पार्कों से होकर जाते हैं।"}
+{"id": "P025|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको स्केनिक रूट्स और राष्ट्रीय पार्कों से होकर जाने वाले रास्ते पसंद हैं।"}
+{"id": "P025|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Mujhe scenic routes jo national parks se hokar jaate hain, pasand hain."}
+{"id": "P025|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Mujhe scenic routes pasand hain, especially woh jo national parks se hokar jaate hain."}
+{"id": "P028|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite character from Attack on Titan is Levi Ackerman."}
+{"id": "P028|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favourite character from Attack on Titan is Levi Ackerman."}
+{"id": "P028|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका पसंदीदा किरदार लेवी एकरमैन है।"}
+{"id": "P028|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका पसंदीदा किरदार लेवी एकरमैन है।"}
+{"id": "P028|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Attack on Titan mein aapka favourite character Levi Ackerman hai."}
+{"id": "P028|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Attack on Titan mein aapka favourite character Levi Ackerman hai."}
+{"id": "P028|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite character from Attack on Titan is Levi Ackerman."}
+{"id": "P028|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favorite character from Attack on Titan is Levi Ackerman."}
+{"id": "P028|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने अभी-अभी Attack on Titan ख़त्म किया, और मेरा पसंदीदा किरदार लेवी एकरमैन है।"}
+{"id": "P028|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने अभी-अभी Attack on Titan ख़त्म किया, और मेरा पसंदीदा किरदार लेवी एकरमैन है।"}
+{"id": "P028|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने अभी-अभी Attack on Titan ख़त्म किया, और मेरा पसंदीदा किरदार लेवी एकरमैन है।"}
+{"id": "P028|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपका पसंदीदा किरदार लेवी एकरमैन है।"}
+{"id": "P028|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite character from Attack on Titan is Levi Ackerman."}
+{"id": "P028|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favourite character from Attack on Titan is Levi Ackerman."}
+{"id": "P028|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "Attack on Titan में आपका पसंदीदा किरदार Levi Ackerman है।"}
+{"id": "P028|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "Attack on Titan में आपका पसंदीदा किरदार Levi Ackerman है।"}
+{"id": "P028|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apne favourite character ko Levi Ackerman kahte hue bataya hai."}
+{"id": "P028|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apne favourite character ko Levi Ackerman kahte hue bataya hai."}
+{"id": "E022|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You wore your sneakers to play basketball on February 1st."}
+{"id": "E022|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You wore your sneakers to play basketball on February 1st."}
+{"id": "E022|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 1 फरवरी को अपने स्नीकर्स पहनकर बास्केटबॉल खेला था।"}
+{"id": "E022|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 1 फरवरी को अपने स्नीकर्स पहनकर बास्केटबॉल खेला था।"}
+{"id": "E022|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine 1 February ko sneakers pehen ke basketball khela tha."}
+{"id": "E022|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine 1 February ko sneakers pehen ke basketball khela tha."}
+{"id": "E022|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You wore your sneakers to play basketball on February 1st."}
+{"id": "E022|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You wore your sneakers to play basketball on 1 February."}
+{"id": "E022|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "1 फ़रवरी को।"}
+{"id": "E022|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 1 फ़रवरी को अपने स्नीकर्स पहनकर बास्केटबॉल खेला था।"}
+{"id": "E022|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 1 फ़रवरी को बास्केटबॉल खेलते समय अपने सफ़ेद स्नीकर्स पहने थे।"}
+{"id": "E022|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 1 फ़रवरी को अपने सफ़ेद स्नीकर्स पहनकर बास्केटबॉल खेला था।"}
+{"id": "E022|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You wore your sneakers to play basketball on February 1st."}
+{"id": "E022|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You wore your sneakers to play basketball on 1 February."}
+{"id": "E022|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 1 फरवरी को अपने स्नीकर्स पहनकर बास्केटबॉल खेला था।"}
+{"id": "E022|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 1 फरवरी को अपने स्नीकर्स पहनकर बास्केटबॉल खेला था।"}
+{"id": "E022|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine 1 February ko basketball khelte time apne white sneakers pehne the."}
+{"id": "E022|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine 1 February ko apne sneakers pehne ke basketball khela tha."}
+{"id": "E023|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You got your new router on January 15th."}
+{"id": "E023|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You got your new router on January 15th."}
+{"id": "E023|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपना नया राउटर 15 जनवरी को लिया।"}
+{"id": "E023|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपना नया राउटर 15 जनवरी को लिया।"}
+{"id": "E023|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apna naya router 15 janvar ko liya."}
+{"id": "E023|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apna naya router 15 janvar ko liya."}
+{"id": "E023|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You got your new router on 15 January."}
+{"id": "E023|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You got your new router on January 15."}
+{"id": "E023|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 15 जनवरी को अपना नया राउटर लिया।"}
+{"id": "E023|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 जनवरी को अपना नया राउटर लिया।"}
+{"id": "E023|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 15 जनवरी को अपना नया राउटर लिया।"}
+{"id": "E023|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 जनवरी को अपना नया राउटर लिया।"}
+{"id": "E023|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You got your new router on January 15."}
+{"id": "E023|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You got your new router on 15 January."}
+{"id": "E023|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने अपना नया राउटर 15 जनवरी को लिया।"}
+{"id": "E023|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 जनवरी को अपना नया राउटर लिया।"}
+{"id": "E023|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apna naya router 15 January ko liya।"}
+{"id": "E023|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apna naya router 15 January ko liya."}
+{"id": "E026|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your friend Rachel got engaged on May 15th."}
+{"id": "E026|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your friend Rachel got engaged on May 15th."}
+{"id": "E026|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "रेचल की सगाई 15 मई को हुई।"}
+{"id": "E026|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "रेचल की सगाई 15 मई को हुई।"}
+{"id": "E026|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Rachel ki engagement 15 Mai hui thi."}
+{"id": "E026|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Rachel ki engagement 15 Mai hui thi."}
+{"id": "E026|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your friend Rachel got engaged on 15 May."}
+{"id": "E026|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your friend Rachel got engaged on May 15th."}
+{"id": "E026|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "रेचल की सगाई 15 मई को हुई।"}
+{"id": "E026|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "रेचल की सगाई 15 मई को हुई।"}
+{"id": "E026|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "15 मई को।"}
+{"id": "E026|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Rachel की सगाई 15 मई को हुई।"}
+{"id": "E026|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your friend Rachel got engaged on 15 May."}
+{"id": "E026|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your friend Rachel got engaged on May 15th."}
+{"id": "E026|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "15 मई को।"}
+{"id": "E026|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "रेचल की सगाई 15 मई को हुई।"}
+{"id": "E026|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Rachel ki engagement 15 May ko hui."}
+{"id": "E026|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Rachel ki engagement 15 May ko hui."}
+{"id": "E029|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You bought the silver necklace for your best friend's 30th birthday on March 15th."}
+{"id": "E029|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You bought the silver necklace for your best friend's 30th birthday on March 15th."}
+{"id": "E029|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार 15 मार्च को खरीदा।"}
+{"id": "E029|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार 15 मार्च को खरीदा।"}
+{"id": "E029|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apni best friend ke liye silver necklace March 15th ko khareeda."}
+{"id": "E029|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apni best friend ke liye silver necklace March 15th ko khareeda."}
+{"id": "E029|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You bought the silver necklace for your best friend on 15 March."}
+{"id": "E029|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You bought the silver necklace for your best friend on March 15."}
+{"id": "E029|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 15 मार्च को अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार ख़रीदा।"}
+{"id": "E029|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 मार्च को अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार खरीदा।"}
+{"id": "E029|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 15 मार्च को अपनी सबसे अच्छी दोस्त के 30वें जन्मदिन के लिए छोटे-से पेंडेंट वाला चाँदी का हार खरीदा"}
+{"id": "E029|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 15 मार्च को अपनी सबसे अच्छी दोस्त के 30वें जन्मदिन के लिए छोटे-से पेंडेंट वाला चाँदी का हार ख़री"}
+{"id": "E029|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You bought the silver necklace for your best friend on 15 March."}
+{"id": "E029|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You bought the silver necklace for your best friend on 15 March."}
+{"id": "E029|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "तुमने 15 मार्च को अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार खरीदा।"}
+{"id": "E029|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 मार्च को अपनी सबसे अच्छी दोस्त के लिए चाँदी का हार खरीदा।"}
+{"id": "E029|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apni best friend ke liye silver necklace 15 March ko khareeda."}
+{"id": "E029|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apni best friend ke liye silver necklace 15 March ko khareeda."}
+{"id": "F031|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "It took around 5 hours to move everything into the new apartment."}
+{"id": "F031|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "It took around 5 hours to move everything into the new apartment."}
+{"id": "F031|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "नए अपार्टमेंट में शिफ़्ट होने में मेरे साथियों के साथ लगभग 5 घंटे लगे।"}
+{"id": "F031|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "नए अपार्टमेंट में शिफ़्ट होने में मेरे साथियों के साथ लगभग 5 घंटे लगे।"}
+{"id": "F031|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Naye apartment mein shift hone mein 5 ghante laga."}
+{"id": "F031|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Naye apartment mein shift hone mein 5 ghante laga."}
+{"id": "F031|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "It took almost 5 hours to move into the new apartment."}
+{"id": "F031|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "It took almost 5 hours to move into the new apartment."}
+{"id": "F031|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "लगभग 5 घंटे।"}
+{"id": "F031|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "लगभग 5 घंटे।"}
+{"id": "F031|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "लगभग 5 घंटे।"}
+{"id": "F031|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "लगभग 5 घंटे।"}
+{"id": "F031|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "It took approximately 5 hours to move into the new apartment."}
+{"id": "F031|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "It took almost 5 hours to move into the new apartment."}
+{"id": "F031|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "लगभग 5 घंटे।"}
+{"id": "F031|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "नए अपार्टमेंट में शिफ़्ट होने में लगभग 5 घंटे का समय लगा।"}
+{"id": "F031|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Naye apartment mein shift hone mein lagbhag 5 ghante lage."}
+{"id": "F031|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Naye apartment mein shift hone mein lagbhag 5 ghante lage."}
+{"id": "F032|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You stop checking work emails and messages by 7 pm."}
+{"id": "F032|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You stop checking work emails and messages by 7 pm."}
+{"id": "F032|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप 7 बजे के बाद काम के ईमेल और मैसेज देखना बंद करते हैं।"}
+{"id": "F032|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 7 बजे के बाद काम के ईमेल और मैसेज देखना बंद करते हैं।"}
+{"id": "F032|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main work emails aur messages dekhna 7 pm ke baad band karta hoon."}
+{"id": "F032|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main work emails aur messages dekhna 7 pm ke baad band karta hoon."}
+{"id": "F032|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You stop checking work emails and messages by 7 PM."}
+{"id": "F032|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You stop checking work emails and messages by 7 PM."}
+{"id": "F032|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप शाम 7 बजे तक काम के ईमेल और मैसेज देखना बंद करते हैं।"}
+{"id": "F032|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 7 बजे तक काम के ईमेल और मैसेज देखना बंद करते हैं।"}
+{"id": "F032|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आप शाम 7 बजे तक काम के ईमेल और मैसेज देखना बंद कर देते हैं।"}
+{"id": "F032|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आप शाम 7 बजे तक काम के ईमेल और मैसेज देखना बंद कर देते हैं।"}
+{"id": "F032|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You stop checking work emails and messages by 7 PM."}
+{"id": "F032|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You stop checking work emails and messages by 7 PM."}
+{"id": "F032|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप शाम 7 बजे तक काम के ईमेल और मैसेज देखना बंद करते हैं।"}
+{"id": "F032|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 7 बजे के बाद काम के ईमेल और मैसेज देखना बंद करते हैं।"}
+{"id": "F032|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main work emails aur messages dekhna shaam 7 baje tak band karta hoon."}
+{"id": "F032|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aap work emails aur messages dekhne ko shaam 7 baje tak band karte hain."}
+{"id": "F034|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You went to Hawaii with your family on a week-long trip."}
+{"id": "F034|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You went to Hawaii with your family on a week-long trip."}
+{"id": "F034|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप अपने परिवार के साथ एक हफ़्ते की ट्रिप पर हवाई द्वीप पर गए थे।"}
+{"id": "F034|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप अपने परिवार के साथ एक हफ़्ते की ट्रिप पर हवाई द्वीप पर गए थे।"}
+{"id": "F034|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main apni family ke saath ek hafte ki trip pe Hawaii gaya tha."}
+{"id": "F034|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main apni family ke saath ek hafte ki trip pe Hawaii gaya tha."}
+{"id": "F034|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You went to the Big Island."}
+{"id": "F034|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You went to Hawaii on a week-long trip with your family."}
+{"id": "F034|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप पिछले महीने अपने परिवार के साथ हवाई गए थे।"}
+{"id": "F034|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप अपने परिवार के साथ एक हफ़्ते की ट्रिप पर हवाई गए थे।"}
+{"id": "F034|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "पिछले महीने आप अपने परिवार के साथ हवाई गए थे।"}
+{"id": "F034|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आप अपने परिवार के साथ एक हफ़्ते की यात्रा पर हवाई गए थे।"}
+{"id": "F034|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You went on a week-long trip with your family to Hawaii."}
+{"id": "F034|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You went to Hawaii on a week-long trip with your family."}
+{"id": "F034|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप पिछले महीने अपने परिवार के साथ हवाई द्वीप (Hawaii) गए थे।"}
+{"id": "F034|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप अपने परिवार के साथ एक हफ़्ते की ट्रिप पर हवाई गए थे।"}
+{"id": "F034|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main apni family ke saath ek hafte ki trip pe Hawaii gaya tha."}
+{"id": "F034|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main apni family ke saath ek hafte ki trip pe Hawaii gaya tha."}
+{"id": "F037|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You bought a rare blue Snaggletooth action figure from a thrift store."}
+{"id": "F037|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You bought a rare blue Snaggletooth action figure from a thrift store."}
+{"id": "F037|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने एक रार ब्लू स्नैगलटूथ एक्शन फ़िगर खरीदा।"}
+{"id": "F037|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने एक रार ब्लू स्नैगलटूथ एक्शन फ़िगर खरीदा।"}
+{"id": "F037|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine thrift store se rare blue Snaggletooth action figure khareeda kiya."}
+{"id": "F037|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine thrift store se rare blue Snaggletooth action figure khareeda kiya."}
+{"id": "F037|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You bought a rare blue Snaggletooth action figure from a thrift store."}
+{"id": "F037|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You bought a rare blue Snaggletooth action figure from a thrift store."}
+{"id": "F037|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने थ्रिफ़्ट स्टोर से एक दुर्लभ नीला Snaggletooth एक्शन फ़िगर खरीदा।"}
+{"id": "F037|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने थ्रिफ़्ट स्टोर से एक दुर्लभ नीला Snaggletooth एक्शन फ़िगर खरीदा।"}
+{"id": "F037|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपने एक दुर्लभ नीला Snaggletooth एक्शन फ़िगर खरीदा।"}
+{"id": "F037|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने एक दुर्लभ नीला Snaggletooth एक्शन फ़िगर खरीदा।"}
+{"id": "F037|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You bought a rare blue Snaggletooth action figure from a thrift store."}
+{"id": "F037|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You bought a rare blue Snaggletooth action figure from a thrift store."}
+{"id": "F037|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने थ्रिफ़्ट स्टोर से एक रारे ब्लू स्नैगलटूथ एक्शन फ़िगर खरीदा।"}
+{"id": "F037|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने थ्रिफ़्ट स्टोर से एक रार ब्लू स्नैगल्टूथ एक्शन फ़िगर ख़रीदा।"}
+{"id": "F037|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine thrift store se rare blue Snaggletooth action figure khareeda."}
+{"id": "F037|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine thrift store se rare blue Snaggletooth action figure khareeda."}
+{"id": "P032|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You prefer weighted keys."}
+{"id": "P032|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You prefer weighted keys."}
+{"id": "P032|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको वजन वाली कीज़ पसंद हैं।"}
+{"id": "P032|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको वजन वाली कीज़ पसंद हैं।"}
+{"id": "P032|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "तुम्हें वेटेड कीज पसंद हैं।"}
+{"id": "P032|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "तुम्हें वेटेड कीज पसंद हैं।"}
+{"id": "P032|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You prefer weighted keys on a keyboard instrument."}
+{"id": "P032|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You prefer weighted keys."}
+{"id": "P032|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मुझे वेटेड कीज़ पसंद हैं।"}
+{"id": "P032|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको वेटेड कीज़ पसंद हैं।"}
+{"id": "P032|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मुझे वेटेड कीज़ पसंद हैं।"}
+{"id": "P032|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मुझे वेटेड कीज़ पसंद हैं।"}
+{"id": "P032|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You prefer weighted keys on a keyboard instrument."}
+{"id": "P032|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You prefer weighted keys on a keyboard instrument."}
+{"id": "P032|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मुझे weighted keys पसंद हैं।"}
+{"id": "P032|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको weighted keys पसंद हैं।"}
+{"id": "P032|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apne chhote flat ke liye weighted keys pasand kiye hain."}
+{"id": "P032|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main weighted keys pasand hain."}
+{"id": "P033|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You have always loved sunflowers."}
+{"id": "P033|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You have always loved sunflowers."}
+{"id": "P033|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको हमेशा से रोज और सनफ्लवर पसंद रहे हैं।"}
+{"id": "P033|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको हमेशा से रोज और सनफ्लवर पसंद रहे हैं।"}
+{"id": "P033|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Mujhe hamesha se roses pasand rahe hain."}
+{"id": "P033|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Mujhe hamesha se roses pasand rahe hain."}
+{"id": "P033|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You have always loved roses and sunflowers."}
+{"id": "P033|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You have always loved roses and sunflowers."}
+{"id": "P033|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मुझे हमेशा से सूरजमुखी के फूल पसंद रहे हैं।"}
+{"id": "P033|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको हमेशा से गुलाब और सूरजमुखी पसंद रहे हैं।"}
+{"id": "P033|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मेरी माँ को अपने बग़ीचे में हमेशा गुलाब ही पसंद रहे हैं।"}
+{"id": "P033|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपकी माँ को हमेशा गुलाब पसंद रहे हैं।"}
+{"id": "P033|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You have always loved roses and sunflowers."}
+{"id": "P033|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You have always loved roses and sunflowers."}
+{"id": "P033|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको हमेशा से roses और sunflowers पसंद रहे हैं।"}
+{"id": "P033|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको हमेशा से roses और sunflowers पसंद रहे हैं।"}
+{"id": "P033|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine hamesha se roses pasand kiye hain."}
+{"id": "P033|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Mujhe hamesha se sunflowers pasand rahe hain."}
+{"id": "P035|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You are a big fan of Miles Morales."}
+{"id": "P035|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You are a big fan of Miles Morales."}
+{"id": "P035|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने कहा कि स्पाइडर-मैन के किस किरदार को बहुत पसंद करते हैं, लेकिन आपने इस बारे में कोई विशिष्ट जानकारी नह"}
+{"id": "P035|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने कहा कि स्पाइडर-मैन के किस किरदार को बहुत पसंद करते हैं, लेकिन आपने इस बारे में कोई विशिष्ट जानकारी नह"}
+{"id": "P035|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Mujhe Spider-Man ke characters ke baare mein aapne pahle conversation mein kuch nahi bola hai, isliye main nahi jaanu ki aapke pasand ke character kaunsa hai."}
+{"id": "P035|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Mujhe Spider-Man ke characters ke baare mein aapne pahle conversation mein kuch nahi bola hai, isliye main nahi jaanu ki aapke pasand ke character kaunsa hai."}
+{"id": "P035|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You mentioned being a big fan of Miles Morales."}
+{"id": "P035|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You are a big fan of Miles Morales."}
+{"id": "P035|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने किसी भी किरदार के बारे में बताए बिना अपनी पसंद बताई है।"}
+{"id": "P035|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने कहा कि माइल्स मोरालेस की बड़ी फ़ैन हैं, इसलिए आपको उन्हें बहुत पसंद है।"}
+{"id": "P035|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं आपके बारे में कोई जानकारी नहीं रखता हूँ, इसलिए मैं बता नहीं सकता कि आपको स्पाइडर-मैन का कौन सा च"}
+{"id": "P035|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैं आपके बारे में नहीं जानता कि आपको कौन सा स्पाइडर-मैन कैरेक्टर बहुत पसंद है।"}
+{"id": "P035|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You are a big fan of Miles Morales."}
+{"id": "P035|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You are a big fan of Miles Morales."}
+{"id": "P035|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मील्स मोरेल्स आपके लिए बहुत पसंदीदा किरदार है।"}
+{"id": "P035|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मुझे स्पाइडर-मैन के किसी भी किरदार के बारे में विशेष रूप से बताया गया नहीं है।"}
+{"id": "P035|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine aapke pahle questions me se koi bhi Spider-Man ke characters ke baare mein mention nahi kiya hai, isliye main nahi jaanu kisko aap pasand karte ho."}
+{"id": "P035|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैं आपके पसंदीदा स्पाइडर-मैन चरित्र के बारे में कोई जानकारी नहीं रखता।"}
+{"id": "P036|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite Pilates exercise is the hundred."}
+{"id": "P036|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favourite Pilates exercise is the hundred."}
+{"id": "P036|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपकी पसंदीदा पिलाटेज़ एक्सरसाइज़ \"हंड्रेड\" है।"}
+{"id": "P036|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपकी पसंदीदा पिलाटेज़ एक्सरसाइज़ \"हंड्रेड\" है।"}
+{"id": "P036|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Meri favourite Pilates exercise hai hundred."}
+{"id": "P036|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Meri favourite Pilates exercise hai hundred."}
+{"id": "P036|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite Pilates exercise is 'The Hundred'."}
+{"id": "P036|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favourite Pilates exercise is 'The Hundred'."}
+{"id": "P036|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मेरी पसंदीदा पिलाटेज़ एक्सरसाइज़ 'द हंड्रेड' है।"}
+{"id": "P036|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपकी पसंदीदा पिलाटेज़ एक्सरसाइज़ 'द हंड्रेड' है।"}
+{"id": "P036|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मेरी पसंदीदा पिलाटेज़ एक्सरसाइज़ 'द हंड्रेड' है।"}
+{"id": "P036|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपकी पसंदीदा पिलाटेज़ एक्सरसाइज़ 'द हंड्रेड' है।"}
+{"id": "P036|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite Pilates exercise is the hundred."}
+{"id": "P036|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favorite Pilates exercise is the hundred."}
+{"id": "P036|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपकी पसंदीदा पिलाटेज़ एक्सरसाइज़ द हंड्रेड है।"}
+{"id": "P036|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपकी पसंदीदा पिलाटेज़ एक्सरसाइज़ द हंड्रेड है।"}
+{"id": "P036|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Apni favourite Pilates exercise aapka the hundred hai."}
+{"id": "P036|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Apni favourite Pilates exercise the hundred hai."}
+{"id": "P037|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite yoga instructor on YouTube is Adriene."}
+{"id": "P037|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favourite yoga instructor on YouTube is Adriene."}
+{"id": "P037|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपकी पसंदीदा योगा इंस्ट्रक्टर एड्रियन है।"}
+{"id": "P037|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपकी पसंदीदा योगा इंस्ट्रक्टर एड्रियन है।"}
+{"id": "P037|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "YouTube pe meri favourite yoga instructor Adriene hai."}
+{"id": "P037|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "YouTube pe meri favourite yoga instructor Adriene hai."}
+{"id": "P037|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite yoga instructor on YouTube is Adrien."}
+{"id": "P037|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favourite yoga instructor on YouTube is Adrien."}
+{"id": "P037|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैं आपकी पसंदीदा योगा इंस्ट्रक्टर एड्रीन हैं।"}
+{"id": "P037|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैं आपकी पसंदीदा योगा इंस्ट्रक्टर एड्रीन हैं।"}
+{"id": "P037|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपकी पसंदीदा योगा इंस्ट्रक्टर एड्रीन है।"}
+{"id": "P037|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मेरी पसंदीदा योगा इंस्ट्रक्टर एड्रीन है।"}
+{"id": "P037|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite yoga instructor on YouTube is Adriene."}
+{"id": "P037|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favourite yoga instructor on YouTube is Adriene."}
+{"id": "P037|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपकी पसंदीदा योगा इंस्ट्रक्टर Adriene है।"}
+{"id": "P037|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपकी पसंदीदा योगा इंस्ट्रक्टर Adriene है।"}
+{"id": "P037|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "YouTube pe aapki favourite yoga instructor Adriene hai."}
+{"id": "P037|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aapke favorite YouTube yoga instructor Adriene hai."}
+{"id": "P039|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite synth-pop album is 'Violator' by Depeche Mode."}
+{"id": "P039|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favourite synth-pop album is 'Violator' by Depeche Mode."}
+{"id": "P039|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका पसंदीदा सिंथ-पॉप एल्बम 'Violator' है।"}
+{"id": "P039|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका पसंदीदा सिंथ-पॉप एल्बम 'Violator' है।"}
+{"id": "P039|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Aapka favourite synth-pop album 'Violator' hai."}
+{"id": "P039|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aapka favourite synth-pop album 'Violator' hai."}
+{"id": "P039|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite synth-pop album is \"Violator\" by Depeche Mode."}
+{"id": "P039|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favorite synth-pop album is Depeche Mode's 'Violator'."}
+{"id": "P039|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका पसंदीदा सिंथ-पॉप एल्बम 'Violator' है।"}
+{"id": "P039|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मेरा पसंदीदा सिंथ-पॉप एल्बम डेपेश मोड का 'Violator' है।"}
+{"id": "P039|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "तुम्हारा पसंदीदा सिंथ-पॉप एल्बम 'Violator' है।"}
+{"id": "P039|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपका पसंदीदा सिंथ-पॉप एल्बम 'Violator' है।"}
+{"id": "P039|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite synth-pop album is Depeche Mode's 'Violator'."}
+{"id": "P039|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favorite synth-pop album is Depeche Mode's 'Violator'."}
+{"id": "P039|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका पसंदीदा सिंथ-पॉप एल्बम 'Violator' है।"}
+{"id": "P039|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका पसंदीदा सिंथ-पॉप एल्बम डीपेच मोड का 'वियोलेटर' है।"}
+{"id": "P039|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main kaunsa favourite synth-pop album hai, wo Depeche Mode ka 'Violator' hai."}
+{"id": "P039|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aapka favourite synth-pop album Depeche Mode ka 'Violator' hai."}
+{"id": "E031|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You saw the 3-bedroom bungalow in Oakwood on January 22nd."}
+{"id": "E031|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You saw the 3-bedroom bungalow in Oakwood on January 22nd."}
+{"id": "E031|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 3-बेडरूम बंगला 22 जनवरी को ओकवुड में देखा था।"}
+{"id": "E031|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 3-बेडरूम बंगला 22 जनवरी को ओकवुड में देखा था।"}
+{"id": "E031|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine Oakwood mein 3-bedroom bungalow 22 janvar ko dekha tha."}
+{"id": "E031|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine Oakwood mein 3-bedroom bungalow 22 janvar ko dekha tha."}
+{"id": "E031|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You saw the 3-bedroom bungalow in Oakwood on 22 January."}
+{"id": "E031|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "22 जनवरी को।"}
+{"id": "E031|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 22 जनवरी को ओकवुड में 3-बेडरूम बंगला देखा था।"}
+{"id": "E031|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 22 जनवरी को ओकवुड में 3-बेडरूम बंगला देखा था।"}
+{"id": "E031|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 22 जनवरी को ओकवुड इलाक़े में 3-बेडरूम बंगला देखा था।"}
+{"id": "E031|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 22 जनवरी को ओकवुड में 3-बेडरूम बंगला देखा था।"}
+{"id": "E031|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You saw the 3-bedroom bungalow in Oakwood on 22 January."}
+{"id": "E031|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You saw the 3-bedroom bungalow in Oakwood on 22 January."}
+{"id": "E031|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने ओकवुड में 3-बेडरूम बंगला 22 जनवरी को देखा था।"}
+{"id": "E031|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 22 जनवरी को ओकवुड में 3-बेडरूम बंगला देखा था।"}
+{"id": "E031|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine Oakwood mein 3-bedroom bungalow 22 January ko dekha tha."}
+{"id": "E031|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine Oakwood mein 3-bedroom bungalow 22 January ko dekha tha."}
+{"id": "E033|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You saw the 2-bedroom condo with the community pool on February 15th."}
+{"id": "E033|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You saw the 2-bedroom condo with the community pool on February 15th."}
+{"id": "E033|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 2-बेडरूम कॉन्डो को 15 फरवरी को देखा था।"}
+{"id": "E033|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 2-बेडरूम कॉन्डो को 15 फरवरी को देखा था।"}
+{"id": "E033|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "The Maine community pool wala 2-bedroom condo was seen on February 15th."}
+{"id": "E033|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "The Maine community pool wala 2-bedroom condo was seen on February 15th."}
+{"id": "E033|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You saw the 2-bedroom condo with the community pool on February 15."}
+{"id": "E033|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "On February 15."}
+{"id": "E033|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 15 फ़रवरी को एक 2-बेडरूम कॉन्डो देखा था।"}
+{"id": "E033|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "15 फ़रवरी को।"}
+{"id": "E033|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 15 फ़रवरी को एक 2-बेडरूम कॉन्डो को देखा था।"}
+{"id": "E033|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "15 फ़रवरी को।"}
+{"id": "E033|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You saw the 2-bedroom condo with the community pool on 15 February."}
+{"id": "E033|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You saw the 2-bedroom condo with the community pool on 15 February."}
+{"id": "E033|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "15 फरवरी को।"}
+{"id": "E033|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 फरवरी को 2-बेडरूम कॉन्डो देखा था।"}
+{"id": "E033|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "15 February ko."}
+{"id": "E033|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "15 February ko."}
+{"id": "E038|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your remote shutter release arrived on February 10th."}
+{"id": "E038|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your remote shutter release arrived on February 10th."}
+{"id": "E038|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका रिमोट शटर रिलीज़ 10 फरवरी को आया था।"}
+{"id": "E038|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका रिमोट शटर रिलीज़ 10 फरवरी को आया था।"}
+{"id": "E038|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Tumhare remote shutter release 10 February ko aaya tha."}
+{"id": "E038|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Tumhare remote shutter release 10 February ko aaya tha."}
+{"id": "E038|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your remote shutter release arrived on 10 February."}
+{"id": "E038|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your remote shutter release arrived on 10 February."}
+{"id": "E038|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मेरा रिमोट शटर रिलीज़ 10 फ़रवरी को आया था।"}
+{"id": "E038|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका रिमोट शटर रिलीज़ 10 फ़रवरी को आया था।"}
+{"id": "E038|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपका नया रिमोट शटर रिलीज़ 10 फ़रवरी को आया था।"}
+{"id": "E038|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मेरा रिमोट शटर रिलीज़ 10 फ़रवरी को आया था।"}
+{"id": "E038|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your remote shutter release arrived on 10 February."}
+{"id": "E038|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your remote shutter release arrived on 10 February."}
+{"id": "E038|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका रिमोट शटर रिलीज़ 10 फरवरी को आया था।"}
+{"id": "E038|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका रिमोट शटर रिलीज़ 10 फरवरी को आया था।"}
+{"id": "E038|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Tumhare remote shutter release 10 February ko aaya tha."}
+{"id": "E038|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Tumhare remote shutter release 10 February ko aaya tha."}
+{"id": "E039|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You cleaned and lubricated your road bike chain on March 2nd."}
+{"id": "E039|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You cleaned and lubricated your road bike chain on March 2nd."}
+{"id": "E039|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने अपनी रोड बाइक की चेन 2 मार्च को साफ़ करके तेल लगाया।"}
+{"id": "E039|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने अपनी रोड बाइक की चेन 2 मार्च को साफ़ करके तेल लगाया।"}
+{"id": "E039|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine apni road bike ki chain 2 Maarch ko saaf karke oil lagaya."}
+{"id": "E039|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine apni road bike ki chain 2 Maarch ko saaf karke oil lagaya."}
+{"id": "E039|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You cleaned and lubricated your road bike chain on March 2."}
+{"id": "E039|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You cleaned and lubricated your road bike chain on March 2."}
+{"id": "E039|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "2 मार्च को।"}
+{"id": "E039|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "2 मार्च को।"}
+{"id": "E039|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "2 मार्च को।"}
+{"id": "E039|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "2 मार्च को।"}
+{"id": "E039|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You cleaned and lubricated your road bike chain on 2 March."}
+{"id": "E039|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You cleaned and lubricated your road bike chain on 2 March."}
+{"id": "E039|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "2 मार्च को।"}
+{"id": "E039|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "तुमने 2 मार्च को अपनी रोड बाइक की चेन साफ़ करके तेल लगाया।"}
+{"id": "E039|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "2 March ko."}
+{"id": "E039|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Tumne apni road bike ki chain 2 March ko saaf karke oil lagaya."}
+{"id": "F042|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You found 17 skeins of worsted weight yarn in your stash."}
+{"id": "F042|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You found 17 skeins of worsted weight yarn in your stash."}
+{"id": "F042|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको 17 स्कीन वर्स्टेड वेट ऊन मिलीं।"}
+{"id": "F042|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको 17 स्कीन वर्स्टेड वेट ऊन मिलीं।"}
+{"id": "F042|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "17 skeins of worsted weight yarn have been found in your stash."}
+{"id": "F042|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "17 skeins of worsted weight yarn have been found in your stash."}
+{"id": "F042|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You found 17 skeins of worsted weight yarn in your stash."}
+{"id": "F042|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You found 17 skeins of worsted weight yarn in your stash."}
+{"id": "F042|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको अपने ज़ख़ीरे में 17 लच्छियाँ वर्स्टेड वेट ऊन मिलीं।"}
+{"id": "F042|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको 17 लच्छियाँ मिलीं।"}
+{"id": "F042|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपको 17 लच्छियों का वर्स्टेड वेट ऊन का ज़ख़ीरा मिला है।"}
+{"id": "F042|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "तुम्हारे स्टैच में 17 स्कीन्स वर्स्टेड वेट ऊन मिली।"}
+{"id": "F042|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You found 17 skeins of worsted weight yarn in your stash."}
+{"id": "F042|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You found 17 skeins of worsted weight yarn in your stash."}
+{"id": "F042|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको 17 स्कीन्स की वर्स्टेड वेट ऊन मिली है।"}
+{"id": "F042|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको 17 स्कीन्स वर्स्टेड वेट ऊन मिलीं।"}
+{"id": "F042|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "17 skeins."}
+{"id": "F042|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "17 skeins."}
+{"id": "F045|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your sister Emily lives in Denver."}
+{"id": "F045|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your sister Emily lives in Denver."}
+{"id": "F045|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपकी बहन एमिली डेनवर में रहती है।"}
+{"id": "F045|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपकी बहन एमिली डेनवर में रहती है।"}
+{"id": "F045|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Meri behen Emily Denver rehti hai."}
+{"id": "F045|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Meri behen Emily Denver rehti hai."}
+{"id": "F045|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your sister Emily lives in Denver."}
+{"id": "F045|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your sister Emily lives in Denver."}
+{"id": "F045|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैं डेनवर में रहती है।"}
+{"id": "F045|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मेरी बहन एमिली डेनवर में रहती है।"}
+{"id": "F045|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Emily डेनवर में रहती है।"}
+{"id": "F045|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Emily डेनवर में रहती है।"}
+{"id": "F045|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You mentioned that you are going to Denver to meet your sister Emily, but you did not specify where she lives."}
+{"id": "F045|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You haven't mentioned where your sister Emily lives."}
+{"id": "F045|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "एमिली डेनवर में रहती है।"}
+{"id": "F045|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपकी बहन एमिली डेनवर में रहती है।"}
+{"id": "F045|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Denver mein."}
+{"id": "F045|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Denver mein."}
+{"id": "F049|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You met Sophia at a coffee shop in the city."}
+{"id": "F049|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You met Sophia at a coffee shop in the city."}
+{"id": "F049|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप सोफ़िया को शहर के कॉफी शॉप में मिली थी।"}
+{"id": "F049|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप सोफ़िया को शहर के कॉफी शॉप में मिली थी।"}
+{"id": "F049|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main Sophia ko coffee shop mili thi."}
+{"id": "F049|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main Sophia ko coffee shop mili thi."}
+{"id": "F049|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You met Sophia at a coffee shop in the city."}
+{"id": "F049|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You met Sophia at a coffee shop in the city."}
+{"id": "F049|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप ने बताया कि आप सोफ़िया से शहर के एक कॉफ़ी शॉप में मिली थी।"}
+{"id": "F049|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप ने बताया कि आप सोफ़िया को शहर के एक कॉफ़ी शॉप में मिली थी।"}
+{"id": "F049|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "तुम सोफिया से शहर के एक कॉफ़ी शॉप में मिली थी।"}
+{"id": "F049|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "तुम शहर के एक कॉफ़ी शॉप में सोफिया से मिली थी।"}
+{"id": "F049|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You met Sophia at a coffee shop in the city."}
+{"id": "F049|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You met Sophia in a coffee shop in the city."}
+{"id": "F049|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप एक कॉफी शॉप में मिली थी।"}
+{"id": "F049|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप एक कॉफी शॉप में मिली थी।"}
+{"id": "F049|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main Sophia se sheher ke ek coffee shop mein mili thi."}
+{"id": "F049|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main Sophia se sheher ke ek coffee shop mein mili thi."}
+{"id": "P042|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You prefer to visit Greece in spring."}
+{"id": "P042|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You prefer to visit Greece in spring."}
+{"id": "P042|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको ग्रीस जाना पसंद है जब मौसम में शीतल और शुष्क होता है।"}
+{"id": "P042|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको ग्रीस जाना पसंद है जब मौसम में शीतल और शुष्क होता है।"}
+{"id": "P042|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Aap Greece jaane ke liye spring mein pasand karte ho."}
+{"id": "P042|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aap Greece jaane ke liye spring mein pasand karte ho."}
+{"id": "P042|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You prefer to visit Greece in spring."}
+{"id": "P042|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You prefer to visit Greece in spring."}
+{"id": "P042|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको वसंत मौसम में ग्रीस जाना पसंद है।"}
+{"id": "P042|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको वसंत मौसम में ग्रीस जाना पसंद है।"}
+{"id": "P042|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपको वसंत में ग्रीस जाना पसंद है।"}
+{"id": "P042|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपको वसंत में ग्रीस जाना पसंद है।"}
+{"id": "P042|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You prefer to visit Greece in spring."}
+{"id": "P042|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You prefer to visit Greece in spring."}
+{"id": "P042|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "ग्रीस जाना स्प्रिंग में पसंद है।"}
+{"id": "P042|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको ग्रीस जाना पसंद है उस मौसम में जब मौसम हल्का होता है और लोगों की संख्या कम होती है।"}
+{"id": "P042|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Mujhe spring mein Greece jaana pasand hai."}
+{"id": "P042|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Mujhe spring mein Greece jaana pasand hai."}
+{"id": "P045|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favorite type of art exhibit is Impressionist art."}
+{"id": "P045|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favorite type of art exhibit is Impressionist art."}
+{"id": "P045|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको इम्प्रेशनिस्ट कला प्रदर्शनी सबसे ज़्यादा पसंद है।"}
+{"id": "P045|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको इम्प्रेशनिस्ट कला प्रदर्शनी सबसे ज़्यादा पसंद है।"}
+{"id": "P045|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Tumhe Impressionist art ki exhibition sabse zyaada pasand hai."}
+{"id": "P045|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Tumhe Impressionist art ki exhibition sabse zyaada pasand hai."}
+{"id": "P045|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You like impressionist art exhibits the most."}
+{"id": "P045|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You like Impressionist art exhibits the most."}
+{"id": "P045|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको इम्प्रेशनिस्ट कला की प्रदर्शनियाँ सबसे ज़्यादा पसंद हैं।"}
+{"id": "P045|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको इम्प्रेशनिस्ट कला की प्रदर्शनी सबसे ज़्यादा पसंद है।"}
+{"id": "P045|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपको इम्प्रेशनिस्ट कला की प्रदर्शनी सबसे अधिक पसंद है।"}
+{"id": "P045|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपको इम्प्रेशनिस्ट कला की प्रदर्शनी सबसे ज्यादा पसंद है।"}
+{"id": "P045|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You like Impressionist art exhibits the most."}
+{"id": "P045|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You like Impressionist art exhibits the most."}
+{"id": "P045|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको इम्प्रेशनिस्ट कला की प्रदर्शनी सबसे ज्यादा पसंद है।"}
+{"id": "P045|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको इम्प्रेशनिस्ट कला की प्रदर्शनी सबसे ज्यादा पसंद है।"}
+{"id": "P045|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Mujhe Impressionist art ki exhibition sabse zyaada pasand hai."}
+{"id": "P045|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Mujhe Impressionist art ki exhibition sabse zyaada pasand hai."}
+{"id": "P047|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You like Dan Harris, as he is mentioned as one of your favourite authors on meditation."}
+{"id": "P047|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You like Dan Harris, as he is mentioned as one of your favourite authors on meditation."}
+{"id": "P047|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपको ध्यान पर लिखने वाला पसंदीदा लेखक डैन हैरिस है।"}
+{"id": "P047|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपको ध्यान पर लिखने वाला पसंदीदा लेखक डैन हैरिस है।"}
+{"id": "P047|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Meditation pe likhne wala mera pasand author Dan Harris hai."}
+{"id": "P047|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Meditation pe likhne wala mera pasand author Dan Harris hai."}
+{"id": "P047|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "डैन हैरिस आपके पसंदीदा ध्यान पर लिखने वाले लेखक हैं।"}
+{"id": "P047|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You like Dan Harris, as he is one of your favorite writers on meditation."}
+{"id": "P047|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "डैन हैरिस आपके पसंदीदा ध्यान पर लिखने वाले लेखकों में से एक हैं।"}
+{"id": "P047|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "डैन हैरिस आपके पसंदीदा लेखक हैं।"}
+{"id": "P047|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मेरे पसंदीदा ध्यान पर लिखने वाले लेखकों में डैन हैरिस शामिल हैं।"}
+{"id": "P047|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "डैन हैरिस आपके लिए ध्यान पर लिखने वाले पसंदीदा लेखकों में से एक हैं।"}
+{"id": "P047|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You like Dan Harris, an author on meditation."}
+{"id": "P047|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You like Dan Harris, whose book '10% Happier' explains mindfulness in a relatable way."}
+{"id": "P047|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मेरे पसंदीदा ध्यान पर लिखने वाले लेखक में डैन हैरिस शामिल हैं।"}
+{"id": "P047|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "ध्यान पर लिखने वाला मेरे पसंदीदा लेखक डैन हैरिस हैं।"}
+{"id": "P047|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Meditation pe likhne wala apne favourite authors mein se ek Dan Harris hain."}
+{"id": "P047|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Meditation pe likhne wala apne favourite authors mein se ek Dan Harris hain."}
+{"id": "P050|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite thing to do in your craft room is quilting."}
+{"id": "P050|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favourite thing to do in your craft room is quilting."}
+{"id": "P050|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका क्राफ़्ट रूम में सबसे पसंदीदा काम क्विलिंग है।"}
+{"id": "P050|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका क्राफ़्ट रूम में सबसे पसंदीदा काम क्विलिंग है।"}
+{"id": "P050|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Aapke craft room mein sabse favourite kaam quilting hai."}
+{"id": "P050|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aapke craft room mein sabse favourite kaam quilting hai."}
+{"id": "P050|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "Quilting is your favourite thing to do in your craft room."}
+{"id": "P050|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favourite thing to do in your craft room is quilting."}
+{"id": "P050|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मेरा सबसे पसंदीदा काम क्विल्टिंग है।"}
+{"id": "P050|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मुझे लगता है क्राफ़्ट रूम में आपका सबसे पसंदीदा काम क्विल्टिंग है।"}
+{"id": "P050|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मेरे क्राफ़्ट रूम में मेरा सबसे पसंदीदा काम क्विल्टिंग है।"}
+{"id": "P050|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपके क्राफ़्ट रूम में आपका सबसे पसंदीदा काम क्विल्टिंग है।"}
+{"id": "P050|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "Your favourite thing to do in your craft room is quilting."}
+{"id": "P050|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "Your favourite thing to do in your craft room is quilting."}
+{"id": "P050|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपका सबसे पसंदीदा काम quilting है।"}
+{"id": "P050|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपका सबसे पसंदीदा काम क्विलिंग है।"}
+{"id": "P050|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Mujhe lagta hai mere craft room mein mera sabse favourite kaam quilting hai."}
+{"id": "P050|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Mera sabse favourite kaam quilting hai."}
+{"id": "E042|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You rode Space Mountain: Ghost Galaxy at Disneyland on September 24th."}
+{"id": "E042|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You rode Space Mountain: Ghost Galaxy at Disneyland on September 24th."}
+{"id": "E042|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 24 सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की।"}
+{"id": "E042|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 24 सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की।"}
+{"id": "E042|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine Disneyland mein Space Mountain: Ghost Galaxy ki ride 24 September ko ki gayi thi."}
+{"id": "E042|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine Disneyland mein Space Mountain: Ghost Galaxy ki ride 24 September ko ki gayi thi."}
+{"id": "E042|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You rode Space Mountain: Ghost Galaxy at Disneyland on September 24th."}
+{"id": "E042|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You rode Space Mountain: Ghost Galaxy at Disneyland on September 24th."}
+{"id": "E042|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 24 सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की।"}
+{"id": "E042|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 24 सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की।"}
+{"id": "E042|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 24 सितंबर को Disneyland में Space Mountain: Ghost Galaxy की तीन बार सवारी की।"}
+{"id": "E042|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine Disneyland mein Space Mountain: Ghost Galaxy ki ride 24 September ko ki thi."}
+{"id": "E042|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You rode Space Mountain: Ghost Galaxy at Disneyland on 24 September."}
+{"id": "E042|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You rode Space Mountain: Ghost Galaxy at Disneyland on 24 September."}
+{"id": "E042|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी 24 सितंबर को Mickey's Halloween Party के दौरान की।"}
+{"id": "E042|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 24 सितंबर को डिज़्नीलैंड में Space Mountain: Ghost Galaxy की सवारी की।"}
+{"id": "E042|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine Disneyland mein Space Mountain: Ghost Galaxy ki ride 24 September ko ki."}
+{"id": "E042|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine Disneyland mein Space Mountain: Ghost Galaxy ki ride 24 September ko ki."}
+{"id": "E044|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You rode the Revenge of the Mummy rollercoaster at Universal Studios Hollywood on October 15th."}
+{"id": "E044|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You rode the Revenge of the Mummy rollercoaster at Universal Studios Hollywood on October 15th."}
+{"id": "E044|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आपने Universal Studios Hollywood में Revenge of the Mummy की सवारी 15 अक्टूबर को की।"}
+{"id": "E044|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने Universal Studios Hollywood में Revenge of the Mummy की सवारी 15 अक्टूबर को की।"}
+{"id": "E044|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine Universal Studios Hollywood mein Revenge of the Mummy ki ride 15 October ko ki thi."}
+{"id": "E044|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine Universal Studios Hollywood mein Revenge of the Mummy ki ride 15 October ko ki thi."}
+{"id": "E044|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You rode Revenge of the Mummy at Universal Studios Hollywood on October 15."}
+{"id": "E044|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You rode the Revenge of the Mummy at Universal Studios Hollywood on October 15th."}
+{"id": "E044|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने 15 अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy की सवारी की।"}
+{"id": "E044|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "मैंने 15 अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy की सवारी की।"}
+{"id": "E044|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आपने 15 अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy रोलरकोस्टर की लगातार तीन बार सवारी की।"}
+{"id": "E044|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 अक्टूबर को Revenge of the Mummy रोलरकोस्टर की लगातार तीन बार सवारी की।"}
+{"id": "E044|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You rode Revenge of the Mummy at Universal Studios Hollywood on 15 October."}
+{"id": "E044|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You rode the Revenge of the Mummy at Universal Studios Hollywood on 15 October."}
+{"id": "E044|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैंने Universal Studios Hollywood में Revenge of the Mummy की सवारी 15 अक्टूबर को की।"}
+{"id": "E044|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आपने 15 अक्टूबर को Universal Studios Hollywood में Revenge of the Mummy की सवारी की।"}
+{"id": "E044|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Maine Universal Studios Hollywood mein Revenge of the Mummy ki ride 15 October ko ki."}
+{"id": "E044|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Maine Universal Studios Hollywood mein Revenge of the Mummy ki ride 15 October ko ki."}
+{"id": "E045|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the one-day photography workshop on February 22nd."}
+{"id": "E045|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the one-day photography workshop on February 22nd."}
+{"id": "E045|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप एक दिन की फ़ोटोग्राफ़ी वर्कशॉप 22 फरवरी को गए थे।"}
+{"id": "E045|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप एक दिन की फ़ोटोग्राफ़ी वर्कशॉप 22 फरवरी को गए थे।"}
+{"id": "E045|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main ek din ki photography workshop mein 22 February ko gayi thi."}
+{"id": "E045|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main ek din ki photography workshop mein 22 February ko gayi thi."}
+{"id": "E045|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the one-day photography workshop on February 22nd."}
+{"id": "E045|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the one-day photography workshop on February 22."}
+{"id": "E045|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप 22 फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।"}
+{"id": "E045|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 22 फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।"}
+{"id": "E045|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "मैं 22 फ़रवरी को एक स्थानीय स्टूडियो में एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।"}
+{"id": "E045|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "मैं 22 फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।"}
+{"id": "E045|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the one-day photography workshop on 22 February."}
+{"id": "E045|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the one-day photography workshop on 22 February."}
+{"id": "E045|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "मैं 22 फ़रवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।"}
+{"id": "E045|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 22 फरवरी को एक दिन की फ़ोटोग्राफ़ी वर्कशॉप में गई थी।"}
+{"id": "E045|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main 22 February ko ek din ki photography workshop mein gayi thi."}
+{"id": "E045|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main 22 February ko ek din ki photography workshop mein gayi thi."}
+{"id": "E046|en|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the half-day mindfulness workshop on December 12th."}
+{"id": "E046|en|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the half-day mindfulness workshop on December 12th."}
+{"id": "E046|en|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप आधे दिन की माइंडफ़ुलनेस वर्कशॉप 12 दिसंबर को गए थे।"}
+{"id": "E046|en|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप आधे दिन की माइंडफ़ुलनेस वर्कशॉप 12 दिसंबर को गए थे।"}
+{"id": "E046|en|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Aapne December 12th ko ek aadhe din ki mindfulness workshop mein gaya tha."}
+{"id": "E046|en|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Aapne December 12th ko ek aadhe din ki mindfulness workshop mein gaya tha."}
+{"id": "E046|hi|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the half-day mindfulness workshop on 12 December."}
+{"id": "E046|hi|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the half-day mindfulness workshop on December 12th."}
+{"id": "E046|hi|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप 12 दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E046|hi|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 12 दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E046|hi|hg|q1|RM-S1", "model": "qwen3-8b", "response": "आप 12 दिसंबर को अपने घर के पास एक स्टूडियो में आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E046|hi|hg|q1|RM-S3", "model": "qwen3-8b", "response": "तुम 12 दिसंबर को अपने घर के पास एक स्टूडियो में आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E046|hg|en|q1|RM-S1", "model": "qwen3-8b", "response": "You attended the half-day mindfulness workshop on 12 December."}
+{"id": "E046|hg|en|q1|RM-S3", "model": "qwen3-8b", "response": "You attended the half-day mindfulness workshop on 12 December."}
+{"id": "E046|hg|hi|q1|RM-S1", "model": "qwen3-8b", "response": "आप 12 दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E046|hg|hi|q1|RM-S3", "model": "qwen3-8b", "response": "आप 12 दिसंबर को आधे दिन की माइंडफ़ुलनेस वर्कशॉप में गए थे।"}
+{"id": "E046|hg|hg|q1|RM-S1", "model": "qwen3-8b", "response": "Main 12 December ko aadhe din ki mindfulness workshop mein gaya tha."}
+{"id": "E046|hg|hg|q1|RM-S3", "model": "qwen3-8b", "response": "Main 12 December ko aadhe din ki mindfulness workshop mein gaya tha."}

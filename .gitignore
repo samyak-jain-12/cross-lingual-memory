@@ -1,0 +1,10 @@
+# Source datasets: download from the links in README (LongMemEval MIT, LoCoMo CC BY-NC); too large for GitHub
+data/raw/
+# Zips duplicate the extracted results/ and report/ folders
+*.zip
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/

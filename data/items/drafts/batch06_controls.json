@@ -1,0 +1,89 @@
+{"batch": "batch06_controls", "drafted_by": "Claude Opus 5.5 (claude-opus-5-5), 19 Nov 2026",
+ "status": "DRAFT - LLM-drafted; human verification decision pending (ENDSEM_PLAN.md §2)",
+ "items": [
+{"item_id": "F019-ABS", "base_item": "F019", "memory_type": "fact", "is_answerable": false, "user_gender": "female",
+ "text": {
+  "en": {"q1": "How long did it take me to assemble my IKEA desk?", "q2": "How many hours did putting together my IKEA desk take?"},
+  "hi": {"q1": "मेरी IKEA डेस्क जोड़ने में मुझे कितना समय लगा?", "q2": "IKEA डेस्क असेंबल करने में मुझे कितने घंटे लगे?"},
+  "hg": {"q1": "Meri IKEA desk assemble karne mein mujhe kitna time laga?", "q2": "IKEA desk jodne mein mujhe kitne ghante lage?"}},
+ "gold": {"answer_en": "NO_ANSWER (only the bookshelf's assembly time, 4 hours, is stated; a desk is never mentioned)", "slots": []}},
+
+{"item_id": "F028-ABS", "base_item": "F028", "memory_type": "fact", "is_answerable": false, "user_gender": "male",
+ "text": {
+  "en": {"q1": "How much storage does my laptop have?", "q2": "What is the size of my work laptop's hard drive or SSD?"},
+  "hi": {"q1": "मेरे लैपटॉप में कितनी स्टोरेज है?", "q2": "मेरे काम वाले लैपटॉप की हार्ड ड्राइव या SSD कितनी बड़ी है?"},
+  "hg": {"q1": "Mere laptop mein kitni storage hai?", "q2": "Mere kaam wale laptop ki hard drive ya SSD kitni badi hai?"}},
+ "gold": {"answer_en": "NO_ANSWER (only the RAM, 16GB, is stated; storage is never mentioned)", "slots": []}},
+
+{"item_id": "F030-ABS", "base_item": "F030", "memory_type": "fact", "is_answerable": false, "user_gender": "male",
+ "text": {
+  "en": {"q1": "Where did I do my Master's degree?", "q2": "From which university did I get my Master's?"},
+  "hi": {"q1": "मैंने अपनी मास्टर्स डिग्री कहाँ से की?", "q2": "मुझे मास्टर्स की डिग्री किस यूनिवर्सिटी से मिली?"},
+  "hg": {"q1": "Maine apni Master's degree kahan se ki?", "q2": "Mujhe Master's ki degree kis university se mili?"}},
+ "gold": {"answer_en": "NO_ANSWER (the user has not done a Master's; Stanford is only being considered, so 'Stanford' is a wrong answer)", "slots": []}},
+
+{"item_id": "F045-ABS", "base_item": "F045", "memory_type": "fact", "is_answerable": false, "user_gender": "female",
+ "text": {
+  "en": {"q1": "Which city does my brother live in?", "q2": "Where is my brother based?"},
+  "hi": {"q1": "मेरा भाई किस शहर में रहता है?", "q2": "मेरा भाई कहाँ रहता है?"},
+  "hg": {"q1": "Mera bhai kis city mein rehta hai?", "q2": "Mera bhai kahan rehta hai?"}},
+ "gold": {"answer_en": "NO_ANSWER (only sister Emily's city, Denver, and a cousin's city, Austin, are stated; no brother is mentioned)", "slots": []}},
+
+{"item_id": "P019-ABS", "base_item": "P019", "memory_type": "preference", "is_answerable": false, "user_gender": "female",
+ "text": {
+  "en": {"q1": "Which yoga pose do I like least?", "q2": "What is my least favourite pose in yoga?"},
+  "hi": {"q1": "मुझे कौन-सा योग आसन सबसे कम पसंद है?", "q2": "योग में मेरा सबसे नापसंद आसन कौन-सा है?"},
+  "hg": {"q1": "Mujhe kaunsa yoga pose sabse kam pasand hai?", "q2": "Yoga mein mera sabse naapasand pose kaunsa hai?"}},
+ "gold": {"answer_en": "NO_ANSWER (only the favourite pose, downward-facing dog, is stated)", "slots": []}},
+
+{"item_id": "P022-ABS", "base_item": "P022", "memory_type": "preference", "is_answerable": false, "user_gender": "male",
+ "text": {
+  "en": {"q1": "What drink do I always order at my favourite restaurant?", "q2": "At my favourite restaurant, which drink do I usually get?"},
+  "hi": {"q1": "अपने पसंदीदा रेस्टोरेंट में मैं हमेशा कौन-सा ड्रिंक मँगवाता हूँ?", "q2": "अपने पसंदीदा रेस्टोरेंट में मैं आमतौर पर कौन-सा पेय लेता हूँ?"},
+  "hg": {"q1": "Apne favourite restaurant mein main hamesha kaunsa drink order karta hoon?", "q2": "Apne favourite restaurant mein main usually kaunsa drink leta hoon?"}},
+ "gold": {"answer_en": "NO_ANSWER (only the restaurant, Ichiran, is stated; no drink is mentioned)", "slots": []}},
+
+{"item_id": "P026-ABS", "base_item": "P026", "memory_type": "preference", "is_answerable": false, "user_gender": "male",
+ "text": {
+  "en": {"q1": "Which cricket team do I support?", "q2": "What is my favourite cricket team?"},
+  "hi": {"q1": "मैं किस क्रिकेट टीम को सपोर्ट करता हूँ?", "q2": "मेरी पसंदीदा क्रिकेट टीम कौन-सी है?"},
+  "hg": {"q1": "Main kis cricket team ko support karta hoon?", "q2": "Meri favourite cricket team kaunsi hai?"}},
+ "gold": {"answer_en": "NO_ANSWER (only the football team, Manchester United, is stated)", "slots": []}},
+
+{"item_id": "P039-ABS", "base_item": "P039", "memory_type": "preference", "is_answerable": false, "user_gender": "female",
+ "text": {
+  "en": {"q1": "Which Depeche Mode song is my favourite?", "q2": "What is my favourite song by Depeche Mode?"},
+  "hi": {"q1": "डेपेश मोड का कौन-सा गाना मेरा पसंदीदा है?", "q2": "डेपेश मोड का मेरा पसंदीदा गाना कौन-सा है?"},
+  "hg": {"q1": "Depeche Mode ka kaunsa song mera favourite hai?", "q2": "Depeche Mode ka mera favourite song kaunsa hai?"}},
+ "gold": {"answer_en": "NO_ANSWER (only the favourite album, Violator, is stated; no song is mentioned)", "slots": []}},
+
+{"item_id": "E021-ABS", "base_item": "E021", "memory_type": "event", "is_answerable": false, "user_gender": "female",
+ "text": {
+  "en": {"q1": "When did I run my first half marathon?", "q2": "On what date did I complete my first half marathon?"},
+  "hi": {"q1": "मैंने अपनी पहली हाफ़ मैराथन कब दौड़ी?", "q2": "मैंने अपनी पहली हाफ़ मैराथन किस तारीख़ को पूरी की?"},
+  "hg": {"q1": "Maine apni pehli half marathon kab daudi?", "q2": "Maine apni pehli half marathon kis date ko complete ki?"}},
+ "gold": {"answer_en": "NO_ANSWER (only the date the running shoes were bought, January 10, is stated)", "slots": []}},
+
+{"item_id": "E032-ABS", "base_item": "E032", "memory_type": "event", "is_answerable": false, "user_gender": "male",
+ "text": {
+  "en": {"q1": "When did I move into my new townhouse?", "q2": "On what date did I move into the Brookside townhouse?"},
+  "hi": {"q1": "मैं अपने नए टाउनहाउस में कब शिफ़्ट हुआ?", "q2": "मैं ब्रुकसाइड वाले टाउनहाउस में किस तारीख़ को रहने आया?"},
+  "hg": {"q1": "Main apne naye townhouse mein kab shift hua?", "q2": "Main Brookside wale townhouse mein kis date ko rehne aaya?"}},
+ "gold": {"answer_en": "NO_ANSWER (only the offer date, February 25, is stated; the sale has not even closed)", "slots": []}},
+
+{"item_id": "E040-ABS", "base_item": "E040", "memory_type": "event", "is_answerable": false, "user_gender": "male",
+ "text": {
+  "en": {"q1": "When did I buy my road bike?", "q2": "On what date did I purchase my road bike?"},
+  "hi": {"q1": "मैंने अपनी रोड बाइक कब ख़रीदी?", "q2": "मैंने अपनी रोड बाइक किस तारीख़ को ख़रीदी थी?"},
+  "hg": {"q1": "Maine apni road bike kab khareedi?", "q2": "Maine apni road bike kis date ko khareedi thi?"}},
+ "gold": {"answer_en": "NO_ANSWER (only the service date at Pedal Power, March 10, is stated)", "slots": []}},
+
+{"item_id": "E046-ABS", "base_item": "E046", "memory_type": "event", "is_answerable": false, "user_gender": "male",
+ "text": {
+  "en": {"q1": "When did I start going to yoga classes?", "q2": "On what date did I begin attending yoga classes?"},
+  "hi": {"q1": "मैंने योगा क्लास जाना कब शुरू किया?", "q2": "मैंने किस तारीख़ से योगा क्लास में जाना शुरू किया?"},
+  "hg": {"q1": "Maine yoga classes jaana kab shuru kiya?", "q2": "Maine kis date se yoga classes mein jaana shuru kiya?"}},
+ "gold": {"answer_en": "NO_ANSWER (only the mindfulness workshop date, December 12, is stated; yoga classes are never mentioned)", "slots": []}}
+ ],
+ "changelog": [{"date": "2026-11-19", "by": "Claude", "changes": ["P022-ABS asks for a drink instead of a dish: the base item names a ramen shop, so 'ramen' would be a reasonable inference, not a hallucination"]}]
+}

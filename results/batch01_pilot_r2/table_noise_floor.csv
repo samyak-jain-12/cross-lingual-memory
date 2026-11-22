@@ -1,0 +1,15 @@
+﻿model,setup,pairs,paraphrase_disagreement
+llama3.1-8b,FC,90,0.2444
+llama3.1-8b,RM-S1,90,0.1111
+llama3.1-8b,RM-S2,90,0.0667
+llama3.1-8b,RM-S3,90,0.0667
+llama3.1-8b,OR-S1,90,0.0444
+llama3.1-8b,OR-S2,90,0.0444
+llama3.1-8b,OR-S3,90,0.0556
+qwen3-8b,FC,90,0.1778
+qwen3-8b,RM-S1,90,0.1556
+qwen3-8b,RM-S2,90,0.1333
+qwen3-8b,RM-S3,90,0.1333
+qwen3-8b,OR-S1,90,0.1
+qwen3-8b,OR-S2,90,0.0333
+qwen3-8b,OR-S3,90,0.0444

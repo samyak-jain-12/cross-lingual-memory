@@ -1,0 +1,7 @@
+tokenizer,store_lang,prompts,mean_tokens,max_tokens,fits_context
+qwen3-8b,en,495,5209,5573,True
+qwen3-8b,hg,495,7371,8180,True
+qwen3-8b,hi,495,21617,23103,True
+llama3.1-8b,en,495,5194,5542,True
+llama3.1-8b,hg,495,7322,8108,True
+llama3.1-8b,hi,495,11978,12801,True

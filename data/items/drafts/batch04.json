@@ -1,0 +1,1579 @@
+{
+ "batch": "batch04",
+ "drafted_by": "Claude Opus 5.5 (claude-opus-5-5), 19 Nov 2026",
+ "status": "DRAFT - LLM-drafted; human verification decision pending (ENDSEM_PLAN.md §2)",
+ "items": [
+  {
+   "item_id": "F031",
+   "cand_id": "FC138",
+   "memory_type": "fact",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "It took me and my friends around 5 hours to move everything into the new apartment, but it was worth it to be closer to work. Now I want to find a good café in the new area. How should I go about it?",
+     "assistant_reply": "Walk the nearby streets on a weekend morning, check recent map reviews with photos, and ask the baristas at the first café you like where else they go. Locals usually know the hidden spots.",
+     "followup_turn": "What should I look for if I want to work from a café?",
+     "followup_reply": "Reliable Wi-Fi, a few power sockets, comfortable tables and a calm atmosphere matter most. Visit at the time you plan to work to see how crowded it gets.",
+     "q1": "How long did it take to move into the new apartment?",
+     "q2": "How many hours did my move to the new apartment take?",
+     "distractor_sentence": "My cousin's move took a whole 9 hours because the lift was broken."
+    },
+    "hi": {
+     "memory_turn": "मुझे और मेरे दोस्तों को नए अपार्टमेंट में सारा सामान शिफ़्ट करने में लगभग 5 घंटे लगे, पर काम के पास रहने के लिए यह मेहनत ठीक थी। अब मैं नए इलाक़े में कोई अच्छा कैफ़े ढूँढना चाहती हूँ। कैसे ढूँढूँ?",
+     "assistant_reply": "वीकेंड की सुबह आसपास की गलियों में घूमें, मैप पर फ़ोटो वाले ताज़ा रिव्यू देखें, और जो पहला कैफ़े पसंद आए वहाँ के बरिस्ता से पूछें कि वे और कहाँ जाते हैं। स्थानीय लोग अक्सर छुपी जगहें जानते हैं।",
+     "followup_turn": "अगर कैफ़े से काम करना हो तो किन चीज़ों का ध्यान रखूँ?",
+     "followup_reply": "भरोसेमंद Wi-Fi, कुछ पावर सॉकेट, आरामदायक टेबल और शांत माहौल सबसे ज़रूरी हैं। जिस समय काम करना हो उसी समय जाकर देखें कि कितनी भीड़ होती है।",
+     "q1": "नए अपार्टमेंट में शिफ़्ट होने में कितना समय लगा?",
+     "q2": "नए अपार्टमेंट में मेरी शिफ़्टिंग में कितने घंटे लगे?",
+     "distractor_sentence": "मेरे कज़िन की शिफ़्टिंग में पूरे 9 घंटे लगे क्योंकि लिफ़्ट ख़राब थी।"
+    },
+    "hg": {
+     "memory_turn": "Mujhe aur mere doston ko naye apartment mein saara saamaan shift karne mein lagbhag 5 ghante lage, par kaam ke paas rehne ke liye yeh mehnat theek thi. Ab main naye area mein koi accha cafe dhoondhna chahti hoon. Kaise dhoondhun?",
+     "assistant_reply": "Weekend ki subah aaspaas ki galiyon mein ghoomein, map pe photos wale recent reviews dekhein, aur jo pehla cafe pasand aaye wahan ke baristas se poochhein ki woh aur kahan jaate hain. Local log aksar hidden spots jaante hain.",
+     "followup_turn": "Agar cafe se kaam karna ho toh kin cheezon ka dhyaan rakhun?",
+     "followup_reply": "Reliable Wi-Fi, kuch power sockets, comfortable tables aur shaant mahaul sabse zaroori hain. Jis time kaam karna ho usi time jaake dekhein ki kitni bheed hoti hai.",
+     "q1": "Naye apartment mein shift hone mein kitna time laga?",
+     "q2": "Naye apartment mein meri shifting mein kitne ghante lage?",
+     "distractor_sentence": "Mere cousin ki shifting mein poore 9 ghante lage kyunki lift kharab thi."
+    }
+   },
+   "gold": {
+    "answer_en": "about 5 hours",
+    "slots": [
+     {
+      "name": "duration",
+      "aliases": [
+       "5 hours",
+       "five hours",
+       "5 hrs",
+       "5 घंटे",
+       "पाँच घंटे",
+       "5 ghante",
+       "paanch ghante"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "9 hours",
+     "9 घंटे",
+     "9 ghante"
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "F032",
+   "cand_id": "FC143",
+   "memory_type": "fact",
+   "user_gender": "male",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I've been building a better evening routine and now stop checking work emails and messages by 7 pm to separate work from my personal life. It really helps me relax. Can you suggest a calming book to read at night?",
+     "assistant_reply": "'The Midnight Library' by Matt Haig is gentle and thoughtful, and 'A Gentleman in Moscow' is warm and slow-paced. For non-fiction, 'Wintering' by Katherine May is very soothing.",
+     "followup_turn": "How long should I read before bed?",
+     "followup_reply": "Twenty to thirty minutes is enough for most people to wind down. Use a warm, dim lamp rather than a bright screen so it's easier to fall asleep afterwards.",
+     "q1": "What time do I stop checking work emails and messages?",
+     "q2": "By what time in the evening do I stop looking at work messages?",
+     "q3": "My colleague wants to message me tonight about a project. After what time should she assume I won't see it until tomorrow?"
+    },
+    "hi": {
+     "memory_turn": "मैं शाम का एक बेहतर रूटीन बना रहा हूँ और अब काम और निजी ज़िंदगी को अलग रखने के लिए शाम 7 बजे तक काम के ईमेल और मैसेज देखना बंद कर देता हूँ। इससे मुझे सच में सुकून मिलता है। क्या रात को पढ़ने के लिए कोई शांत किताब बता सकते हैं?",
+     "assistant_reply": "मैट हेग की 'The Midnight Library' कोमल और विचारशील है, और 'A Gentleman in Moscow' गर्मजोशी भरी और धीमी गति की है। नॉन-फ़िक्शन में कैथरीन मे की 'Wintering' बहुत सुकून देती है।",
+     "followup_turn": "सोने से पहले कितनी देर पढ़ना चाहिए?",
+     "followup_reply": "ज़्यादातर लोगों के लिए बीस-तीस मिनट काफ़ी हैं। तेज़ स्क्रीन की जगह हल्की, गर्म रोशनी वाला लैंप इस्तेमाल करें ताकि बाद में नींद आसानी से आए।",
+     "q1": "मैं काम के ईमेल और मैसेज देखना किस समय बंद करता हूँ?",
+     "q2": "शाम को किस समय तक मैं काम के मैसेज देखना बंद कर देता हूँ?",
+     "q3": "मेरी एक साथी आज रात किसी प्रोजेक्ट के बारे में मुझे मैसेज करना चाहती है। किस समय के बाद उसे मान लेना चाहिए कि मैं वह कल ही देखूँगा?"
+    },
+    "hg": {
+     "memory_turn": "Main shaam ka ek better routine bana raha hoon aur ab kaam aur personal life ko alag rakhne ke liye shaam 7 baje tak work emails aur messages dekhna band kar deta hoon. Isse mujhe sach mein sukoon milta hai. Kya raat ko padhne ke liye koi calming book bata sakte hain?",
+     "assistant_reply": "Matt Haig ki 'The Midnight Library' gentle aur thoughtful hai, aur 'A Gentleman in Moscow' warm aur slow-paced hai. Non-fiction mein Katherine May ki 'Wintering' bahut soothing hai.",
+     "followup_turn": "Sone se pehle kitni der padhna chahiye?",
+     "followup_reply": "Zyaadatar logon ke liye bees-tees minute kaafi hain. Bright screen ki jagah halki, warm roshni wala lamp use karein taaki baad mein neend aasani se aaye.",
+     "q1": "Main work emails aur messages dekhna kis time band karta hoon?",
+     "q2": "Shaam ko kis time tak main kaam ke messages dekhna band kar deta hoon?",
+     "q3": "Meri ek colleague aaj raat kisi project ke baare mein mujhe message karna chahti hai. Kis time ke baad use maan lena chahiye ki main woh kal hi dekhunga?"
+    }
+   },
+   "gold": {
+    "answer_en": "7 pm",
+    "slots": [
+     {
+      "name": "time",
+      "aliases": [
+       "7 pm",
+       "7pm",
+       "7 p.m.",
+       "7:00",
+       "7 बजे",
+       "7 baje",
+       "saat baje",
+       "seven"
+      ]
+     }
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "F033",
+   "cand_id": "FC145",
+   "memory_type": "fact",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I've been collecting vintage cameras for three months now, and I've already built a pretty impressive collection. Any advice on keeping them organised and easy to reach for cleaning?",
+     "assistant_reply": "Use a glass-front cabinet away from direct sunlight, keep silica gel packs inside to control humidity, and label each shelf by era or brand. A simple spreadsheet helps you track condition and cleaning dates.",
+     "followup_turn": "How do I stop fungus from growing on the lenses?",
+     "followup_reply": "Keep humidity between about 40 and 50 percent, store lenses with caps off now and then so air moves, and use them regularly, since light and airflow slow fungus growth.",
+     "q1": "How long have I been collecting vintage cameras?",
+     "q2": "For how much time have I been building my vintage camera collection?",
+     "distractor_sentence": "My uncle has been collecting old radios for 20 years."
+    },
+    "hi": {
+     "memory_turn": "मैं तीन महीने से पुराने विंटेज कैमरे इकट्ठा कर रही हूँ, और अभी से मेरे पास अच्छा-ख़ासा कलेक्शन बन गया है। इन्हें व्यवस्थित रखने और सफ़ाई के लिए आसानी से निकालने की कोई सलाह?",
+     "assistant_reply": "धूप से दूर शीशे वाली अलमारी इस्तेमाल करें, नमी कम रखने के लिए अंदर सिलिका जेल के पैकेट रखें, और हर शेल्फ़ पर दौर या ब्रांड का लेबल लगाएँ। एक आसान स्प्रेडशीट में हालत और सफ़ाई की तारीख़ें लिख सकती हैं।",
+     "followup_turn": "लेंस पर फफूँद लगने से कैसे रोकूँ?",
+     "followup_reply": "नमी लगभग 40 से 50 प्रतिशत के बीच रखें, कभी-कभी लेंस के ढक्कन हटाकर हवा लगने दें, और उन्हें नियमित इस्तेमाल करें, क्योंकि रोशनी और हवा से फफूँद धीमी बढ़ती है।",
+     "q1": "मैं कब से विंटेज कैमरे इकट्ठा कर रही हूँ?",
+     "q2": "मैं कितने समय से अपना विंटेज कैमरा कलेक्शन बना रही हूँ?",
+     "distractor_sentence": "मेरे मामा 20 साल से पुराने रेडियो इकट्ठा कर रहे हैं।"
+    },
+    "hg": {
+     "memory_turn": "Main teen mahine se purane vintage cameras collect kar rahi hoon, aur abhi se mere paas accha-khaasa collection ban gaya hai. Inhe organised rakhne aur cleaning ke liye aasani se nikaalne ki koi advice?",
+     "assistant_reply": "Dhoop se door glass-front cabinet use karein, nami kam rakhne ke liye andar silica gel packets rakhein, aur har shelf pe era ya brand ka label lagayein. Ek simple spreadsheet mein condition aur cleaning ki dates likh sakti hain.",
+     "followup_turn": "Lens pe fungus lagne se kaise rokun?",
+     "followup_reply": "Nami lagbhag 40 se 50 percent ke beech rakhein, kabhi-kabhi lens caps hata ke hawa lagne dein, aur unhe regularly use karein, kyunki roshni aur hawa se fungus dheere badhta hai.",
+     "q1": "Main kab se vintage cameras collect kar rahi hoon?",
+     "q2": "Main kitne time se apna vintage camera collection bana rahi hoon?",
+     "distractor_sentence": "Mere mama 20 saal se purane radios collect kar rahe hain."
+    }
+   },
+   "gold": {
+    "answer_en": "three months",
+    "slots": [
+     {
+      "name": "duration",
+      "aliases": [
+       "three months",
+       "3 months",
+       "तीन महीने",
+       "3 महीने",
+       "teen mahine",
+       "3 mahine"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "20 years",
+     "20 साल",
+     "20 saal"
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "F034",
+   "cand_id": "FC146",
+   "memory_type": "fact",
+   "user_gender": "male",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "Last month I went to Hawaii with my family for a week, and I loved it so much that I'm already thinking of going back. What could I do on the Big Island next time?",
+     "assistant_reply": "Visit Volcanoes National Park to see the craters and lava fields, snorkel at Kahaluu Bay, and go stargazing near Mauna Kea. The black sand beach at Punaluu is worth a stop too.",
+     "followup_turn": "Is it better to rent a car there?",
+     "followup_reply": "Yes, the island is large and public transport is limited. A regular car is enough for most sights, though some summit roads need a four-wheel drive.",
+     "q1": "Where did I go on a week-long trip with my family?",
+     "q2": "Which place did I visit with my family for a week last month?",
+     "q3": "My cousin wants a family holiday spot I can personally vouch for from my own recent trip. Where should I suggest?"
+    },
+    "hi": {
+     "memory_turn": "पिछले महीने मैं अपने परिवार के साथ एक हफ़्ते के लिए हवाई गया था, और मुझे वह इतना पसंद आया कि मैं अभी से दोबारा जाने का सोच रहा हूँ। अगली बार बिग आइलैंड पर क्या कर सकता हूँ?",
+     "assistant_reply": "ज्वालामुखी के गड्ढे और लावा के मैदान देखने के लिए वॉल्केनोज़ नेशनल पार्क जाएँ, काहालू खाड़ी में स्नॉर्कलिंग करें, और मौना केआ के पास तारे देखें। पुनालू का काली रेत वाला बीच भी देखने लायक है।",
+     "followup_turn": "क्या वहाँ कार किराये पर लेना बेहतर है?",
+     "followup_reply": "हाँ, द्वीप बड़ा है और सार्वजनिक परिवहन कम है। ज़्यादातर जगहों के लिए सामान्य कार काफ़ी है, हालाँकि चोटी तक की कुछ सड़कों के लिए फ़ोर-व्हील ड्राइव चाहिए।",
+     "q1": "मैं अपने परिवार के साथ एक हफ़्ते की ट्रिप पर कहाँ गया था?",
+     "q2": "पिछले महीने मैं परिवार के साथ एक हफ़्ते के लिए किस जगह घूमने गया?",
+     "q3": "मेरा कज़िन ऐसी फ़ैमिली छुट्टी की जगह चाहता है जिसकी मैं अपनी हाल की ट्रिप से गारंटी दे सकूँ। उसे कौन-सी जगह सुझाऊँ?"
+    },
+    "hg": {
+     "memory_turn": "Pichhle mahine main apni family ke saath ek hafte ke liye Hawaii gaya tha, aur mujhe woh itna pasand aaya ki main abhi se dobara jaane ka soch raha hoon. Agli baar Big Island pe kya kar sakta hoon?",
+     "assistant_reply": "Craters aur lava fields dekhne ke liye Volcanoes National Park jaayein, Kahaluu Bay mein snorkelling karein, aur Mauna Kea ke paas stargazing karein. Punaluu ka black sand beach bhi dekhne laayak hai.",
+     "followup_turn": "Kya wahan car rent pe lena better hai?",
+     "followup_reply": "Haan, island bada hai aur public transport kam hai. Zyaadatar jagahon ke liye normal car kaafi hai, halanki summit ki kuch roads ke liye four-wheel drive chahiye.",
+     "q1": "Main apni family ke saath ek hafte ki trip pe kahan gaya tha?",
+     "q2": "Pichhle mahine main family ke saath ek hafte ke liye kis jagah ghoomne gaya?",
+     "q3": "Mera cousin aisi family holiday ki jagah chahta hai jiski main apni recent trip se guarantee de sakoon. Use kaunsi jagah suggest karoon?"
+    }
+   },
+   "gold": {
+    "answer_en": "Hawaii",
+    "slots": [
+     {
+      "name": "place",
+      "aliases": [
+       "Hawaii",
+       "हवाई"
+      ]
+     }
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "F035",
+   "cand_id": "FC147",
+   "memory_type": "fact",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I recently made a lemon blueberry cake for my niece's birthday party, and it was a huge hit! I was nervous about it, but it worked. Now I want to try a fancier dessert. Any ideas?",
+     "assistant_reply": "A raspberry pavlova looks impressive but is mostly egg whites and sugar, a French apple tart teaches you neat pastry work, and a chocolate mousse cake is rich but forgiving.",
+     "followup_turn": "Which one is safest for a beginner?",
+     "followup_reply": "The apple tart is the safest, especially with ready-made pastry. Pavlova can crack if the oven runs hot, and mousse needs time to set.",
+     "q1": "What did I bake for my niece's birthday party?",
+     "q2": "Which cake did I make for my niece's birthday?",
+     "distractor_sentence": "My sister made a red velvet cake for her son's party last week."
+    },
+    "hi": {
+     "memory_turn": "हाल ही में मैंने अपनी भतीजी की जन्मदिन पार्टी के लिए लेमन ब्लूबेरी केक बनाया, और वह सबको बहुत पसंद आया! मैं घबराई हुई थी, पर बन गया। अब मैं कोई और शानदार मिठाई बनाना चाहती हूँ। कोई आइडिया?",
+     "assistant_reply": "रास्पबेरी पावलोवा दिखने में शानदार है पर ज़्यादातर अंडे की सफ़ेदी और चीनी से बनता है, फ़्रेंच एप्पल टार्ट से पेस्ट्री का साफ़ काम सीखती हैं, और चॉकलेट मूस केक भरपूर है पर ग़लतियाँ झेल लेता है।",
+     "followup_turn": "नौसिखिए के लिए इनमें सबसे सुरक्षित कौन-सा है?",
+     "followup_reply": "एप्पल टार्ट सबसे सुरक्षित है, ख़ासकर बनी-बनाई पेस्ट्री के साथ। ओवन ज़्यादा गर्म हो तो पावलोवा फट सकता है, और मूस को जमने में समय लगता है।",
+     "q1": "मैंने अपनी भतीजी की जन्मदिन पार्टी के लिए क्या बेक किया?",
+     "q2": "भतीजी के जन्मदिन के लिए मैंने कौन-सा केक बनाया?",
+     "distractor_sentence": "मेरी बहन ने पिछले हफ़्ते अपने बेटे की पार्टी के लिए रेड वेलवेट केक बनाया।"
+    },
+    "hg": {
+     "memory_turn": "Haal hi mein maine apni bhatiji ki birthday party ke liye lemon blueberry cake banaya, aur woh sabko bahut pasand aaya! Main nervous thi, par ban gaya. Ab main koi aur fancy dessert banana chahti hoon. Koi idea?",
+     "assistant_reply": "Raspberry pavlova dikhne mein shaandaar hai par zyaadatar egg whites aur sugar se banta hai, French apple tart se pastry ka neat kaam seekhti hain, aur chocolate mousse cake rich hai par galtiyan jhel leta hai.",
+     "followup_turn": "Beginner ke liye inmein sabse safe kaunsa hai?",
+     "followup_reply": "Apple tart sabse safe hai, especially ready-made pastry ke saath. Oven zyaada garam ho toh pavlova crack ho sakta hai, aur mousse ko set hone mein time lagta hai.",
+     "q1": "Maine apni bhatiji ki birthday party ke liye kya bake kiya?",
+     "q2": "Bhatiji ke birthday ke liye maine kaunsa cake banaya?",
+     "distractor_sentence": "Meri behen ne pichhle hafte apne bete ki party ke liye red velvet cake banaya."
+    }
+   },
+   "gold": {
+    "answer_en": "a lemon blueberry cake",
+    "slots": [
+     {
+      "name": "cake",
+      "aliases": [
+       "lemon blueberry",
+       "लेमन ब्लूबेरी",
+       "नींबू ब्लूबेरी"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "red velvet",
+     "रेड वेलवेट"
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "F036",
+   "cand_id": "FC148",
+   "memory_type": "fact",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I'm really into indie and alternative rock right now, and I've been listening to Arctic Monkeys and The Neighbourhood a lot on Spotify lately. Can you suggest a few similar bands?",
+     "assistant_reply": "Try Cage the Elephant, The Strokes, Wallows and Cigarettes After Sex. If you like the moodier side of The Neighbourhood, Glass Animals and The 1975 are worth a listen too.",
+     "followup_turn": "Which of those would be good to see live?",
+     "followup_reply": "Cage the Elephant and The Strokes are known for energetic live shows. Glass Animals also put on a very visual, fun concert.",
+     "q1": "Which music streaming service have I been using lately?",
+     "q2": "What app have I been listening to music on recently?",
+     "distractor_sentence": "My brother still swears by Apple Music for everything."
+    },
+    "hi": {
+     "memory_turn": "आजकल मुझे इंडी और ऑल्टरनेटिव रॉक बहुत पसंद है, और पिछले कुछ समय से मैं Spotify पर Arctic Monkeys और The Neighbourhood ख़ूब सुन रहा हूँ। क्या आप ऐसे ही कुछ बैंड बता सकते हैं?",
+     "assistant_reply": "Cage the Elephant, The Strokes, Wallows और Cigarettes After Sex सुनिए। अगर आपको The Neighbourhood का उदास-सा अंदाज़ पसंद है, तो Glass Animals और The 1975 भी सुनने लायक हैं।",
+     "followup_turn": "इनमें से किसे लाइव देखना अच्छा रहेगा?",
+     "followup_reply": "Cage the Elephant और The Strokes अपने जोशीले लाइव शो के लिए जाने जाते हैं। Glass Animals का कॉन्सर्ट भी बहुत रंगीन और मज़ेदार होता है।",
+     "q1": "आजकल मैं कौन-सी म्यूज़िक स्ट्रीमिंग सर्विस इस्तेमाल कर रहा हूँ?",
+     "q2": "हाल में मैं किस ऐप पर गाने सुन रहा हूँ?",
+     "distractor_sentence": "मेरा भाई आज भी हर चीज़ के लिए Apple Music की ही क़सम खाता है।"
+    },
+    "hg": {
+     "memory_turn": "Aajkal mujhe indie aur alternative rock bahut pasand hai, aur pichhle kuch time se main Spotify pe Arctic Monkeys aur The Neighbourhood khoob sun raha hoon. Kya aap aise hi kuch bands bata sakte hain?",
+     "assistant_reply": "Cage the Elephant, The Strokes, Wallows aur Cigarettes After Sex suniye. Agar aapko The Neighbourhood ka moody andaaz pasand hai, toh Glass Animals aur The 1975 bhi sunne laayak hain.",
+     "followup_turn": "Inmein se kise live dekhna accha rahega?",
+     "followup_reply": "Cage the Elephant aur The Strokes apne energetic live shows ke liye jaane jaate hain. Glass Animals ka concert bhi bahut colourful aur fun hota hai.",
+     "q1": "Aajkal main kaunsi music streaming service use kar raha hoon?",
+     "q2": "Haal mein main kis app pe gaane sun raha hoon?",
+     "distractor_sentence": "Mera bhai aaj bhi har cheez ke liye Apple Music ki hi kasam khaata hai."
+    }
+   },
+   "gold": {
+    "answer_en": "Spotify",
+    "slots": [
+     {
+      "name": "service",
+      "aliases": [
+       "Spotify",
+       "स्पॉटिफ़ाई",
+       "स्पॉटिफाई"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "Apple Music",
+     "ऐप्पल म्यूज़िक"
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "F037",
+   "cand_id": "FC150",
+   "memory_type": "fact",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I've been on a roll with my collectibles lately: I just got a rare blue Snaggletooth action figure from a thrift store a few weeks ago. Now I need a display case for my vintage watches. Any recommendations?",
+     "assistant_reply": "A glass-top watch box with soft cushions lets you see every piece at once. For a wall display, a shallow shadow box with a velvet back looks elegant and keeps dust off.",
+     "followup_turn": "Should I keep the watches wound while they're displayed?",
+     "followup_reply": "It isn't necessary. Most mechanical watches are fine resting, but winding them every few weeks keeps the oils moving and the movement healthy.",
+     "q1": "What type of action figure did I buy from a thrift store?",
+     "q2": "Which action figure did I find at the thrift store a few weeks ago?"
+    },
+    "hi": {
+     "memory_turn": "आजकल मेरी कलेक्शन ख़ूब बढ़ रही है: कुछ हफ़्ते पहले मुझे एक थ्रिफ़्ट स्टोर से दुर्लभ नीला Snaggletooth एक्शन फ़िगर मिला। अब मुझे अपनी विंटेज घड़ियों के लिए डिस्प्ले केस चाहिए। कोई सुझाव?",
+     "assistant_reply": "मुलायम गद्दियों वाला शीशे के ढक्कन का वॉच बॉक्स हर घड़ी को एक साथ दिखाता है। दीवार के लिए, मख़मली पीछे वाला पतला शैडो बॉक्स सुंदर लगता है और धूल से बचाता है।",
+     "followup_turn": "क्या डिस्प्ले में रखी घड़ियों में चाबी भरते रहना चाहिए?",
+     "followup_reply": "ज़रूरी नहीं है। ज़्यादातर मैकेनिकल घड़ियाँ रुकी रहें तो भी ठीक हैं, पर हर कुछ हफ़्तों में चाबी भरने से तेल चलता रहता है और मशीन ठीक रहती है।",
+     "q1": "मैंने थ्रिफ़्ट स्टोर से किस तरह का एक्शन फ़िगर ख़रीदा?",
+     "q2": "कुछ हफ़्ते पहले थ्रिफ़्ट स्टोर में मुझे कौन-सा एक्शन फ़िगर मिला?"
+    },
+    "hg": {
+     "memory_turn": "Aajkal meri collection khoob badh rahi hai: kuch hafte pehle mujhe ek thrift store se rare blue Snaggletooth action figure mila. Ab mujhe apni vintage watches ke liye display case chahiye. Koi suggestion?",
+     "assistant_reply": "Soft cushions wala glass-top watch box har ghadi ko ek saath dikhata hai. Deewar ke liye, velvet back wala patla shadow box sundar lagta hai aur dhool se bachata hai.",
+     "followup_turn": "Kya display mein rakhi watches mein chaabi bharte rehna chahiye?",
+     "followup_reply": "Zaroori nahi hai. Zyaadatar mechanical watches ruki rahein toh bhi theek hain, par har kuch hafton mein chaabi bharne se oil chalta rehta hai aur movement theek rehta hai.",
+     "q1": "Maine thrift store se kis type ka action figure khareeda?",
+     "q2": "Kuch hafte pehle thrift store mein mujhe kaunsa action figure mila?"
+    }
+   },
+   "gold": {
+    "answer_en": "a rare blue Snaggletooth",
+    "slots": [
+     {
+      "name": "figure",
+      "aliases": [
+       "Snaggletooth",
+       "स्नैगलटूथ"
+      ]
+     }
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "F038",
+   "cand_id": "FC152",
+   "memory_type": "fact",
+   "user_gender": "male",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I've got tickets to see the Jonas Brothers at TD Garden next month. Oh, and I just remembered the amazing Imagine Dragons concert I went to at the Xfinity Center. How early should I arrive at a big arena show?",
+     "assistant_reply": "Aim to arrive 45 minutes to an hour before the doors open. That gives time for security lines, finding your seats and grabbing food before the opening act starts.",
+     "followup_turn": "Can I bring a bag inside?",
+     "followup_reply": "Most arenas only allow small clear bags or tiny clutches. Check the venue's website the day before, since rules change from show to show.",
+     "q1": "Where did I attend the Imagine Dragons concert?",
+     "q2": "At which venue did I see Imagine Dragons perform?",
+     "q3": "My friend wants to know where I saw the band behind 'Radioactive' play live. Which venue was it?"
+    },
+    "hi": {
+     "memory_turn": "मेरे पास अगले महीने TD Garden में Jonas Brothers के शो के टिकट हैं। अरे, मुझे Xfinity Center में देखा Imagine Dragons का शानदार कॉन्सर्ट भी याद आ गया। बड़े एरीना शो में कितना पहले पहुँचना चाहिए?",
+     "assistant_reply": "दरवाज़े खुलने से 45 मिनट से एक घंटा पहले पहुँचने की कोशिश करें। इससे सिक्योरिटी की लाइन, अपनी सीट ढूँढने और शुरुआती कलाकार से पहले कुछ खाने का समय मिल जाता है।",
+     "followup_turn": "क्या मैं अंदर बैग ले जा सकता हूँ?",
+     "followup_reply": "ज़्यादातर एरीना में सिर्फ़ छोटे पारदर्शी बैग या बहुत छोटे क्लच की इजाज़त होती है। एक दिन पहले जगह की वेबसाइट देख लें, क्योंकि नियम हर शो में बदलते हैं।",
+     "q1": "मैंने Imagine Dragons का कॉन्सर्ट कहाँ देखा था?",
+     "q2": "मैंने Imagine Dragons को किस जगह परफ़ॉर्म करते देखा?",
+     "q3": "मेरा दोस्त जानना चाहता है कि मैंने 'Radioactive' वाले बैंड को लाइव कहाँ देखा था। वह कौन-सी जगह थी?"
+    },
+    "hg": {
+     "memory_turn": "Mere paas next month TD Garden mein Jonas Brothers ke show ke tickets hain. Arre, mujhe Xfinity Center mein dekha Imagine Dragons ka shaandaar concert bhi yaad aa gaya. Bade arena show mein kitna pehle pahunchna chahiye?",
+     "assistant_reply": "Doors khulne se 45 minute se ek ghanta pehle pahunchne ki koshish karein. Isse security ki line, apni seat dhoondhne aur opening act se pehle kuch khaane ka time mil jaata hai.",
+     "followup_turn": "Kya main andar bag le ja sakta hoon?",
+     "followup_reply": "Zyaadatar arenas mein sirf chhote clear bags ya bahut chhote clutches allowed hote hain. Ek din pehle venue ki website check kar lein, kyunki rules har show mein badalte hain.",
+     "q1": "Maine Imagine Dragons ka concert kahan dekha tha?",
+     "q2": "Maine Imagine Dragons ko kis venue pe perform karte dekha?",
+     "q3": "Mera dost jaanna chahta hai ki maine 'Radioactive' wale band ko live kahan dekha tha. Woh kaunsa venue tha?"
+    }
+   },
+   "gold": {
+    "answer_en": "Xfinity Center",
+    "slots": [
+     {
+      "name": "venue",
+      "aliases": [
+       "Xfinity Center",
+       "Xfinity Centre",
+       "Xfinity",
+       "एक्सफ़िनिटी"
+      ]
+     }
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "F039",
+   "cand_id": "FC153",
+   "memory_type": "fact",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I've been averaging around 2 hours of screen time on Instagram per day for the past two weeks, which is way too much. Would a 30-minute daily limit be a good starting point?",
+     "assistant_reply": "That's a big jump, so it may feel hard at first. Many people do better cutting back in steps, for example to an hour a day this week, then 45 minutes, then 30.",
+     "followup_turn": "What can I do instead when I feel the urge to scroll?",
+     "followup_reply": "Keep a book or puzzle within reach, move the app off your home screen, and replace the habit with something short, like a five-minute walk or messaging a friend directly.",
+     "q1": "How much screen time have I been averaging on Instagram per day?",
+     "q2": "On average, how long do I spend on Instagram each day?",
+     "q3": "A digital-wellbeing app asks how long I currently spend each day on that photo-sharing app. What should I enter?",
+     "distractor_sentence": "My friend says she spends only 45 minutes a day on it."
+    },
+    "hi": {
+     "memory_turn": "पिछले दो हफ़्तों से मेरा Instagram पर औसतन रोज़ लगभग 2 घंटे का स्क्रीन टाइम है, जो बहुत ज़्यादा है। क्या रोज़ 30 मिनट की सीमा से शुरुआत करना ठीक रहेगा?",
+     "assistant_reply": "यह बहुत बड़ी छलाँग है, इसलिए शुरू में मुश्किल लग सकती है। कई लोगों के लिए धीरे-धीरे घटाना बेहतर रहता है, जैसे इस हफ़्ते रोज़ एक घंटा, फिर 45 मिनट, फिर 30।",
+     "followup_turn": "जब स्क्रॉल करने का मन करे तो उसकी जगह क्या करूँ?",
+     "followup_reply": "कोई किताब या पहेली पास रखें, ऐप को होम स्क्रीन से हटा दें, और आदत की जगह कोई छोटी चीज़ करें, जैसे पाँच मिनट टहलना या किसी दोस्त को सीधे मैसेज करना।",
+     "q1": "Instagram पर मेरा रोज़ का औसत स्क्रीन टाइम कितना है?",
+     "q2": "औसतन मैं हर दिन Instagram पर कितना समय बिताती हूँ?",
+     "q3": "एक डिजिटल-वेलबीइंग ऐप पूछ रहा है कि मैं अभी उस फ़ोटो शेयर करने वाले ऐप पर रोज़ कितना समय बिताती हूँ। मुझे क्या भरना चाहिए?",
+     "distractor_sentence": "मेरी दोस्त कहती है कि वह उस पर रोज़ बस 45 मिनट बिताती है।"
+    },
+    "hg": {
+     "memory_turn": "Pichhle do hafton se mera Instagram pe average roz lagbhag 2 ghante ka screen time hai, jo bahut zyaada hai. Kya roz 30 minute ki limit se shuru karna theek rahega?",
+     "assistant_reply": "Yeh bahut bada jump hai, isliye shuru mein mushkil lag sakta hai. Kai logon ke liye dheere-dheere kam karna better rehta hai, jaise is hafte roz ek ghanta, phir 45 minute, phir 30.",
+     "followup_turn": "Jab scroll karne ka mann kare toh uski jagah kya karoon?",
+     "followup_reply": "Koi book ya puzzle paas rakhein, app ko home screen se hata dein, aur aadat ki jagah koi chhoti cheez karein, jaise paanch minute walk ya kisi dost ko seedha message karna.",
+     "q1": "Instagram pe mera roz ka average screen time kitna hai?",
+     "q2": "Average mein main har din Instagram pe kitna time bitati hoon?",
+     "q3": "Ek digital-wellbeing app pooch raha hai ki main abhi us photo sharing app pe roz kitna time bitati hoon. Mujhe kya bharna chahiye?",
+     "distractor_sentence": "Meri friend kehti hai ki woh us pe roz bas 45 minute bitati hai."
+    }
+   },
+   "gold": {
+    "answer_en": "about 2 hours a day",
+    "slots": [
+     {
+      "name": "duration",
+      "aliases": [
+       "2 hours",
+       "two hours",
+       "2 hrs",
+       "2 घंटे",
+       "दो घंटे",
+       "2 ghante"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "45 minutes",
+     "45 मिनट",
+     "45 minute"
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "F040",
+   "cand_id": "FC154",
+   "memory_type": "fact",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I like the idea of layered lighting, so I'll put a floor lamp behind the sofa. Can you suggest warm-toned floor lamps that would match the Philips LED bulb I have in my bedside lamp?",
+     "assistant_reply": "Look for lamps that take a standard screw-in bulb, then use a warm white bulb around 2700K to match. An arc lamp or a simple tripod lamp with a fabric shade both give a soft, cosy glow.",
+     "followup_turn": "How bright should a reading lamp be?",
+     "followup_reply": "Around 450 to 800 lumens is comfortable for reading. A dimmable bulb lets you switch between bright reading light and a softer evening glow.",
+     "q1": "What brand of bulb do I have in my bedside lamp?",
+     "q2": "Which company's LED bulb is in my bedside lamp?",
+     "distractor_sentence": "My roommate uses a Syska bulb in his desk lamp."
+    },
+    "hi": {
+     "memory_turn": "मुझे लेयर्ड लाइटिंग का आइडिया पसंद है, इसलिए मैं सोफ़े के पीछे एक फ़्लोर लैंप रखूँगा। क्या आप गर्म रोशनी वाले फ़्लोर लैंप बता सकते हैं जो मेरे बेडसाइड लैंप के Philips LED बल्ब से मेल खाएँ?",
+     "assistant_reply": "ऐसे लैंप देखें जिनमें सामान्य पेंच वाला बल्ब लगता हो, फिर मेल के लिए लगभग 2700K का वॉर्म व्हाइट बल्ब लगाएँ। आर्क लैंप या कपड़े के शेड वाला सादा तिपाई लैंप, दोनों हल्की और आरामदायक रोशनी देते हैं।",
+     "followup_turn": "पढ़ने के लैंप की रोशनी कितनी तेज़ होनी चाहिए?",
+     "followup_reply": "पढ़ने के लिए लगभग 450 से 800 ल्यूमेन आरामदायक है। डिम होने वाले बल्ब से आप तेज़ पढ़ने की रोशनी और शाम की हल्की रोशनी के बीच बदल सकते हैं।",
+     "q1": "मेरे बेडसाइड लैंप में किस ब्रांड का बल्ब है?",
+     "q2": "मेरे बेडसाइड लैंप में किस कंपनी का LED बल्ब लगा है?",
+     "distractor_sentence": "मेरा रूममेट अपने डेस्क लैंप में Syska का बल्ब इस्तेमाल करता है।"
+    },
+    "hg": {
+     "memory_turn": "Mujhe layered lighting ka idea pasand hai, isliye main sofa ke peeche ek floor lamp rakhunga. Kya aap warm roshni wale floor lamps bata sakte hain jo mere bedside lamp ke Philips LED bulb se match karein?",
+     "assistant_reply": "Aise lamps dekhein jinmein normal screw wala bulb lagta ho, phir match ke liye lagbhag 2700K ka warm white bulb lagayein. Arc lamp ya fabric shade wala simple tripod lamp, dono halki aur cosy roshni dete hain.",
+     "followup_turn": "Padhne ke lamp ki roshni kitni tez honi chahiye?",
+     "followup_reply": "Padhne ke liye lagbhag 450 se 800 lumens comfortable hai. Dimmable bulb se aap tez padhne wali roshni aur shaam ki halki roshni ke beech switch kar sakte hain.",
+     "q1": "Mere bedside lamp mein kis brand ka bulb hai?",
+     "q2": "Mere bedside lamp mein kis company ka LED bulb laga hai?",
+     "distractor_sentence": "Mera roommate apne desk lamp mein Syska ka bulb use karta hai."
+    }
+   },
+   "gold": {
+    "answer_en": "a Philips LED bulb",
+    "slots": [
+     {
+      "name": "brand",
+      "aliases": [
+       "Philips",
+       "फ़िलिप्स",
+       "फिलिप्स"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "Syska",
+     "सिस्का"
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "P031",
+   "cand_id": "PX0421",
+   "memory_type": "preference",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I'm a big fan of Jules Verne's work, especially his adventure stories. I'd like to start a small book club with friends. How do I keep it going past the first few meetings?",
+     "assistant_reply": "Keep the group small, around five to eight people, meet on a fixed day each month, and rotate who picks the book. Short, discussable books work better than long ones at the start.",
+     "followup_turn": "Should we meet in person or online?",
+     "followup_reply": "In person usually feels livelier, but a mix works well if people live far apart. Whatever you choose, keep the same format so it becomes a habit.",
+     "q1": "Which classic author am I a big fan of?",
+     "q2": "Whose classic novels do I really love?",
+     "distractor_sentence": "My dad prefers Charles Dickens and keeps rereading his novels."
+    },
+    "hi": {
+     "memory_turn": "मैं जूल्स वर्न की रचनाओं की बड़ी फ़ैन हूँ, ख़ासकर उनकी रोमांचक कहानियों की। मैं दोस्तों के साथ एक छोटा बुक क्लब शुरू करना चाहती हूँ। पहली कुछ मीटिंग के बाद भी इसे कैसे चलाए रखूँ?",
+     "assistant_reply": "समूह छोटा रखें, लगभग पाँच से आठ लोग, हर महीने एक तय दिन मिलें, और किताब चुनने की बारी बदलते रहें। शुरुआत में लंबी किताबों की जगह छोटी और चर्चा लायक़ किताबें बेहतर रहती हैं।",
+     "followup_turn": "हमें आमने-सामने मिलना चाहिए या ऑनलाइन?",
+     "followup_reply": "आमने-सामने आमतौर पर ज़्यादा जीवंत लगता है, पर लोग दूर रहते हों तो दोनों का मेल अच्छा है। जो भी चुनें, तरीक़ा एक जैसा रखें ताकि यह आदत बन जाए।",
+     "q1": "मैं किस क्लासिक लेखक की बड़ी फ़ैन हूँ?",
+     "q2": "मुझे किसके क्लासिक उपन्यास बहुत पसंद हैं?",
+     "distractor_sentence": "मेरे पापा को चार्ल्स डिकेंस पसंद हैं और वे उनके उपन्यास बार-बार पढ़ते हैं।"
+    },
+    "hg": {
+     "memory_turn": "Main Jules Verne ke kaam ki badi fan hoon, especially unki adventure stories ki. Main doston ke saath ek chhota book club shuru karna chahti hoon. Pehli kuch meetings ke baad bhi ise kaise chalaye rakhun?",
+     "assistant_reply": "Group chhota rakhein, lagbhag paanch se aath log, har mahine ek fixed din milein, aur book chunne ki baari badalte rahein. Shuru mein lambi books ki jagah chhoti aur discussion laayak books better rehti hain.",
+     "followup_turn": "Humein in person milna chahiye ya online?",
+     "followup_reply": "In person usually zyaada lively lagta hai, par log door rehte hon toh dono ka mix accha hai. Jo bhi chunein, format ek jaisa rakhein taaki yeh aadat ban jaaye.",
+     "q1": "Main kis classic author ki badi fan hoon?",
+     "q2": "Mujhe kiske classic novels bahut pasand hain?",
+     "distractor_sentence": "Mere papa ko Charles Dickens pasand hain aur woh unke novels baar-baar padhte hain."
+    }
+   },
+   "gold": {
+    "answer_en": "Jules Verne",
+    "slots": [
+     {
+      "name": "author",
+      "aliases": [
+       "Jules Verne",
+       "Verne",
+       "जूल्स वर्न",
+       "वर्न"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "Dickens",
+     "डिकेंस"
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "P032",
+   "cand_id": "PX0459",
+   "memory_type": "preference",
+   "user_gender": "male",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I mostly play piano and some synth sounds, and I prefer weighted keys. I'm looking for a digital keyboard for my small flat. What should I consider?",
+     "assistant_reply": "Check that it has 88 keys with a hammer action, a decent built-in speaker or good headphone output, and a slim body if space is tight. A sustain pedal input is a must for piano playing.",
+     "followup_turn": "Do I need a separate stand?",
+     "followup_reply": "Many slim models come with an optional matching stand, which is more stable than an X-stand. A sturdy stand at the right height also helps your posture.",
+     "q1": "What kind of keys do I prefer on a keyboard instrument?",
+     "q2": "Which type of keys do I like when playing piano?"
+    },
+    "hi": {
+     "memory_turn": "मैं ज़्यादातर पियानो और कुछ सिंथ साउंड बजाता हूँ, और मुझे वेटेड कीज़ पसंद हैं। मैं अपने छोटे फ़्लैट के लिए एक डिजिटल कीबोर्ड ढूँढ रहा हूँ। किन बातों का ध्यान रखूँ?",
+     "assistant_reply": "देखें कि उसमें हैमर एक्शन वाली 88 कीज़ हों, ठीक-ठाक बिल्ट-इन स्पीकर या अच्छा हेडफ़ोन आउटपुट हो, और जगह कम हो तो पतली बॉडी हो। पियानो बजाने के लिए सस्टेन पैडल का इनपुट ज़रूरी है।",
+     "followup_turn": "क्या मुझे अलग स्टैंड चाहिए?",
+     "followup_reply": "कई पतले मॉडल के साथ मेल खाता स्टैंड अलग से मिलता है, जो X-स्टैंड से ज़्यादा मज़बूत होता है। सही ऊँचाई का मज़बूत स्टैंड बैठने का तरीक़ा भी ठीक रखता है।",
+     "q1": "कीबोर्ड वाद्य पर मुझे किस तरह की कीज़ पसंद हैं?",
+     "q2": "पियानो बजाते समय मुझे कौन-सी तरह की कीज़ अच्छी लगती हैं?"
+    },
+    "hg": {
+     "memory_turn": "Main zyaadatar piano aur kuch synth sounds bajata hoon, aur mujhe weighted keys pasand hain. Main apne chhote flat ke liye ek digital keyboard dhoondh raha hoon. Kin baaton ka dhyaan rakhun?",
+     "assistant_reply": "Dekhein ki usmein hammer action wali 88 keys hon, theek-thaak built-in speaker ya accha headphone output ho, aur jagah kam ho toh slim body ho. Piano bajane ke liye sustain pedal ka input zaroori hai.",
+     "followup_turn": "Kya mujhe alag stand chahiye?",
+     "followup_reply": "Kai slim models ke saath match karta stand alag se milta hai, jo X-stand se zyaada stable hota hai. Sahi height ka mazboot stand baithne ka posture bhi theek rakhta hai.",
+     "q1": "Keyboard instrument pe mujhe kis type ki keys pasand hain?",
+     "q2": "Piano bajate time mujhe kaunsi type ki keys acchi lagti hain?"
+    }
+   },
+   "gold": {
+    "answer_en": "weighted keys",
+    "slots": [
+     {
+      "name": "keys",
+      "aliases": [
+       "weighted",
+       "वेटेड"
+      ]
+     }
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "P033",
+   "cand_id": "PX0465",
+   "memory_type": "preference",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I've always loved the way sunflowers look, and I've heard they're great for attracting helpful insects. I want to plant some this year. When should I sow the seeds?",
+     "assistant_reply": "Sow them directly outdoors after the last frost, once the soil has warmed up. Pick the sunniest spot you have, and plant a few seeds every two weeks for flowers over a longer season.",
+     "followup_turn": "Do they need a lot of water?",
+     "followup_reply": "Water deeply once or twice a week while they're young. Once established, they cope well with dry spells, but tall varieties may need a stake on windy days.",
+     "q1": "Which flowers have I always loved?",
+     "q2": "What are my favourite flowers?",
+     "q3": "I'm ordering a bouquet for myself to brighten up my desk. Which flower should it be made of?",
+     "distractor_sentence": "My mother has always preferred roses in her garden."
+    },
+    "hi": {
+     "memory_turn": "मुझे हमेशा से सूरजमुखी के फूल देखने में बहुत अच्छे लगते हैं, और सुना है कि वे काम के कीड़ों को भी आकर्षित करते हैं। मैं इस साल कुछ लगाना चाहती हूँ। बीज कब बोने चाहिए?",
+     "assistant_reply": "आख़िरी पाले के बाद, जब मिट्टी गर्म हो जाए, तो सीधे बाहर बोएँ। सबसे धूप वाली जगह चुनें, और हर दो हफ़्ते में कुछ बीज बोती रहें ताकि लंबे समय तक फूल आते रहें।",
+     "followup_turn": "क्या इन्हें बहुत पानी चाहिए?",
+     "followup_reply": "छोटे पौधों को हफ़्ते में एक-दो बार गहराई तक पानी दें। जम जाने के बाद ये सूखे दिन झेल लेते हैं, पर लंबी क़िस्मों को तेज़ हवा में सहारे की ज़रूरत पड़ सकती है।",
+     "q1": "मुझे हमेशा से कौन-से फूल पसंद रहे हैं?",
+     "q2": "मेरे पसंदीदा फूल कौन-से हैं?",
+     "q3": "मैं अपनी डेस्क सजाने के लिए अपने लिए एक गुलदस्ता मँगवा रही हूँ। वह किस फूल का होना चाहिए?",
+     "distractor_sentence": "मेरी माँ को अपने बग़ीचे में हमेशा गुलाब ही पसंद रहे हैं।"
+    },
+    "hg": {
+     "memory_turn": "Mujhe hamesha se sunflowers dekhne mein bahut acche lagte hain, aur suna hai ki woh helpful insects ko bhi attract karte hain. Main is saal kuch lagana chahti hoon. Seeds kab bone chahiye?",
+     "assistant_reply": "Last frost ke baad, jab mitti garam ho jaaye, toh seedha bahar boyein. Sabse dhoop wali jagah chunein, aur har do hafte mein kuch seeds boti rahein taaki lambe time tak phool aate rahein.",
+     "followup_turn": "Kya inhe bahut paani chahiye?",
+     "followup_reply": "Chhote paudhon ko hafte mein ek-do baar gehraai tak paani dein. Jam jaane ke baad yeh sookhe din jhel lete hain, par lambi varieties ko tez hawa mein sahaare ki zaroorat pad sakti hai.",
+     "q1": "Mujhe hamesha se kaunse phool pasand rahe hain?",
+     "q2": "Mere favourite phool kaunse hain?",
+     "q3": "Main apni desk sajane ke liye apne liye ek bouquet mangwa rahi hoon. Woh kis phool ka hona chahiye?",
+     "distractor_sentence": "Meri maa ko apne garden mein hamesha roses hi pasand rahe hain."
+    }
+   },
+   "gold": {
+    "answer_en": "sunflowers",
+    "slots": [
+     {
+      "name": "flower",
+      "aliases": [
+       "sunflower",
+       "sunflowers",
+       "सूरजमुखी",
+       "surajmukhi"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "roses",
+     "rose",
+     "गुलाब",
+     "gulab"
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "P034",
+   "cand_id": "PX0474",
+   "memory_type": "preference",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "When I travel, I'm a big fan of street food, so on my trip to Mumbai I'll definitely be trying the local chaat and dosa. How do I avoid getting an upset stomach?",
+     "assistant_reply": "Choose busy stalls where food is cooked fresh in front of you, drink sealed bottled water, and skip raw salads and ice at first. Carrying oral rehydration salts is a good backup.",
+     "followup_turn": "Is it safe to try pani puri?",
+     "followup_reply": "It's usually fine at popular, clean stalls. Some places offer pani made with bottled water, which is a safer choice for visitors.",
+     "q1": "What kind of food am I a big fan of when I travel?",
+     "q2": "Which type of food do I love trying on my trips?",
+     "distractor_sentence": "My wife sticks to fine dining restaurants whenever we go on holiday."
+    },
+    "hi": {
+     "memory_turn": "घूमते समय मैं स्ट्रीट फ़ूड का बड़ा फ़ैन हूँ, इसलिए अपनी मुंबई ट्रिप पर मैं वहाँ की चाट और डोसा ज़रूर खाऊँगा। पेट ख़राब होने से कैसे बचूँ?",
+     "assistant_reply": "भीड़ वाले ठेले चुनें जहाँ खाना आपके सामने ताज़ा बनता हो, सील बंद बोतल का पानी पिएँ, और शुरू में कच्चे सलाद और बर्फ़ से बचें। साथ में ORS रखना अच्छा बैकअप है।",
+     "followup_turn": "क्या पानी पूरी खाना सुरक्षित है?",
+     "followup_reply": "मशहूर और साफ़ ठेलों पर आमतौर पर ठीक रहता है। कुछ जगहें बोतल के पानी से बना पानी देती हैं, जो बाहर से आने वालों के लिए ज़्यादा सुरक्षित है।",
+     "q1": "घूमते समय मैं किस तरह के खाने का बड़ा फ़ैन हूँ?",
+     "q2": "अपनी ट्रिप पर मुझे किस तरह का खाना आज़माना बहुत पसंद है?",
+     "distractor_sentence": "मेरी पत्नी छुट्टियों में हमेशा फ़ाइन डाइनिंग रेस्टोरेंट में ही खाती है।"
+    },
+    "hg": {
+     "memory_turn": "Travel karte time main street food ka bada fan hoon, isliye apni Mumbai trip pe main wahan ki chaat aur dosa zaroor khaunga. Pet kharab hone se kaise bachun?",
+     "assistant_reply": "Bheed wale stalls chunein jahan khaana aapke saamne fresh banta ho, sealed bottle ka paani piyein, aur shuru mein kacche salad aur barf se bachein. Saath mein ORS rakhna accha backup hai.",
+     "followup_turn": "Kya pani puri khaana safe hai?",
+     "followup_reply": "Famous aur saaf stalls pe usually theek rehta hai. Kuch jagah bottle ke paani se bana pani deti hain, jo bahar se aane walon ke liye zyaada safe hai.",
+     "q1": "Travel karte time main kis type ke khaane ka bada fan hoon?",
+     "q2": "Apni trips pe mujhe kis type ka khaana try karna bahut pasand hai?",
+     "distractor_sentence": "Meri wife chhuttiyon mein hamesha fine dining restaurants mein hi khaati hai."
+    }
+   },
+   "gold": {
+    "answer_en": "street food (e.g. chaat, dosa)",
+    "slots": [
+     {
+      "name": "food",
+      "aliases": [
+       "street food",
+       "स्ट्रीट फ़ूड",
+       "स्ट्रीट फूड"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "fine dining",
+     "फ़ाइन डाइनिंग"
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "P035",
+   "cand_id": "PX0495",
+   "memory_type": "preference",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I'm a big fan of Miles Morales, and I've got a few variant covers featuring him in my comic collection. How should I store my comics so they stay in good condition?",
+     "assistant_reply": "Put each issue in an acid-free bag with a backing board, store them upright in a comic box, and keep the box somewhere cool, dry and dark. Avoid attics and basements with changing temperatures.",
+     "followup_turn": "Is it worth getting valuable issues graded?",
+     "followup_reply": "For rare or high-value issues, grading can raise their resale value and protect them in a sealed case. For comics you want to reread, it's usually not worth the cost.",
+     "q1": "Which Spider-Man character am I a big fan of?",
+     "q2": "Who is my favourite version of Spider-Man?",
+     "q3": "I'm choosing a poster of my favourite web-slinging hero for my room. Which version of the hero should it show?"
+    },
+    "hi": {
+     "memory_turn": "मैं माइल्स मोरालेस की बड़ी फ़ैन हूँ, और मेरे कॉमिक कलेक्शन में उनके कुछ वेरिएंट कवर भी हैं। कॉमिक्स को अच्छी हालत में रखने के लिए कैसे सँभालूँ?",
+     "assistant_reply": "हर अंक को एसिड-फ़्री बैग में बैकिंग बोर्ड के साथ रखें, कॉमिक बॉक्स में सीधा खड़ा करें, और बॉक्स को ठंडी, सूखी और अँधेरी जगह पर रखें। बदलते तापमान वाली अटारी और तहख़ाने से बचें।",
+     "followup_turn": "क्या क़ीमती अंकों की ग्रेडिंग करवाना ठीक है?",
+     "followup_reply": "दुर्लभ या महँगे अंकों के लिए ग्रेडिंग से दोबारा बेचने की क़ीमत बढ़ सकती है और वे बंद केस में सुरक्षित रहते हैं। जिन कॉमिक्स को दोबारा पढ़ना हो, उनके लिए यह ख़र्च आमतौर पर बेकार है।",
+     "q1": "स्पाइडर-मैन का कौन-सा किरदार मुझे बहुत पसंद है?",
+     "q2": "स्पाइडर-मैन का मेरा पसंदीदा रूप कौन-सा है?",
+     "q3": "मैं अपने कमरे के लिए अपने पसंदीदा जाल फेंकने वाले हीरो का पोस्टर चुन रही हूँ। उसमें हीरो का कौन-सा रूप होना चाहिए?"
+    },
+    "hg": {
+     "memory_turn": "Main Miles Morales ki badi fan hoon, aur mere comic collection mein unke kuch variant covers bhi hain. Comics ko acchi condition mein rakhne ke liye kaise sambhaalun?",
+     "assistant_reply": "Har issue ko acid-free bag mein backing board ke saath rakhein, comic box mein seedha khada karein, aur box ko thandi, sookhi aur andheri jagah pe rakhein. Badalte temperature wali attic aur basement se bachein.",
+     "followup_turn": "Kya keemti issues ki grading karwana theek hai?",
+     "followup_reply": "Rare ya mehenge issues ke liye grading se resale value badh sakti hai aur woh sealed case mein safe rehte hain. Jin comics ko dobara padhna ho, unke liye yeh kharcha usually bekaar hai.",
+     "q1": "Spider-Man ka kaunsa character mujhe bahut pasand hai?",
+     "q2": "Spider-Man ka mera favourite version kaunsa hai?",
+     "q3": "Main apne room ke liye apne favourite web-slinging hero ka poster choose kar rahi hoon. Usmein hero ka kaunsa version hona chahiye?"
+    }
+   },
+   "gold": {
+    "answer_en": "Miles Morales",
+    "slots": [
+     {
+      "name": "character",
+      "aliases": [
+       "Miles Morales",
+       "Miles",
+       "माइल्स मोरालेस",
+       "माइल्स"
+      ]
+     }
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "P036",
+   "cand_id": "PX0503",
+   "memory_type": "preference",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I've started doing Pilates, and my favourite exercise is the hundred; it really helps me engage my core and improve my posture. How many times a week should I practise?",
+     "assistant_reply": "Two to three sessions a week is a good start. That gives your muscles time to recover while still building strength, and you can add a short session at home on other days.",
+     "followup_turn": "Can Pilates help with lower back pain?",
+     "followup_reply": "It often helps by strengthening the deep core and improving posture. Start with gentle classes and tell your instructor about the pain so they can adapt the exercises.",
+     "q1": "Which is my favourite Pilates exercise?",
+     "q2": "What Pilates move do I like the most?",
+     "q3": "My Pilates teacher lets each of us choose one move to open the class. Which one should I pick for myself?",
+     "distractor_sentence": "My trainer's favourite move is the roll-up, but I find it tough."
+    },
+    "hi": {
+     "memory_turn": "मैंने पिलाटेज़ शुरू किया है, और मेरी पसंदीदा एक्सरसाइज़ 'द हंड्रेड' है; इससे मेरा कोर अच्छे से काम करता है और पोस्चर सुधरता है। मुझे हफ़्ते में कितनी बार प्रैक्टिस करनी चाहिए?",
+     "assistant_reply": "हफ़्ते में दो-तीन सेशन अच्छी शुरुआत है। इससे मांसपेशियों को आराम का समय मिलता है और ताक़त भी बढ़ती है, और बाक़ी दिनों में घर पर छोटा सेशन जोड़ सकते हैं।",
+     "followup_turn": "क्या पिलाटेज़ से कमर के निचले दर्द में मदद मिलती है?",
+     "followup_reply": "अक्सर हाँ, क्योंकि यह अंदर की कोर मांसपेशियों को मज़बूत करता है और पोस्चर सुधारता है। हल्की क्लास से शुरू करें और इंस्ट्रक्टर को दर्द के बारे में बताएँ ताकि वे एक्सरसाइज़ बदल सकें।",
+     "q1": "मेरी पसंदीदा पिलाटेज़ एक्सरसाइज़ कौन-सी है?",
+     "q2": "पिलाटेज़ की कौन-सी मूव मुझे सबसे ज़्यादा पसंद है?",
+     "q3": "मेरी पिलाटेज़ टीचर हम सबको क्लास शुरू करने के लिए एक मूव चुनने देती हैं। मुझे अपने लिए कौन-सी चुननी चाहिए?",
+     "distractor_sentence": "मेरे ट्रेनर की पसंदीदा मूव रोल-अप है, पर मुझे वह मुश्किल लगती है।"
+    },
+    "hg": {
+     "memory_turn": "Maine Pilates shuru kiya hai, aur meri favourite exercise the hundred hai; isse mera core acche se kaam karta hai aur posture sudharta hai. Mujhe hafte mein kitni baar practice karni chahiye?",
+     "assistant_reply": "Hafte mein do-teen sessions accha start hai. Isse muscles ko recover hone ka time milta hai aur strength bhi badhti hai, aur baaki dinon mein ghar pe chhota session add kar sakte hain.",
+     "followup_turn": "Kya Pilates se lower back pain mein help milti hai?",
+     "followup_reply": "Aksar haan, kyunki yeh andar ki core muscles ko mazboot karta hai aur posture sudharta hai. Halki class se shuru karein aur instructor ko dard ke baare mein batayein taaki woh exercises badal sakein.",
+     "q1": "Meri favourite Pilates exercise kaunsi hai?",
+     "q2": "Pilates ki kaunsi move mujhe sabse zyaada pasand hai?",
+     "q3": "Meri Pilates teacher hum sabko class shuru karne ke liye ek move chunne deti hain. Mujhe apne liye kaunsi chunni chahiye?",
+     "distractor_sentence": "Mere trainer ki favourite move roll-up hai, par mujhe woh mushkil lagti hai."
+    }
+   },
+   "gold": {
+    "answer_en": "the hundred",
+    "slots": [
+     {
+      "name": "exercise",
+      "aliases": [
+       "hundred",
+       "हंड्रेड"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "roll-up",
+     "roll up",
+     "रोल-अप"
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "P037",
+   "cand_id": "PX0546",
+   "memory_type": "preference",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I've been following along with yoga videos on YouTube, and my favourite instructor is Adriene; her calm voice really helps me relax. Should I also try an in-person class?",
+     "assistant_reply": "It's worth trying. A teacher in the room can correct your alignment, which videos can't do. Many studios offer a cheap first class, so you can test it without committing.",
+     "followup_turn": "What should I bring to my first class?",
+     "followup_reply": "Bring water, wear comfortable clothes that let you stretch, and arrive ten minutes early to tell the teacher you're new. Most studios lend mats if you don't have one.",
+     "q1": "Who is my favourite yoga instructor on YouTube?",
+     "q2": "Which YouTube yoga teacher do I like the most?"
+    },
+    "hi": {
+     "memory_turn": "मैं YouTube पर योगा वीडियो देखकर साथ-साथ कर रही हूँ, और मेरी पसंदीदा इंस्ट्रक्टर एड्रीन हैं; उनकी शांत आवाज़ से मुझे सच में सुकून मिलता है। क्या मुझे कोई आमने-सामने वाली क्लास भी आज़मानी चाहिए?",
+     "assistant_reply": "आज़माने लायक़ है। कमरे में मौजूद टीचर आपकी मुद्रा ठीक कर सकते हैं, जो वीडियो नहीं कर सकते। कई स्टूडियो पहली क्लास सस्ते में देते हैं, तो आप बिना बँधे आज़मा सकती हैं।",
+     "followup_turn": "पहली क्लास में क्या लेकर जाऊँ?",
+     "followup_reply": "पानी लेकर जाएँ, ऐसे आरामदायक कपड़े पहनें जिनमें खिंचाव हो सके, और दस मिनट पहले पहुँचकर टीचर को बताएँ कि आप नई हैं। मैट न हो तो ज़्यादातर स्टूडियो दे देते हैं।",
+     "q1": "YouTube पर मेरी पसंदीदा योगा इंस्ट्रक्टर कौन है?",
+     "q2": "YouTube की कौन-सी योगा टीचर मुझे सबसे ज़्यादा पसंद है?"
+    },
+    "hg": {
+     "memory_turn": "Main YouTube pe yoga videos dekh ke saath-saath kar rahi hoon, aur meri favourite instructor Adriene hain; unki calm awaaz se mujhe sach mein sukoon milta hai. Kya mujhe koi in-person class bhi try karni chahiye?",
+     "assistant_reply": "Try karne laayak hai. Room mein maujood teacher aapka alignment theek kar sakte hain, jo videos nahi kar sakte. Kai studios pehli class saste mein dete hain, toh aap bina commit kiye try kar sakti hain.",
+     "followup_turn": "Pehli class mein kya lekar jaaun?",
+     "followup_reply": "Paani lekar jaayein, aise comfortable kapde pehnein jinmein stretch ho sake, aur das minute pehle pahunch ke teacher ko batayein ki aap nayi hain. Mat na ho toh zyaadatar studios de dete hain.",
+     "q1": "YouTube pe meri favourite yoga instructor kaun hai?",
+     "q2": "YouTube ki kaunsi yoga teacher mujhe sabse zyaada pasand hai?"
+    }
+   },
+   "gold": {
+    "answer_en": "Adriene (Yoga With Adriene)",
+    "slots": [
+     {
+      "name": "instructor",
+      "aliases": [
+       "Adriene",
+       "एड्रीन",
+       "एड्रियन"
+      ]
+     }
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "P038",
+   "cand_id": "PX0589",
+   "memory_type": "preference",
+   "user_gender": "male",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I've been reading more poems lately, and I think I prefer modern poetry, though I'm open to other styles. Can you suggest a few collections to start with?",
+     "assistant_reply": "Try 'Ariel' by Sylvia Plath, 'Milk and Honey' by Rupi Kaur, and 'The Carrying' by Ada Limón. They are quite different from each other, so you'll quickly see which voice you like.",
+     "followup_turn": "How should I read poetry to get more out of it?",
+     "followup_reply": "Read each poem twice, once quickly and once slowly out loud. Notice the line breaks and images, and don't worry about understanding everything the first time.",
+     "q1": "What kind of poetry do I prefer?",
+     "q2": "Which style of poetry do I like most?"
+    },
+    "hi": {
+     "memory_turn": "आजकल मैं ज़्यादा कविताएँ पढ़ रहा हूँ, और मुझे लगता है मुझे आधुनिक कविता पसंद है, हालाँकि मैं दूसरी शैलियों के लिए भी तैयार हूँ। शुरुआत के लिए कुछ संग्रह बता सकते हैं?",
+     "assistant_reply": "सिल्विया प्लाथ की 'Ariel', रूपी कौर की 'Milk and Honey' और एडा लिमोन की 'The Carrying' पढ़िए। ये एक-दूसरे से काफ़ी अलग हैं, तो जल्दी पता चल जाएगा कि आपको कौन-सी आवाज़ पसंद है।",
+     "followup_turn": "कविता से ज़्यादा पाने के लिए उसे कैसे पढ़ूँ?",
+     "followup_reply": "हर कविता दो बार पढ़ें, एक बार जल्दी और एक बार धीरे-धीरे बोलकर। पंक्तियों के टूटने और बिंबों पर ध्यान दें, और पहली बार में सब समझने की चिंता न करें।",
+     "q1": "मुझे किस तरह की कविता पसंद है?",
+     "q2": "कविता की कौन-सी शैली मुझे सबसे ज़्यादा पसंद है?"
+    },
+    "hg": {
+     "memory_turn": "Aajkal main zyaada poems padh raha hoon, aur mujhe lagta hai mujhe modern poetry pasand hai, halanki main doosre styles ke liye bhi open hoon. Shuruaat ke liye kuch collections bata sakte hain?",
+     "assistant_reply": "Sylvia Plath ki 'Ariel', Rupi Kaur ki 'Milk and Honey' aur Ada Limón ki 'The Carrying' padhiye. Yeh ek-doosre se kaafi alag hain, toh jaldi pata chal jayega ki aapko kaunsi awaaz pasand hai.",
+     "followup_turn": "Poetry se zyaada paane ke liye use kaise padhun?",
+     "followup_reply": "Har poem do baar padhein, ek baar jaldi aur ek baar dheere-dheere bol ke. Line breaks aur images pe dhyaan dein, aur pehli baar mein sab samajhne ki chinta na karein.",
+     "q1": "Mujhe kis type ki poetry pasand hai?",
+     "q2": "Poetry ka kaunsa style mujhe sabse zyaada pasand hai?"
+    }
+   },
+   "gold": {
+    "answer_en": "modern poetry",
+    "slots": [
+     {
+      "name": "style",
+      "aliases": [
+       "modern",
+       "आधुनिक",
+       "मॉडर्न",
+       "contemporary"
+      ]
+     }
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "P039",
+   "cand_id": "PX0616",
+   "memory_type": "preference",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I've been thinking about it, and my favourite synth-pop album is probably 'Violator' by Depeche Mode. I want to start collecting vinyl. Is it worth buying a turntable with a built-in speaker?",
+     "assistant_reply": "They're convenient but usually sound thin and can wear records faster. A basic belt-drive turntable with a pair of powered bookshelf speakers costs a little more and sounds much better.",
+     "followup_turn": "How should I store my records?",
+     "followup_reply": "Keep them upright, never stacked flat, in inner and outer sleeves, and away from heat and sunlight. A sturdy shelf made for records is ideal.",
+     "q1": "What is my favourite synth-pop album?",
+     "q2": "Which synth-pop album do I like most?",
+     "distractor_sentence": "My sister thinks Black Celebration is their best album, but I disagree."
+    },
+    "hi": {
+     "memory_turn": "मैं इस बारे में सोच रही थी, और शायद मेरा पसंदीदा सिंथ-पॉप एल्बम डेपेश मोड का 'Violator' है। मैं विनाइल रिकॉर्ड इकट्ठा करना शुरू करना चाहती हूँ। क्या बिल्ट-इन स्पीकर वाला टर्नटेबल लेना ठीक है?",
+     "assistant_reply": "वे सुविधाजनक हैं पर आमतौर पर आवाज़ पतली होती है और रिकॉर्ड जल्दी घिस सकते हैं। एक सादा बेल्ट-ड्राइव टर्नटेबल और पावर वाले छोटे बुकशेल्फ़ स्पीकर थोड़े महँगे पड़ते हैं, पर आवाज़ कहीं बेहतर होती है।",
+     "followup_turn": "रिकॉर्ड को कैसे रखूँ?",
+     "followup_reply": "उन्हें सीधा खड़ा रखें, कभी एक के ऊपर एक न रखें, अंदर और बाहर के कवर में रखें, और गर्मी व धूप से दूर रखें। रिकॉर्ड के लिए बनी मज़बूत शेल्फ़ सबसे अच्छी है।",
+     "q1": "मेरा पसंदीदा सिंथ-पॉप एल्बम कौन-सा है?",
+     "q2": "मुझे सबसे ज़्यादा कौन-सा सिंथ-पॉप एल्बम पसंद है?",
+     "distractor_sentence": "मेरी बहन को लगता है कि Black Celebration उनका सबसे अच्छा एल्बम है, पर मैं सहमत नहीं हूँ।"
+    },
+    "hg": {
+     "memory_turn": "Main is baare mein soch rahi thi, aur shayad mera favourite synth-pop album Depeche Mode ka 'Violator' hai. Main vinyl records collect karna shuru karna chahti hoon. Kya built-in speaker wala turntable lena theek hai?",
+     "assistant_reply": "Woh convenient hain par usually awaaz patli hoti hai aur records jaldi ghis sakte hain. Ek simple belt-drive turntable aur powered bookshelf speakers thode mehenge padte hain, par awaaz kahin better hoti hai.",
+     "followup_turn": "Records ko kaise rakhun?",
+     "followup_reply": "Unhe seedha khada rakhein, kabhi ek ke upar ek na rakhein, inner aur outer sleeves mein rakhein, aur garmi aur dhoop se door rakhein. Records ke liye bani mazboot shelf sabse acchi hai.",
+     "q1": "Mera favourite synth-pop album kaunsa hai?",
+     "q2": "Mujhe sabse zyaada kaunsa synth-pop album pasand hai?",
+     "distractor_sentence": "Meri behen ko lagta hai ki Black Celebration unka sabse accha album hai, par main agree nahi karti."
+    }
+   },
+   "gold": {
+    "answer_en": "Violator (Depeche Mode)",
+    "slots": [
+     {
+      "name": "album",
+      "aliases": [
+       "Violator",
+       "वायलेटर"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "Black Celebration"
+    ]
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "P040",
+   "cand_id": "PX0687",
+   "memory_type": "preference",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I've been experimenting with different guitar tunings, and I think I prefer the sound of D tuning over standard tuning. Will tuning down often damage my guitar?",
+     "assistant_reply": "No, tuning down slightly is safe. The strings just feel a bit looser. If you stay in the lower tuning for a long time, a slightly heavier string set and a quick setup will keep it playing well.",
+     "followup_turn": "Do I need to adjust the neck?",
+     "followup_reply": "Only if you notice buzzing or the action changes a lot. A small truss rod adjustment fixes most problems, but a music shop can do it if you're unsure.",
+     "q1": "Which guitar tuning do I prefer?",
+     "q2": "What tuning do I like the sound of most on my guitar?",
+     "q3": "Before tonight's jam session I'm retuning my guitar to the sound I like best. Which tuning should I set?",
+     "distractor_sentence": "My bandmate prefers open G for his slide playing."
+    },
+    "hi": {
+     "memory_turn": "मैं गिटार की अलग-अलग ट्यूनिंग आज़मा रहा हूँ, और मुझे लगता है कि मुझे स्टैंडर्ड ट्यूनिंग से ज़्यादा D ट्यूनिंग की आवाज़ पसंद है। क्या बार-बार नीचे ट्यून करने से गिटार ख़राब होगा?",
+     "assistant_reply": "नहीं, थोड़ा नीचे ट्यून करना सुरक्षित है। तार बस थोड़े ढीले लगते हैं। अगर लंबे समय तक नीचे वाली ट्यूनिंग में रहें, तो थोड़े मोटे तार और एक छोटा सेटअप इसे अच्छा बजता रखेंगे।",
+     "followup_turn": "क्या मुझे नेक ठीक करनी पड़ेगी?",
+     "followup_reply": "सिर्फ़ तब, जब भिनभिनाहट आए या तारों की ऊँचाई बहुत बदल जाए। ट्रस रॉड का छोटा-सा बदलाव ज़्यादातर दिक़्क़तें ठीक कर देता है, और यक़ीन न हो तो म्यूज़िक शॉप कर देगी।",
+     "q1": "मुझे गिटार की कौन-सी ट्यूनिंग पसंद है?",
+     "q2": "अपने गिटार पर मुझे किस ट्यूनिंग की आवाज़ सबसे ज़्यादा पसंद है?",
+     "q3": "आज रात के जैम सेशन से पहले मैं अपना गिटार अपनी सबसे पसंदीदा आवाज़ पर ट्यून कर रहा हूँ। कौन-सी ट्यूनिंग लगाऊँ?",
+     "distractor_sentence": "मेरे बैंड के साथी को स्लाइड बजाने के लिए open G पसंद है।"
+    },
+    "hg": {
+     "memory_turn": "Main guitar ki alag-alag tunings try kar raha hoon, aur mujhe lagta hai ki mujhe standard tuning se zyaada D tuning ki awaaz pasand hai. Kya baar-baar neeche tune karne se guitar kharab hoga?",
+     "assistant_reply": "Nahi, thoda neeche tune karna safe hai. Strings bas thodi dheeli lagti hain. Agar lambe time tak neeche wali tuning mein rahein, toh thodi moti strings aur ek chhota setup ise accha bajta rakhenge.",
+     "followup_turn": "Kya mujhe neck adjust karni padegi?",
+     "followup_reply": "Sirf tab, jab buzzing aaye ya action bahut badal jaaye. Truss rod ka chhota-sa adjustment zyaadatar problems theek kar deta hai, aur yakeen na ho toh music shop kar degi.",
+     "q1": "Mujhe guitar ki kaunsi tuning pasand hai?",
+     "q2": "Apne guitar pe mujhe kis tuning ki awaaz sabse zyaada pasand hai?",
+     "q3": "Aaj raat ke jam session se pehle main apna guitar apni sabse favourite awaaz pe tune kar raha hoon. Kaunsi tuning lagaun?",
+     "distractor_sentence": "Mere band ke saathi ko slide bajane ke liye open G pasand hai."
+    }
+   },
+   "gold": {
+    "answer_en": "D tuning",
+    "slots": [
+     {
+      "name": "tuning",
+      "aliases": [
+       "D tuning",
+       "D-tuning",
+       "D ट्यूनिंग",
+       "डी ट्यूनिंग"
+      ]
+     }
+    ]
+   },
+   "distractor": {
+    "value_aliases": [
+     "open G"
+    ]
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "E031",
+   "cand_id": "EC041",
+   "memory_type": "event",
+   "user_gender": "female",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I saw a beautiful 3-bedroom bungalow in the Oakwood neighbourhood on January 22nd that I really liked, but the kitchen needed serious renovation. How much should I budget for a kitchen remodel?",
+     "assistant_reply": "A basic refresh with new cabinet doors, counters and paint is far cheaper than a full remodel with new layout and plumbing. Get at least three quotes and keep 10 to 15 percent extra for surprises.",
+     "followup_turn": "Should I get an inspection before making an offer?",
+     "followup_reply": "Yes. A home inspection can reveal hidden problems with wiring, plumbing or the roof, and gives you a stronger position to negotiate the price.",
+     "q1": "When did I see the 3-bedroom bungalow in Oakwood?",
+     "q2": "On what date did I view the Oakwood bungalow?",
+     "q3": "The estate agent wants to know when I last came by to look at that house with the old kitchen. What date should I tell her?",
+     "distractor_sentence": "My parents viewed a house in the next street on February 5th."
+    },
+    "hi": {
+     "memory_turn": "मैंने 22 जनवरी को ओकवुड इलाक़े में एक ख़ूबसूरत 3-बेडरूम बंगला देखा जो मुझे बहुत पसंद आया, पर उसकी रसोई में बड़ी मरम्मत की ज़रूरत थी। रसोई नए सिरे से बनाने के लिए कितना बजट रखूँ?",
+     "assistant_reply": "नए कैबिनेट दरवाज़े, काउंटर और पेंट वाला साधारण बदलाव, नए लेआउट और प्लंबिंग वाले पूरे काम से कहीं सस्ता है। कम से कम तीन कोटेशन लें और अचानक ख़र्चों के लिए 10 से 15 प्रतिशत ज़्यादा रखें।",
+     "followup_turn": "क्या ऑफ़र देने से पहले घर की जाँच करवानी चाहिए?",
+     "followup_reply": "हाँ। घर की जाँच से वायरिंग, प्लंबिंग या छत की छुपी दिक़्क़तें पता चल सकती हैं, और क़ीमत पर मोलभाव करने में आपकी स्थिति मज़बूत होती है।",
+     "q1": "मैंने ओकवुड में 3-बेडरूम बंगला कब देखा था?",
+     "q2": "मैंने ओकवुड वाला बंगला किस तारीख़ को देखा?",
+     "q3": "प्रॉपर्टी एजेंट जानना चाहती है कि पुरानी रसोई वाला वह घर देखने मैं आख़िरी बार कब आई थी। उसे कौन-सी तारीख़ बताऊँ?",
+     "distractor_sentence": "मेरे मम्मी-पापा ने 5 फ़रवरी को अगली गली में एक घर देखा था।"
+    },
+    "hg": {
+     "memory_turn": "Maine 22 January ko Oakwood area mein ek khoobsurat 3-bedroom bungalow dekha jo mujhe bahut pasand aaya, par uski kitchen mein badi renovation ki zaroorat thi. Kitchen remodel ke liye kitna budget rakhun?",
+     "assistant_reply": "Naye cabinet doors, counters aur paint wala basic refresh, naye layout aur plumbing wale full remodel se kahin sasta hai. Kam se kam teen quotes lein aur surprises ke liye 10 se 15 percent zyaada rakhein.",
+     "followup_turn": "Kya offer dene se pehle home inspection karwana chahiye?",
+     "followup_reply": "Haan. Home inspection se wiring, plumbing ya chhat ki chhupi problems pata chal sakti hain, aur price negotiate karne mein aapki position strong hoti hai.",
+     "q1": "Maine Oakwood mein 3-bedroom bungalow kab dekha tha?",
+     "q2": "Maine Oakwood wala bungalow kis date ko dekha?",
+     "q3": "Property agent jaanna chahti hai ki purani kitchen wala woh ghar dekhne main last time kab aayi thi. Use kaunsi date bataun?",
+     "distractor_sentence": "Mere mummy-papa ne 5 February ko agli gali mein ek ghar dekha tha."
+    }
+   },
+   "gold": {
+    "answer_en": "January 22",
+    "date": {
+     "day": 22,
+     "month": 1
+    }
+   },
+   "distractor": {
+    "date": {
+     "day": 5,
+     "month": 2
+    }
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "E032",
+   "cand_id": "EC042",
+   "memory_type": "event",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I put in an offer on a 3-bedroom townhouse in the Brookside neighbourhood on February 25th, and after some negotiation we agreed on a price. What are the next steps before closing?",
+     "assistant_reply": "Usually you'll finalise the mortgage, arrange a home inspection and appraisal, review the title search, and buy home insurance. Your agent or lawyer will give you a timeline with deadlines.",
+     "followup_turn": "How long does closing usually take?",
+     "followup_reply": "Often around 30 to 45 days after the offer is accepted, but it depends on the lender and any repairs that need to be agreed.",
+     "q1": "When did I put in an offer on the Brookside townhouse?",
+     "q2": "On what date did I make my offer on the 3-bedroom townhouse in Brookside?",
+     "distractor_sentence": "My friend made an offer on a flat across town on March 8th."
+    },
+    "hi": {
+     "memory_turn": "मैंने 25 फ़रवरी को ब्रुकसाइड इलाक़े में एक 3-बेडरूम टाउनहाउस पर ऑफ़र दिया, और कुछ मोलभाव के बाद क़ीमत पर बात बन गई। सौदा पूरा होने से पहले अगले क़दम क्या हैं?",
+     "assistant_reply": "आमतौर पर आप होम लोन पक्का करेंगे, घर की जाँच और मूल्यांकन करवाएँगे, मालिकाना हक़ के काग़ज़ देखेंगे, और घर का बीमा लेंगे। आपका एजेंट या वकील आपको तारीख़ों के साथ पूरा क्रम देगा।",
+     "followup_turn": "सौदा पूरा होने में आमतौर पर कितना समय लगता है?",
+     "followup_reply": "अक्सर ऑफ़र मंज़ूर होने के 30 से 45 दिन बाद, पर यह बैंक और तय होने वाली मरम्मत पर निर्भर करता है।",
+     "q1": "मैंने ब्रुकसाइड वाले टाउनहाउस पर ऑफ़र कब दिया था?",
+     "q2": "ब्रुकसाइड के 3-बेडरूम टाउनहाउस पर मैंने किस तारीख़ को ऑफ़र दिया?",
+     "distractor_sentence": "मेरे दोस्त ने 8 मार्च को शहर के दूसरे छोर पर एक फ़्लैट के लिए ऑफ़र दिया था।"
+    },
+    "hg": {
+     "memory_turn": "Maine 25 February ko Brookside area mein ek 3-bedroom townhouse pe offer diya, aur kuch negotiation ke baad price pe baat ban gayi. Closing se pehle next steps kya hain?",
+     "assistant_reply": "Usually aap mortgage final karenge, home inspection aur appraisal karwayenge, title search dekhenge, aur home insurance lenge. Aapka agent ya lawyer aapko deadlines ke saath poori timeline dega.",
+     "followup_turn": "Closing mein usually kitna time lagta hai?",
+     "followup_reply": "Aksar offer accept hone ke 30 se 45 din baad, par yeh lender aur agree hone wali repairs pe depend karta hai.",
+     "q1": "Maine Brookside wale townhouse pe offer kab diya tha?",
+     "q2": "Brookside ke 3-bedroom townhouse pe maine kis date ko offer diya?",
+     "distractor_sentence": "Mere dost ne 8 March ko sheher ke doosre kone pe ek flat ke liye offer diya tha."
+    }
+   },
+   "gold": {
+    "answer_en": "February 25",
+    "date": {
+     "day": 25,
+     "month": 2
+    }
+   },
+   "distractor": {
+    "date": {
+     "day": 8,
+     "month": 3
+    }
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "E033",
+   "cand_id": "EC043",
+   "memory_type": "event",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I fell in love with a 2-bedroom condo on February 15th; it had modern appliances and a community pool, but my offer got rejected a few days later because of a higher bid. How can I make my next offer stronger?",
+     "assistant_reply": "Get a mortgage pre-approval letter, keep conditions to a minimum, offer a flexible closing date, and ask your agent what matters most to the seller. A short personal letter sometimes helps too.",
+     "followup_turn": "Should I offer above the asking price?",
+     "followup_reply": "In a competitive market it may be necessary, but set your maximum in advance based on recent sales nearby so you don't overpay in the heat of the moment.",
+     "q1": "When did I see the 2-bedroom condo with the community pool?",
+     "q2": "On what date did I fall in love with the 2-bedroom condo?",
+     "q3": "I'm writing in my house-hunting diary about the flat with the shared pool that I lost to a higher bid. Which date did I first see it?"
+    },
+    "hi": {
+     "memory_turn": "15 फ़रवरी को मुझे एक 2-बेडरूम कॉन्डो से प्यार हो गया; उसमें आधुनिक उपकरण और सोसाइटी का पूल था, पर कुछ दिन बाद ज़्यादा ऊँची बोली की वजह से मेरा ऑफ़र ठुकरा दिया गया। अगला ऑफ़र मज़बूत कैसे बनाऊँ?",
+     "assistant_reply": "होम लोन का प्री-अप्रूवल लेटर लें, शर्तें कम से कम रखें, सौदा पूरा करने की तारीख़ में लचीलापन दें, और अपने एजेंट से पूछें कि बेचने वाले के लिए सबसे ज़रूरी क्या है। कभी-कभी एक छोटा निजी पत्र भी मदद करता है।",
+     "followup_turn": "क्या मुझे माँगी गई क़ीमत से ज़्यादा ऑफ़र करना चाहिए?",
+     "followup_reply": "होड़ वाले बाज़ार में ज़रूरी हो सकता है, पर आसपास की हाल की बिक्री देखकर अपनी अधिकतम सीमा पहले तय कर लें, ताकि जोश में ज़्यादा न दे दें।",
+     "q1": "मैंने सोसाइटी पूल वाला 2-बेडरूम कॉन्डो कब देखा था?",
+     "q2": "मुझे किस तारीख़ को 2-बेडरूम कॉन्डो से प्यार हुआ था?",
+     "q3": "मैं घर ढूँढने की अपनी डायरी में साझा पूल वाले उस फ़्लैट के बारे में लिख रही हूँ जो ऊँची बोली में हाथ से निकल गया। मैंने उसे पहली बार किस तारीख़ को देखा था?"
+    },
+    "hg": {
+     "memory_turn": "15 February ko mujhe ek 2-bedroom condo se pyaar ho gaya; usmein modern appliances aur community pool tha, par kuch din baad higher bid ki wajah se mera offer reject ho gaya. Agla offer strong kaise banaun?",
+     "assistant_reply": "Mortgage pre-approval letter lein, conditions kam se kam rakhein, closing date mein flexibility dein, aur apne agent se poochhein ki seller ke liye sabse zaroori kya hai. Kabhi-kabhi ek chhota personal letter bhi help karta hai.",
+     "followup_turn": "Kya mujhe asking price se zyaada offer karna chahiye?",
+     "followup_reply": "Competitive market mein zaroori ho sakta hai, par aaspaas ki recent sales dekh ke apni maximum limit pehle decide kar lein, taaki josh mein zyaada na de dein.",
+     "q1": "Maine community pool wala 2-bedroom condo kab dekha tha?",
+     "q2": "Mujhe kis date ko 2-bedroom condo se pyaar hua tha?",
+     "q3": "Main ghar dhoondhne ki apni diary mein shared pool wale us flat ke baare mein likh rahi hoon jo higher bid mein haath se nikal gaya. Maine use pehli baar kis date ko dekha tha?"
+    }
+   },
+   "gold": {
+    "answer_en": "February 15",
+    "date": {
+     "day": 15,
+     "month": 2
+    }
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "E034",
+   "cand_id": "EC044",
+   "memory_type": "event",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I've been searching for a home for a while, and some places just didn't fit my budget, like the one in Cedar Creek I saw on February 1st; it was way out of my league. How do I work out a realistic budget?",
+     "assistant_reply": "A common guide is to keep total housing costs below about 30 percent of your take-home pay. Include the deposit, closing costs, taxes, insurance and maintenance, not just the monthly loan payment.",
+     "followup_turn": "How big should my emergency fund be after buying?",
+     "followup_reply": "Aim for three to six months of essential expenses. Homes come with surprise repairs, so it's wise not to spend every last rupee or dollar on the deposit.",
+     "q1": "When did I see the property in Cedar Creek?",
+     "q2": "On what date did I look at the house in Cedar Creek that was beyond my budget?",
+     "distractor_sentence": "My sister looked at a place in Maple Heights on February 19th."
+    },
+    "hi": {
+     "memory_turn": "मैं काफ़ी समय से घर ढूँढ रहा हूँ, और कुछ घर मेरे बजट में बिल्कुल नहीं आए, जैसे सीडर क्रीक वाला जो मैंने 1 फ़रवरी को देखा था; वह मेरी पहुँच से बहुत बाहर था। सही बजट कैसे तय करूँ?",
+     "assistant_reply": "एक आम नियम है कि घर का कुल ख़र्च आपकी हाथ में आने वाली तनख़्वाह के लगभग 30 प्रतिशत से कम रहे। सिर्फ़ मासिक किस्त नहीं, बल्कि डाउन पेमेंट, सौदे का ख़र्च, टैक्स, बीमा और रखरखाव भी जोड़ें।",
+     "followup_turn": "घर ख़रीदने के बाद इमरजेंसी फ़ंड कितना होना चाहिए?",
+     "followup_reply": "ज़रूरी ख़र्चों के तीन से छह महीने के बराबर रखें। घरों में अचानक मरम्मत आती रहती है, इसलिए डाउन पेमेंट में आख़िरी पैसा तक लगा देना समझदारी नहीं।",
+     "q1": "मैंने सीडर क्रीक वाली प्रॉपर्टी कब देखी थी?",
+     "q2": "सीडर क्रीक का वह घर जो मेरे बजट से बाहर था, मैंने किस तारीख़ को देखा?",
+     "distractor_sentence": "मेरी बहन ने 19 फ़रवरी को मेपल हाइट्स में एक घर देखा था।"
+    },
+    "hg": {
+     "memory_turn": "Main kaafi time se ghar dhoondh raha hoon, aur kuch ghar mere budget mein bilkul nahi aaye, jaise Cedar Creek wala jo maine 1 February ko dekha tha; woh meri pahunch se bahut bahar tha. Sahi budget kaise decide karoon?",
+     "assistant_reply": "Ek common rule hai ki ghar ka total kharcha aapki take-home salary ke lagbhag 30 percent se kam rahe. Sirf monthly EMI nahi, balki down payment, closing costs, tax, insurance aur maintenance bhi jodein.",
+     "followup_turn": "Ghar khareedne ke baad emergency fund kitna hona chahiye?",
+     "followup_reply": "Zaroori kharchon ke teen se chhe mahine ke barabar rakhein. Gharon mein achaanak repairs aati rehti hain, isliye down payment mein aakhri paisa tak laga dena samajhdaari nahi.",
+     "q1": "Maine Cedar Creek wali property kab dekhi thi?",
+     "q2": "Cedar Creek ka woh ghar jo mere budget se bahar tha, maine kis date ko dekha?",
+     "distractor_sentence": "Meri behen ne 19 February ko Maple Heights mein ek ghar dekha tha."
+    }
+   },
+   "gold": {
+    "answer_en": "February 1",
+    "date": {
+     "day": 1,
+     "month": 2
+    }
+   },
+   "distractor": {
+    "date": {
+     "day": 19,
+     "month": 2
+    }
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "E035",
+   "cand_id": "EC046",
+   "memory_type": "event",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I attended a lecture at the Art Gallery on 'The Evolution of Street Art' on March 3rd, and it got me thinking about the role of street art in cities. Which street artists should I read about?",
+     "assistant_reply": "Start with Banksy for political stencils, Shepard Fairey for bold poster art, and Os Gêmeos for colourful murals. In India, the St+art India Foundation has documented many large public murals.",
+     "followup_turn": "Are there street art tours I could join?",
+     "followup_reply": "Many cities have guided walking tours, often run by local artists. Delhi's Lodhi Art District and Mumbai's Bandra area are well known for their murals.",
+     "q1": "When did I attend the lecture on 'The Evolution of Street Art'?",
+     "q2": "On what date was the street art lecture I went to at the Art Gallery?",
+     "q3": "I'm writing a blog post about the gallery talk on graffiti and murals that I went to. What date should I mention?"
+    },
+    "hi": {
+     "memory_turn": "मैं 3 मार्च को आर्ट गैलरी में 'The Evolution of Street Art' नाम के एक लेक्चर में गई थी, और उसने मुझे शहरों में स्ट्रीट आर्ट की भूमिका के बारे में सोचने पर लगा दिया। मुझे किन स्ट्रीट आर्टिस्ट के बारे में पढ़ना चाहिए?",
+     "assistant_reply": "राजनीतिक स्टेंसिल के लिए बैंक्सी, बोल्ड पोस्टर आर्ट के लिए शेपर्ड फ़ेयरी, और रंगीन म्यूरल के लिए ओस जेमियोस से शुरू करें। भारत में St+art India Foundation ने कई बड़े सार्वजनिक म्यूरल दर्ज किए हैं।",
+     "followup_turn": "क्या कोई स्ट्रीट आर्ट टूर है जिसमें मैं शामिल हो सकूँ?",
+     "followup_reply": "कई शहरों में गाइड के साथ पैदल टूर होते हैं, अक्सर स्थानीय कलाकार चलाते हैं। दिल्ली का लोधी आर्ट डिस्ट्रिक्ट और मुंबई का बांद्रा इलाक़ा अपने म्यूरल के लिए मशहूर हैं।",
+     "q1": "मैं 'The Evolution of Street Art' वाले लेक्चर में कब गई थी?",
+     "q2": "आर्ट गैलरी में जिस स्ट्रीट आर्ट लेक्चर में मैं गई, वह किस तारीख़ को था?",
+     "q3": "मैं ग्रैफ़िटी और म्यूरल पर गैलरी में हुई उस बातचीत के बारे में ब्लॉग लिख रही हूँ जिसमें मैं गई थी। मुझे कौन-सी तारीख़ लिखनी चाहिए?"
+    },
+    "hg": {
+     "memory_turn": "Main 3 March ko Art Gallery mein 'The Evolution of Street Art' naam ke ek lecture mein gayi thi, aur usne mujhe sheheron mein street art ke role ke baare mein sochne pe laga diya. Mujhe kin street artists ke baare mein padhna chahiye?",
+     "assistant_reply": "Political stencils ke liye Banksy, bold poster art ke liye Shepard Fairey, aur colourful murals ke liye Os Gêmeos se shuru karein. India mein St+art India Foundation ne kai bade public murals document kiye hain.",
+     "followup_turn": "Kya koi street art tour hai jismein main join kar sakoon?",
+     "followup_reply": "Kai sheheron mein guided walking tours hote hain, aksar local artists chalate hain. Delhi ka Lodhi Art District aur Mumbai ka Bandra area apne murals ke liye famous hain.",
+     "q1": "Main 'The Evolution of Street Art' wale lecture mein kab gayi thi?",
+     "q2": "Art Gallery mein jis street art lecture mein main gayi, woh kis date ko tha?",
+     "q3": "Main graffiti aur murals pe gallery mein hui us talk ke baare mein blog likh rahi hoon jismein main gayi thi. Mujhe kaunsi date likhni chahiye?"
+    }
+   },
+   "gold": {
+    "answer_en": "March 3",
+    "date": {
+     "day": 3,
+     "month": 3
+    }
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "E036",
+   "cand_id": "EC047",
+   "memory_type": "event",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I attended the 'Women in Art' exhibition on February 10th, and I was especially drawn to the works of local artist Rachel Lee. How can I support local artists like her?",
+     "assistant_reply": "Buy prints or small works when you can, follow and share their pages, attend their openings, and recommend them to friends. Commissioning a small piece is a lovely way to help too.",
+     "followup_turn": "Is it okay to ask an artist about prices directly?",
+     "followup_reply": "Yes, most artists appreciate a polite direct question. Galleries usually have a price list, and many artists also offer payment plans for larger works.",
+     "q1": "When did I attend the 'Women in Art' exhibition?",
+     "q2": "On what date did I go to the 'Women in Art' exhibition?",
+     "distractor_sentence": "My cousin is visiting a photography exhibition on March 14th."
+    },
+    "hi": {
+     "memory_turn": "मैं 10 फ़रवरी को 'Women in Art' प्रदर्शनी में गया था, और मुझे ख़ासकर स्थानीय कलाकार रेचल ली का काम बहुत पसंद आया। मैं उनके जैसे स्थानीय कलाकारों की मदद कैसे कर सकता हूँ?",
+     "assistant_reply": "जब हो सके उनके प्रिंट या छोटी कलाकृतियाँ ख़रीदें, उनके पेज फ़ॉलो और शेयर करें, उनकी प्रदर्शनियों में जाएँ, और दोस्तों को उनके बारे में बताएँ। कोई छोटा काम बनवाना भी अच्छा तरीक़ा है।",
+     "followup_turn": "क्या कलाकार से सीधे क़ीमत पूछना ठीक है?",
+     "followup_reply": "हाँ, ज़्यादातर कलाकार विनम्र सीधे सवाल की क़द्र करते हैं। गैलरी में आमतौर पर क़ीमतों की सूची होती है, और कई कलाकार बड़े कामों के लिए किस्तों का विकल्प भी देते हैं।",
+     "q1": "मैं 'Women in Art' प्रदर्शनी में कब गया था?",
+     "q2": "मैं किस तारीख़ को 'Women in Art' प्रदर्शनी देखने गया?",
+     "distractor_sentence": "मेरा कज़िन 14 मार्च को एक फ़ोटोग्राफ़ी प्रदर्शनी देखने जा रहा है।"
+    },
+    "hg": {
+     "memory_turn": "Main 10 February ko 'Women in Art' exhibition mein gaya tha, aur mujhe khaaskar local artist Rachel Lee ka kaam bahut pasand aaya. Main unke jaise local artists ki madad kaise kar sakta hoon?",
+     "assistant_reply": "Jab ho sake unke prints ya chhote artworks khareedein, unke pages follow aur share karein, unke openings mein jaayein, aur doston ko unke baare mein batayein. Koi chhota piece commission karna bhi accha tareeka hai.",
+     "followup_turn": "Kya artist se seedha price poochhna theek hai?",
+     "followup_reply": "Haan, zyaadatar artists polite seedhe sawaal ki kadar karte hain. Galleries mein usually price list hoti hai, aur kai artists bade kaamon ke liye installments ka option bhi dete hain.",
+     "q1": "Main 'Women in Art' exhibition mein kab gaya tha?",
+     "q2": "Main kis date ko 'Women in Art' exhibition dekhne gaya?",
+     "distractor_sentence": "Mera cousin 14 March ko ek photography exhibition dekhne ja raha hai."
+    }
+   },
+   "gold": {
+    "answer_en": "February 10",
+    "date": {
+     "day": 10,
+     "month": 2
+    }
+   },
+   "distractor": {
+    "date": {
+     "day": 14,
+     "month": 3
+    }
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "E037",
+   "cand_id": "EC048",
+   "memory_type": "event",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "I volunteered at the Children's Museum for their 'Art Afternoon' event on February 17th, and it was amazing to see the kids create artwork inspired by famous paintings. Can you suggest easy art activities for kids aged six to ten?",
+     "assistant_reply": "Try leaf printing with paint, collage portraits from old magazines, and 'starry night' pictures with oil pastels. Salt painting with glue and watercolours is also simple and very satisfying.",
+     "followup_turn": "How do I keep the mess under control?",
+     "followup_reply": "Cover tables with old sheets or newspaper, give each child an apron or an old T-shirt, and use washable paints. Setting up a clean-up station with wipes saves a lot of trouble.",
+     "q1": "When did I volunteer at the Children's Museum 'Art Afternoon'?",
+     "q2": "On what date did I help out at the Children's Museum art event?"
+    },
+    "hi": {
+     "memory_turn": "मैंने 17 फ़रवरी को चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' इवेंट में वॉलंटियर किया, और बच्चों को मशहूर पेंटिंग से प्रेरित होकर अपनी कला बनाते देखना कमाल था। छह से दस साल के बच्चों के लिए आसान आर्ट एक्टिविटी बता सकते हैं?",
+     "assistant_reply": "पत्तियों पर रंग लगाकर छाप बनाना, पुरानी पत्रिकाओं से कोलाज वाले चेहरे, और ऑयल पेस्टल से 'तारों भरी रात' वाली तस्वीरें आज़माइए। गोंद और वॉटरकलर से नमक वाली पेंटिंग भी आसान और मज़ेदार है।",
+     "followup_turn": "गंदगी को कैसे क़ाबू में रखूँ?",
+     "followup_reply": "टेबल को पुरानी चादर या अख़बार से ढकें, हर बच्चे को एप्रन या पुरानी टी-शर्ट दें, और धुल जाने वाले रंग इस्तेमाल करें। वाइप्स के साथ सफ़ाई का एक कोना बनाने से बहुत झंझट बचती है।",
+     "q1": "मैंने चिल्ड्रन्स म्यूज़ियम के 'Art Afternoon' में कब वॉलंटियर किया?",
+     "q2": "चिल्ड्रन्स म्यूज़ियम के आर्ट इवेंट में मैंने किस तारीख़ को मदद की?"
+    },
+    "hg": {
+     "memory_turn": "Maine 17 February ko Children's Museum ke 'Art Afternoon' event mein volunteer kiya, aur bacchon ko famous paintings se inspire hokar apni art banate dekhna kamaal tha. Chhe se das saal ke bacchon ke liye easy art activities bata sakte hain?",
+     "assistant_reply": "Pattiyon pe paint laga ke prints banana, purani magazines se collage wale chehre, aur oil pastels se 'starry night' wali pictures try kijiye. Glue aur watercolours se salt painting bhi easy aur mazedaar hai.",
+     "followup_turn": "Gandagi ko kaise control mein rakhun?",
+     "followup_reply": "Tables ko purani chaadar ya newspaper se dhakein, har bacche ko apron ya purani T-shirt dein, aur washable paints use karein. Wipes ke saath ek cleaning corner banane se bahut jhanjhat bachti hai.",
+     "q1": "Maine Children's Museum ke 'Art Afternoon' mein kab volunteer kiya?",
+     "q2": "Children's Museum ke art event mein maine kis date ko help ki?"
+    }
+   },
+   "gold": {
+    "answer_en": "February 17",
+    "date": {
+     "day": 17,
+     "month": 2
+    }
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "E038",
+   "cand_id": "EC052",
+   "memory_type": "event",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I've been really busy with photography lately. My new remote shutter release arrived on February 10th, and it's been a game-changer for my long exposures. What should I try shooting with it?",
+     "assistant_reply": "Try light trails from traffic at dusk, silky waterfalls with a slow shutter, star trails on a clear night, or self-portraits where you can't reach the camera.",
+     "followup_turn": "What settings work for light trails?",
+     "followup_reply": "Use a tripod, ISO 100, an aperture around f/8 to f/11 and a shutter speed of 10 to 30 seconds. Adjust the time until the trails look as long as you like.",
+     "q1": "When did my remote shutter release arrive?",
+     "q2": "On what date was my new remote shutter release delivered?",
+     "q3": "I want to check if my camera remote is still under its 30-day return window. On what date did it reach me?",
+     "distractor_sentence": "My friend's new tripod arrived on February 21st."
+    },
+    "hi": {
+     "memory_turn": "आजकल मैं फ़ोटोग्राफ़ी में बहुत व्यस्त हूँ। मेरा नया रिमोट शटर रिलीज़ 10 फ़रवरी को आया, और लंबे एक्सपोज़र के लिए इसने कमाल कर दिया है। इससे क्या-क्या शूट करके देखूँ?",
+     "assistant_reply": "शाम के समय ट्रैफ़िक की रोशनी की लकीरें, धीमे शटर से रेशमी झरने, साफ़ रात में तारों की लकीरें, या ऐसी सेल्फ़-पोर्ट्रेट आज़माइए जिनमें आप कैमरे तक नहीं पहुँच सकते।",
+     "followup_turn": "रोशनी की लकीरों के लिए कौन-सी सेटिंग ठीक रहती है?",
+     "followup_reply": "तिपाई इस्तेमाल करें, ISO 100, अपर्चर f/8 से f/11 के आसपास और शटर स्पीड 10 से 30 सेकंड रखें। समय तब तक बदलें जब तक लकीरें मनचाही लंबी न दिखें।",
+     "q1": "मेरा रिमोट शटर रिलीज़ कब आया था?",
+     "q2": "मेरा नया रिमोट शटर रिलीज़ किस तारीख़ को डिलीवर हुआ?",
+     "q3": "मैं देखना चाहता हूँ कि मेरा कैमरा रिमोट अभी 30 दिन की वापसी की सीमा में है या नहीं। वह मेरे पास किस तारीख़ को पहुँचा था?",
+     "distractor_sentence": "मेरे दोस्त का नया ट्राइपॉड 21 फ़रवरी को आया था।"
+    },
+    "hg": {
+     "memory_turn": "Aajkal main photography mein bahut busy hoon. Mera naya remote shutter release 10 February ko aaya, aur long exposures ke liye isne kamaal kar diya hai. Isse kya-kya shoot karke dekhun?",
+     "assistant_reply": "Shaam ke time traffic ki light trails, slow shutter se silky waterfalls, saaf raat mein star trails, ya aise self-portraits try kijiye jinmein aap camera tak nahi pahunch sakte.",
+     "followup_turn": "Light trails ke liye kaunsi settings theek rehti hain?",
+     "followup_reply": "Tripod use karein, ISO 100, aperture f/8 se f/11 ke aaspaas aur shutter speed 10 se 30 second rakhein. Time tab tak badlein jab tak trails mann-chahi lambi na dikhein.",
+     "q1": "Mera remote shutter release kab aaya tha?",
+     "q2": "Mera naya remote shutter release kis date ko deliver hua?",
+     "q3": "Main dekhna chahta hoon ki mera camera remote abhi 30 din ki return window mein hai ya nahi. Woh mere paas kis date ko pahuncha tha?",
+     "distractor_sentence": "Mere dost ka naya tripod 21 February ko aaya tha."
+    }
+   },
+   "gold": {
+    "answer_en": "February 10",
+    "date": {
+     "day": 10,
+     "month": 2
+    }
+   },
+   "distractor": {
+    "date": {
+     "day": 21,
+     "month": 2
+    }
+   },
+   "has_q3": true
+  },
+  {
+   "item_id": "E039",
+   "cand_id": "EC054",
+   "memory_type": "event",
+   "user_gender": "female",
+   "has_distractor": false,
+   "text": {
+    "en": {
+     "memory_turn": "My road bike has been running great since I cleaned and lubricated the chain on March 2nd; it's been shifting smoothly and quietly! How often should I do chain maintenance?",
+     "assistant_reply": "Wipe the chain after every few rides, and do a proper clean and lube roughly every 300 kilometres, or sooner after riding in rain or dust. Check chain wear with a simple gauge every couple of months.",
+     "followup_turn": "Wet lube or dry lube?",
+     "followup_reply": "Dry lube suits dry, dusty conditions and stays cleaner. Wet lube lasts longer in rain but attracts more dirt, so it needs more frequent wiping.",
+     "q1": "When did I clean and lubricate my road bike chain?",
+     "q2": "On what date did I last clean and oil the chain on my road bike?"
+    },
+    "hi": {
+     "memory_turn": "2 मार्च को चेन साफ़ करके तेल लगाने के बाद से मेरी रोड बाइक बहुत अच्छी चल रही है; गियर आराम से और बिना आवाज़ बदल रहे हैं! चेन की देखभाल कितनी बार करनी चाहिए?",
+     "assistant_reply": "हर कुछ राइड के बाद चेन पोंछ लें, और लगभग हर 300 किलोमीटर पर अच्छे से साफ़ करके तेल लगाएँ, बारिश या धूल में चलाने के बाद और जल्दी। हर दो-एक महीने में एक सादे गेज से चेन की घिसावट जाँचें।",
+     "followup_turn": "गीला ल्यूब या सूखा ल्यूब?",
+     "followup_reply": "सूखा ल्यूब सूखे, धूल भरे मौसम के लिए ठीक है और साफ़ रहता है। गीला ल्यूब बारिश में ज़्यादा टिकता है पर गंदगी ज़्यादा पकड़ता है, इसलिए उसे बार-बार पोंछना पड़ता है।",
+     "q1": "मैंने अपनी रोड बाइक की चेन कब साफ़ करके तेल लगाया?",
+     "q2": "मैंने आख़िरी बार अपनी रोड बाइक की चेन किस तारीख़ को साफ़ की और तेल लगाया?"
+    },
+    "hg": {
+     "memory_turn": "2 March ko chain saaf karke oil lagane ke baad se meri road bike bahut acchi chal rahi hai; gears aaraam se aur bina awaaz badal rahe hain! Chain ki maintenance kitni baar karni chahiye?",
+     "assistant_reply": "Har kuch rides ke baad chain pochh lein, aur lagbhag har 300 kilometre pe acche se saaf karke lube lagayein, baarish ya dhool mein chalane ke baad aur jaldi. Har do-ek mahine mein ek simple gauge se chain ki ghisaavat check karein.",
+     "followup_turn": "Wet lube ya dry lube?",
+     "followup_reply": "Dry lube sookhe, dhool bhare mausam ke liye theek hai aur saaf rehta hai. Wet lube baarish mein zyaada tikta hai par gandagi zyaada pakadta hai, isliye use baar-baar pochhna padta hai.",
+     "q1": "Maine apni road bike ki chain kab saaf karke oil lagaya?",
+     "q2": "Maine last time apni road bike ki chain kis date ko saaf ki aur oil lagaya?"
+    }
+   },
+   "gold": {
+    "answer_en": "March 2",
+    "date": {
+     "day": 2,
+     "month": 3
+    }
+   },
+   "has_q3": false
+  },
+  {
+   "item_id": "E040",
+   "cand_id": "EC055",
+   "memory_type": "event",
+   "user_gender": "male",
+   "has_distractor": true,
+   "text": {
+    "en": {
+     "memory_turn": "I'm really looking forward to Sunday's group ride after getting my road bike serviced at Pedal Power on March 10th; it's been running so smoothly since then! What should I bring on a 60-kilometre ride?",
+     "assistant_reply": "Bring two water bottles, a couple of energy bars or bananas, a spare tube, tyre levers, a mini pump and a light rain jacket. A phone and a small amount of cash are useful in case of problems.",
+     "followup_turn": "How do I keep up with a faster group?",
+     "followup_reply": "Ride in the middle of the group to benefit from drafting, keep a steady effort instead of sprinting, and eat a little every 30 to 45 minutes before you feel hungry.",
+     "q1": "When did I get my road bike serviced at Pedal Power?",
+     "q2": "On what date was my road bike serviced at Pedal Power?",
+     "q3": "The bike shop offers a free check-up 30 days after a service. From which date should I count for my road bike?",
+     "distractor_sentence": "My friend got his bike serviced at the same shop on March 24th."
+    },
+    "hi": {
+     "memory_turn": "10 मार्च को Pedal Power में अपनी रोड बाइक की सर्विस करवाने के बाद मैं रविवार की ग्रुप राइड का बेसब्री से इंतज़ार कर रहा हूँ; तब से वह बहुत स्मूद चल रही है! 60 किलोमीटर की राइड पर क्या लेकर जाऊँ?",
+     "assistant_reply": "पानी की दो बोतलें, दो-एक एनर्जी बार या केले, एक अतिरिक्त ट्यूब, टायर लीवर, छोटा पंप और हल्की बरसाती जैकेट ले जाएँ। किसी दिक़्क़त के लिए फ़ोन और थोड़े नक़द पैसे भी काम आते हैं।",
+     "followup_turn": "तेज़ ग्रुप के साथ कैसे टिका रहूँ?",
+     "followup_reply": "हवा से बचने के लिए ग्रुप के बीच में चलाएँ, अचानक ज़ोर लगाने की बजाय एक जैसी मेहनत रखें, और भूख लगने से पहले हर 30 से 45 मिनट में थोड़ा खाते रहें।",
+     "q1": "मैंने Pedal Power में अपनी रोड बाइक की सर्विस कब करवाई?",
+     "q2": "Pedal Power में मेरी रोड बाइक की सर्विस किस तारीख़ को हुई?",
+     "q3": "बाइक की दुकान सर्विस के 30 दिन बाद मुफ़्त जाँच देती है। मुझे अपनी रोड बाइक के लिए किस तारीख़ से गिनना चाहिए?",
+     "distractor_sentence": "मेरे दोस्त ने 24 मार्च को उसी दुकान से अपनी बाइक की सर्विस करवाई।"
+    },
+    "hg": {
+     "memory_turn": "10 March ko Pedal Power mein apni road bike ki service karwane ke baad main Sunday ki group ride ka besabri se intezaar kar raha hoon; tab se woh bahut smooth chal rahi hai! 60 kilometre ki ride pe kya lekar jaaun?",
+     "assistant_reply": "Paani ki do bottles, do-ek energy bars ya kele, ek extra tube, tyre levers, chhota pump aur halki rain jacket le jaayein. Kisi problem ke liye phone aur thoda cash bhi kaam aata hai.",
+     "followup_turn": "Fast group ke saath kaise tika rahun?",
+     "followup_reply": "Hawa se bachne ke liye group ke beech mein chalayein, achaanak zor lagane ki bajaye steady effort rakhein, aur bhookh lagne se pehle har 30 se 45 minute mein thoda khaate rahein.",
+     "q1": "Maine Pedal Power mein apni road bike ki service kab karwayi?",
+     "q2": "Pedal Power mein meri road bike ki service kis date ko hui?",
+     "q3": "Bike shop service ke 30 din baad free check-up deti hai. Mujhe apni road bike ke liye kis date se ginna chahiye?",
+     "distractor_sentence": "Mere dost ne 24 March ko usi shop se apni bike ki service karwayi."
+    }
+   },
+   "gold": {
+    "answer_en": "March 10",
+    "date": {
+     "day": 10,
+     "month": 3
+    }
+   },
+   "distractor": {
+    "date": {
+     "day": 24,
+     "month": 3
+    }
+   },
+   "has_q3": true
+  }
+ ],
+ "changelog": []
+}

@@ -1,0 +1,7 @@
+﻿model,query_lang,n,answered_en,answered_hi,answered_hg,answered_other
+llama3.1-8b,en,1386,0.5527,0.2338,0.2136,0.0
+llama3.1-8b,hi,1386,0.0007,0.9964,0.0029,0.0
+llama3.1-8b,hg,1386,0.0519,0.2359,0.7121,0.0
+qwen3-8b,en,1386,0.956,0.0418,0.0022,0.0
+qwen3-8b,hi,1386,0.0036,0.9957,0.0007,0.0
+qwen3-8b,hg,1386,0.119,0.2915,0.5895,0.0
